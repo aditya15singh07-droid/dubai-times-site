@@ -66,11 +66,25 @@ Node.js version: 26
 
 The private `dubai-times-engine` repo should write generated articles and images into this website repo.
 
-Planned publishing paths:
+Publishing paths:
 
 ```text
 src/content/articles/
 public/images/articles/
 ```
 
-The current version uses `src/data/articles.ts` as a beginner-friendly starter. When the automation engine is ready, move article storage to Astro content collections backed by Markdown files.
+Article files are Markdown with frontmatter. The automation engine should create one `.md` file per article in `src/content/articles/`.
+
+Required frontmatter:
+
+```yaml
+title: "Article title"
+description: "SEO description"
+category: "Business"
+author: "Dubai Times Business Desk"
+date: 2026-05-17
+image: "/images/articles/example.jpg"
+imageAlt: "Descriptive image alt text"
+tags: ["Dubai", "Business"]
+draft: false
+```

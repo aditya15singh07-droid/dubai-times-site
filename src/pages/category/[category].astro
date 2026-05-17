@@ -1,8 +1,9 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import { articles, categories, getArticlesByCategory } from "../../data/articles";
+import { getCollection } from "astro:content";
+import { categories } from "../../data/articles";
 
-export function getStaticPaths() {
+export async function getStaticPaths() {
   return categories.map((category) => ({
     params: { category: category.toLowerCase().replaceAll(" ", "-") },
     props: { category },
@@ -10,7 +11,10 @@ export function getStaticPaths() {
 }
 
 const { category } = Astro.props;
-const categoryArticles = getArticlesByCategory(category);
+const articles = await getCollection("articles", ({ data }) => !data.draft);
+const categoryArticles = articles
+  .filter((article) => article.data.category.toLowerCase() === category.toLowerCase())
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
 ---
 
 <BaseLayout
@@ -28,13 +32,13 @@ const categoryArticles = getArticlesByCategory(category);
       {categoryArticles.length > 0 ? (
         categoryArticles.map((article) => (
           <article class="row">
-            <a href={`/articles/${article.slug}`}>
-              <img src={article.image} alt={article.imageAlt} loading="lazy" />
+            <a href={`/articles/${article.id}`}>
+              <img src={article.data.image} alt={article.data.imageAlt} loading="lazy" />
             </a>
             <div>
-              <p class="eyebrow">{article.category}</p>
-              <h2><a href={`/articles/${article.slug}`}>{article.title}</a></h2>
-              <p>{article.description}</p>
+              <p class="eyebrow">{article.data.category}</p>
+              <h2><a href={`/articles/${article.id}`}>{article.data.title}</a></h2>
+              <p>{article.data.description}</p>
             </div>
           </article>
         ))
