@@ -70,24 +70,24 @@ const marqueeLoop = [...marqueeItems, ...marqueeItems];
 
 const liveNews = [
   {
-    label: "Real Estate",
-    headline: "Dubai April property sales reached AED48 billion across 13,977 transactions.",
-    href: "/articles/dubai-property-sales-april-resilience-2026",
+    label: "Dubai",
+    headline: "RTA says Al Khaleej Street tunnel has reached 80% completion.",
+    href: "/articles/rta-al-khaleej-tunnel-shindagha-corridor-2026",
   },
   {
     label: "Business",
-    headline: "Make it in the Emirates closed with 146,329 visitors and 200+ agreements.",
-    href: "/articles/uae-industrial-platform-investment-2026",
+    headline: "DEWA's transmission projects under construction exceed AED8.5 billion.",
+    href: "/articles/dewa-transmission-grid-expansion-2025-2028",
   },
   {
-    label: "Dubai",
-    headline: "AED1 billion incentives keep liquidity and business confidence in focus.",
-    href: "/articles/dubai-economic-incentives-liquidity-2026",
+    label: "Culture",
+    headline: "Dubai launches MODA, the region's first museum dedicated to digital art.",
+    href: "/articles/dubai-museum-of-digital-art-difc-2026",
   },
   {
-    label: "Tech",
-    headline: "MENA Blockchain Week brings 40+ Web3 events to Dubai from May 18.",
-    href: "/articles/dubai-blockchain-week-web3-ecosystem-2026",
+    label: "Markets",
+    headline: "Dubai Holding becomes Emaar Properties' largest shareholder.",
+    href: "/articles/dubai-holding-emaar-stake-market-signal-2026",
   },
 ];
 ---
@@ -96,6 +96,13 @@ const liveNews = [
   title="Dubai Times | Dubai News, Business, Real Estate And Lifestyle"
   description="Dubai Times is a new digital news publication covering Dubai, UAE business, real estate, travel, lifestyle, technology, and the region."
 >
+  <section class="section trust-strip" aria-label="Dubai Times edition details">
+    <span>Dubai Edition</span>
+    <span>Source-linked coverage</span>
+    <span>Business, property, travel and culture</span>
+    <span>Updated May 17, 2026</span>
+  </section>
+
   <section class="section hero">
     <article class="lead">
       <a href={`/articles/${leadArticle.id}`}>
@@ -189,7 +196,25 @@ const liveNews = [
 
 <style>
   .hero {
-    padding-top: 24px;
+    padding-top: 22px;
+  }
+
+  .trust-strip {
+    color: rgba(249, 245, 234, 0.76);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding-bottom: 0;
+    padding-top: 18px;
+  }
+
+  .trust-strip span {
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.14);
+    border-radius: 999px;
+    font-size: 0.78rem;
+    font-weight: 800;
+    padding: 8px 11px;
   }
 
   .intelligence-band {
@@ -454,20 +479,27 @@ const liveNews = [
   }
 
   .lead {
-    border-bottom: 1px solid var(--line);
+    background:
+      linear-gradient(135deg, rgba(255, 255, 255, 0.95), rgba(249, 247, 240, 0.9)),
+      radial-gradient(circle at top right, rgba(194, 145, 45, 0.18), transparent 35%);
+    border: 1px solid rgba(222, 216, 205, 0.84);
+    border-radius: 8px;
+    box-shadow: 0 24px 70px rgba(7, 19, 24, 0.18);
     display: grid;
     gap: 34px;
     grid-template-columns: minmax(0, 1.1fr) minmax(360px, 0.9fr);
-    padding-bottom: 36px;
+    overflow: hidden;
   }
 
   .lead img {
-    aspect-ratio: 16 / 9;
+    aspect-ratio: 16 / 10;
+    height: 100%;
     object-fit: cover;
   }
 
   .lead-copy {
     align-self: center;
+    padding: 26px 30px 26px 0;
   }
 
   h1 {
@@ -502,7 +534,7 @@ const liveNews = [
   }
 
   .category-strip a {
-    background: var(--panel);
+    background: rgba(255, 255, 255, 0.84);
     border: 1px solid var(--line);
     border-radius: 4px;
     color: var(--accent-strong);
@@ -533,7 +565,18 @@ const liveNews = [
     background: var(--panel);
     border: 1px solid var(--line);
     border-radius: 6px;
+    box-shadow: 0 14px 34px rgba(7, 19, 24, 0.07);
     overflow: hidden;
+    transition:
+      transform 180ms ease,
+      box-shadow 180ms ease,
+      border-color 180ms ease;
+  }
+
+  .story-card:hover {
+    border-color: rgba(194, 145, 45, 0.5);
+    box-shadow: 0 18px 48px rgba(7, 19, 24, 0.12);
+    transform: translateY(-3px);
   }
 
   .story-card img {
@@ -567,6 +610,7 @@ const liveNews = [
 
     .lead-copy {
       align-self: start;
+      padding: 22px;
     }
 
     .marquee-copy {

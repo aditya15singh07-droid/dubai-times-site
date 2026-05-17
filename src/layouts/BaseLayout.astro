@@ -36,6 +36,45 @@ const {
         </div>
       </div>
     </div>
+    <section class="market-ticker" aria-label="Live market prices">
+      <div class="market-ticker-inner">
+        <span class="market-label">Live Markets</span>
+        <div class="tradingview-widget-container">
+          <div class="market-fallback">
+            <span>Gold</span>
+            <span>Silver</span>
+            <span>Oil</span>
+            <span>USD/AED</span>
+            <span>Nasdaq</span>
+            <span>Bitcoin</span>
+            <strong>Live feed</strong>
+          </div>
+          <div class="tradingview-widget-container__widget"></div>
+          <script
+            type="text/javascript"
+            src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js"
+            async
+            is:inline
+          >
+            {
+              "symbols": [
+                { "proName": "OANDA:XAUUSD", "title": "Gold" },
+                { "proName": "OANDA:XAGUSD", "title": "Silver" },
+                { "proName": "TVC:USOIL", "title": "Oil" },
+                { "proName": "FX_IDC:USDAED", "title": "USD/AED" },
+                { "proName": "NASDAQ:NDX", "title": "Nasdaq" },
+                { "proName": "BITSTAMP:BTCUSD", "title": "Bitcoin" }
+              ],
+              "showSymbolLogo": true,
+              "isTransparent": true,
+              "displayMode": "adaptive",
+              "colorTheme": "dark",
+              "locale": "en"
+            }
+          </script>
+        </div>
+      </div>
+    </section>
     <header class="site-header">
       <a class="brand" href="/" aria-label="Dubai Times home">
         <span>Dubai</span>
@@ -116,12 +155,15 @@ const {
 
 <style is:global>
   :root {
-    color-scheme: light;
+    color-scheme: dark light;
     --ink: #171717;
     --muted: #62666f;
     --line: #ded8cd;
     --paper: #fbfaf7;
     --panel: #ffffff;
+    --night: #071318;
+    --night-soft: #0d2027;
+    --night-line: rgba(255, 255, 255, 0.12);
     --accent: #0b6e69;
     --accent-strong: #084c61;
     --gold: #c2912d;
@@ -136,7 +178,9 @@ const {
 
   body {
     margin: 0;
-    background: var(--paper);
+    background:
+      linear-gradient(180deg, #071318 0, #0d2027 920px, var(--paper) 921px),
+      var(--paper);
     color: var(--ink);
   }
 
@@ -152,7 +196,7 @@ const {
 
   .time-ribbon {
     background:
-      linear-gradient(90deg, rgba(8, 76, 97, 0.98), rgba(11, 110, 105, 0.92)),
+      linear-gradient(90deg, rgba(3, 15, 20, 0.98), rgba(8, 76, 97, 0.94)),
       radial-gradient(circle at top left, rgba(194, 145, 45, 0.34), transparent 30%);
     border-bottom: 1px solid rgba(255, 255, 255, 0.16);
     color: #f9f5ea;
@@ -218,15 +262,90 @@ const {
     font-weight: 800;
   }
 
+  .market-ticker {
+    background: #08161c;
+    border-bottom: 1px solid var(--night-line);
+    color: #f9f5ea;
+  }
+
+  .market-ticker-inner {
+    align-items: center;
+    display: grid;
+    gap: 12px;
+    grid-template-columns: auto minmax(0, 1fr);
+    margin: 0 auto;
+    max-width: 1180px;
+    min-height: 48px;
+    padding: 4px 24px;
+  }
+
+  .market-label {
+    border: 1px solid rgba(194, 145, 45, 0.46);
+    border-radius: 999px;
+    color: #f4d99b;
+    font-size: 0.72rem;
+    font-weight: 900;
+    letter-spacing: 0.1em;
+    padding: 7px 10px;
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+
+  .tradingview-widget-container {
+    min-height: 44px;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .market-fallback {
+    align-items: center;
+    color: rgba(249, 245, 234, 0.72);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    inset: 0;
+    min-height: 44px;
+    pointer-events: none;
+    position: absolute;
+    z-index: 0;
+  }
+
+  .market-fallback span {
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 999px;
+    font-size: 0.76rem;
+    font-weight: 800;
+    padding: 6px 9px;
+  }
+
+  .market-fallback strong {
+    color: #f4d99b;
+    font-size: 0.72rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .tradingview-widget-container__widget {
+    min-height: 44px;
+    position: relative;
+    z-index: 1;
+  }
+
   .site-header {
     align-items: center;
-    border-bottom: 1px solid var(--line);
+    background:
+      radial-gradient(circle at top right, rgba(194, 145, 45, 0.18), transparent 28%),
+      linear-gradient(135deg, rgba(8, 76, 97, 0.42), rgba(7, 19, 24, 0.96));
+    border: 1px solid var(--night-line);
+    border-top: 0;
+    color: #f9f5ea;
     display: flex;
     gap: 28px;
     justify-content: space-between;
     margin: 0 auto;
     max-width: 1180px;
-    padding: 22px 24px;
+    padding: 24px;
   }
 
   .brand {
@@ -239,7 +358,7 @@ const {
   }
 
   .brand span {
-    color: var(--accent-strong);
+    color: #f9f5ea;
   }
 
   .brand strong {
@@ -256,7 +375,7 @@ const {
 
   .nav a {
     border-bottom: 2px solid transparent;
-    color: var(--muted);
+    color: rgba(249, 245, 234, 0.74);
     font-size: 0.9rem;
     font-weight: 700;
     padding: 8px 0;
@@ -264,7 +383,7 @@ const {
 
   .nav a:hover {
     border-color: var(--gold);
-    color: var(--ink);
+    color: #fff;
   }
 
   .section {
@@ -282,18 +401,21 @@ const {
   }
 
   .site-footer {
-    border-top: 1px solid var(--line);
-    color: var(--muted);
+    background:
+      radial-gradient(circle at top left, rgba(194, 145, 45, 0.18), transparent 30%),
+      linear-gradient(135deg, #08161c, #0d2027);
+    border-top: 1px solid var(--night-line);
+    color: rgba(249, 245, 234, 0.7);
     display: flex;
     gap: 24px;
     justify-content: space-between;
     margin: 42px auto 0;
-    max-width: 1180px;
-    padding: 28px 24px 40px;
+    max-width: none;
+    padding: 34px max(24px, calc((100vw - 1180px) / 2 + 24px)) 42px;
   }
 
   .site-footer strong {
-    color: var(--ink);
+    color: #f9f5ea;
     font-family: Georgia, "Times New Roman", serif;
     font-size: 1.5rem;
   }
@@ -330,6 +452,10 @@ const {
 
     .time-zones {
       justify-content: flex-start;
+    }
+
+    .market-ticker-inner {
+      grid-template-columns: 1fr;
     }
   }
 </style>
