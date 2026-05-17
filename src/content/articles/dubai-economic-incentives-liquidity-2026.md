@@ -16,7 +16,7 @@ The package, approved by Sheikh Hamdan bin Mohammed during a Dubai Executive Cou
 
 The official announcement also pointed to Dubai's 2025 economic performance, with GDP growth reported at 5.4 percent for the full year and 6.4 percent in the fourth quarter. That matters because the incentives are not being framed only as crisis relief. They are also part of a wider attempt to keep trade, tourism, investment, and talent movement fluid.
 
-## Reporter View
+## Why It Matters
 
 The signal for businesses is practical: Dubai wants companies to keep operating, hiring, and investing even when external conditions become more complex. Fee deferrals and liquidity support may look technical, but they can be meaningful for hotels, traders, galleries, and smaller operators managing cash flow.
 

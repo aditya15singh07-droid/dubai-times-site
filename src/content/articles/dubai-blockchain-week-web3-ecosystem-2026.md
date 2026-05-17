@@ -16,7 +16,7 @@ The event describes itself as a decentralised, city-wide campaign rather than a 
 
 The programme's positioning matters because Dubai has spent years building a regulatory and commercial environment for virtual assets, fintech, and digital enterprise services. A distributed event format also reflects how the sector works: capital, talent, protocols, exchanges, and communities rarely sit in one room for long.
 
-## Reporter View
+## Why It Matters
 
 The professional question is whether Dubai's Web3 ecosystem can keep becoming more institutional without losing the speed that made it attractive in the first place.
 

@@ -16,7 +16,7 @@ According to a WAM report carried by Aletihad, the Ministry of Foreign Affairs d
 
 The language is significant because the UAE usually balances security messaging with calm operational continuity. In this case, the statement was direct: the country said it would not tolerate threats to sovereignty and reserved its legitimate right to respond under international law.
 
-## Reporter View
+## Why It Matters
 
 For residents and businesses, the practical question is not only whether normal life continues, but whether the UAE can preserve the confidence that supports aviation, tourism, logistics, property, and capital flows.
 

@@ -16,7 +16,7 @@ Associated Press reported that the episode followed comments from the U.S. ambas
 
 The public disagreement highlights a sensitive diplomatic reality. The UAE and Israel have maintained ties since normalisation in 2020, but regional conflict, Gaza, Iran, and public opinion make visible cooperation politically complicated.
 
-## Reporter View
+## Why It Matters
 
 The UAE's challenge is to protect strategic relationships while avoiding the appearance that sensitive security decisions are being made outside official frameworks.
 

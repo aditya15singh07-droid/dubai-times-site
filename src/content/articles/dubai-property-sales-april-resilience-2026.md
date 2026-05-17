@@ -16,7 +16,7 @@ Construction World, citing fäm Properties and DXBinteract data, reported that s
 
 Commercial property also stood out. Offices and shops recorded 561 transactions valued at AED4 billion, up 33.9 percent year on year and 36.2 percent month on month. Dubai South led area performance for the second consecutive month, followed by locations including Jebel Ali First, Al Barsha South Fourth, Wadi Al Safa 5, and Dubai Islands.
 
-## Reporter View
+## Why It Matters
 
 The headline figure is strong, but the professional read is more nuanced. Dubai is not simply in a volume boom; it is moving into a market where location quality, delivery risk, infrastructure access, and developer credibility will matter more.
 

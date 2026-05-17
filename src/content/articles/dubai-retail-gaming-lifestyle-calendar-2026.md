@@ -16,7 +16,7 @@ The Dubai Department of Economy and Tourism's 2026 retail calendar places the Du
 
 The calendar also highlights Dubai's broader year-round retail strategy, including seasonal sales, fashion campaigns, fitness events, Diwali celebrations, and Dubai Summer Surprises.
 
-## Reporter View
+## Why It Matters
 
 Dubai is treating lifestyle as infrastructure. Events are not only entertainment; they support malls, hotels, restaurants, taxis, payment platforms, advertising, and small businesses.
 

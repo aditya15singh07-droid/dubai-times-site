@@ -16,7 +16,7 @@ The figure marked a 5 percent increase from 2024 and the city's third consecutiv
 
 Hotel performance followed the same direction. DET data showed Dubai had 154,264 hotel rooms across 827 establishments by the end of 2025, with average occupancy at 80.7 percent. Occupied room nights rose to 44.85 million, while average daily rate and revenue per available room also increased.
 
-## Reporter View
+## Why It Matters
 
 Tourism is no longer just a visitor-count story for Dubai. It is an economic platform connecting aviation, events, retail, restaurants, real estate, and foreign investment.
 

@@ -16,7 +16,7 @@ The four-day event produced more than 200 agreements covering offtakes, investme
 
 The event also highlighted food security, advanced manufacturing, local supply chains, and industrial finance. A new policy is expected to support up to 200 food factories and target a 15 to 30 percent increase in local production capacity.
 
-## Reporter View
+## Why It Matters
 
 The UAE is trying to make manufacturing feel investable, bankable, and strategically important. That is a different message from the older Gulf model of importing finished products and focusing mainly on trade and services.
 
