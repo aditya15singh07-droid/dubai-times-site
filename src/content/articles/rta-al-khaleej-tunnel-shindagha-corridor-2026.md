@@ -4,6 +4,7 @@ description: "The 1.65-kilometre Al Khaleej Street tunnel is moving toward compl
 category: "Dubai"
 author: "Dubai Times City Desk"
 date: 2026-05-17
+publishedTime: "14:20 GST"
 image: "https://images.unsplash.com/photo-1546412414-8035e1776c9a?auto=format&fit=crop&w=1400&q=80"
 imageAlt: "Dubai road infrastructure near the waterfront"
 tags: ["Dubai", "RTA", "Infrastructure", "Transport"]

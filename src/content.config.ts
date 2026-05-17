@@ -10,6 +10,7 @@ const articles = defineCollection({
     category: z.string(),
     author: z.string(),
     date: z.date(),
+    publishedTime: z.string().default("09:00 GST"),
     image: z.string(),
     imageAlt: z.string(),
     tags: z.array(z.string()).default([]),

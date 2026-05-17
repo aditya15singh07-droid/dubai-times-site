@@ -4,6 +4,7 @@ description: "DEWA commissioned major substations in 2025 and has more than AED8
 category: "Business"
 author: "Dubai Times Business Desk"
 date: 2026-05-17
+publishedTime: "14:45 GST"
 image: "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?auto=format&fit=crop&w=1400&q=80"
 imageAlt: "Electricity transmission infrastructure at sunset"
 tags: ["Dubai", "DEWA", "Infrastructure", "Energy"]

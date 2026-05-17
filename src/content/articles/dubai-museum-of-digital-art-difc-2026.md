@@ -4,6 +4,7 @@ description: "MODA at DIFC Zabeel District is set to become the region's first m
 category: "Lifestyle"
 author: "Dubai Times Culture Desk"
 date: 2026-05-17
+publishedTime: "13:10 GST"
 image: "https://images.unsplash.com/photo-1554907984-15263bfd63bd?auto=format&fit=crop&w=1400&q=80"
 imageAlt: "Visitors inside a contemporary digital art exhibition"
 tags: ["Dubai", "Culture", "Digital Art", "DIFC"]

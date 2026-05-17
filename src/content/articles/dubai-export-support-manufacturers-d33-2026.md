@@ -4,6 +4,7 @@ description: "New finance, credit and logistics partnerships are designed to hel
 category: "Business"
 author: "Dubai Times Business Desk"
 date: 2026-05-17
+publishedTime: "11:15 GST"
 image: "https://images.unsplash.com/photo-1494412651409-8963ce7935a7?auto=format&fit=crop&w=1400&q=80"
 imageAlt: "Shipping containers and logistics cranes at a trade port"
 tags: ["Dubai", "Exports", "Manufacturing", "D33"]

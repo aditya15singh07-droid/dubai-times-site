@@ -120,7 +120,7 @@ const liveNews = [
             month: "long",
             day: "numeric",
             year: "numeric",
-          })}</span>
+          })} · {leadArticle.data.publishedTime}</span>
         </div>
       </div>
     </article>
@@ -200,7 +200,7 @@ const liveNews = [
   }
 
   .trust-strip {
-    color: rgba(249, 245, 234, 0.76);
+    color: var(--accent-strong);
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
@@ -209,8 +209,8 @@ const liveNews = [
   }
 
   .trust-strip span {
-    background: rgba(255, 255, 255, 0.08);
-    border: 1px solid rgba(255, 255, 255, 0.14);
+    background: rgba(255, 255, 255, 0.84);
+    border: 1px solid var(--line);
     border-radius: 999px;
     font-size: 0.78rem;
     font-weight: 800;

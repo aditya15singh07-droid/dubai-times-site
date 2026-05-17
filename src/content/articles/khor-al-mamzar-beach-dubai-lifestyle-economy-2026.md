@@ -4,6 +4,7 @@ description: "The new Khor Al Mamzar Beach adds a larger swimming shoreline, nig
 category: "Lifestyle"
 author: "Dubai Times City Desk"
 date: 2026-05-17
+publishedTime: "11:50 GST"
 image: "https://images.unsplash.com/photo-1546412414-8035e1776c9a?auto=format&fit=crop&w=1400&q=80"
 imageAlt: "Beachfront in Dubai with city skyline in the distance"
 tags: ["Dubai", "Lifestyle", "Tourism", "Infrastructure"]

@@ -4,6 +4,7 @@ description: "Dubai Holding has become Emaar Properties' largest shareholder, ad
 category: "Real Estate"
 author: "Dubai Times Business Desk"
 date: 2026-05-17
+publishedTime: "12:35 GST"
 image: "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1400&q=80"
 imageAlt: "Dubai skyline and waterfront towers at sunset"
 tags: ["Dubai", "Emaar", "Real Estate", "Markets"]
