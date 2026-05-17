@@ -55,6 +55,22 @@ https://dubai-times-site.pages.dev
 
 Later, connect your custom domain.
 
+Recommended first public URL:
+
+```text
+https://dubai-times-site.pages.dev
+```
+
+Custom domain options:
+
+```text
+dubaitimes.ae
+dubaitimes.media
+dubaitimesnews.com
+```
+
+You must own the domain before Cloudflare can attach it. If you do not own one yet, keep the free `pages.dev` URL live first.
+
 ## 3. Supabase
 
 Create a Supabase project:
