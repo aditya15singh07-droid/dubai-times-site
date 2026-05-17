@@ -17,6 +17,19 @@ The project spans 2.75 million square feet and has expanded the swimming shoreli
 
 Facilities include running, walking and cycling tracks, an outdoor gym, beach volleyball, padel courts, marine activities and new food and beverage options. Public facilities have also been expanded as part of the beach's upgraded infrastructure and safety system.
 
+## What Has Changed
+
+The beach is being positioned as a full-day and night-time destination, not only a traditional swimming spot. The 24-hour night beach, expanded shoreline and sports facilities give the area more reasons to attract families, fitness users, tourists and nearby residents.
+
+The upgrade also reflects how Dubai is using public beaches as lifestyle assets. A well-designed waterfront can increase community satisfaction, support food and beverage demand, improve tourism appeal and lift the visibility of surrounding neighbourhoods.
+
+## Who Will Use It
+
+- Families looking for safer, better-equipped waterfront access.
+- Fitness users who want running, cycling, gym and sports facilities in one destination.
+- Tourists seeking a public beach experience beyond hotel resorts.
+- Local businesses around the area that benefit from stronger footfall.
+
 ## Why It Matters
 
 Khor Al Mamzar is not just a leisure opening. It is a reminder that modern cities now compete through experiences people want to photograph, revisit and build routines around. Better beaches support tourism, hospitality, food and beverage operators, family living and Dubai's global lifestyle positioning.
@@ -24,5 +37,9 @@ Khor Al Mamzar is not just a leisure opening. It is a reminder that modern citie
 For nearby communities such as Al Mamzar and Deira, the project improves everyday access to a polished public space. For businesses, it creates a stronger setting for footfall, leasing and service opportunities around a destination that can work in daylight, at night and across seasons.
 
 The larger signal is that Dubai continues to invest in quality-of-life infrastructure while the property market matures. That matters because lifestyle is part of the city's economic identity: the more attractive daily life becomes, the stronger the case for tourism, relocation and long-term residential demand.
+
+## What To Watch
+
+The key question is whether programming follows the infrastructure. Events, sports activations, family experiences and food concepts can turn the beach from a new opening into a repeat destination.
 
 Source: [Government of Dubai Media Office](https://www.mediaoffice.ae/en/news/2026/may/05-05/dubai-municipality-opens-khor-al-mamzar-beach-to-the-public)

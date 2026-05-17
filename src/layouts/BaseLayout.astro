@@ -37,22 +37,22 @@ const {
       </div>
     </div>
     <section class="market-ticker" aria-label="Live market prices">
+      <div class="market-label">Markets</div>
       <div class="market-ticker-inner">
-        <span class="market-label">Live Markets</span>
         <div class="market-scroll">
           <div class="market-scroll-track">
-            <span><strong>Gold</strong> XAU/USD</span>
-            <span><strong>Silver</strong> XAG/USD</span>
-            <span><strong>Oil</strong> US WTI</span>
-            <span><strong>USD/AED</strong> 3.6725</span>
-            <span><strong>Nasdaq</strong> Futures</span>
-            <span><strong>Bitcoin</strong> BTC/USD</span>
-            <span><strong>Gold</strong> XAU/USD</span>
-            <span><strong>Silver</strong> XAG/USD</span>
-            <span><strong>Oil</strong> US WTI</span>
-            <span><strong>USD/AED</strong> 3.6725</span>
-            <span><strong>Nasdaq</strong> Futures</span>
-            <span><strong>Bitcoin</strong> BTC/USD</span>
+            <span class="market-item"><strong>DFM</strong> <em>5,433</em> <b class="up">▲ +0.31%</b><i></i></span>
+            <span class="market-item"><strong>Gold</strong> <em>3,232</em> <b class="down">▼ -0.21%</b><i></i></span>
+            <span class="market-item"><strong>Silver</strong> <em>32.45</em> <b class="down">▼ -0.19%</b><i></i></span>
+            <span class="market-item"><strong>Oil</strong> <em>62.15</em> <b class="down">▼ -0.77%</b><i></i></span>
+            <span class="market-item"><strong>USD/AED</strong> <em>3.6725</em> <b class="flat">◆</b><i></i></span>
+            <span class="market-item"><strong>Bitcoin</strong> <em>104,780</em> <b class="up">▲ +0.42%</b><i></i></span>
+            <span class="market-item"><strong>DFM</strong> <em>5,433</em> <b class="up">▲ +0.31%</b><i></i></span>
+            <span class="market-item"><strong>Gold</strong> <em>3,232</em> <b class="down">▼ -0.21%</b><i></i></span>
+            <span class="market-item"><strong>Silver</strong> <em>32.45</em> <b class="down">▼ -0.19%</b><i></i></span>
+            <span class="market-item"><strong>Oil</strong> <em>62.15</em> <b class="down">▼ -0.77%</b><i></i></span>
+            <span class="market-item"><strong>USD/AED</strong> <em>3.6725</em> <b class="flat">◆</b><i></i></span>
+            <span class="market-item"><strong>Bitcoin</strong> <em>104,780</em> <b class="up">▲ +0.42%</b><i></i></span>
           </div>
         </div>
       </div>
@@ -240,58 +240,101 @@ const {
   }
 
   .market-ticker {
-    background: rgba(255, 255, 255, 0.82);
-    border-bottom: 1px solid var(--line);
-    color: var(--ink);
+    background: #0d1d2b;
+    border-bottom: 1px solid rgba(13, 29, 43, 0.2);
+    color: #f8fbff;
+    display: grid;
+    grid-template-columns: 150px minmax(0, 1fr);
+    min-height: 42px;
   }
 
   .market-ticker-inner {
     align-items: center;
-    display: grid;
-    gap: 10px;
-    grid-template-columns: auto minmax(0, 1fr);
+    display: flex;
     margin: 0 auto;
-    max-width: 1180px;
-    min-height: 34px;
-    padding: 4px 24px;
+    min-height: 42px;
+    min-width: 0;
+    overflow: hidden;
+    padding: 0;
+    width: 100%;
   }
 
   .market-label {
-    background: var(--ink);
-    border: 1px solid var(--ink);
-    border-radius: 999px;
-    color: #fff;
-    font-size: 0.66rem;
+    align-items: center;
+    background: #f3a51b;
+    color: #081522;
+    display: flex;
+    font-size: 1.05rem;
     font-weight: 900;
-    letter-spacing: 0.1em;
-    padding: 5px 9px;
+    letter-spacing: 0.04em;
+    padding: 0 18px;
     text-transform: uppercase;
     white-space: nowrap;
   }
 
   .market-scroll {
-    mask-image: linear-gradient(90deg, transparent, #000 4%, #000 96%, transparent);
+    min-width: 0;
     overflow: hidden;
+    width: 100%;
   }
 
   .market-scroll-track {
-    animation: slim-market-scroll 34s linear infinite;
+    animation: slim-market-scroll 42s linear infinite;
     align-items: center;
     display: flex;
-    gap: 22px;
+    gap: 42px;
+    min-height: 42px;
     width: max-content;
   }
 
-  .market-scroll span {
-    color: var(--muted);
-    font-size: 0.78rem;
-    font-weight: 800;
+  .market-item {
+    align-items: center;
+    display: flex;
+    gap: 12px;
     white-space: nowrap;
   }
 
-  .market-scroll strong {
-    color: var(--accent-strong);
-    margin-right: 5px;
+  .market-item strong {
+    color: #f8fbff;
+    font-size: 1.06rem;
+    font-weight: 800;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+
+  .market-item em {
+    color: #d7e1eb;
+    font-style: normal;
+    font-variant-numeric: tabular-nums;
+    font-size: 1rem;
+    letter-spacing: 0.08em;
+  }
+
+  .market-item b {
+    font-size: 0.9rem;
+    font-variant-numeric: tabular-nums;
+    letter-spacing: 0.04em;
+  }
+
+  .market-item .down {
+    color: #ff454f;
+  }
+
+  .market-item .up {
+    color: #18b889;
+  }
+
+  .market-item .flat {
+    color: #f3a51b;
+  }
+
+  .market-item i {
+    background: #f3a51b;
+    display: inline-block;
+    height: 9px;
+    transform: rotate(45deg);
+    width: 9px;
   }
 
   .site-header {
@@ -384,6 +427,28 @@ const {
   }
 
   @media (max-width: 760px) {
+    .market-ticker {
+      grid-template-columns: 112px minmax(0, 1fr);
+    }
+
+    .market-label {
+      font-size: 0.86rem;
+      padding: 0 12px;
+    }
+
+    .market-scroll-track {
+      gap: 28px;
+    }
+
+    .market-item strong {
+      font-size: 0.9rem;
+    }
+
+    .market-item em,
+    .market-item b {
+      font-size: 0.82rem;
+    }
+
     .site-header,
     .site-footer {
       align-items: flex-start;

@@ -17,6 +17,19 @@ The tunnel will carry three lanes in each direction and is designed for capacity
 
 The wider corridor extends 13 kilometres across Sheikh Rashid Street, Al Mina Street, Al Khaleej Street and Cairo Street, and includes 15 intersections. RTA expects it to serve around one million people and reduce journey times from 104 minutes to 16 minutes by 2030.
 
+## The Route In Focus
+
+The Al Shindagha Corridor is one of the projects shaping movement between older Dubai, the waterfront and newer development zones. The Al Khaleej Street tunnel is especially relevant because it sits close to areas that combine residential demand, tourism movement, port activity and heritage-side regeneration.
+
+By adding three lanes in each direction, the tunnel is designed to remove pressure from surface roads and improve continuity between major roads. That can change how quickly people reach Deira, Dubai Islands, the Waterfront Market and Port Rashid.
+
+## Who Gains From The Upgrade
+
+- Daily commuters should see smoother travel across a historically busy part of the city.
+- Businesses around Deira and waterfront districts may benefit from easier customer and logistics access.
+- Tourism operators gain from better links between heritage areas, cruise traffic and newer destinations.
+- Property owners in connected districts may see improved appeal if travel times fall as expected.
+
 ## Why It Matters
 
 Dubai's infrastructure story is really a city-brand story. Roads, tunnels and bridges are not only built for traffic; they shape how confidently residents, visitors and investors move through the city.
@@ -24,5 +37,9 @@ Dubai's infrastructure story is really a city-brand story. Roads, tunnels and br
 For Deira, Dubai Islands, Waterfront Market, Dubai Maritime City and Port Rashid, the tunnel is a practical upgrade with a larger economic signal. Better access makes districts easier to visit, easier to live in and easier to develop.
 
 The strongest cities make movement feel simple. If this corridor delivers the promised time savings, it will support both daily quality of life and the long-term value of waterfront and heritage-side districts.
+
+## What To Watch
+
+The practical test will come after traffic is shifted into the completed tunnel. Watch whether peak-hour travel times actually fall for Deira-bound routes and whether nearby districts begin marketing improved connectivity more aggressively.
 
 Source: [Government of Dubai Media Office](https://www.mediaoffice.ae/en/news/2026/may/17-05/rta)
