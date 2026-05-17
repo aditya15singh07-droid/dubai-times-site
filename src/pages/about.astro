@@ -1,0 +1,84 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout
+  title="About Dubai Times"
+  description="Dubai Times is being built as a digital news publication for Dubai, UAE business, real estate, travel, lifestyle, and technology coverage."
+>
+  <section class="section about">
+    <p class="eyebrow">About</p>
+    <h1>Dubai Times is being built as a modern digital newsroom.</h1>
+    <p>
+      The first version starts with a fast Astro website, clean article pages,
+      category sections, and sample editorial structure. The next stage will add
+      the private publishing engine that can prepare articles and publish them
+      into this site.
+    </p>
+    <div class="principles">
+      <section>
+        <h2>Coverage</h2>
+        <p>Dubai, UAE business, real estate, travel, lifestyle, technology, and regional stories.</p>
+      </section>
+      <section>
+        <h2>Style</h2>
+        <p>Clear, useful, polished news writing without fake quotes or unsupported claims.</p>
+      </section>
+      <section>
+        <h2>System</h2>
+        <p>Static website first, private automation engine later, with GitHub and Cloudflare deployment.</p>
+      </section>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .about {
+    max-width: 960px;
+  }
+
+  h1 {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: clamp(2.5rem, 6vw, 5rem);
+    line-height: 1;
+    margin: 12px 0 20px;
+  }
+
+  .about > p:not(.eyebrow) {
+    color: var(--muted);
+    font-size: 1.2rem;
+    line-height: 1.75;
+    max-width: 760px;
+  }
+
+  .principles {
+    display: grid;
+    gap: 18px;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    margin-top: 34px;
+  }
+
+  .principles section {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    padding: 20px;
+  }
+
+  .principles h2 {
+    font-family: Georgia, "Times New Roman", serif;
+    margin: 0 0 10px;
+  }
+
+  .principles p {
+    color: var(--muted);
+    line-height: 1.6;
+    margin: 0;
+  }
+
+  @media (max-width: 780px) {
+    .principles {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

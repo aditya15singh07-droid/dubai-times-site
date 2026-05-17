@@ -1,17 +1,185 @@
 ---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { articles, categories } from "../data/articles";
 
+const [leadArticle, ...moreArticles] = articles;
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<BaseLayout
+  title="Dubai Times | Dubai News, Business, Real Estate And Lifestyle"
+  description="Dubai Times is a new digital news publication covering Dubai, UAE business, real estate, travel, lifestyle, technology, and the region."
+>
+  <section class="section hero">
+    <article class="lead">
+      <a href={`/articles/${leadArticle.slug}`}>
+        <img src={leadArticle.image} alt={leadArticle.imageAlt} />
+      </a>
+      <div class="lead-copy">
+        <p class="eyebrow">{leadArticle.category}</p>
+        <h1>
+          <a href={`/articles/${leadArticle.slug}`}>{leadArticle.title}</a>
+        </h1>
+        <p>{leadArticle.description}</p>
+        <div class="meta">
+          <span>{leadArticle.author}</span>
+          <span>{new Date(leadArticle.date).toLocaleDateString("en-US", {
+            month: "long",
+            day: "numeric",
+            year: "numeric",
+          })}</span>
+        </div>
+      </div>
+    </article>
+  </section>
+
+  <section class="section category-strip" aria-label="Sections">
+    {categories.map((category) => (
+      <a href={`/category/${category.toLowerCase().replaceAll(" ", "-")}`}>
+        {category}
+      </a>
+    ))}
+  </section>
+
+  <section class="section news-grid">
+    <div class="section-heading">
+      <p class="eyebrow">Latest</p>
+      <h2>Today On Dubai Times</h2>
+    </div>
+    <div class="cards">
+      {moreArticles.map((article) => (
+        <article class="story-card">
+          <a href={`/articles/${article.slug}`}>
+            <img src={article.image} alt={article.imageAlt} loading="lazy" />
+          </a>
+          <div>
+            <p class="eyebrow">{article.category}</p>
+            <h3><a href={`/articles/${article.slug}`}>{article.title}</a></h3>
+            <p>{article.description}</p>
+          </div>
+        </article>
+      ))}
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .hero {
+    padding-top: 24px;
+  }
+
+  .lead {
+    border-bottom: 1px solid var(--line);
+    display: grid;
+    gap: 34px;
+    grid-template-columns: minmax(0, 1.1fr) minmax(360px, 0.9fr);
+    padding-bottom: 36px;
+  }
+
+  .lead img {
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+  }
+
+  .lead-copy {
+    align-self: center;
+  }
+
+  h1 {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: clamp(2.3rem, 4.8vw, 4.2rem);
+    line-height: 1;
+    margin: 12px 0 18px;
+    overflow-wrap: anywhere;
+  }
+
+  .lead-copy > p:not(.eyebrow) {
+    color: var(--muted);
+    font-size: 1.1rem;
+    line-height: 1.7;
+  }
+
+  .meta {
+    color: var(--muted);
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 0.9rem;
+    gap: 12px;
+    margin-top: 24px;
+  }
+
+  .category-strip {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+
+  .category-strip a {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    color: var(--accent-strong);
+    font-weight: 800;
+    padding: 10px 14px;
+  }
+
+  .section-heading {
+    align-items: end;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 18px;
+  }
+
+  .section-heading h2 {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: clamp(2rem, 4vw, 3.4rem);
+    margin: 0;
+  }
+
+  .cards {
+    display: grid;
+    gap: 24px;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .story-card {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    overflow: hidden;
+  }
+
+  .story-card img {
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+  }
+
+  .story-card div {
+    padding: 18px;
+  }
+
+  .story-card h3 {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1.45rem;
+    line-height: 1.1;
+    margin: 8px 0 10px;
+  }
+
+  .story-card p:not(.eyebrow) {
+    color: var(--muted);
+    line-height: 1.55;
+    margin: 0;
+  }
+
+  @media (max-width: 860px) {
+    .lead,
+    .cards {
+      grid-template-columns: 1fr;
+    }
+
+    .lead-copy {
+      align-self: start;
+    }
+  }
+</style>

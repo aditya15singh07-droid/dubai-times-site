@@ -1,43 +1,76 @@
-# Astro Starter Kit: Minimal
+# Dubai Times Site
 
-```sh
-npm create astro@latest -- --template minimal
-```
+Dubai Times is an Astro static news website for Dubai, UAE business, real estate, travel, lifestyle, technology, and regional coverage.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+This repository is the public website layer. The future private automation engine will publish articles into this repo as files, then Cloudflare Pages will build and deploy the live site.
 
-## 🚀 Project Structure
+## Tech Stack
 
-Inside of your Astro project, you'll see the following folders and files:
+- Astro
+- TypeScript
+- Static HTML output
+- GitHub for source control
+- Cloudflare Pages for hosting
+
+## Project Structure
 
 ```text
 /
 ├── public/
+│   └── favicon files
 ├── src/
+│   ├── data/
+│   │   └── articles.ts
+│   ├── layouts/
+│   │   └── BaseLayout.astro
 │   └── pages/
-│       └── index.astro
-└── package.json
+│       ├── index.astro
+│       ├── about.astro
+│       ├── articles/[slug].astro
+│       └── category/[category].astro
+├── astro.config.mjs
+├── package.json
+└── package-lock.json
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+## Local Commands
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+```bash
+npm install
+npm run dev
+npm run build
+npm run preview
+```
 
-Any static assets, like images, can be placed in the `public/` directory.
+## Cloudflare Pages Settings
 
-## 🧞 Commands
+Use these settings when connecting this repo to Cloudflare Pages:
 
-All commands are run from the root of the project, from a terminal:
+```text
+Framework preset: Astro
+Build command: npm run build
+Build output directory: dist
+Node.js version: 26
+```
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+## Deployment Flow
 
-## 👀 Want to learn more?
+1. Push this repo to GitHub.
+2. Connect the GitHub repo to Cloudflare Pages.
+3. Cloudflare builds the site from `npm run build`.
+4. Cloudflare serves the generated `dist` folder.
+5. Later, the Dubai Times engine will commit new articles into this repo.
+6. Each commit will trigger a fresh Cloudflare deployment.
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+## Future Engine Integration
+
+The private `dubai-times-engine` repo should write generated articles and images into this website repo.
+
+Planned publishing paths:
+
+```text
+src/content/articles/
+public/images/articles/
+```
+
+The current version uses `src/data/articles.ts` as a beginner-friendly starter. When the automation engine is ready, move article storage to Astro content collections backed by Markdown files.

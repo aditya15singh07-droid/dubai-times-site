@@ -1,0 +1,106 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { articles, getArticleBySlug } from "../../data/articles";
+
+export function getStaticPaths() {
+  return articles.map((article) => ({
+    params: { slug: article.slug },
+  }));
+}
+
+const article = getArticleBySlug(Astro.params.slug ?? "");
+
+if (!article) {
+  return Astro.redirect("/");
+}
+---
+
+<BaseLayout title={`${article.title} | Dubai Times`} description={article.description}>
+  <article class="article section">
+    <header class="article-header">
+      <p class="eyebrow">{article.category}</p>
+      <h1>{article.title}</h1>
+      <p class="dek">{article.description}</p>
+      <div class="meta">
+        <span>{article.author}</span>
+        <span>{new Date(article.date).toLocaleDateString("en-US", {
+          month: "long",
+          day: "numeric",
+          year: "numeric",
+        })}</span>
+      </div>
+    </header>
+    <img class="hero-image" src={article.image} alt={article.imageAlt} />
+    <div class="article-body">
+      {article.body.map((paragraph) => <p>{paragraph}</p>)}
+    </div>
+    <footer class="tags" aria-label="Article tags">
+      {article.tags.map((tag) => <span>{tag}</span>)}
+    </footer>
+  </article>
+</BaseLayout>
+
+<style>
+  .article {
+    max-width: 980px;
+  }
+
+  .article-header {
+    margin: 0 auto 28px;
+    max-width: 800px;
+    text-align: center;
+  }
+
+  h1 {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: clamp(2.4rem, 6vw, 5.4rem);
+    line-height: 0.96;
+    margin: 14px 0 18px;
+  }
+
+  .dek {
+    color: var(--muted);
+    font-size: 1.2rem;
+    line-height: 1.7;
+    margin: 0;
+  }
+
+  .meta {
+    color: var(--muted);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+    justify-content: center;
+    margin-top: 22px;
+  }
+
+  .hero-image {
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+  }
+
+  .article-body {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1.2rem;
+    line-height: 1.85;
+    margin: 34px auto 0;
+    max-width: 720px;
+  }
+
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 30px auto 0;
+    max-width: 720px;
+  }
+
+  .tags span {
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    color: var(--accent-strong);
+    font-size: 0.9rem;
+    font-weight: 800;
+    padding: 8px 10px;
+  }
+</style>
