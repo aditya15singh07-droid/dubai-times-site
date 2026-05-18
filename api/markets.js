@@ -13,26 +13,44 @@ const parseStooqClose = (csv) => {
   return Number.isFinite(close) ? close : null;
 };
 
-const fetchStooq = async (symbol) => {
-  const response = await fetch(`https://stooq.com/q/l/?s=${symbol}&f=sd2t2ohlcv&h&e=csv`, {
-    headers: { "User-Agent": "Dubai-Time-Market-Ticker/1.0" },
+const fetchWithTimeout = (url, options = {}) =>
+  fetch(url, {
+    ...options,
+    signal: AbortSignal.timeout(4500),
   });
-  if (!response.ok) return null;
-  return parseStooqClose(await response.text());
+
+const fetchStooq = async (symbol) => {
+  try {
+    const response = await fetchWithTimeout(`https://stooq.com/q/l/?s=${symbol}&f=sd2t2ohlcv&h&e=csv`, {
+      headers: { "User-Agent": "Dubai-Time-Market-Ticker/1.0" },
+    });
+    if (!response.ok) return null;
+    return parseStooqClose(await response.text());
+  } catch {
+    return null;
+  }
 };
 
 const fetchUsdAed = async () => {
-  const response = await fetch("https://open.er-api.com/v6/latest/USD");
-  if (!response.ok) return 3.6725;
-  const payload = await response.json();
-  return Number(payload.rates?.AED) || 3.6725;
+  try {
+    const response = await fetchWithTimeout("https://open.er-api.com/v6/latest/USD");
+    if (!response.ok) return 3.6725;
+    const payload = await response.json();
+    return Number(payload.rates?.AED) || 3.6725;
+  } catch {
+    return 3.6725;
+  }
 };
 
 const fetchBitcoin = async () => {
-  const response = await fetch("https://api.binance.com/api/v3/ticker/price?symbol=BTCUSDT");
-  if (!response.ok) return null;
-  const payload = await response.json();
-  return Number(payload.price) || null;
+  try {
+    const response = await fetchWithTimeout("https://api.binance.com/api/v3/ticker/price?symbol=BTCUSDT");
+    if (!response.ok) return null;
+    const payload = await response.json();
+    return Number(payload.price) || null;
+  } catch {
+    return null;
+  }
 };
 
 export default async function handler(_request, response) {
