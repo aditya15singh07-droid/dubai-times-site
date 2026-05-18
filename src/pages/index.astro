@@ -33,7 +33,19 @@ const editorPicks = categories
     <div class="section time-grid">
       <div class="clock-card">
         <p class="eyebrow">Live UAE Time</p>
-        <time class="main-clock" id="uae-clock" datetime="">--:--:--</time>
+        <div class="clock-display">
+          <time class="main-clock" id="uae-clock" datetime="">--:--:--</time>
+          <div class="analog-clock" aria-label="Analog UAE clock">
+            <span class="clock-mark mark-12">12</span>
+            <span class="clock-mark mark-3">3</span>
+            <span class="clock-mark mark-6">6</span>
+            <span class="clock-mark mark-9">9</span>
+            <i class="hand hour-hand" id="clock-hour"></i>
+            <i class="hand minute-hand" id="clock-minute"></i>
+            <i class="hand second-hand" id="clock-second"></i>
+            <b></b>
+          </div>
+        </div>
         <div class="clock-date" id="uae-date">Loading Dubai time...</div>
         <div class="clock-meta">
           <span>GST · UTC+4</span>
@@ -55,6 +67,15 @@ const editorPicks = categories
           <strong id="ny-clock">--:--</strong>
         </div>
       </aside>
+      <div class="hero-weather-strip" aria-label="Quick emirates weather">
+        {emirates.map((emirate) => (
+          <article data-hero-city={emirate.name}>
+            <span>{emirate.name}</span>
+            <strong data-hero-temp>--°</strong>
+            <small><b data-hero-rain>--%</b> rain</small>
+          </article>
+        ))}
+      </div>
     </div>
   </section>
 
@@ -228,10 +249,29 @@ const editorPicks = categories
       const utcClock = document.getElementById("utc-clock");
       const istClock = document.getElementById("ist-clock");
       const nyClock = document.getElementById("ny-clock");
+      const hourHand = document.getElementById("clock-hour");
+      const minuteHand = document.getElementById("clock-minute");
+      const secondHand = document.getElementById("clock-second");
 
       if (uaeClock) {
         uaeClock.textContent = formatTime("Asia/Dubai", true);
         uaeClock.setAttribute("datetime", now.toISOString());
+      }
+      if (hourHand && minuteHand && secondHand) {
+        const parts = new Intl.DateTimeFormat("en-US", {
+          timeZone: "Asia/Dubai",
+          hour: "numeric",
+          minute: "numeric",
+          second: "numeric",
+          hour12: false,
+        }).formatToParts(now);
+        const values = Object.fromEntries(parts.map((part) => [part.type, Number(part.value)]));
+        const hour = values.hour % 12;
+        const minute = values.minute || 0;
+        const second = values.second || 0;
+        hourHand.style.transform = `translateX(-50%) rotate(${hour * 30 + minute * 0.5}deg)`;
+        minuteHand.style.transform = `translateX(-50%) rotate(${minute * 6 + second * 0.1}deg)`;
+        secondHand.style.transform = `translateX(-50%) rotate(${second * 6}deg)`;
       }
       if (uaeDate) {
         uaeDate.textContent = new Intl.DateTimeFormat("en-US", {
@@ -278,6 +318,7 @@ const editorPicks = categories
 
         cityWeather.forEach((item, index) => {
           const card = document.querySelector(`[data-city="${emirates[index].name}"]`);
+          const heroCard = document.querySelector(`[data-hero-city="${emirates[index].name}"]`);
           if (!card || !item.current) return;
 
           const current = item.current;
@@ -293,6 +334,11 @@ const editorPicks = categories
           card.querySelector("[data-wind]").textContent = `${Math.round(current.wind_speed_10m)} km/h`;
           card.querySelector("[data-humidity]").textContent = `${Math.round(current.relative_humidity_2m)}%`;
           card.querySelector("[data-updated]").textContent = `Updated ${formatTime("Asia/Dubai")} GST`;
+          if (heroCard) {
+            heroCard.querySelector("[data-hero-temp]").textContent = `${Math.round(current.temperature_2m)}°`;
+            heroCard.querySelector("[data-hero-rain]").textContent = `${rainChance}%`;
+            heroCard.classList.toggle("has-rain", rainChance >= 30 || current.rain > 0);
+          }
 
           card.classList.toggle("has-rain", rainChance >= 30 || current.rain > 0);
           card.classList.toggle("has-heat", current.temperature_2m >= 38);
@@ -370,9 +416,16 @@ const editorPicks = categories
     color: #f4d99b;
   }
 
+  .clock-display {
+    align-items: center;
+    display: grid;
+    gap: clamp(18px, 3vw, 34px);
+    grid-template-columns: minmax(0, 1fr) clamp(118px, 14vw, 170px);
+  }
+
   .main-clock {
     font-family: Georgia, "Times New Roman", serif;
-    font-size: clamp(4rem, 9vw, 7.7rem);
+    font-size: clamp(3.7rem, 7.4vw, 6.9rem);
     font-variant-numeric: tabular-nums;
     font-weight: 800;
     letter-spacing: 0.01em;
@@ -381,6 +434,148 @@ const editorPicks = categories
     overflow-wrap: normal;
     white-space: nowrap;
   }
+
+  .analog-clock {
+    aspect-ratio: 1;
+    background:
+      radial-gradient(circle at 45% 35%, rgba(255, 255, 255, 0.24), transparent 28%),
+      linear-gradient(135deg, rgba(255, 255, 255, 0.18), rgba(255, 255, 255, 0.06));
+    border: 1px solid rgba(255, 255, 255, 0.24);
+    border-radius: 50%;
+    box-shadow:
+      inset 0 0 28px rgba(255, 255, 255, 0.08),
+      0 18px 42px rgba(0, 0, 0, 0.26);
+    min-width: 112px;
+    position: relative;
+  }
+
+  .analog-clock::before {
+    border: 1px solid rgba(244, 217, 155, 0.34);
+    border-radius: 50%;
+    content: "";
+    inset: 11px;
+    position: absolute;
+  }
+
+  .clock-mark {
+    color: rgba(255, 250, 240, 0.72);
+    font-size: 0.72rem;
+    font-weight: 900;
+    position: absolute;
+  }
+
+  .mark-12 {
+    left: 50%;
+    top: 12px;
+    transform: translateX(-50%);
+  }
+
+  .mark-3 {
+    right: 14px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .mark-6 {
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .mark-9 {
+    left: 14px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .hand {
+    background: #fffaf0;
+    border-radius: 999px;
+    bottom: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translateX(-50%) rotate(0deg);
+    transform-origin: center bottom;
+  }
+
+  .hour-hand {
+    height: 28%;
+    width: 6px;
+  }
+
+  .minute-hand {
+    height: 36%;
+    width: 4px;
+  }
+
+  .second-hand {
+    background: #f4d99b;
+    height: 40%;
+    width: 2px;
+  }
+
+  .analog-clock b {
+    background: #f4d99b;
+    border: 3px solid #fffaf0;
+    border-radius: 50%;
+    height: 14px;
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 14px;
+  }
+
+  .hero-weather-strip {
+    backdrop-filter: blur(22px) saturate(1.18);
+    background:
+      linear-gradient(135deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.06));
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    border-radius: 12px;
+    box-shadow: 0 24px 60px rgba(0, 0, 0, 0.2);
+    display: grid;
+    gap: 10px;
+    grid-column: 1 / -1;
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+    padding: 12px;
+  }
+
+  .hero-weather-strip article {
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 9px;
+    display: grid;
+    gap: 4px;
+    min-width: 0;
+    padding: 12px;
+  }
+
+  .hero-weather-strip article.has-rain {
+    border-color: rgba(244, 217, 155, 0.55);
+  }
+
+  .hero-weather-strip span {
+    color: rgba(255, 250, 240, 0.78);
+    font-size: 0.78rem;
+    font-weight: 900;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .hero-weather-strip strong {
+    color: #fffaf0;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1.75rem;
+    line-height: 1;
+  }
+
+  .hero-weather-strip small {
+    color: rgba(255, 250, 240, 0.68);
+    font-size: 0.76rem;
+    font-weight: 800;
+  }
+
 
   .clock-date {
     color: rgba(255, 250, 240, 0.86);
@@ -864,6 +1059,10 @@ const editorPicks = categories
   }
 
   @media (max-width: 1100px) {
+    .hero-weather-strip {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+
     .weather-grid {
       grid-template-columns: repeat(3, minmax(0, 1fr));
     }
@@ -887,11 +1086,19 @@ const editorPicks = categories
     }
 
     .main-clock {
-      font-size: clamp(3.3rem, 16vw, 6.4rem);
+      font-size: clamp(3.1rem, 13vw, 5.8rem);
     }
 
     .clock-side {
       grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .clock-display {
+      grid-template-columns: 1fr;
+    }
+
+    .analog-clock {
+      max-width: 150px;
     }
 
     .weather-grid {
@@ -905,6 +1112,10 @@ const editorPicks = categories
   }
 
   @media (max-width: 640px) {
+    .hero-weather-strip {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
     .clock-side,
     .weather-grid,
     .editor-grid {

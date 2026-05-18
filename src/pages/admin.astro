@@ -6,7 +6,25 @@ import BaseLayout from "../layouts/BaseLayout.astro";
   title="Manual Admin | Dubai Time"
   description="A simple manual article drafting page for Dubai Time."
 >
-  <section class="section admin-shell">
+  <section class="section login-shell" data-login-panel>
+    <form class="login-card" data-login-form>
+      <p class="eyebrow">Private Access</p>
+      <h1>Dubai Time Admin</h1>
+      <p>Enter your admin username and password to unlock the manual article draft panel.</p>
+      <label>
+        Username
+        <input name="username" autocomplete="username" required />
+      </label>
+      <label>
+        Password
+        <input name="password" type="password" autocomplete="current-password" required />
+      </label>
+      <button type="submit">Unlock Admin</button>
+      <p class="login-error" data-login-error></p>
+    </form>
+  </section>
+
+  <section class="section admin-shell" data-admin-panel hidden>
     <header class="admin-header">
       <p class="eyebrow">Manual Admin</p>
       <h1>Create a Dubai Time article draft</h1>
@@ -14,6 +32,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
         Fill the story details, paste your image URL, and generate a clean markdown article
         file plus the public link format. This page does not publish by itself yet.
       </p>
+      <button class="logout-button" type="button" data-logout>Lock Admin</button>
     </header>
 
     <form class="admin-form" data-admin-form>
@@ -74,9 +93,55 @@ import BaseLayout from "../layouts/BaseLayout.astro";
   </section>
 
   <script>
+    const loginPanel = document.querySelector("[data-login-panel]");
+    const adminPanel = document.querySelector("[data-admin-panel]");
+    const loginForm = document.querySelector("[data-login-form]");
+    const loginError = document.querySelector("[data-login-error]");
+    const logout = document.querySelector("[data-logout]");
     const form = document.querySelector("[data-admin-form]");
     const output = document.querySelector("[data-output]");
     const link = document.querySelector("[data-link]");
+    const validUsernameHash = "1c8404be8725011bb83cb1257571eb0ee8e09571c6ca031b779268b45e878d3a";
+    const validPasswordHash = "0762dcffc1d8f9640a520d6317b990a7b3c6f7cd981141820ab56b548e1297b0";
+
+    const hashText = async (value) => {
+      const bytes = new TextEncoder().encode(value);
+      const digest = await crypto.subtle.digest("SHA-256", bytes);
+      return Array.from(new Uint8Array(digest))
+        .map((byte) => byte.toString(16).padStart(2, "0"))
+        .join("");
+    };
+
+    const setUnlocked = (unlocked) => {
+      if (loginPanel) loginPanel.hidden = unlocked;
+      if (adminPanel) adminPanel.hidden = !unlocked;
+      window.localStorage.setItem("dubai-time-admin", unlocked ? "unlocked" : "locked");
+    };
+
+    if (window.localStorage.getItem("dubai-time-admin") === "unlocked") {
+      setUnlocked(true);
+    }
+
+    loginForm?.addEventListener("submit", async (event) => {
+      event.preventDefault();
+      const data = new FormData(loginForm);
+      const usernameHash = await hashText(String(data.get("username") || ""));
+      const passwordHash = await hashText(String(data.get("password") || ""));
+      const ok = usernameHash === validUsernameHash && passwordHash === validPasswordHash;
+
+      if (!ok) {
+        if (loginError) loginError.textContent = "Wrong username or password.";
+        return;
+      }
+
+      if (loginError) loginError.textContent = "";
+      loginForm.reset();
+      setUnlocked(true);
+    });
+
+    logout?.addEventListener("click", () => {
+      setUnlocked(false);
+    });
 
     const slugify = (value) =>
       value
@@ -136,6 +201,44 @@ ${data.get("body")}
 </BaseLayout>
 
 <style>
+  .login-shell {
+    max-width: 620px;
+    min-height: 68vh;
+  }
+
+  .login-card {
+    backdrop-filter: blur(20px) saturate(1.14);
+    background:
+      linear-gradient(135deg, rgba(255, 255, 255, 0.92), rgba(255, 255, 255, 0.56));
+    border: 1px solid rgba(222, 216, 205, 0.78);
+    border-radius: 12px;
+    box-shadow: 0 24px 70px rgba(7, 19, 24, 0.11);
+    display: grid;
+    gap: 16px;
+    padding: 28px;
+  }
+
+  .login-card h1 {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: clamp(2.4rem, 6vw, 4.5rem);
+    line-height: 0.98;
+    margin: 0;
+  }
+
+  .login-card p:not(.eyebrow):not(.login-error) {
+    color: var(--muted);
+    line-height: 1.6;
+    margin: 0;
+  }
+
+  .login-error {
+    color: #b42318;
+    font-size: 0.9rem;
+    font-weight: 800;
+    margin: 0;
+    min-height: 1.2em;
+  }
+
   .admin-shell {
     display: grid;
     gap: 24px;
@@ -160,12 +263,20 @@ ${data.get("body")}
     line-height: 1.65;
   }
 
+  .logout-button {
+    background: #111;
+    margin-top: 12px;
+    width: fit-content;
+  }
+
   .admin-form,
   .admin-output {
-    background: var(--panel);
-    border: 1px solid var(--line);
-    border-radius: 8px;
-    box-shadow: 0 18px 48px rgba(7, 19, 24, 0.08);
+    backdrop-filter: blur(18px);
+    background:
+      linear-gradient(135deg, rgba(255, 255, 255, 0.92), rgba(255, 255, 255, 0.56));
+    border: 1px solid rgba(222, 216, 205, 0.78);
+    border-radius: 10px;
+    box-shadow: 0 18px 48px rgba(7, 19, 24, 0.09);
     display: grid;
     gap: 16px;
     padding: 22px;
