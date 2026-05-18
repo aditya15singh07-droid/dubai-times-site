@@ -124,13 +124,23 @@ const editorPicks = categories
     </div>
   </section>
 
-  <section class="market-strip section" aria-label="Market snapshot">
-    <span>Markets</span>
-    <strong>Gold XAU/USD</strong>
-    <b>Oil US WTI</b>
-    <strong>USD/AED 3.6725</strong>
-    <b>Bitcoin BTC/USD</b>
-    <strong>Nasdaq Futures</strong>
+  <section class="market-ticker" aria-label="Live markets ticker">
+    <div class="market-label"><span></span>Markets</div>
+    <div class="market-window">
+      <div class="market-track">
+        {[0, 1].map((loop) => (
+          <div class="market-group" aria-hidden={loop === 1 ? "true" : undefined}>
+            <span class="market-item"><strong>Gold</strong> <em>XAU/USD</em> <b data-market-symbol="GC=F">Live</b></span>
+            <span class="market-item"><strong>Silver</strong> <em>XAG/USD</em> <b data-market-symbol="SI=F">Live</b></span>
+            <span class="market-item"><strong>Oil</strong> <em>US WTI</em> <b data-market-symbol="CL=F">Live</b></span>
+            <span class="market-item"><strong>USD/AED</strong> <em>Dirham</em> <b data-market-symbol="AED=X">3.6725</b></span>
+            <span class="market-item"><strong>Bitcoin</strong> <em>BTC/USD</em> <b data-market-symbol="BTC-USD">Live</b></span>
+            <span class="market-item"><strong>Nasdaq</strong> <em>Futures</em> <b data-market-symbol="NQ=F">Live</b></span>
+            <span class="market-item"><strong>Updated</strong> <em data-market-updated>Checking feed</em></span>
+          </div>
+        ))}
+      </div>
+    </div>
   </section>
 
   <section class="section news-entry" id="news" aria-label="Dubai news">
@@ -366,10 +376,48 @@ const editorPicks = categories
       }
     };
 
+    const marketSymbols = ["GC=F", "SI=F", "CL=F", "AED=X", "BTC-USD", "NQ=F"];
+    const formatMarketValue = (symbol, value) => {
+      if (!Number.isFinite(value)) return "Live";
+      if (symbol === "AED=X") return value.toFixed(4);
+      if (symbol === "BTC-USD") return value.toLocaleString("en-US", { maximumFractionDigits: 0 });
+      if (symbol === "GC=F" || symbol === "SI=F" || symbol === "CL=F") {
+        return value.toLocaleString("en-US", { maximumFractionDigits: 2 });
+      }
+      return value.toLocaleString("en-US", { maximumFractionDigits: 1 });
+    };
+
+    const setMarketValue = (symbol, value) => {
+      document.querySelectorAll(`[data-market-symbol="${symbol}"]`).forEach((item) => {
+        item.textContent = formatMarketValue(symbol, value);
+      });
+    };
+
+    const updateMarkets = async () => {
+      try {
+        const response = await fetch("/api/markets");
+        if (!response.ok) throw new Error("Market request failed");
+        const payload = await response.json();
+        Object.entries(payload.markets || {}).forEach(([symbol, price]) => {
+          setMarketValue(symbol, Number(price));
+        });
+        document.querySelectorAll("[data-market-updated]").forEach((item) => {
+          item.textContent = `${formatTime("Asia/Dubai")} GST`;
+        });
+      } catch {
+        setMarketValue("AED=X", 3.6725);
+        document.querySelectorAll("[data-market-updated]").forEach((item) => {
+          item.textContent = "Live feed retrying";
+        });
+      }
+    };
+
     updateClock();
     updateWeather();
+    updateMarkets();
     window.setInterval(updateClock, 1000);
     window.setInterval(updateWeather, 15 * 60 * 1000);
+    window.setInterval(updateMarkets, 5 * 60 * 1000);
   </script>
 </BaseLayout>
 
@@ -863,41 +911,137 @@ const editorPicks = categories
     margin-top: 13px;
   }
 
-  .market-strip {
-    align-items: center;
-    backdrop-filter: blur(18px);
+  .market-ticker {
+    align-items: stretch;
     background:
-      linear-gradient(135deg, rgba(255, 255, 255, 0.86), rgba(255, 255, 255, 0.54));
-    border-bottom: 1px solid var(--line);
-    border-top: 1px solid var(--line);
+      linear-gradient(180deg, rgba(255, 255, 255, 0.94), rgba(251, 250, 247, 0.86));
+    border-bottom: 1px solid rgba(222, 216, 205, 0.9);
+    border-top: 1px solid rgba(222, 216, 205, 0.9);
+    box-shadow: inset 0 1px rgba(255, 255, 255, 0.75);
     display: flex;
-    gap: 28px;
-    max-width: none;
+    margin: 0 auto;
     overflow: hidden;
-    padding-bottom: 13px;
-    padding-top: 13px;
+    width: 100%;
+  }
+
+  .market-label {
+    align-items: center;
+    background: #111;
+    color: #fff;
+    display: flex;
+    flex: 0 0 auto;
+    font-size: 0.92rem;
+    font-weight: 950;
+    gap: 9px;
+    letter-spacing: 0.03em;
+    min-height: 42px;
+    padding: 0 22px;
+    position: relative;
+    text-transform: uppercase;
+    z-index: 2;
+  }
+
+  .market-label span {
+    background: var(--gold);
+    border-radius: 999px;
+    box-shadow: 0 0 0 4px rgba(194, 145, 45, 0.16);
+    height: 8px;
+    width: 8px;
+  }
+
+  .market-window {
+    flex: 1;
+    min-width: 0;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .market-window::before,
+  .market-window::after {
+    content: "";
+    height: 100%;
+    pointer-events: none;
+    position: absolute;
+    top: 0;
+    width: 54px;
+    z-index: 1;
+  }
+
+  .market-window::before {
+    background: linear-gradient(90deg, var(--paper), rgba(251, 250, 247, 0));
+    left: 0;
+  }
+
+  .market-window::after {
+    background: linear-gradient(270deg, var(--paper), rgba(251, 250, 247, 0));
+    right: 0;
+  }
+
+  .market-track {
+    align-items: center;
+    animation: market-scroll 34s linear infinite;
+    display: flex;
+    width: max-content;
+  }
+
+  .market-ticker:hover .market-track {
+    animation-play-state: paused;
+  }
+
+  .market-group {
+    align-items: center;
+    display: flex;
+    flex: 0 0 auto;
+    min-height: 42px;
+  }
+
+  .market-item {
+    align-items: baseline;
+    display: inline-flex;
+    gap: 8px;
+    padding: 0 28px;
+    position: relative;
     white-space: nowrap;
   }
 
-  .market-strip span {
-    background: #111;
-    border-radius: 999px;
-    color: #fff;
-    font-weight: 900;
-    letter-spacing: 0.06em;
-    padding: 8px 14px;
-    text-transform: uppercase;
+  .market-item::after {
+    color: var(--gold);
+    content: "◆";
+    font-size: 0.65rem;
+    position: absolute;
+    right: -5px;
+    top: 50%;
+    transform: translateY(-50%);
   }
 
-  .market-strip strong {
+  .market-item strong {
     color: var(--accent-strong);
-    font-size: 1.05rem;
-    font-weight: 900;
+    font-size: 1rem;
+    font-weight: 950;
   }
 
-  .market-strip b {
+  .market-item em {
     color: var(--muted);
-    font-size: 1.05rem;
+    font-size: 0.94rem;
+    font-style: normal;
+    font-weight: 850;
+  }
+
+  .market-item b {
+    color: var(--ink);
+    font-family: "SFMono-Regular", Consolas, monospace;
+    font-size: 0.92rem;
+    font-weight: 800;
+  }
+
+  @keyframes market-scroll {
+    from {
+      transform: translateX(0);
+    }
+
+    to {
+      transform: translateX(-50%);
+    }
   }
 
   .news-entry {
