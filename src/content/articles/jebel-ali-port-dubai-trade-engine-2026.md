@@ -6,10 +6,11 @@ author: "Dubai Times Business Desk"
 date: 2026-05-17
 publishedTime: "20:45 GST"
 watchLine: "Watch how Jebel Ali's capacity, automation and logistics links support Dubai's next phase of trade-led growth."
-image: "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Container port with cranes and shipping containers"
+image: "https://images.pexels.com/photos/3856433/pexels-photo-3856433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Aerial shot of colorful shipping containers at North Jakarta's bustling port, Indonesia."
 tags: ["Dubai", "Jebel Ali", "Trade", "Logistics"]
 draft: false
+pexelsId: "3856433"
 ---
 
 Dubai's most important economic story is not always the one with the best photograph.

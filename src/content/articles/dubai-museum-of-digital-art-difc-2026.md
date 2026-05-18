@@ -6,10 +6,11 @@ author: "Dubai Times Culture Desk"
 date: 2026-05-17
 publishedTime: "13:10 GST"
 watchLine: "Track MODA's first programming calendar, artist partnerships, education activity and repeat-visit appeal."
-image: "https://images.unsplash.com/photo-1554907984-15263bfd63bd?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Visitors inside a contemporary digital art exhibition"
+image: "https://images.pexels.com/photos/37148213/pexels-photo-37148213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Retro Apple II computer in a museum setting, showcasing vintage technology design."
 tags: ["Dubai", "Culture", "Digital Art", "DIFC"]
 draft: false
+pexelsId: "37148213"
 ---
 
 A museum in DIFC is never only about art.

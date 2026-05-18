@@ -5,10 +5,11 @@ category: "Travel"
 author: "Dubai Times Travel Desk"
 date: 2026-05-18
 watchLine: "Watch whether RTA rolls the model out quickly and whether bus-to-metro transfers become visibly smoother for daily riders."
-image: "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Dubai skyline with roads and public transport corridors"
+image: "https://images.pexels.com/photos/4430911/pexels-photo-4430911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Commuters silhouetted against sunrise light in a modern train station, capturing the essence of daily routine."
 tags: ["Dubai", "RTA", "Bus", "Travel"]
 draft: false
+pexelsId: "4430911"
 ---
 
 Anyone who depends on buses knows the worst part is not always the ride.

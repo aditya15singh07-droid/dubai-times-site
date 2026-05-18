@@ -5,10 +5,11 @@ category: "UAE"
 author: "Dubai Times UAE Desk"
 date: 2026-05-18
 watchLine: "Watch whether universities settle quickly into normal academic calendars and whether practical courses recover lost momentum."
-image: "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Modern education and work space with people studying"
+image: "https://images.pexels.com/photos/8197505/pexels-photo-8197505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Students of various backgrounds attentively listening in a university lecture hall."
 tags: ["UAE", "Education", "Universities", "Students"]
 draft: false
+pexelsId: "8197505"
 ---
 
 Students can adapt to online classes faster than institutions sometimes admit.

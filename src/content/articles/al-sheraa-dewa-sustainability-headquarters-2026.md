@@ -6,10 +6,11 @@ author: "Dubai Times City Desk"
 date: 2026-05-17
 publishedTime: "19:25 GST"
 watchLine: "Watch whether Al Shera'a becomes a practical benchmark for future public buildings, not only a landmark launch."
-image: "https://images.unsplash.com/photo-1518005020951-eccb494ad742?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Modern glass architecture in Dubai with sunlight reflecting from the facade"
+image: "https://images.pexels.com/photos/267501/pexels-photo-267501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A modern glass-facade building against a blue sky, featuring innovative architecture."
 tags: ["Dubai", "DEWA", "Sustainability", "Architecture"]
 draft: false
+pexelsId: "267501"
 ---
 
 A government office usually does not make people stop and look twice.

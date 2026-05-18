@@ -5,10 +5,11 @@ category: "Business"
 author: "Dubai Times Business Desk"
 date: 2026-05-17
 watchLine: "Watch whether offtake agreements and industrial funds become factories, jobs, supply contracts and exportable products."
-image: "https://images.unsplash.com/photo-1494412651409-8963ce7935a7?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Shipping containers and logistics cranes at an industrial port"
+image: "https://images.pexels.com/photos/7413996/pexels-photo-7413996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Startup brainstorming with charts, colorful sticky notes, and planning strategies for success."
 tags: ["UAE", "Industry", "Investment"]
 draft: false
+pexelsId: "7413996"
 ---
 
 Industrial policy becomes real only when machines run and people get hired.

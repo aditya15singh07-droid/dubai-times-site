@@ -6,10 +6,11 @@ author: "Dubai Times City Desk"
 date: 2026-05-17
 publishedTime: "22:05 GST"
 watchLine: "Watch how Dubai uses survey data to shape family policy, inclusion, financial wellbeing and digital services."
-image: "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Dubai skyline seen from a neighbourhood street"
+image: "https://images.pexels.com/photos/5445453/pexels-photo-5445453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Family enjoying a sunny picnic with fruits and wine, capturing joyful moments together."
 tags: ["Dubai", "Quality Of Life", "Social Survey", "Community"]
 draft: false
+pexelsId: "5445453"
 ---
 
 The best cities do not only count buildings. They count how people feel living inside them.

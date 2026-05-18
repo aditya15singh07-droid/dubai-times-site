@@ -5,10 +5,11 @@ category: "Lifestyle"
 author: "Dubai Times Lifestyle Desk"
 date: 2026-05-18
 watchLine: "Watch whether the Al Barsha Pond Park pilot gets real daily use from freelancers and SMEs, not just social media attention."
-image: "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Green urban park with open space for work and leisure"
+image: "https://images.pexels.com/photos/4560092/pexels-photo-4560092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Upset young African American male freelancer clutching head with hands after failure in project while working remotely in park"
 tags: ["Dubai", "Lifestyle", "Parks", "Remote Work"]
 draft: false
+pexelsId: "4560092"
 ---
 
 For years, Dubai treated parks and work as separate parts of life.

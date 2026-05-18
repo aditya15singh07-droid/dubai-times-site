@@ -6,10 +6,11 @@ author: "Dubai Times Business Desk"
 date: 2026-05-17
 publishedTime: "14:45 GST"
 watchLine: "Track whether DEWA's 2028 transmission pipeline lands ahead of new community, hotel, industrial and data-infrastructure demand."
-image: "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Electricity transmission infrastructure at sunset"
+image: "https://images.pexels.com/photos/29348617/pexels-photo-29348617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "High voltage transmission towers with clear blue sky at dusk in an open field."
 tags: ["Dubai", "DEWA", "Infrastructure", "Energy"]
 draft: false
+pexelsId: "29348617"
 ---
 
 Dubai's skyline gets the attention. The electricity grid does the hard work.

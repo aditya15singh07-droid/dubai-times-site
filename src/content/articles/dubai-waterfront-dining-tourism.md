@@ -5,10 +5,11 @@ category: "Lifestyle"
 author: "Dubai Times Lifestyle Desk"
 date: 2026-05-17
 watchLine: "Watch which waterfront venues turn views into repeat business through service, value, identity and year-round programming."
-image: "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Restaurant table beside water with city lights in the background"
+image: "https://images.pexels.com/photos/15627310/pexels-photo-15627310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Charming outdoor café by the sea with a scenic ocean view."
 tags: ["Dining", "Tourism", "Lifestyle"]
 draft: false
+pexelsId: "15627310"
 ---
 
 A Dubai dinner with a view can become a travel memory faster than a museum ticket.

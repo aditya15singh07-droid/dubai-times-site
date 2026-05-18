@@ -5,10 +5,11 @@ category: "Business"
 author: "Dubai Times Business Desk"
 date: 2026-05-18
 watchLine: "Watch whether renewal confidence turns into new hiring, licensing and investment rather than only administrative continuity."
-image: "https://images.unsplash.com/photo-1556740749-887f6717d7e4?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Business district with office buildings and road traffic"
+image: "https://images.pexels.com/photos/32991337/pexels-photo-32991337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "An empty parliamentary meeting room with wooden seating and vibrant orange walls in Oslo, Norway."
 tags: ["Dubai", "Business", "Chamber of Commerce", "Economy"]
 draft: false
+pexelsId: "32991337"
 ---
 
 Business confidence is not always loud.

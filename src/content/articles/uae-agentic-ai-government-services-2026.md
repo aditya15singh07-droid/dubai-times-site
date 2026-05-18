@@ -6,10 +6,11 @@ author: "Dubai Times Technology Desk"
 date: 2026-05-17
 publishedTime: "21:05 GST"
 watchLine: "Watch whether agentic AI reduces routine service friction while keeping human accountability clear."
-image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Abstract artificial intelligence interface with digital data"
+image: "https://images.pexels.com/photos/8867631/pexels-photo-8867631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Friendly call center agent wearing a headset, talking and smiling at his desk with a colleague."
 tags: ["UAE", "AI", "Government Services", "Technology"]
 draft: false
+pexelsId: "8867631"
 ---
 
 AI becomes useful when it stops showing off and starts doing boring work properly.

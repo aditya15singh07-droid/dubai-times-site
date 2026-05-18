@@ -5,10 +5,11 @@ category: "UAE"
 author: "Dubai Times UAE Desk"
 date: 2026-05-18
 watchLine: "Watch which ICP services become genuinely faster and whether automation stays transparent in identity, customs and border processes."
-image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Digital network visualization over a city"
+image: "https://images.pexels.com/photos/33353719/pexels-photo-33353719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Group of soldiers in camouflage attending a briefing outdoors with tactical gear and helmets."
 tags: ["UAE", "ICP", "AI", "Government"]
 draft: false
+pexelsId: "33353719"
 ---
 
 Government technology announcements usually promise efficiency.

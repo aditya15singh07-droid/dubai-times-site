@@ -6,10 +6,11 @@ author: "Dubai Times City Desk"
 date: 2026-05-17
 publishedTime: "21:35 GST"
 watchLine: "Watch whether Nuwat Dubai turns family support from event activity into regular, trusted community help."
-image: "https://images.unsplash.com/photo-1511895426328-dc8714191300?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Family sitting together at home in warm evening light"
+image: "https://images.pexels.com/photos/8205092/pexels-photo-8205092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A family meets with a social worker in a cozy living room, discussing adoption details."
 tags: ["Dubai", "Family", "Community", "Social Agenda 33"]
 draft: false
+pexelsId: "8205092"
 ---
 
 Cities love talking about growth. Families know whether that growth feels liveable.

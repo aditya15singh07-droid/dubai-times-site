@@ -5,10 +5,11 @@ category: "Technology"
 author: "Dubai Times Technology Desk"
 date: 2026-05-17
 watchLine: "Watch how many resident tasks become connected across identity, payment, transport, property and public-service platforms."
-image: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Person using a smartphone with digital interface lights"
+image: "https://images.pexels.com/photos/7195308/pexels-photo-7195308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Female nurse using telemedicine for a virtual consultation on a laptop, wearing headphones and stethoscope."
 tags: ["Dubai", "Technology", "Services"]
 draft: false
+pexelsId: "7195308"
 ---
 
 The best city technology is the kind you stop noticing.

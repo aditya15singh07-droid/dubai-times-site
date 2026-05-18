@@ -5,10 +5,11 @@ category: "Travel"
 author: "Dubai Times Travel Desk"
 date: 2026-05-17
 watchLine: "Watch repeat visitation, hotel pricing balance and whether Dubai keeps converting event demand into longer stays."
-image: "https://images.unsplash.com/photo-1512632578888-169bbbc64f33?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Tourists looking across Dubai skyline at sunset"
+image: "https://images.pexels.com/photos/31703898/pexels-photo-31703898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A dynamic aerial view of a bustling crowd with a zoom blur effect, showcasing movement and energy."
 tags: ["Dubai", "Tourism", "Travel"]
 draft: false
+pexelsId: "31703898"
 ---
 
 Visitor records sound like airport numbers until you follow the money.

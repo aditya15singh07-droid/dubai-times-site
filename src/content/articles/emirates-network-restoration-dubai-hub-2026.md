@@ -5,10 +5,11 @@ category: "Travel"
 author: "Dubai Times Travel Desk"
 date: 2026-05-18
 watchLine: "Watch whether the airline can push beyond 75% of pre-disruption capacity without weakening reliability or fares discipline."
-image: "https://images.unsplash.com/photo-1504198453319-5ce911bafcde?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Long-haul passenger jet preparing for departure"
+image: "https://images.pexels.com/photos/8554428/pexels-photo-8554428.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Two smiling professionals walking together in a subway station, capturing the essence of daily commuting."
 tags: ["Dubai", "Emirates", "Travel", "Airlines"]
 draft: false
+pexelsId: "8554428"
 ---
 
 Airline recoveries are usually measured in frequencies and fleet plans.

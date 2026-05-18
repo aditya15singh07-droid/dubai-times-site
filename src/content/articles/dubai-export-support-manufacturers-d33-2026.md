@@ -6,10 +6,11 @@ author: "Dubai Times Business Desk"
 date: 2026-05-17
 publishedTime: "11:15 GST"
 watchLine: "Watch whether manufacturers use the support package to open new markets, secure repeat orders and report measurable export growth."
-image: "https://images.unsplash.com/photo-1494412651409-8963ce7935a7?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Shipping containers and logistics cranes at a trade port"
+image: "https://images.pexels.com/photos/19544248/pexels-photo-19544248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Two welders wearing protective gear working in a busy industrial factory workshop."
 tags: ["Dubai", "Exports", "Manufacturing", "D33"]
 draft: false
+pexelsId: "19544248"
 ---
 
 A manufacturer does not become global just because the product is good.

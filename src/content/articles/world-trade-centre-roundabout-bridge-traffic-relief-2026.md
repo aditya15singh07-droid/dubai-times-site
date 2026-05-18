@@ -5,10 +5,11 @@ category: "Dubai"
 author: "Dubai Times Dubai Desk"
 date: 2026-05-18
 watchLine: "Watch whether the full six-bridge package meaningfully eases peak-hour pressure around Sheikh Zayed Road and Al Mustaqbal Street."
-image: "https://images.unsplash.com/photo-1489515217757-5fd1be406fef?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Traffic moving through a modern city interchange"
+image: "https://images.pexels.com/photos/37089595/pexels-photo-37089595.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "View of the Binondo-Intramuros Bridge in Manila, Philippines, with modern architecture backdrop."
 tags: ["Dubai", "RTA", "Roads", "Traffic"]
 draft: false
+pexelsId: "37089595"
 ---
 
 In Dubai, two saved minutes are never just two minutes.

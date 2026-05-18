@@ -5,10 +5,11 @@ category: "Lifestyle"
 author: "Dubai Times Lifestyle Desk"
 date: 2026-05-18
 watchLine: "Watch whether free access widens local participation and whether Dubai converts cultural prestige into repeat public engagement."
-image: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Visitors walking through a contemporary art exhibition"
+image: "https://images.pexels.com/photos/10214100/pexels-photo-10214100.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A hijabi woman celebrates graduation outdoors with an academic cap under the summer sky in Maldives."
 tags: ["Dubai", "Lifestyle", "Art Dubai", "Culture"]
 draft: false
+pexelsId: "10214100"
 ---
 
 Art fairs often have a reputation problem.

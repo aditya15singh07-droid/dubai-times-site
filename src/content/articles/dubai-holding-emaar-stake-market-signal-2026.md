@@ -6,10 +6,11 @@ author: "Dubai Times Business Desk"
 date: 2026-05-17
 publishedTime: "12:35 GST"
 watchLine: "Watch future Emaar launches for stronger destination value, branded living, pricing discipline and delivery confidence."
-image: "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Dubai skyline and waterfront towers at sunset"
+image: "https://images.pexels.com/photos/36094170/pexels-photo-36094170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Stunning view of Burj Khalifa and surrounding skyscrapers reflecting in a tranquil pool, Dubai."
 tags: ["Dubai", "Emaar", "Real Estate", "Markets"]
 draft: false
+pexelsId: "36094170"
 ---
 
 In real estate, confidence has a smell. Buyers notice it before they admit it.

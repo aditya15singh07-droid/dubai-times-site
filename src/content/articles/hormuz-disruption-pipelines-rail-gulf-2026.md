@@ -5,10 +5,11 @@ category: "World"
 author: "Dubai Times World Desk"
 date: 2026-05-18
 watchLine: "Watch whether bypass routes become permanent strategic priorities long after the current disruption fades."
-image: "https://images.unsplash.com/photo-1494412651409-8963ce7935a7?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Industrial port and logistics corridor by the sea"
+image: "https://images.pexels.com/photos/34390839/pexels-photo-34390839.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Discover the vibrant hills of Hormuz Island, Iran, under a bright blue sky."
 tags: ["World", "Gulf", "Hormuz", "Trade"]
 draft: false
+pexelsId: "34390839"
 ---
 
 The Strait of Hormuz has always looked narrow on the map.

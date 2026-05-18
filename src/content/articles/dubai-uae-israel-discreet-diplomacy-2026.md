@@ -5,10 +5,11 @@ category: "World"
 author: "Dubai Times World Desk"
 date: 2026-05-17
 watchLine: "Watch future official language for signs that cooperation remains formal, public-facing and carefully bounded."
-image: "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Diplomatic meeting table with national flags in the background"
+image: "https://images.pexels.com/photos/4386403/pexels-photo-4386403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Closeup of crop unrecognizable person holding small flag of Israel before huge flag of United States of America on background"
 tags: ["UAE", "Israel", "Diplomacy"]
 draft: false
+pexelsId: "4386403"
 ---
 
 Diplomacy often lives in careful wording. One denial, one phrase, one official line can do a lot of work.

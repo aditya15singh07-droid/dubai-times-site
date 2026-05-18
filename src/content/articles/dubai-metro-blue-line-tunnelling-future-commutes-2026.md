@@ -5,10 +5,11 @@ category: "Dubai"
 author: "Dubai Times Dubai Desk"
 date: 2026-05-18
 watchLine: "Watch execution timelines, station-area planning and whether the line changes commuting behaviour before roads get tighter."
-image: "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Dubai skyline with urban transport corridor"
+image: "https://images.pexels.com/photos/33329502/pexels-photo-33329502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Colorful rainbow art decorates the subway tunnel at a Stockholm metro station in Sweden."
 tags: ["Dubai", "Metro", "Transport", "Infrastructure"]
 draft: false
+pexelsId: "33329502"
 ---
 
 There is a moment in every growing city when a commute stops being a small irritation and starts becoming a life decision.

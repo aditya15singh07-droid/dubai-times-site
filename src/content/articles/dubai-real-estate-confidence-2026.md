@@ -5,10 +5,11 @@ category: "Real Estate"
 author: "Dubai Times Real Estate Desk"
 date: 2026-05-17
 watchLine: "Track absorption in emerging districts and whether handovers convert into healthy occupancy, rental depth and resale liquidity."
-image: "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Dubai skyline seen from the water at sunset"
+image: "https://images.pexels.com/photos/7937364/pexels-photo-7937364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A real estate agent guides potential buyers through a modern home's unfinished interior."
 tags: ["Dubai", "Property", "Investment"]
 draft: false
+pexelsId: "7937364"
 ---
 
 Confidence in property is easy to claim on a billboard.

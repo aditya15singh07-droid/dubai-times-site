@@ -5,10 +5,11 @@ category: "Business"
 author: "Dubai Times Business Desk"
 date: 2026-05-18
 watchLine: "Watch how much of the group’s cash strength turns into fleet delivery, retrofit execution and resilient margins in 2026-27."
-image: "https://images.unsplash.com/photo-1530521954074-e64f6810b32d?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Commercial aircraft on the ground at sunset"
+image: "https://images.pexels.com/photos/20640898/pexels-photo-20640898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A sleek private jet with visible engine inside a spacious hangar in Paris, France."
 tags: ["Dubai", "Emirates Group", "Business", "Aviation"]
 draft: false
+pexelsId: "20640898"
 ---
 
 When Emirates Group posts record results, it is never only an airline story.

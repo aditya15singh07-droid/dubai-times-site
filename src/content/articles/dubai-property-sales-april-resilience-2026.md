@@ -5,10 +5,11 @@ category: "Real Estate"
 author: "Dubai Times Real Estate Desk"
 date: 2026-05-17
 watchLine: "Watch whether transaction value keeps rising faster than volume and whether Dubai South keeps leading area demand."
-image: "https://images.unsplash.com/photo-1546412414-e1885259563a?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Dubai Marina skyline and waterfront towers"
+image: "https://images.pexels.com/photos/12955837/pexels-photo-12955837.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Miniature wooden house with keys and contract symbolizing real estate transactions."
 tags: ["Dubai", "Real Estate", "Property"]
 draft: false
+pexelsId: "12955837"
 ---
 
 Dubai property has a habit of annoying its doubters.

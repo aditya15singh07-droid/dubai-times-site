@@ -5,10 +5,11 @@ category: "UAE"
 author: "Dubai Times UAE Desk"
 date: 2026-05-17
 watchLine: "Watch whether the UAE maintains firm deterrence messaging while preserving normal economic, aviation and logistics activity."
-image: "https://images.unsplash.com/photo-1584555613497-9ecf9dd06f68?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "UAE flag waving against a city skyline"
+image: "https://images.pexels.com/photos/30541591/pexels-photo-30541591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Barbed wire protecting the MONUSCO gate, surrounded by stone walls and plants."
 tags: ["UAE", "Security", "Diplomacy"]
 draft: false
+pexelsId: "30541591"
 ---
 
 Security news in the Gulf is never only about defence.

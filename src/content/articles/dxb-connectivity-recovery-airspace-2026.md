@@ -5,10 +5,11 @@ category: "Travel"
 author: "Dubai Times Travel Desk"
 date: 2026-05-18
 watchLine: "Watch whether route recovery restores transfer traffic quickly and whether summer demand exposes any new capacity bottlenecks."
-image: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Passenger aircraft at a busy international airport"
+image: "https://images.pexels.com/photos/36346327/pexels-photo-36346327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A fast-moving train at Holmes Chapel Station in England, capturing travel and motion."
 tags: ["Dubai", "DXB", "Travel", "Aviation"]
 draft: false
+pexelsId: "36346327"
 ---
 
 Airports reveal the truth about a region faster than many official statements do.

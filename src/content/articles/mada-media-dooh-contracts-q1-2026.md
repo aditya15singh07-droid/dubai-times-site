@@ -5,10 +5,11 @@ category: "Business"
 author: "Dubai Times Business Desk"
 date: 2026-05-18
 watchLine: "Watch whether digital screens, pricing power and urban-design rules keep pushing outdoor ads toward higher-quality inventory."
-image: "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "City street with illuminated outdoor advertising displays"
+image: "https://images.pexels.com/photos/34659828/pexels-photo-34659828.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Vibrant street view with billboards in urban Taiwanese setting."
 tags: ["Dubai", "Business", "Advertising", "Media"]
 draft: false
+pexelsId: "34659828"
 ---
 
 Most people barely register an outdoor ad until it is badly placed.

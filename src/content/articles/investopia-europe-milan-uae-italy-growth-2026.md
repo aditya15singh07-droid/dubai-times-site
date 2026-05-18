@@ -6,10 +6,11 @@ author: "Dubai Times Business Desk"
 date: 2026-05-17
 publishedTime: "21:50 GST"
 watchLine: "Watch whether the Milan dialogues turn into investment deals, company expansions and clearer UAE-Europe business corridors."
-image: "https://images.unsplash.com/photo-1520440229-6469a149ac59?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Historic business district in Milan with elegant European architecture"
+image: "https://images.pexels.com/photos/4575053/pexels-photo-4575053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "From below of contemporary skyscrapers with black glass mirrored walls against cloudy blue sky"
 tags: ["UAE", "Investopia", "Italy", "Investment"]
 draft: false
+pexelsId: "4575053"
 ---
 
 Investment summits can sound like polite rooms full of large words.
