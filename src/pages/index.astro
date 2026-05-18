@@ -31,16 +31,6 @@ const editorPicks = categories
 >
   <section class="time-hero" aria-label="Live UAE time">
     <div class="section time-grid">
-      <aside class="map-card map-card-left" aria-label="UAE map context">
-        <div class="map-shell">
-          <svg viewBox="0 0 220 280" role="img" aria-label="Stylised UAE map">
-            <path d="M76 36c22 13 47 13 66 31 18 17 19 40 36 59 12 14 30 23 31 44 1 18-11 29-24 39-18 14-39 19-59 30-17 10-29 25-49 25-22 0-32-18-39-36-8-20-18-37-25-58-8-25-7-51 2-75 10-25 32-43 61-59Z" />
-            <circle cx="111" cy="143" r="7" />
-            <path class="route" d="M56 204c32-38 64-62 116-78" />
-          </svg>
-          <span>UAE live context</span>
-        </div>
-      </aside>
       <div class="clock-card">
         <p class="eyebrow flag-label"><span class="flag flag-uae" aria-hidden="true"></span> Live UAE Time</p>
         <div class="clock-display">
@@ -75,17 +65,6 @@ const editorPicks = categories
         <div>
           <span><span class="flag flag-us" aria-hidden="true"></span> New York</span>
           <strong id="ny-clock">--:--</strong>
-        </div>
-      </aside>
-      <aside class="map-card map-card-right" aria-label="Dubai location signal">
-        <div class="map-shell">
-          <svg viewBox="0 0 220 280" role="img" aria-label="Stylised Gulf locator map">
-            <path d="M29 46h162v188H29z" />
-            <path class="coast" d="M157 31c-18 29-23 56-12 82 9 23 4 39-16 55-16 13-19 33-11 61" />
-            <circle cx="151" cy="119" r="7" />
-            <path class="route" d="M70 205c24-38 48-63 81-86" />
-          </svg>
-          <span>Dubai, Gulf Standard Time</span>
         </div>
       </aside>
       <div class="hero-weather-strip" aria-label="Quick emirates weather">
@@ -406,15 +385,14 @@ const editorPicks = categories
     align-items: stretch;
     display: grid;
     gap: 22px;
-    grid-template-columns: 180px minmax(0, 1fr) 285px 180px;
+    grid-template-columns: minmax(0, 1fr) 310px;
     min-height: 460px;
     padding-bottom: 54px;
     padding-top: 54px;
   }
 
   .clock-card,
-  .clock-side,
-  .map-card {
+  .clock-side {
     backdrop-filter: blur(24px) saturate(1.18);
     background:
       linear-gradient(135deg, rgba(255, 255, 255, 0.16), rgba(255, 255, 255, 0.07)),
@@ -422,55 +400,6 @@ const editorPicks = categories
     border: 1px solid rgba(255, 255, 255, 0.22);
     border-radius: 12px;
     box-shadow: 0 30px 80px rgba(0, 0, 0, 0.28);
-  }
-
-  .map-card {
-    align-items: center;
-    display: flex;
-    min-width: 0;
-    overflow: hidden;
-    padding: 16px;
-  }
-
-  .map-shell {
-    align-items: center;
-    display: grid;
-    gap: 12px;
-    width: 100%;
-  }
-
-  .map-card svg {
-    aspect-ratio: 1 / 1.28;
-    display: block;
-    max-height: 270px;
-    width: 100%;
-  }
-
-  .map-card path:first-child {
-    fill: rgba(255, 255, 255, 0.09);
-    stroke: rgba(255, 255, 255, 0.22);
-    stroke-width: 2;
-  }
-
-  .map-card circle {
-    fill: #f4d99b;
-    filter: drop-shadow(0 0 12px rgba(244, 217, 155, 0.72));
-  }
-
-  .map-card .route,
-  .map-card .coast {
-    fill: none;
-    stroke: rgba(244, 217, 155, 0.6);
-    stroke-linecap: round;
-    stroke-width: 3;
-  }
-
-  .map-card span {
-    color: rgba(255, 250, 240, 0.74);
-    font-size: 0.78rem;
-    font-weight: 900;
-    line-height: 1.35;
-    text-transform: uppercase;
   }
 
   .clock-card {
@@ -537,12 +466,12 @@ const editorPicks = categories
     align-items: center;
     display: grid;
     gap: clamp(18px, 3vw, 34px);
-    grid-template-columns: minmax(0, 1fr) clamp(118px, 14vw, 170px);
+    grid-template-columns: minmax(0, 1fr) clamp(130px, 13vw, 165px);
   }
 
   .main-clock {
     font-family: Georgia, "Times New Roman", serif;
-    font-size: clamp(3.7rem, 7.4vw, 6.9rem);
+    font-size: clamp(4rem, 7vw, 6.25rem);
     font-variant-numeric: tabular-nums;
     font-weight: 800;
     letter-spacing: 0.01em;
@@ -563,6 +492,7 @@ const editorPicks = categories
       0 18px 42px rgba(0, 0, 0, 0.22);
     min-width: 112px;
     position: relative;
+    justify-self: end;
   }
 
   .analog-clock::before {
@@ -1178,14 +1108,6 @@ const editorPicks = categories
   }
 
   @media (max-width: 1100px) {
-    .time-grid {
-      grid-template-columns: minmax(0, 1fr) 285px;
-    }
-
-    .map-card {
-      display: none;
-    }
-
     .hero-weather-strip {
       grid-template-columns: repeat(4, minmax(0, 1fr));
     }
