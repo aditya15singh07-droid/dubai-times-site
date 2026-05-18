@@ -37,7 +37,6 @@ const {
         <a href="/#news">News</a>
         <a href="/category/dubai">Dubai</a>
         <a href="/category/business">Business</a>
-        <a href="/admin">Admin</a>
         <a href="/about">About</a>
       </nav>
     </header>
@@ -197,8 +196,24 @@ const {
       flex-direction: column;
     }
 
+    .site-header {
+      gap: 18px;
+      padding: 24px 24px 20px;
+      position: relative;
+    }
+
     .nav {
+      gap: 18px;
       justify-content: flex-start;
+      overflow-x: auto;
+      padding-bottom: 4px;
+      scrollbar-width: none;
+      white-space: nowrap;
+      width: 100%;
+    }
+
+    .nav::-webkit-scrollbar {
+      display: none;
     }
 
     .footer-note {

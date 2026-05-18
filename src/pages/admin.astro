@@ -4,7 +4,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 
 <BaseLayout
   title="Manual Admin | Dubai Time"
-  description="A simple manual article drafting page for Dubai Time."
+  description="A private manual article drafting page for Dubai Time."
 >
   <section class="section login-shell" data-login-panel>
     <form class="login-card" data-login-form>
@@ -24,83 +24,13 @@ import BaseLayout from "../layouts/BaseLayout.astro";
     </form>
   </section>
 
-  <section class="section admin-shell" data-admin-panel hidden>
-    <header class="admin-header">
-      <p class="eyebrow">Manual Admin</p>
-      <h1>Create a Dubai Time article draft</h1>
-      <p>
-        Fill the story details, paste your image URL, and generate a clean markdown article
-        file plus the public link format. This page does not publish by itself yet.
-      </p>
-      <button class="logout-button" type="button" data-logout>Lock Admin</button>
-    </header>
-
-    <form class="admin-form" data-admin-form>
-      <label>
-        Title
-        <input name="title" required placeholder="Dubai Metro update changes daily commute..." />
-      </label>
-      <label>
-        Category
-        <select name="category">
-          <option>Dubai</option>
-          <option>UAE</option>
-          <option>Business</option>
-          <option>Real Estate</option>
-          <option>Travel</option>
-          <option>Lifestyle</option>
-          <option>Technology</option>
-          <option>World</option>
-        </select>
-      </label>
-      <label>
-        Short description
-        <textarea name="description" rows="3" required placeholder="One tight summary for homepage cards."></textarea>
-      </label>
-      <label>
-        Image URL
-        <input name="image" required placeholder="https://images.pexels.com/photos/..." />
-      </label>
-      <label>
-        Image alt text
-        <input name="imageAlt" required placeholder="Dubai skyline at sunset..." />
-      </label>
-      <label>
-        Watch line
-        <input name="watchLine" placeholder="Watch how this affects commuters, investors or residents." />
-      </label>
-      <label>
-        Tags
-        <input name="tags" placeholder="Dubai, Transport, RTA" />
-      </label>
-      <label>
-        Full article body
-        <textarea name="body" rows="14" required placeholder="Write or paste the full story here. Use short paragraphs."></textarea>
-      </label>
-      <button type="submit">Generate Article File</button>
-    </form>
-
-    <section class="admin-output" aria-label="Generated article output">
-      <div>
-        <p class="eyebrow">Article Link</p>
-        <code data-link>/articles/your-slug</code>
-      </div>
-      <div>
-        <p class="eyebrow">Markdown File</p>
-        <textarea data-output rows="22" readonly placeholder="Your generated markdown will appear here."></textarea>
-      </div>
-    </section>
-  </section>
+  <div data-admin-mount></div>
 
   <script>
     const loginPanel = document.querySelector("[data-login-panel]");
-    const adminPanel = document.querySelector("[data-admin-panel]");
     const loginForm = document.querySelector("[data-login-form]");
     const loginError = document.querySelector("[data-login-error]");
-    const logout = document.querySelector("[data-logout]");
-    const form = document.querySelector("[data-admin-form]");
-    const output = document.querySelector("[data-output]");
-    const link = document.querySelector("[data-link]");
+    const adminMount = document.querySelector("[data-admin-mount]");
     const validUsernameHash = "1c8404be8725011bb83cb1257571eb0ee8e09571c6ca031b779268b45e878d3a";
     const validPasswordHash = "0762dcffc1d8f9640a520d6317b990a7b3c6f7cd981141820ab56b548e1297b0";
 
@@ -112,14 +42,105 @@ import BaseLayout from "../layouts/BaseLayout.astro";
         .join("");
     };
 
-    const setUnlocked = (unlocked) => {
-      if (loginPanel) loginPanel.hidden = unlocked;
-      if (adminPanel) adminPanel.hidden = !unlocked;
-      window.localStorage.setItem("dubai-time-admin", unlocked ? "unlocked" : "locked");
+    const slugify = (value) =>
+      value
+        .toLowerCase()
+        .replace(/['"]/g, "")
+        .replace(/[^a-z0-9]+/g, "-")
+        .replace(/^-|-$/g, "")
+        .slice(0, 80);
+
+    const escapeYaml = (value) => String(value || "").replaceAll('"', '\\"');
+
+    const renderAdmin = () => {
+      if (!adminMount || !loginPanel) return;
+      loginPanel.hidden = true;
+      adminMount.innerHTML = [
+        '<section class="section admin-shell">',
+        '<header class="admin-header">',
+        '<p class="eyebrow">Manual Admin</p>',
+        '<h1>Create a Dubai Time article draft</h1>',
+        '<p>Fill the story details, paste your image URL, and generate a clean markdown article file plus the public link format. This page does not publish by itself yet.</p>',
+        '<button class="logout-button" type="button" data-logout>Lock Admin</button>',
+        '</header>',
+        '<form class="admin-form" data-admin-form>',
+        '<label>Title<input name="title" required placeholder="Dubai Metro update changes daily commute..." /></label>',
+        '<label>Category<select name="category"><option>Dubai</option><option>UAE</option><option>Business</option><option>Real Estate</option><option>Travel</option><option>Lifestyle</option><option>Technology</option><option>World</option></select></label>',
+        '<label>Short description<textarea name="description" rows="3" required placeholder="One tight summary for homepage cards."></textarea></label>',
+        '<label>Image URL<input name="image" required placeholder="https://images.pexels.com/photos/..." /></label>',
+        '<label>Image alt text<input name="imageAlt" required placeholder="Dubai skyline at sunset..." /></label>',
+        '<label>Watch line<input name="watchLine" placeholder="Watch how this affects commuters, investors or residents." /></label>',
+        '<label>Tags<input name="tags" placeholder="Dubai, Transport, RTA" /></label>',
+        '<label>Full article body<textarea name="body" rows="14" required placeholder="Write or paste the full story here. Use short paragraphs."></textarea></label>',
+        '<button type="submit">Generate Article File</button>',
+        '</form>',
+        '<section class="admin-output" aria-label="Generated article output">',
+        '<div><p class="eyebrow">Article Link</p><code data-link>/articles/your-slug</code></div>',
+        '<div><p class="eyebrow">Markdown File</p><textarea data-output rows="22" readonly placeholder="Your generated markdown will appear here."></textarea></div>',
+        '</section>',
+        '</section>',
+      ].join("");
+
+      const form = adminMount.querySelector("[data-admin-form]");
+      const output = adminMount.querySelector("[data-output]");
+      const link = adminMount.querySelector("[data-link]");
+      const logout = adminMount.querySelector("[data-logout]");
+
+      logout?.addEventListener("click", () => {
+        window.sessionStorage.removeItem("dubai-time-admin");
+        adminMount.innerHTML = "";
+        loginPanel.hidden = false;
+      });
+
+      form?.addEventListener("submit", (event) => {
+        event.preventDefault();
+        const data = new FormData(form);
+        const title = data.get("title");
+        const slug = slugify(title);
+        const today = new Intl.DateTimeFormat("en-CA", {
+          timeZone: "Asia/Dubai",
+          year: "numeric",
+          month: "2-digit",
+          day: "2-digit",
+        }).format(new Date());
+        const time = new Intl.DateTimeFormat("en-US", {
+          timeZone: "Asia/Dubai",
+          hour: "2-digit",
+          minute: "2-digit",
+          hour12: false,
+        }).format(new Date());
+        const tags = String(data.get("tags") || "")
+          .split(",")
+          .map((tag) => tag.trim())
+          .filter(Boolean)
+          .map((tag) => `"${escapeYaml(tag)}"`)
+          .join(", ");
+        const markdown = [
+          "---",
+          `title: "${escapeYaml(title)}"`,
+          `description: "${escapeYaml(data.get("description"))}"`,
+          `category: "${escapeYaml(data.get("category"))}"`,
+          'author: "Dubai Time Desk"',
+          `date: ${today}`,
+          `publishedTime: "${time} GST"`,
+          `watchLine: "${escapeYaml(data.get("watchLine") || "Watch the next official update and public response.")}"`,
+          `image: "${escapeYaml(data.get("image"))}"`,
+          `imageAlt: "${escapeYaml(data.get("imageAlt"))}"`,
+          `tags: [${tags}]`,
+          "draft: false",
+          "---",
+          "",
+          data.get("body"),
+          "",
+        ].join("\n");
+
+        if (output) output.value = markdown;
+        if (link) link.textContent = `/articles/${slug}`;
+      });
     };
 
-    if (window.localStorage.getItem("dubai-time-admin") === "unlocked") {
-      setUnlocked(true);
+    if (window.sessionStorage.getItem("dubai-time-admin") === "unlocked") {
+      renderAdmin();
     }
 
     loginForm?.addEventListener("submit", async (event) => {
@@ -136,66 +157,8 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 
       if (loginError) loginError.textContent = "";
       loginForm.reset();
-      setUnlocked(true);
-    });
-
-    logout?.addEventListener("click", () => {
-      setUnlocked(false);
-    });
-
-    const slugify = (value) =>
-      value
-        .toLowerCase()
-        .replace(/['"]/g, "")
-        .replace(/[^a-z0-9]+/g, "-")
-        .replace(/^-|-$/g, "")
-        .slice(0, 80);
-
-    const escapeYaml = (value) => String(value || "").replaceAll('"', '\\"');
-
-    form?.addEventListener("submit", (event) => {
-      event.preventDefault();
-      const data = new FormData(form);
-      const title = data.get("title");
-      const slug = slugify(title);
-      const today = new Intl.DateTimeFormat("en-CA", {
-        timeZone: "Asia/Dubai",
-        year: "numeric",
-        month: "2-digit",
-        day: "2-digit",
-      }).format(new Date());
-      const time = new Intl.DateTimeFormat("en-US", {
-        timeZone: "Asia/Dubai",
-        hour: "2-digit",
-        minute: "2-digit",
-        hour12: false,
-      }).format(new Date());
-      const tags = String(data.get("tags") || "")
-        .split(",")
-        .map((tag) => tag.trim())
-        .filter(Boolean)
-        .map((tag) => `"${escapeYaml(tag)}"`)
-        .join(", ");
-
-      const markdown = `---
-title: "${escapeYaml(title)}"
-description: "${escapeYaml(data.get("description"))}"
-category: "${escapeYaml(data.get("category"))}"
-author: "Dubai Time Desk"
-date: ${today}
-publishedTime: "${time} GST"
-watchLine: "${escapeYaml(data.get("watchLine") || "Watch the next official update and public response.")}"
-image: "${escapeYaml(data.get("image"))}"
-imageAlt: "${escapeYaml(data.get("imageAlt"))}"
-tags: [${tags}]
-draft: false
----
-
-${data.get("body")}
-`;
-
-      if (output) output.value = markdown;
-      if (link) link.textContent = `/articles/${slug}`;
+      window.sessionStorage.setItem("dubai-time-admin", "unlocked");
+      renderAdmin();
     });
   </script>
 </BaseLayout>

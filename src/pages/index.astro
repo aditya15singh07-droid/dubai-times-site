@@ -1134,8 +1134,19 @@ const editorPicks = categories
       min-height: auto;
     }
 
+    .clock-card {
+      align-items: center;
+      padding: 28px 20px;
+      text-align: center;
+    }
+
+    .flag-label {
+      justify-content: center;
+    }
+
     .main-clock {
-      font-size: clamp(3.1rem, 13vw, 5.8rem);
+      font-size: clamp(3rem, 15vw, 5.2rem);
+      justify-self: center;
     }
 
     .clock-side {
@@ -1144,10 +1155,20 @@ const editorPicks = categories
 
     .clock-display {
       grid-template-columns: 1fr;
+      justify-items: center;
     }
 
     .analog-clock {
       max-width: 150px;
+      justify-self: center;
+    }
+
+    .clock-date {
+      text-align: center;
+    }
+
+    .clock-meta {
+      justify-content: center;
     }
 
     .weather-grid {
@@ -1161,8 +1182,27 @@ const editorPicks = categories
   }
 
   @media (max-width: 640px) {
+    .time-hero .section {
+      padding-inline: 16px;
+    }
+
+    .clock-card {
+      border-radius: 14px;
+      padding: 26px 16px;
+    }
+
+    .main-clock {
+      font-size: clamp(2.85rem, 15vw, 4.4rem);
+    }
+
+    .clock-meta span {
+      justify-content: center;
+      text-align: center;
+      width: 100%;
+    }
+
     .hero-weather-strip {
-      grid-template-columns: repeat(2, minmax(0, 1fr));
+      grid-template-columns: 1fr;
     }
 
     .clock-side,
