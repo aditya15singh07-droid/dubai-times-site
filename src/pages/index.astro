@@ -393,13 +393,18 @@ const editorPicks = categories
 
   .clock-card,
   .clock-side {
-    backdrop-filter: blur(24px) saturate(1.18);
+    backdrop-filter: blur(32px) saturate(1.36);
     background:
-      linear-gradient(135deg, rgba(255, 255, 255, 0.16), rgba(255, 255, 255, 0.07)),
-      linear-gradient(135deg, rgba(194, 145, 45, 0.08), rgba(11, 110, 105, 0.1));
-    border: 1px solid rgba(255, 255, 255, 0.22);
-    border-radius: 12px;
-    box-shadow: 0 30px 80px rgba(0, 0, 0, 0.28);
+      radial-gradient(circle at 18% 10%, rgba(255, 255, 255, 0.34), transparent 24%),
+      linear-gradient(135deg, rgba(255, 255, 255, 0.18), rgba(255, 255, 255, 0.055)),
+      linear-gradient(135deg, rgba(194, 145, 45, 0.09), rgba(11, 110, 105, 0.12));
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 16px;
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.42),
+      inset 0 -1px 0 rgba(255, 255, 255, 0.1),
+      0 30px 80px rgba(0, 0, 0, 0.28);
+    position: relative;
   }
 
   .clock-card {
@@ -410,6 +415,26 @@ const editorPicks = categories
     min-width: 0;
     overflow: hidden;
     padding: clamp(28px, 5vw, 58px);
+  }
+
+  .clock-card::before,
+  .clock-side::before,
+  .hero-weather-strip::before,
+  .weather-desk::before,
+  .alert-panel::before,
+  .lead::before,
+  .brief-card::before,
+  .editor-pick::before,
+  .story-card::before {
+    background:
+      linear-gradient(115deg, rgba(255, 255, 255, 0.42), transparent 28%),
+      radial-gradient(circle at 18% 10%, rgba(255, 255, 255, 0.34), transparent 26%);
+    border-radius: inherit;
+    content: "";
+    inset: 1px;
+    opacity: 0.58;
+    pointer-events: none;
+    position: absolute;
   }
 
   .clock-card .eyebrow {
@@ -489,6 +514,7 @@ const editorPicks = categories
     border-radius: 50%;
     box-shadow:
       inset 0 0 18px rgba(8, 76, 97, 0.04),
+      inset 0 1px 8px rgba(255, 255, 255, 0.9),
       0 18px 42px rgba(0, 0, 0, 0.22);
     min-width: 112px;
     position: relative;
@@ -573,23 +599,30 @@ const editorPicks = categories
   }
 
   .hero-weather-strip {
-    backdrop-filter: blur(22px) saturate(1.18);
+    backdrop-filter: blur(30px) saturate(1.35);
     background:
-      linear-gradient(135deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.06));
-    border: 1px solid rgba(255, 255, 255, 0.18);
-    border-radius: 12px;
-    box-shadow: 0 24px 60px rgba(0, 0, 0, 0.2);
+      radial-gradient(circle at 10% 0%, rgba(255, 255, 255, 0.32), transparent 28%),
+      linear-gradient(135deg, rgba(255, 255, 255, 0.17), rgba(255, 255, 255, 0.055));
+    border: 1px solid rgba(255, 255, 255, 0.28);
+    border-radius: 16px;
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.34),
+      0 24px 60px rgba(0, 0, 0, 0.2);
     display: grid;
     gap: 10px;
     grid-column: 1 / -1;
     grid-template-columns: repeat(7, minmax(0, 1fr));
     padding: 12px;
+    position: relative;
   }
 
   .hero-weather-strip article {
-    background: rgba(255, 255, 255, 0.1);
-    border: 1px solid rgba(255, 255, 255, 0.12);
-    border-radius: 9px;
+    backdrop-filter: blur(16px) saturate(1.25);
+    background:
+      linear-gradient(135deg, rgba(255, 255, 255, 0.16), rgba(255, 255, 255, 0.06));
+    border: 1px solid rgba(255, 255, 255, 0.16);
+    border-radius: 11px;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.24);
     display: grid;
     gap: 4px;
     min-width: 0;
@@ -639,8 +672,10 @@ const editorPicks = categories
 
   .clock-meta span,
   .clock-side div {
-    background: rgba(255, 255, 255, 0.1);
-    border: 1px solid rgba(255, 255, 255, 0.14);
+    backdrop-filter: blur(14px) saturate(1.2);
+    background:
+      linear-gradient(135deg, rgba(255, 255, 255, 0.17), rgba(255, 255, 255, 0.065));
+    border: 1px solid rgba(255, 255, 255, 0.18);
     border-radius: 999px;
     color: rgba(255, 250, 240, 0.88);
     font-size: 0.84rem;
@@ -677,13 +712,18 @@ const editorPicks = categories
   }
 
   .weather-desk {
+    backdrop-filter: blur(24px) saturate(1.24);
     background:
-      linear-gradient(135deg, rgba(255, 255, 255, 0.74), rgba(255, 255, 255, 0.36));
-    border: 1px solid rgba(255, 255, 255, 0.62);
-    border-radius: 12px;
-    box-shadow: 0 24px 70px rgba(7, 19, 24, 0.08);
+      radial-gradient(circle at 12% 0%, rgba(255, 255, 255, 0.9), transparent 28%),
+      linear-gradient(135deg, rgba(255, 255, 255, 0.78), rgba(255, 255, 255, 0.34));
+    border: 1px solid rgba(255, 255, 255, 0.72);
+    border-radius: 18px;
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.78),
+      0 24px 70px rgba(7, 19, 24, 0.08);
     margin-top: 34px;
     padding-top: 34px;
+    position: relative;
   }
 
   .weather-heading {
@@ -711,16 +751,18 @@ const editorPicks = categories
 
   .alert-panel {
     align-items: center;
-    backdrop-filter: blur(18px);
+    backdrop-filter: blur(24px) saturate(1.26);
     background:
-      linear-gradient(135deg, rgba(255, 255, 255, 0.88), rgba(255, 255, 255, 0.56));
-    border: 1px solid rgba(222, 216, 205, 0.76);
-    border-radius: 10px;
+      radial-gradient(circle at 8% 0%, rgba(255, 255, 255, 0.82), transparent 24%),
+      linear-gradient(135deg, rgba(255, 255, 255, 0.88), rgba(255, 255, 255, 0.5));
+    border: 1px solid rgba(255, 255, 255, 0.7);
+    border-radius: 14px;
     display: flex;
     gap: 14px;
     justify-content: space-between;
     margin-bottom: 18px;
     padding: 15px 18px;
+    position: relative;
   }
 
   .alert-panel span {
@@ -763,13 +805,16 @@ const editorPicks = categories
   }
 
   .weather-card {
-    backdrop-filter: blur(18px);
+    backdrop-filter: blur(24px) saturate(1.28);
     background:
-      linear-gradient(135deg, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.55)),
+      radial-gradient(circle at 16% 0%, rgba(255, 255, 255, 0.78), transparent 28%),
+      linear-gradient(135deg, rgba(255, 255, 255, 0.88), rgba(255, 255, 255, 0.48)),
       linear-gradient(135deg, rgba(11, 110, 105, 0.09), rgba(194, 145, 45, 0.07));
-    border: 1px solid rgba(222, 216, 205, 0.78);
-    border-radius: 10px;
-    box-shadow: 0 18px 48px rgba(7, 19, 24, 0.09);
+    border: 1px solid rgba(255, 255, 255, 0.74);
+    border-radius: 15px;
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.72),
+      0 18px 48px rgba(7, 19, 24, 0.09);
     display: flex;
     flex-direction: column;
     min-height: 254px;
@@ -910,16 +955,20 @@ const editorPicks = categories
   }
 
   .lead {
-    backdrop-filter: blur(18px);
+    backdrop-filter: blur(26px) saturate(1.24);
     background:
-      linear-gradient(135deg, rgba(255, 255, 255, 0.92), rgba(255, 255, 255, 0.58));
-    border: 1px solid rgba(222, 216, 205, 0.78);
-    border-radius: 10px;
-    box-shadow: 0 24px 70px rgba(7, 19, 24, 0.13);
+      radial-gradient(circle at 12% 0%, rgba(255, 255, 255, 0.78), transparent 26%),
+      linear-gradient(135deg, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.5));
+    border: 1px solid rgba(255, 255, 255, 0.72);
+    border-radius: 16px;
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.72),
+      0 24px 70px rgba(7, 19, 24, 0.13);
     display: grid;
     gap: 30px;
     grid-template-columns: minmax(0, 1.05fr) minmax(340px, 0.95fr);
     overflow: hidden;
+    position: relative;
   }
 
   .lead img {
@@ -966,12 +1015,16 @@ const editorPicks = categories
   .brief-card,
   .editor-pick,
   .story-card {
-    backdrop-filter: blur(18px);
+    backdrop-filter: blur(24px) saturate(1.24);
     background:
-      linear-gradient(135deg, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.54));
-    border: 1px solid rgba(222, 216, 205, 0.76);
-    border-radius: 10px;
-    box-shadow: 0 14px 34px rgba(7, 19, 24, 0.07);
+      radial-gradient(circle at 14% 0%, rgba(255, 255, 255, 0.74), transparent 26%),
+      linear-gradient(135deg, rgba(255, 255, 255, 0.88), rgba(255, 255, 255, 0.48));
+    border: 1px solid rgba(255, 255, 255, 0.7);
+    border-radius: 15px;
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.72),
+      0 14px 34px rgba(7, 19, 24, 0.07);
+    position: relative;
   }
 
   .brief-card {
