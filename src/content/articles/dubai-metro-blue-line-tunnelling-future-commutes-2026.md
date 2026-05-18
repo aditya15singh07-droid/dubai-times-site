@@ -5,8 +5,8 @@ category: "Dubai"
 author: "Dubai Times Dubai Desk"
 date: 2026-05-18
 watchLine: "Watch execution timelines, station-area planning and whether the line changes commuting behaviour before roads get tighter."
-image: "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Dubai skyline with urban transport corridor"
+image: "/images/dubai-times-dubai.svg"
+imageAlt: "Dubai Times Dubai editorial image"
 tags: ["Dubai", "Metro", "Transport", "Infrastructure"]
 draft: false
 ---

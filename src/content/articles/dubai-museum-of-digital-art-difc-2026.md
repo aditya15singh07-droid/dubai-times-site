@@ -6,8 +6,8 @@ author: "Dubai Times Culture Desk"
 date: 2026-05-17
 publishedTime: "13:10 GST"
 watchLine: "Track MODA's first programming calendar, artist partnerships, education activity and repeat-visit appeal."
-image: "https://images.unsplash.com/photo-1554907984-15263bfd63bd?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Visitors inside a contemporary digital art exhibition"
+image: "/images/dubai-times-lifestyle.svg"
+imageAlt: "Dubai Times Lifestyle editorial image"
 tags: ["Dubai", "Culture", "Digital Art", "DIFC"]
 draft: false
 ---

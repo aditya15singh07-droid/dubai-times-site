@@ -5,8 +5,8 @@ category: "World"
 author: "Dubai Times World Desk"
 date: 2026-05-18
 watchLine: "Watch whether bypass routes become permanent strategic priorities long after the current disruption fades."
-image: "https://images.unsplash.com/photo-1494412651409-8963ce7935a7?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Industrial port and logistics corridor by the sea"
+image: "/images/dubai-times-world.svg"
+imageAlt: "Dubai Times World editorial image"
 tags: ["World", "Gulf", "Hormuz", "Trade"]
 draft: false
 ---

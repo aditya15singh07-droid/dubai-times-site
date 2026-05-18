@@ -5,8 +5,8 @@ category: "Lifestyle"
 author: "Dubai Times Lifestyle Desk"
 date: 2026-05-17
 watchLine: "Follow whether gaming, Eid and retail campaigns keep converting attention into mall footfall, hotel demand and sponsor interest."
-image: "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Bright shopping mall interior with people walking"
+image: "/images/dubai-times-lifestyle.svg"
+imageAlt: "Dubai Times Lifestyle editorial image"
 tags: ["Dubai", "Retail", "Lifestyle"]
 draft: false
 ---

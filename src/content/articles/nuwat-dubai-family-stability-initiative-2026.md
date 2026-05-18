@@ -6,8 +6,8 @@ author: "Dubai Times City Desk"
 date: 2026-05-17
 publishedTime: "21:35 GST"
 watchLine: "Watch whether Nuwat Dubai turns family support from event activity into regular, trusted community help."
-image: "https://images.unsplash.com/photo-1511895426328-dc8714191300?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Family sitting together at home in warm evening light"
+image: "/images/dubai-times-dubai.svg"
+imageAlt: "Dubai Times Dubai editorial image"
 tags: ["Dubai", "Family", "Community", "Social Agenda 33"]
 draft: false
 ---

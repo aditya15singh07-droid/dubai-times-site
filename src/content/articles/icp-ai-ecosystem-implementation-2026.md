@@ -5,8 +5,8 @@ category: "UAE"
 author: "Dubai Times UAE Desk"
 date: 2026-05-18
 watchLine: "Watch which ICP services become genuinely faster and whether automation stays transparent in identity, customs and border processes."
-image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Digital network visualization over a city"
+image: "/images/dubai-times-uae.svg"
+imageAlt: "Dubai Times UAE editorial image"
 tags: ["UAE", "ICP", "AI", "Government"]
 draft: false
 ---

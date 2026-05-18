@@ -5,8 +5,8 @@ category: "Real Estate"
 author: "Dubai Times Real Estate Desk"
 date: 2026-05-17
 watchLine: "Watch whether transaction value keeps rising faster than volume and whether Dubai South keeps leading area demand."
-image: "https://images.unsplash.com/photo-1546412414-e1885259563a?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Dubai Marina skyline and waterfront towers"
+image: "/images/dubai-times-real-estate.svg"
+imageAlt: "Dubai Times Real Estate editorial image"
 tags: ["Dubai", "Real Estate", "Property"]
 draft: false
 ---

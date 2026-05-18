@@ -6,8 +6,8 @@ author: "Dubai Times Business Desk"
 date: 2026-05-17
 publishedTime: "11:15 GST"
 watchLine: "Watch whether manufacturers use the support package to open new markets, secure repeat orders and report measurable export growth."
-image: "https://images.unsplash.com/photo-1494412651409-8963ce7935a7?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Shipping containers and logistics cranes at a trade port"
+image: "/images/dubai-times-business.svg"
+imageAlt: "Dubai Times Business editorial image"
 tags: ["Dubai", "Exports", "Manufacturing", "D33"]
 draft: false
 ---

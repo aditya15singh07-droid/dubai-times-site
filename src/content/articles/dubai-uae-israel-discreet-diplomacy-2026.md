@@ -5,8 +5,8 @@ category: "World"
 author: "Dubai Times World Desk"
 date: 2026-05-17
 watchLine: "Watch future official language for signs that cooperation remains formal, public-facing and carefully bounded."
-image: "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Diplomatic meeting table with national flags in the background"
+image: "/images/dubai-times-world.svg"
+imageAlt: "Dubai Times World editorial image"
 tags: ["UAE", "Israel", "Diplomacy"]
 draft: false
 ---

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="840" viewBox="0 0 1400 840" role="img" aria-label="Dubai Times Real Estate image">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#ecfeff"/>
+      <stop offset="1" stop-color="#ffffff"/>
+    </linearGradient>
+    <pattern id="grid" width="72" height="72" patternUnits="userSpaceOnUse">
+      <path d="M72 0H0v72" fill="none" stroke="#155e75" stroke-opacity=".12" stroke-width="2"/>
+    </pattern>
+  </defs>
+  <rect width="1400" height="840" fill="url(#g)"/>
+  <rect width="1400" height="840" fill="url(#grid)"/>
+  <path d="M0 658 C220 560 362 745 575 642 C781 542 894 430 1115 501 C1242 542 1325 610 1400 575 V840 H0 Z" fill="#155e75" opacity=".12"/>
+  <path d="M160 655 H1240" stroke="#155e75" stroke-width="6" stroke-linecap="round" opacity=".55"/>
+  <path d="M275 610 L355 460 L438 610 Z M482 610 L600 365 L720 610 Z M760 610 L850 430 L940 610 Z" fill="#155e75" opacity=".18"/>
+  <rect x="108" y="96" width="1184" height="648" rx="34" fill="#ffffff" fill-opacity=".72" stroke="#155e75" stroke-opacity=".22" stroke-width="2"/>
+  <text x="150" y="182" fill="#155e75" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700" letter-spacing="4">DUBAI TIMES</text>
+  <text x="150" y="390" fill="#0f172a" font-family="Georgia, 'Times New Roman', serif" font-size="112" font-weight="700">Real Estate</text>
+  <text x="154" y="466" fill="#155e75" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">Property Watch</text>
+  <text x="154" y="545" fill="#0f172a" opacity=".72" font-family="Arial, Helvetica, sans-serif" font-size="28">Source-linked reporting for Dubai, the UAE and the region</text>
+  <circle cx="1140" cy="190" r="74" fill="#155e75" opacity=".14"/>
+  <circle cx="1140" cy="190" r="42" fill="#155e75" opacity=".28"/>
+</svg>

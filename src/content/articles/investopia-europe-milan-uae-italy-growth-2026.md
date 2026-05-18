@@ -6,8 +6,8 @@ author: "Dubai Times Business Desk"
 date: 2026-05-17
 publishedTime: "21:50 GST"
 watchLine: "Watch whether the Milan dialogues turn into investment deals, company expansions and clearer UAE-Europe business corridors."
-image: "https://images.unsplash.com/photo-1520440229-6469a149ac59?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Historic business district in Milan with elegant European architecture"
+image: "/images/dubai-times-business.svg"
+imageAlt: "Dubai Times Business editorial image"
 tags: ["UAE", "Investopia", "Italy", "Investment"]
 draft: false
 ---

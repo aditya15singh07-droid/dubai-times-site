@@ -6,8 +6,8 @@ author: "Dubai Times Business Desk"
 date: 2026-05-17
 publishedTime: "14:45 GST"
 watchLine: "Track whether DEWA's 2028 transmission pipeline lands ahead of new community, hotel, industrial and data-infrastructure demand."
-image: "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Electricity transmission infrastructure at sunset"
+image: "/images/dubai-times-business.svg"
+imageAlt: "Dubai Times Business editorial image"
 tags: ["Dubai", "DEWA", "Infrastructure", "Energy"]
 draft: false
 ---

@@ -5,8 +5,8 @@ category: "Technology"
 author: "Dubai Times Technology Desk"
 date: 2026-05-17
 watchLine: "Watch how many resident tasks become connected across identity, payment, transport, property and public-service platforms."
-image: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Person using a smartphone with digital interface lights"
+image: "/images/dubai-times-technology.svg"
+imageAlt: "Dubai Times Technology editorial image"
 tags: ["Dubai", "Technology", "Services"]
 draft: false
 ---

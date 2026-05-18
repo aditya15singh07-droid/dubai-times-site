@@ -5,8 +5,8 @@ category: "Travel"
 author: "Dubai Times Travel Desk"
 date: 2026-05-18
 watchLine: "Watch whether route recovery restores transfer traffic quickly and whether summer demand exposes any new capacity bottlenecks."
-image: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Passenger aircraft at a busy international airport"
+image: "/images/dubai-times-travel.svg"
+imageAlt: "Dubai Times Travel editorial image"
 tags: ["Dubai", "DXB", "Travel", "Aviation"]
 draft: false
 ---

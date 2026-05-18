@@ -6,8 +6,8 @@ author: "Dubai Times City Desk"
 date: 2026-05-17
 publishedTime: "14:20 GST"
 watchLine: "Track peak-hour travel times and whether Deira, Dubai Islands and Port Rashid market the connectivity gain."
-image: "https://images.unsplash.com/photo-1546412414-8035e1776c9a?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Dubai road infrastructure near the waterfront"
+image: "/images/dubai-times-dubai.svg"
+imageAlt: "Dubai Times Dubai editorial image"
 tags: ["Dubai", "RTA", "Infrastructure", "Transport"]
 draft: false
 ---

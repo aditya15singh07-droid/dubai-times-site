@@ -5,8 +5,8 @@ category: "Travel"
 author: "Dubai Times Travel Desk"
 date: 2026-05-18
 watchLine: "Watch whether RTA rolls the model out quickly and whether bus-to-metro transfers become visibly smoother for daily riders."
-image: "https://images.unsplash.com/photo-1527151735408-ed03dcf6c9a8?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Modern public transport stop in a city"
+image: "/images/dubai-times-travel.svg"
+imageAlt: "Dubai Times Travel editorial image"
 tags: ["Dubai", "RTA", "Bus", "Travel"]
 draft: false
 ---

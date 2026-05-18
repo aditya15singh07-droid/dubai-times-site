@@ -6,8 +6,8 @@ author: "Dubai Times City Desk"
 date: 2026-05-17
 publishedTime: "11:50 GST"
 watchLine: "Watch whether events, sports activations and food concepts turn the upgraded beach into a repeat destination."
-image: "https://images.unsplash.com/photo-1546412414-8035e1776c9a?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Beachfront in Dubai with city skyline in the distance"
+image: "/images/dubai-times-lifestyle.svg"
+imageAlt: "Dubai Times Lifestyle editorial image"
 tags: ["Dubai", "Lifestyle", "Tourism", "Infrastructure"]
 draft: false
 ---

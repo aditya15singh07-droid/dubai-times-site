@@ -6,8 +6,8 @@ author: "Dubai Times City Desk"
 date: 2026-05-17
 publishedTime: "19:25 GST"
 watchLine: "Watch whether Al Shera'a becomes a practical benchmark for future public buildings, not only a landmark launch."
-image: "https://images.unsplash.com/photo-1518005020951-eccb494ad742?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Modern glass architecture in Dubai with sunlight reflecting from the facade"
+image: "/images/dubai-times-dubai.svg"
+imageAlt: "Dubai Times Dubai editorial image"
 tags: ["Dubai", "DEWA", "Sustainability", "Architecture"]
 draft: false
 ---

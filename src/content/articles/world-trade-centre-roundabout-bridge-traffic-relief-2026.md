@@ -5,8 +5,8 @@ category: "Dubai"
 author: "Dubai Times Dubai Desk"
 date: 2026-05-18
 watchLine: "Watch whether the full six-bridge package meaningfully eases peak-hour pressure around Sheikh Zayed Road and Al Mustaqbal Street."
-image: "https://images.unsplash.com/photo-1489515217757-5fd1be406fef?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Traffic moving through a modern city interchange"
+image: "/images/dubai-times-dubai.svg"
+imageAlt: "Dubai Times Dubai editorial image"
 tags: ["Dubai", "RTA", "Roads", "Traffic"]
 draft: false
 ---
