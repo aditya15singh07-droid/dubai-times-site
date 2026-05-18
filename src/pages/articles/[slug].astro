@@ -31,6 +31,15 @@ const focusTags = article.data.tags.slice(0, 3).join(", ");
       </div>
     </header>
     <img class="hero-image" src={article.data.image} alt={article.data.imageAlt} />
+    {article.data.imageCredit && (
+      <p class="image-credit">
+        {article.data.imageCreditUrl ? (
+          <a href={article.data.imageCreditUrl} target="_blank" rel="noreferrer">{article.data.imageCredit}</a>
+        ) : (
+          article.data.imageCredit
+        )}
+      </p>
+    )}
     <section class="reader-brief" aria-label="Reader brief">
       <div>
         <span>Brief</span>
@@ -91,6 +100,20 @@ const focusTags = article.data.tags.slice(0, 3).join(", ");
   .hero-image {
     aspect-ratio: 16 / 9;
     object-fit: cover;
+  }
+
+  .image-credit {
+    color: var(--muted);
+    font-size: 0.78rem;
+    margin: 8px auto 0;
+    max-width: 900px;
+    text-align: right;
+  }
+
+  .image-credit a {
+    color: inherit;
+    text-decoration: underline;
+    text-decoration-color: rgba(98, 102, 111, 0.45);
   }
 
   .reader-brief {
