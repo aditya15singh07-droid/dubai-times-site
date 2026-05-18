@@ -31,8 +31,18 @@ const editorPicks = categories
 >
   <section class="time-hero" aria-label="Live UAE time">
     <div class="section time-grid">
+      <aside class="map-card map-card-left" aria-label="UAE map context">
+        <div class="map-shell">
+          <svg viewBox="0 0 220 280" role="img" aria-label="Stylised UAE map">
+            <path d="M76 36c22 13 47 13 66 31 18 17 19 40 36 59 12 14 30 23 31 44 1 18-11 29-24 39-18 14-39 19-59 30-17 10-29 25-49 25-22 0-32-18-39-36-8-20-18-37-25-58-8-25-7-51 2-75 10-25 32-43 61-59Z" />
+            <circle cx="111" cy="143" r="7" />
+            <path class="route" d="M56 204c32-38 64-62 116-78" />
+          </svg>
+          <span>UAE live context</span>
+        </div>
+      </aside>
       <div class="clock-card">
-        <p class="eyebrow">Live UAE Time</p>
+        <p class="eyebrow flag-label"><span class="flag flag-uae" aria-hidden="true"></span> Live UAE Time</p>
         <div class="clock-display">
           <time class="main-clock" id="uae-clock" datetime="">--:--:--</time>
           <div class="analog-clock" aria-label="Analog UAE clock">
@@ -59,12 +69,23 @@ const editorPicks = categories
           <strong id="utc-clock">--:--</strong>
         </div>
         <div>
-          <span>India</span>
+          <span><span class="flag flag-india" aria-hidden="true"></span> India</span>
           <strong id="ist-clock">--:--</strong>
         </div>
         <div>
-          <span>New York</span>
+          <span><span class="flag flag-us" aria-hidden="true"></span> New York</span>
           <strong id="ny-clock">--:--</strong>
+        </div>
+      </aside>
+      <aside class="map-card map-card-right" aria-label="Dubai location signal">
+        <div class="map-shell">
+          <svg viewBox="0 0 220 280" role="img" aria-label="Stylised Gulf locator map">
+            <path d="M29 46h162v188H29z" />
+            <path class="coast" d="M157 31c-18 29-23 56-12 82 9 23 4 39-16 55-16 13-19 33-11 61" />
+            <circle cx="151" cy="119" r="7" />
+            <path class="route" d="M70 205c24-38 48-63 81-86" />
+          </svg>
+          <span>Dubai, Gulf Standard Time</span>
         </div>
       </aside>
       <div class="hero-weather-strip" aria-label="Quick emirates weather">
@@ -385,14 +406,15 @@ const editorPicks = categories
     align-items: stretch;
     display: grid;
     gap: 22px;
-    grid-template-columns: minmax(0, 1fr) 310px;
+    grid-template-columns: 180px minmax(0, 1fr) 285px 180px;
     min-height: 460px;
     padding-bottom: 54px;
     padding-top: 54px;
   }
 
   .clock-card,
-  .clock-side {
+  .clock-side,
+  .map-card {
     backdrop-filter: blur(24px) saturate(1.18);
     background:
       linear-gradient(135deg, rgba(255, 255, 255, 0.16), rgba(255, 255, 255, 0.07)),
@@ -400,6 +422,55 @@ const editorPicks = categories
     border: 1px solid rgba(255, 255, 255, 0.22);
     border-radius: 12px;
     box-shadow: 0 30px 80px rgba(0, 0, 0, 0.28);
+  }
+
+  .map-card {
+    align-items: center;
+    display: flex;
+    min-width: 0;
+    overflow: hidden;
+    padding: 16px;
+  }
+
+  .map-shell {
+    align-items: center;
+    display: grid;
+    gap: 12px;
+    width: 100%;
+  }
+
+  .map-card svg {
+    aspect-ratio: 1 / 1.28;
+    display: block;
+    max-height: 270px;
+    width: 100%;
+  }
+
+  .map-card path:first-child {
+    fill: rgba(255, 255, 255, 0.09);
+    stroke: rgba(255, 255, 255, 0.22);
+    stroke-width: 2;
+  }
+
+  .map-card circle {
+    fill: #f4d99b;
+    filter: drop-shadow(0 0 12px rgba(244, 217, 155, 0.72));
+  }
+
+  .map-card .route,
+  .map-card .coast {
+    fill: none;
+    stroke: rgba(244, 217, 155, 0.6);
+    stroke-linecap: round;
+    stroke-width: 3;
+  }
+
+  .map-card span {
+    color: rgba(255, 250, 240, 0.74);
+    font-size: 0.78rem;
+    font-weight: 900;
+    line-height: 1.35;
+    text-transform: uppercase;
   }
 
   .clock-card {
@@ -414,6 +485,52 @@ const editorPicks = categories
 
   .clock-card .eyebrow {
     color: #f4d99b;
+  }
+
+  .flag-label {
+    align-items: center;
+    display: flex;
+    gap: 10px;
+  }
+
+  .flag {
+    border-radius: 3px;
+    box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.35);
+    display: inline-block;
+    flex: 0 0 auto;
+    height: 15px;
+    overflow: hidden;
+    position: relative;
+    vertical-align: -2px;
+    width: 24px;
+  }
+
+  .flag-uae {
+    background:
+      linear-gradient(90deg, #e31b23 0 25%, transparent 25%),
+      linear-gradient(#009a44 0 33.33%, #fff 33.33% 66.66%, #000 66.66%);
+  }
+
+  .flag-india {
+    background: linear-gradient(#ff9933 0 33.33%, #fff 33.33% 66.66%, #138808 66.66%);
+  }
+
+  .flag-india::after {
+    background: #000080;
+    border-radius: 50%;
+    content: "";
+    height: 5px;
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 5px;
+  }
+
+  .flag-us {
+    background:
+      linear-gradient(90deg, #3c3b6e 0 42%, transparent 42%),
+      repeating-linear-gradient(#b22234 0 2px, #fff 2px 4px);
   }
 
   .clock-display {
@@ -438,19 +555,18 @@ const editorPicks = categories
   .analog-clock {
     aspect-ratio: 1;
     background:
-      radial-gradient(circle at 45% 35%, rgba(255, 255, 255, 0.24), transparent 28%),
-      linear-gradient(135deg, rgba(255, 255, 255, 0.18), rgba(255, 255, 255, 0.06));
-    border: 1px solid rgba(255, 255, 255, 0.24);
+      radial-gradient(circle at 48% 40%, #ffffff 0 38%, #f5f7f8 68%, #eef4f7 100%);
+    border: 1px solid rgba(255, 255, 255, 0.92);
     border-radius: 50%;
     box-shadow:
-      inset 0 0 28px rgba(255, 255, 255, 0.08),
-      0 18px 42px rgba(0, 0, 0, 0.26);
+      inset 0 0 18px rgba(8, 76, 97, 0.04),
+      0 18px 42px rgba(0, 0, 0, 0.22);
     min-width: 112px;
     position: relative;
   }
 
   .analog-clock::before {
-    border: 1px solid rgba(244, 217, 155, 0.34);
+    border: 1px solid rgba(8, 76, 97, 0.06);
     border-radius: 50%;
     content: "";
     inset: 11px;
@@ -458,8 +574,8 @@ const editorPicks = categories
   }
 
   .clock-mark {
-    color: rgba(255, 250, 240, 0.72);
-    font-size: 0.72rem;
+    color: rgba(23, 23, 23, 0.56);
+    font-size: 1rem;
     font-weight: 900;
     position: absolute;
   }
@@ -489,7 +605,7 @@ const editorPicks = categories
   }
 
   .hand {
-    background: #fffaf0;
+    background: #25282c;
     border-radius: 999px;
     bottom: 50%;
     left: 50%;
@@ -509,14 +625,14 @@ const editorPicks = categories
   }
 
   .second-hand {
-    background: #f4d99b;
+    background: #e23b44;
     height: 40%;
     width: 2px;
   }
 
   .analog-clock b {
-    background: #f4d99b;
-    border: 3px solid #fffaf0;
+    background: #e23b44;
+    border: 3px solid #25282c;
     border-radius: 50%;
     height: 14px;
     left: 50%;
@@ -616,8 +732,11 @@ const editorPicks = categories
   }
 
   .clock-side span {
+    align-items: center;
     color: #f4d99b;
+    display: flex;
     font-size: 0.75rem;
+    gap: 8px;
     letter-spacing: 0.1em;
     text-transform: uppercase;
   }
@@ -1059,6 +1178,14 @@ const editorPicks = categories
   }
 
   @media (max-width: 1100px) {
+    .time-grid {
+      grid-template-columns: minmax(0, 1fr) 285px;
+    }
+
+    .map-card {
+      display: none;
+    }
+
     .hero-weather-strip {
       grid-template-columns: repeat(4, minmax(0, 1fr));
     }
