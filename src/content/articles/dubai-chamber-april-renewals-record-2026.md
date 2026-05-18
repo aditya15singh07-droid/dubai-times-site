@@ -5,8 +5,8 @@ category: "Business"
 author: "Dubai Times Business Desk"
 date: 2026-05-18
 watchLine: "Watch whether renewal confidence turns into new hiring, licensing and investment rather than only administrative continuity."
-image: "/images/dubai-times-business.svg"
-imageAlt: "Dubai Times Business editorial image"
+image: "https://images.unsplash.com/photo-1556740749-887f6717d7e4?auto=format&fit=crop&w=1400&q=80"
+imageAlt: "Business district with office buildings and road traffic"
 tags: ["Dubai", "Business", "Chamber of Commerce", "Economy"]
 draft: false
 ---

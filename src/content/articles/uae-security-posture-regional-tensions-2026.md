@@ -5,8 +5,8 @@ category: "UAE"
 author: "Dubai Times UAE Desk"
 date: 2026-05-17
 watchLine: "Watch whether the UAE maintains firm deterrence messaging while preserving normal economic, aviation and logistics activity."
-image: "/images/dubai-times-uae.svg"
-imageAlt: "Dubai Times UAE editorial image"
+image: "https://images.unsplash.com/photo-1584555613497-9ecf9dd06f68?auto=format&fit=crop&w=1400&q=80"
+imageAlt: "UAE flag waving against a city skyline"
 tags: ["UAE", "Security", "Diplomacy"]
 draft: false
 ---

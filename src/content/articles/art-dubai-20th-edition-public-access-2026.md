@@ -5,8 +5,8 @@ category: "Lifestyle"
 author: "Dubai Times Lifestyle Desk"
 date: 2026-05-18
 watchLine: "Watch whether free access widens local participation and whether Dubai converts cultural prestige into repeat public engagement."
-image: "/images/dubai-times-lifestyle.svg"
-imageAlt: "Dubai Times Lifestyle editorial image"
+image: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1400&q=80"
+imageAlt: "Visitors walking through a contemporary art exhibition"
 tags: ["Dubai", "Lifestyle", "Art Dubai", "Culture"]
 draft: false
 ---

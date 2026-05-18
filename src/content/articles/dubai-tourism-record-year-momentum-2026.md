@@ -5,8 +5,8 @@ category: "Travel"
 author: "Dubai Times Travel Desk"
 date: 2026-05-17
 watchLine: "Watch repeat visitation, hotel pricing balance and whether Dubai keeps converting event demand into longer stays."
-image: "/images/dubai-times-travel.svg"
-imageAlt: "Dubai Times Travel editorial image"
+image: "https://images.unsplash.com/photo-1512632578888-169bbbc64f33?auto=format&fit=crop&w=1400&q=80"
+imageAlt: "Tourists looking across Dubai skyline at sunset"
 tags: ["Dubai", "Tourism", "Travel"]
 draft: false
 ---

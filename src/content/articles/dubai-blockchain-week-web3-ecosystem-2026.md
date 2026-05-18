@@ -5,8 +5,8 @@ category: "Technology"
 author: "Dubai Times Technology Desk"
 date: 2026-05-17
 watchLine: "Look for licensed activity, enterprise pilots and companies choosing Dubai as a base after the conference week ends."
-image: "/images/dubai-times-technology.svg"
-imageAlt: "Dubai Times Technology editorial image"
+image: "https://images.unsplash.com/photo-1642104704074-907c0698cbd9?auto=format&fit=crop&w=1400&q=80"
+imageAlt: "Abstract digital network lines over a dark technology background"
 tags: ["Dubai", "Blockchain", "Technology"]
 draft: false
 ---

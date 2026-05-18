@@ -5,8 +5,8 @@ category: "Real Estate"
 author: "Dubai Times Real Estate Desk"
 date: 2026-05-17
 watchLine: "Track absorption in emerging districts and whether handovers convert into healthy occupancy, rental depth and resale liquidity."
-image: "/images/dubai-times-real-estate.svg"
-imageAlt: "Dubai Times Real Estate editorial image"
+image: "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1400&q=80"
+imageAlt: "Dubai skyline seen from the water at sunset"
 tags: ["Dubai", "Property", "Investment"]
 draft: false
 ---

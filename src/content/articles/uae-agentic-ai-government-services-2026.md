@@ -6,8 +6,8 @@ author: "Dubai Times Technology Desk"
 date: 2026-05-17
 publishedTime: "21:05 GST"
 watchLine: "Watch whether agentic AI reduces routine service friction while keeping human accountability clear."
-image: "/images/dubai-times-technology.svg"
-imageAlt: "Dubai Times Technology editorial image"
+image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1400&q=80"
+imageAlt: "Abstract artificial intelligence interface with digital data"
 tags: ["UAE", "AI", "Government Services", "Technology"]
 draft: false
 ---

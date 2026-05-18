@@ -5,8 +5,8 @@ category: "Technology"
 author: "Dubai Times Technology Desk"
 date: 2026-05-18
 watchLine: "Watch whether the Digital Twin project starts changing flood planning, maintenance cycles and waterfront development decisions."
-image: "/images/dubai-times-technology.svg"
-imageAlt: "Dubai Times Technology editorial image"
+image: "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=1400&q=80"
+imageAlt: "Waterfront canal in an urban environment"
 tags: ["Dubai", "Technology", "Digital Twin", "Infrastructure"]
 draft: false
 ---

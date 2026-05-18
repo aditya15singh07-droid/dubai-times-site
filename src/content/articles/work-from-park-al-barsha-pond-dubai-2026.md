@@ -5,8 +5,8 @@ category: "Lifestyle"
 author: "Dubai Times Lifestyle Desk"
 date: 2026-05-18
 watchLine: "Watch whether the Al Barsha Pond Park pilot gets real daily use from freelancers and SMEs, not just social media attention."
-image: "/images/dubai-times-lifestyle.svg"
-imageAlt: "Dubai Times Lifestyle editorial image"
+image: "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1400&q=80"
+imageAlt: "Green urban park with open space for work and leisure"
 tags: ["Dubai", "Lifestyle", "Parks", "Remote Work"]
 draft: false
 ---

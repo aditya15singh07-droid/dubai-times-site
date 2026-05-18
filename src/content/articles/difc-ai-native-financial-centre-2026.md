@@ -5,8 +5,8 @@ category: "Technology"
 author: "Dubai Times Technology Desk"
 date: 2026-05-18
 watchLine: "Watch whether DIFC moves from branding to enforceable frameworks, deployable tools and real hiring growth across finance and compliance."
-image: "/images/dubai-times-technology.svg"
-imageAlt: "Dubai Times Technology editorial image"
+image: "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
+imageAlt: "Modern financial district skyline at dusk"
 tags: ["Dubai", "DIFC", "AI", "Finance"]
 draft: false
 ---

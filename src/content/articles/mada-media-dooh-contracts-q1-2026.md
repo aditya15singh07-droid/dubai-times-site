@@ -5,8 +5,8 @@ category: "Business"
 author: "Dubai Times Business Desk"
 date: 2026-05-18
 watchLine: "Watch whether digital screens, pricing power and urban-design rules keep pushing outdoor ads toward higher-quality inventory."
-image: "/images/dubai-times-business.svg"
-imageAlt: "Dubai Times Business editorial image"
+image: "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1400&q=80"
+imageAlt: "City street with illuminated outdoor advertising displays"
 tags: ["Dubai", "Business", "Advertising", "Media"]
 draft: false
 ---

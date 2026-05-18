@@ -5,8 +5,8 @@ category: "Business"
 author: "Dubai Times Business Desk"
 date: 2026-05-18
 watchLine: "Watch how much of the group’s cash strength turns into fleet delivery, retrofit execution and resilient margins in 2026-27."
-image: "/images/dubai-times-business.svg"
-imageAlt: "Dubai Times Business editorial image"
+image: "https://images.unsplash.com/photo-1530521954074-e64f6810b32d?auto=format&fit=crop&w=1400&q=80"
+imageAlt: "Commercial aircraft on the ground at sunset"
 tags: ["Dubai", "Emirates Group", "Business", "Aviation"]
 draft: false
 ---

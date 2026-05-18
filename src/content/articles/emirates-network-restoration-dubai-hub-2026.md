@@ -5,8 +5,8 @@ category: "Travel"
 author: "Dubai Times Travel Desk"
 date: 2026-05-18
 watchLine: "Watch whether the airline can push beyond 75% of pre-disruption capacity without weakening reliability or fares discipline."
-image: "/images/dubai-times-travel.svg"
-imageAlt: "Dubai Times Travel editorial image"
+image: "https://images.unsplash.com/photo-1504198453319-5ce911bafcde?auto=format&fit=crop&w=1400&q=80"
+imageAlt: "Long-haul passenger jet preparing for departure"
 tags: ["Dubai", "Emirates", "Travel", "Airlines"]
 draft: false
 ---

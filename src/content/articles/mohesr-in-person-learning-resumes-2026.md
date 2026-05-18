@@ -5,8 +5,8 @@ category: "UAE"
 author: "Dubai Times UAE Desk"
 date: 2026-05-18
 watchLine: "Watch whether universities settle quickly into normal academic calendars and whether practical courses recover lost momentum."
-image: "/images/dubai-times-uae.svg"
-imageAlt: "Dubai Times UAE editorial image"
+image: "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1400&q=80"
+imageAlt: "Modern education and work space with people studying"
 tags: ["UAE", "Education", "Universities", "Students"]
 draft: false
 ---

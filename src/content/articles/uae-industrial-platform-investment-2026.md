@@ -5,8 +5,8 @@ category: "Business"
 author: "Dubai Times Business Desk"
 date: 2026-05-17
 watchLine: "Watch whether offtake agreements and industrial funds become factories, jobs, supply contracts and exportable products."
-image: "/images/dubai-times-business.svg"
-imageAlt: "Dubai Times Business editorial image"
+image: "https://images.unsplash.com/photo-1494412651409-8963ce7935a7?auto=format&fit=crop&w=1400&q=80"
+imageAlt: "Shipping containers and logistics cranes at an industrial port"
 tags: ["UAE", "Industry", "Investment"]
 draft: false
 ---

@@ -6,8 +6,8 @@ author: "Dubai Times Business Desk"
 date: 2026-05-17
 publishedTime: "12:35 GST"
 watchLine: "Watch future Emaar launches for stronger destination value, branded living, pricing discipline and delivery confidence."
-image: "/images/dubai-times-real-estate.svg"
-imageAlt: "Dubai Times Real Estate editorial image"
+image: "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1400&q=80"
+imageAlt: "Dubai skyline and waterfront towers at sunset"
 tags: ["Dubai", "Emaar", "Real Estate", "Markets"]
 draft: false
 ---

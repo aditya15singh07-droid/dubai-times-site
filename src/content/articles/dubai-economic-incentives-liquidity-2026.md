@@ -5,8 +5,8 @@ category: "Dubai"
 author: "Dubai Times City Desk"
 date: 2026-05-17
 watchLine: "Follow whether fee relief and liquidity support show up in licensing activity, hotel performance, trade flows and hiring."
-image: "/images/dubai-times-dubai.svg"
-imageAlt: "Dubai Times Dubai editorial image"
+image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
+imageAlt: "Aerial view of Downtown Dubai towers and roads"
 tags: ["Dubai", "Economy", "Government"]
 draft: false
 ---

@@ -6,8 +6,8 @@ author: "Dubai Times City Desk"
 date: 2026-05-17
 publishedTime: "22:05 GST"
 watchLine: "Watch how Dubai uses survey data to shape family policy, inclusion, financial wellbeing and digital services."
-image: "/images/dubai-times-dubai.svg"
-imageAlt: "Dubai Times Dubai editorial image"
+image: "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1400&q=80"
+imageAlt: "Dubai skyline seen from a neighbourhood street"
 tags: ["Dubai", "Quality Of Life", "Social Survey", "Community"]
 draft: false
 ---

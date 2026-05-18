@@ -5,8 +5,8 @@ category: "Business"
 author: "Dubai Times Business Desk"
 date: 2026-05-17
 watchLine: "Watch hotel pricing, premium cabin demand and whether event-led corporate travel stays resilient outside peak leisure months."
-image: "/images/dubai-times-business.svg"
-imageAlt: "Dubai Times Business editorial image"
+image: "https://images.unsplash.com/photo-1526495124232-a04e1849168c?auto=format&fit=crop&w=1400&q=80"
+imageAlt: "Modern airport terminal with travelers walking through the concourse"
 tags: ["Travel", "Business", "Events"]
 draft: false
 ---
