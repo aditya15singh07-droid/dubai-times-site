@@ -13,9 +13,21 @@ export async function getStaticPaths() {
 const { article } = Astro.props;
 const { Content } = await render(article);
 const focusTags = article.data.tags.slice(0, 3).join(", ");
+const allArticles = (await getCollection("articles", ({ data }) => !data.draft))
+  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+const estimateRead = (entry) => Math.max(3, Math.round((entry.body || "").split(/\s+/).length / 220));
+const readingMinutes = estimateRead(article);
+const relatedArticles = allArticles
+  .filter((entry) => entry.id !== article.id && entry.data.category === article.data.category)
+  .slice(0, 3);
+const fallbackRelated = allArticles
+  .filter((entry) => entry.id !== article.id && !relatedArticles.some((related) => related.id === entry.id))
+  .slice(0, 3 - relatedArticles.length);
+const recommendedArticles = [...relatedArticles, ...fallbackRelated];
 ---
 
 <BaseLayout title={`${article.data.title} | Dubai Times`} description={article.data.description}>
+  <div class="reading-progress" aria-hidden="true"><span data-reading-progress></span></div>
   <article class="article section">
     <header class="article-header">
       <p class="eyebrow">{article.data.category}</p>
@@ -28,6 +40,7 @@ const focusTags = article.data.tags.slice(0, 3).join(", ");
           day: "numeric",
           year: "numeric",
         })} · {article.data.publishedTime}</span>
+        <span>{readingMinutes} min read</span>
       </div>
     </header>
     <img class="hero-image" src={article.data.image} alt={article.data.imageAlt} />
@@ -50,6 +63,10 @@ const focusTags = article.data.tags.slice(0, 3).join(", ");
         <strong>{focusTags || article.data.category}</strong>
       </div>
       <div>
+        <span>Read Time</span>
+        <strong>{readingMinutes} minutes, built for a complete picture.</strong>
+      </div>
+      <div>
         <span>Watch</span>
         <strong>{article.data.watchLine}</strong>
       </div>
@@ -60,10 +77,60 @@ const focusTags = article.data.tags.slice(0, 3).join(", ");
     <footer class="tags" aria-label="Article tags">
       {article.data.tags.map((tag) => <span>{tag}</span>)}
     </footer>
+    <section class="continue-reading" aria-label="Continue reading">
+      <div class="continue-heading">
+        <p class="eyebrow">Continue Reading</p>
+        <h2>More stories from the Dubai Times desk</h2>
+      </div>
+      <div class="continue-grid">
+        {recommendedArticles.map((entry) => (
+          <a href={`/articles/${entry.id}`}>
+            <img src={entry.data.image} alt={entry.data.imageAlt} loading="lazy" />
+            <span>{entry.data.category}</span>
+            <strong>{entry.data.title}</strong>
+            <small>{estimateRead(entry)} min read · {entry.data.publishedTime}</small>
+          </a>
+        ))}
+      </div>
+    </section>
   </article>
+  <script>
+    const progress = document.querySelector("[data-reading-progress]");
+    const article = document.querySelector(".article-body");
+
+    const updateProgress = () => {
+      if (!progress || !article) return;
+      const rect = article.getBoundingClientRect();
+      const total = rect.height - window.innerHeight * 0.35;
+      const read = Math.min(Math.max(-rect.top, 0), Math.max(total, 1));
+      progress.style.transform = `scaleX(${read / Math.max(total, 1)})`;
+    };
+
+    updateProgress();
+    window.addEventListener("scroll", updateProgress, { passive: true });
+    window.addEventListener("resize", updateProgress);
+  </script>
 </BaseLayout>
 
 <style>
+  .reading-progress {
+    background: rgba(222, 216, 205, 0.6);
+    height: 3px;
+    inset: 0 0 auto;
+    position: sticky;
+    top: 0;
+    z-index: 20;
+  }
+
+  .reading-progress span {
+    background: linear-gradient(90deg, var(--gold), var(--accent));
+    display: block;
+    height: 100%;
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 120ms linear;
+  }
+
   .article {
     max-width: 980px;
   }
@@ -123,7 +190,7 @@ const focusTags = article.data.tags.slice(0, 3).join(", ");
     border: 1px solid var(--line);
     display: grid;
     gap: 1px;
-    grid-template-columns: 1.2fr 0.8fr 1fr;
+    grid-template-columns: 1.1fr 0.8fr 0.8fr 1fr;
     margin: 22px auto 0;
     max-width: 900px;
   }
@@ -208,9 +275,100 @@ const focusTags = article.data.tags.slice(0, 3).join(", ");
     padding: 8px 10px;
   }
 
+  .continue-reading {
+    border-top: 1px solid var(--line);
+    margin: 42px auto 0;
+    max-width: 900px;
+    padding-top: 28px;
+  }
+
+  .continue-heading {
+    align-items: end;
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    margin-bottom: 18px;
+  }
+
+  .continue-heading h2 {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: clamp(1.8rem, 4vw, 2.7rem);
+    line-height: 1;
+    margin: 0;
+    max-width: 520px;
+    text-align: right;
+  }
+
+  .continue-grid {
+    display: grid;
+    gap: 18px;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .continue-grid a {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    display: grid;
+    overflow: hidden;
+    transition:
+      transform 180ms ease,
+      box-shadow 180ms ease;
+  }
+
+  .continue-grid a:hover {
+    box-shadow: 0 16px 36px rgba(7, 19, 24, 0.11);
+    transform: translateY(-3px);
+  }
+
+  .continue-grid img {
+    aspect-ratio: 16 / 10;
+    object-fit: cover;
+  }
+
+  .continue-grid span,
+  .continue-grid strong,
+  .continue-grid small {
+    margin-inline: 14px;
+  }
+
+  .continue-grid span {
+    color: var(--accent);
+    font-size: 0.72rem;
+    font-weight: 900;
+    letter-spacing: 0.08em;
+    margin-top: 12px;
+    text-transform: uppercase;
+  }
+
+  .continue-grid strong {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1.08rem;
+    line-height: 1.14;
+    margin-top: 6px;
+  }
+
+  .continue-grid small {
+    color: var(--muted);
+    font-size: 0.78rem;
+    font-weight: 800;
+    margin-bottom: 14px;
+    margin-top: 10px;
+  }
+
   @media (max-width: 760px) {
-    .reader-brief {
+    .reader-brief,
+    .continue-grid {
       grid-template-columns: 1fr;
+    }
+
+    .continue-heading {
+      align-items: flex-start;
+      flex-direction: column;
+    }
+
+    .continue-heading h2 {
+      text-align: left;
     }
   }
 </style>

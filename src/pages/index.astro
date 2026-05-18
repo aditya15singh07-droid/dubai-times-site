@@ -6,6 +6,30 @@ import { categories } from "../data/articles";
 const articles = (await getCollection("articles", ({ data }) => !data.draft))
   .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
 const [leadArticle, ...moreArticles] = articles;
+const estimateRead = (article) => Math.max(3, Math.round((article.body || "").split(/\s+/).length / 220));
+const latestDate = articles[0]?.data.date;
+const todayCount = latestDate
+  ? articles.filter((article) => article.data.date.toDateString() === latestDate.toDateString()).length
+  : 0;
+const activeSections = new Set(articles.map((article) => article.data.category)).size;
+const editorPicks = categories
+  .map((category) => articles.find((article) => article.data.category === category))
+  .filter(Boolean)
+  .slice(0, 4);
+const mostRead = [
+  articles.find((article) => article.id === "jebel-ali-port-dubai-trade-engine-2026"),
+  articles.find((article) => article.id === "dubai-metro-blue-line-tunnelling-future-commutes-2026"),
+  articles.find((article) => article.id === "dubai-property-sales-april-resilience-2026"),
+  articles.find((article) => article.id === "icp-ai-ecosystem-implementation-2026"),
+].filter(Boolean);
+const deepReads = articles
+  .filter((article) => estimateRead(article) >= 4)
+  .slice(0, 3);
+const updateStamp = latestDate?.toLocaleDateString("en-US", {
+  month: "long",
+  day: "numeric",
+  year: "numeric",
+});
 
 const marqueeItems = [
   {
@@ -172,6 +196,70 @@ const liveNews = [
     ))}
   </section>
 
+  <section class="section engagement-hub" aria-label="Dubai Times reader dashboard">
+    <div class="hub-main">
+      <div class="hub-heading">
+        <p class="eyebrow">Reader Desk</p>
+        <h2>Start with the stories that explain the day</h2>
+        <p>
+          A cleaner way to enter the edition: the latest city signals, sharp business context,
+          and deeper reads worth staying with.
+        </p>
+      </div>
+      <div class="hub-stats" aria-label="Edition stats">
+        <span><strong>{todayCount}</strong> new today</span>
+        <span><strong>{articles.length}</strong> total reads</span>
+        <span><strong>{activeSections}</strong> active desks</span>
+        <span><strong>{updateStamp}</strong> latest file</span>
+      </div>
+      <div class="editor-grid">
+        {editorPicks.map((article) => (
+          <a class="editor-pick" href={`/articles/${article.id}`}>
+            <img src={article.data.image} alt={article.data.imageAlt} loading="lazy" />
+            <span>{article.data.category}</span>
+            <strong>{article.data.title}</strong>
+            <small>{estimateRead(article)} min read · {article.data.publishedTime}</small>
+          </a>
+        ))}
+      </div>
+    </div>
+
+    <aside class="reader-stack" aria-label="Most read and reader pulse">
+      <div class="stack-card most-read">
+        <p class="eyebrow">Most Read</p>
+        {mostRead.map((article, index) => (
+          <a href={`/articles/${article.id}`}>
+            <span>{String(index + 1).padStart(2, "0")}</span>
+            <strong>{article.data.title}</strong>
+          </a>
+        ))}
+      </div>
+      <div class="stack-card reader-pulse" data-reader-pulse>
+        <p class="eyebrow">Reader Pulse</p>
+        <h3>What should Dubai Times explain deeper next?</h3>
+        <button type="button" data-vote="property">Property prices</button>
+        <button type="button" data-vote="ai">AI in government</button>
+        <p class="pulse-result" data-pulse-result>Vote to see the newsroom pulse.</p>
+      </div>
+    </aside>
+  </section>
+
+  <section class="section deep-read-band" aria-label="Deep reads">
+    <div>
+      <p class="eyebrow">Stay Longer</p>
+      <h2>Deep reads for people who want the full picture</h2>
+    </div>
+    <div class="deep-read-list">
+      {deepReads.map((article) => (
+        <a href={`/articles/${article.id}`}>
+          <span>{article.data.category}</span>
+          <strong>{article.data.title}</strong>
+          <small>{estimateRead(article)} min read</small>
+        </a>
+      ))}
+    </div>
+  </section>
+
   <section class="section news-grid">
     <div class="section-heading">
       <p class="eyebrow">Latest</p>
@@ -192,6 +280,31 @@ const liveNews = [
       ))}
     </div>
   </section>
+
+  <script>
+    const pulse = document.querySelector("[data-reader-pulse]");
+    const result = document.querySelector("[data-pulse-result]");
+    const voteLabels = {
+      property: "Property prices is leading this session.",
+      ai: "AI in government is leading this session.",
+    };
+
+    const setPulse = (vote) => {
+      if (!result || !voteLabels[vote]) return;
+      result.textContent = voteLabels[vote];
+      window.localStorage.setItem("dubai-times-pulse", vote);
+      pulse?.querySelectorAll("button").forEach((button) => {
+        button.toggleAttribute("aria-pressed", button.getAttribute("data-vote") === vote);
+      });
+    };
+
+    const savedPulse = window.localStorage.getItem("dubai-times-pulse");
+    if (savedPulse) setPulse(savedPulse);
+
+    pulse?.querySelectorAll("button").forEach((button) => {
+      button.addEventListener("click", () => setPulse(button.getAttribute("data-vote")));
+    });
+  </script>
 </BaseLayout>
 
 <style>
@@ -555,6 +668,250 @@ const liveNews = [
     margin: 0;
   }
 
+  .engagement-hub {
+    align-items: stretch;
+    display: grid;
+    gap: 22px;
+    grid-template-columns: minmax(0, 1fr) 340px;
+    padding-bottom: 18px;
+    padding-top: 22px;
+  }
+
+  .hub-main,
+  .stack-card,
+  .deep-read-band {
+    background:
+      linear-gradient(135deg, rgba(255, 255, 255, 0.96), rgba(248, 245, 238, 0.92)),
+      radial-gradient(circle at top right, rgba(194, 145, 45, 0.13), transparent 38%);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    box-shadow: 0 18px 48px rgba(7, 19, 24, 0.08);
+  }
+
+  .hub-main {
+    padding: 24px;
+  }
+
+  .hub-heading {
+    align-items: end;
+    display: grid;
+    gap: 14px;
+    grid-template-columns: minmax(0, 1fr) minmax(240px, 0.55fr);
+  }
+
+  .hub-heading h2,
+  .deep-read-band h2 {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: clamp(1.9rem, 4vw, 3.1rem);
+    line-height: 1;
+    margin: 6px 0 0;
+  }
+
+  .hub-heading p:not(.eyebrow) {
+    color: var(--muted);
+    line-height: 1.6;
+    margin: 0;
+  }
+
+  .hub-stats {
+    border-bottom: 1px solid var(--line);
+    border-top: 1px solid var(--line);
+    display: grid;
+    gap: 1px;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    margin: 22px 0;
+  }
+
+  .hub-stats span {
+    background: rgba(255, 255, 255, 0.62);
+    color: var(--muted);
+    display: grid;
+    font-size: 0.78rem;
+    font-weight: 800;
+    gap: 3px;
+    padding: 14px;
+    text-transform: uppercase;
+  }
+
+  .hub-stats strong {
+    color: var(--accent-strong);
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1.4rem;
+    line-height: 1;
+    text-transform: none;
+  }
+
+  .editor-grid {
+    display: grid;
+    gap: 16px;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .editor-pick {
+    background: #fff;
+    border: 1px solid rgba(222, 216, 205, 0.85);
+    border-radius: 6px;
+    display: grid;
+    overflow: hidden;
+    transition:
+      transform 180ms ease,
+      box-shadow 180ms ease;
+  }
+
+  .editor-pick:hover {
+    box-shadow: 0 16px 34px rgba(7, 19, 24, 0.11);
+    transform: translateY(-3px);
+  }
+
+  .editor-pick img {
+    aspect-ratio: 16 / 10;
+    object-fit: cover;
+  }
+
+  .editor-pick span,
+  .editor-pick strong,
+  .editor-pick small {
+    margin-inline: 14px;
+  }
+
+  .editor-pick span {
+    color: var(--accent);
+    font-size: 0.72rem;
+    font-weight: 900;
+    letter-spacing: 0.08em;
+    margin-top: 12px;
+    text-transform: uppercase;
+  }
+
+  .editor-pick strong {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1.05rem;
+    line-height: 1.14;
+    margin-top: 6px;
+  }
+
+  .editor-pick small {
+    color: var(--muted);
+    font-size: 0.78rem;
+    font-weight: 700;
+    margin-bottom: 14px;
+    margin-top: 10px;
+  }
+
+  .reader-stack {
+    display: grid;
+    gap: 18px;
+  }
+
+  .stack-card {
+    padding: 20px;
+  }
+
+  .most-read {
+    display: grid;
+    gap: 13px;
+  }
+
+  .most-read a {
+    border-top: 1px solid var(--line);
+    display: grid;
+    gap: 8px;
+    grid-template-columns: 42px 1fr;
+    padding-top: 13px;
+  }
+
+  .most-read span {
+    color: var(--gold);
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1.25rem;
+    font-weight: 800;
+  }
+
+  .most-read strong {
+    font-size: 0.94rem;
+    line-height: 1.32;
+  }
+
+  .reader-pulse h3 {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1.45rem;
+    line-height: 1.08;
+    margin: 6px 0 16px;
+  }
+
+  .reader-pulse button {
+    background: #fff;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    color: var(--accent-strong);
+    cursor: pointer;
+    font: inherit;
+    font-size: 0.9rem;
+    font-weight: 900;
+    margin: 0 8px 10px 0;
+    padding: 9px 12px;
+  }
+
+  .reader-pulse button[aria-pressed] {
+    background: var(--accent-strong);
+    border-color: var(--accent-strong);
+    color: #fff;
+  }
+
+  .pulse-result {
+    color: var(--muted);
+    font-size: 0.9rem;
+    font-weight: 700;
+    line-height: 1.5;
+    margin: 4px 0 0;
+  }
+
+  .deep-read-band {
+    align-items: center;
+    display: grid;
+    gap: 24px;
+    grid-template-columns: minmax(260px, 0.45fr) 1fr;
+    padding-bottom: 24px;
+    padding-top: 24px;
+  }
+
+  .deep-read-list {
+    display: grid;
+    gap: 12px;
+  }
+
+  .deep-read-list a {
+    align-items: center;
+    background: rgba(255, 255, 255, 0.74);
+    border: 1px solid rgba(222, 216, 205, 0.85);
+    border-radius: 6px;
+    display: grid;
+    gap: 8px;
+    grid-template-columns: 110px 1fr 82px;
+    padding: 14px;
+  }
+
+  .deep-read-list span {
+    color: var(--accent);
+    font-size: 0.72rem;
+    font-weight: 900;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .deep-read-list strong {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1.2rem;
+    line-height: 1.15;
+  }
+
+  .deep-read-list small {
+    color: var(--muted);
+    font-size: 0.78rem;
+    font-weight: 800;
+    text-align: right;
+  }
+
   .cards {
     display: grid;
     gap: 24px;
@@ -604,8 +961,16 @@ const liveNews = [
   @media (max-width: 860px) {
     .lead,
     .cards,
-    .intelligence-band {
+    .intelligence-band,
+    .engagement-hub,
+    .hub-heading,
+    .deep-read-band {
       grid-template-columns: 1fr;
+    }
+
+    .hub-stats,
+    .editor-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 
     .lead-copy {
@@ -626,6 +991,22 @@ const liveNews = [
     .market-card {
       grid-template-columns: 40px 170px auto;
       width: 320px;
+    }
+
+    .deep-read-list a {
+      align-items: start;
+      grid-template-columns: 1fr;
+    }
+
+    .deep-read-list small {
+      text-align: left;
+    }
+  }
+
+  @media (max-width: 520px) {
+    .hub-stats,
+    .editor-grid {
+      grid-template-columns: 1fr;
     }
   }
 </style>
