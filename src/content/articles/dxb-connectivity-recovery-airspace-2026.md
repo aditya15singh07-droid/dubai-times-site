@@ -2,7 +2,7 @@
 title: "DXB Stayed Open Through Disruption. That Matters To More Than Travellers"
 description: "Dubai Airports says DXB kept moving through a difficult regional period, and the deeper significance lies in what that continuity means for trade, transit and confidence."
 category: "Travel"
-author: "Dubai Times Travel Desk"
+author: "Dubai Time Travel Desk"
 date: 2026-05-18
 watchLine: "Watch whether route recovery restores transfer traffic quickly and whether summer demand exposes any new capacity bottlenecks."
 image: "https://images.pexels.com/photos/36346327/pexels-photo-36346327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

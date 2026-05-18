@@ -2,7 +2,7 @@
 title: "UAE Security Message Hardens As Regional Tensions Test Gulf Stability"
 description: "The UAE's response to renewed regional attacks underlines how security, diplomacy, and investor confidence now sit closer together."
 category: "UAE"
-author: "Dubai Times UAE Desk"
+author: "Dubai Time UAE Desk"
 date: 2026-05-17
 watchLine: "Watch whether the UAE maintains firm deterrence messaging while preserving normal economic, aviation and logistics activity."
 image: "https://images.pexels.com/photos/30541591/pexels-photo-30541591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

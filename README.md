@@ -1,6 +1,6 @@
-# Dubai Times Site
+# Dubai Time Site
 
-Dubai Times is an Astro static news website for Dubai, UAE business, real estate, travel, lifestyle, technology, and regional coverage.
+Dubai Time is an Astro static news website for Dubai, UAE business, real estate, travel, lifestyle, technology, and regional coverage.
 
 This repository is the public website layer. The future private automation engine will publish articles into this repo as files, then Cloudflare Pages will build and deploy the live site.
 
@@ -59,7 +59,7 @@ Node.js version: 26
 2. Connect the GitHub repo to Cloudflare Pages.
 3. Cloudflare builds the site from `npm run build`.
 4. Cloudflare serves the generated `dist` folder.
-5. Later, the Dubai Times engine will commit new articles into this repo.
+5. Later, the Dubai Time engine will commit new articles into this repo.
 6. Each commit will trigger a fresh Cloudflare deployment.
 
 ## Future Engine Integration
@@ -81,7 +81,7 @@ Required frontmatter:
 title: "Article title"
 description: "SEO description"
 category: "Business"
-author: "Dubai Times Business Desk"
+author: "Dubai Time Business Desk"
 date: 2026-05-17
 image: "/images/articles/example.jpg"
 imageAlt: "Descriptive image alt text"

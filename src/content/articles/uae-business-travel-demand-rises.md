@@ -2,7 +2,7 @@
 title: "Business Travel Demand Rises As Dubai Events Calendar Expands"
 description: "Hotels, airlines, and conference venues are preparing for a busy season as Dubai's event economy continues to support business travel."
 category: "Business"
-author: "Dubai Times Business Desk"
+author: "Dubai Time Business Desk"
 date: 2026-05-17
 watchLine: "Watch hotel pricing, premium cabin demand and whether event-led corporate travel stays resilient outside peak leisure months."
 image: "https://images.pexels.com/photos/7648472/pexels-photo-7648472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

@@ -2,7 +2,7 @@
 title: "Khor Al Mamzar Beach Opens As Dubai Expands Its Lifestyle Infrastructure"
 description: "The new Khor Al Mamzar Beach adds a larger swimming shoreline, night beach access and public facilities as Dubai invests in quality-of-life destinations."
 category: "Lifestyle"
-author: "Dubai Times City Desk"
+author: "Dubai Time City Desk"
 date: 2026-05-17
 publishedTime: "11:50 GST"
 watchLine: "Watch whether events, sports activations and food concepts turn the upgraded beach into a repeat destination."

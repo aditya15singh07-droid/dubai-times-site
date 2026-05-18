@@ -2,7 +2,7 @@
 title: "DEWA's Grid Expansion Shows The Scale Behind Dubai's Growth"
 description: "DEWA commissioned major substations in 2025 and has more than AED8.5 billion of transmission projects under construction through 2028."
 category: "Business"
-author: "Dubai Times Business Desk"
+author: "Dubai Time Business Desk"
 date: 2026-05-17
 publishedTime: "14:45 GST"
 watchLine: "Track whether DEWA's 2028 transmission pipeline lands ahead of new community, hotel, industrial and data-infrastructure demand."

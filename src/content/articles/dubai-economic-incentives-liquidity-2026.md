@@ -2,7 +2,7 @@
 title: "Dubai Incentives Put Liquidity And Business Confidence Back In Focus"
 description: "Dubai's AED1 billion incentives package gives companies and residents near-term breathing room while reinforcing the emirate's wider growth strategy."
 category: "Dubai"
-author: "Dubai Times City Desk"
+author: "Dubai Time City Desk"
 date: 2026-05-17
 watchLine: "Follow whether fee relief and liquidity support show up in licensing activity, hotel performance, trade flows and hiring."
 image: "https://images.pexels.com/photos/14641161/pexels-photo-14641161.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

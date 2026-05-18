@@ -2,7 +2,7 @@
 title: "Dubai Tourism Enters 2026 With Record Visitor Momentum"
 description: "Dubai's 2025 tourism performance gives the city a strong base for another competitive year across hotels, events, aviation, and retail."
 category: "Travel"
-author: "Dubai Times Travel Desk"
+author: "Dubai Time Travel Desk"
 date: 2026-05-17
 watchLine: "Watch repeat visitation, hotel pricing balance and whether Dubai keeps converting event demand into longer stays."
 image: "https://images.pexels.com/photos/31703898/pexels-photo-31703898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

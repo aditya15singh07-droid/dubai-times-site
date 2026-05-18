@@ -2,7 +2,7 @@
 title: "Emirates Group’s Record Year Shows Dubai’s Aviation Engine Is Still Pulling"
 description: "Emirates Group has posted another record financial year, and the result says as much about Dubai’s role in global movement as it does about airline performance."
 category: "Business"
-author: "Dubai Times Business Desk"
+author: "Dubai Time Business Desk"
 date: 2026-05-18
 watchLine: "Watch how much of the group’s cash strength turns into fleet delivery, retrofit execution and resilient margins in 2026-27."
 image: "https://images.pexels.com/photos/20640898/pexels-photo-20640898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

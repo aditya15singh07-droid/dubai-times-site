@@ -2,7 +2,7 @@
 title: "Investopia Europe Shows How The UAE Is Selling Its Growth Story In Milan"
 description: "Investopia Europe in Milan has brought UAE, Italian and European investors together to discuss new economy sectors, supply chains, energy, luxury, real estate and cross-border capital."
 category: "Business"
-author: "Dubai Times Business Desk"
+author: "Dubai Time Business Desk"
 date: 2026-05-17
 publishedTime: "21:50 GST"
 watchLine: "Watch whether the Milan dialogues turn into investment deals, company expansions and clearer UAE-Europe business corridors."

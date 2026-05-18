@@ -2,7 +2,7 @@
 title: "Digital Services Become Central To Daily Life For Dubai Residents"
 description: "Public and private platforms are reshaping how Dubai residents manage payments, transport, property services, and appointments."
 category: "Technology"
-author: "Dubai Times Technology Desk"
+author: "Dubai Time Technology Desk"
 date: 2026-05-17
 watchLine: "Watch how many resident tasks become connected across identity, payment, transport, property and public-service platforms."
 image: "https://images.pexels.com/photos/7195308/pexels-photo-7195308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

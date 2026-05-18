@@ -2,7 +2,7 @@
 title: "Dubai Real Estate Confidence Holds As New Districts Draw Buyers"
 description: "Developers and brokers are watching fresh demand across emerging Dubai districts as buyers compare lifestyle, transport, and long-term value."
 category: "Real Estate"
-author: "Dubai Times Real Estate Desk"
+author: "Dubai Time Real Estate Desk"
 date: 2026-05-17
 watchLine: "Track absorption in emerging districts and whether handovers convert into healthy occupancy, rental depth and resale liquidity."
 image: "https://images.pexels.com/photos/7937364/pexels-photo-7937364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

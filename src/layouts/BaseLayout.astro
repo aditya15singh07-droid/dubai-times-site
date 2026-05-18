@@ -5,8 +5,8 @@ type Props = {
 };
 
 const {
-  title = "Dubai Times",
-  description = "Dubai Times covers Dubai, UAE business, real estate, travel, lifestyle, technology, and the stories shaping the city.",
+  title = "Dubai Time",
+  description = "Dubai Time tracks the UAE clock, emirates weather, alerts, and the stories shaping Dubai and the wider UAE.",
 } = Astro.props;
 ---
 
@@ -26,48 +26,18 @@ const {
     <title>{title}</title>
   </head>
   <body>
-    <div class="time-ribbon" aria-label="Live global time">
-      <div class="time-ribbon-inner">
-        <span class="time-kicker">Live Desk</span>
-        <time id="time-local" datetime="">Loading...</time>
-        <div class="time-zones">
-          <span><strong>UTC</strong> <time id="time-utc" datetime="">--:--</time></span>
-          <span><strong>IST</strong> <time id="time-ist" datetime="">--:--</time></span>
-          <span><strong>GST</strong> <time id="time-gst" datetime="">--:--</time></span>
-        </div>
-      </div>
-    </div>
-    <section class="market-ticker" aria-label="Live market prices">
-      <div class="market-label">Markets</div>
-      <div class="market-ticker-inner">
-        <div class="market-scroll">
-          <div class="market-scroll-track">
-            <span class="market-item"><strong>DFM</strong> <em>5,433</em> <b class="up">▲ +0.31%</b><i></i></span>
-            <span class="market-item"><strong>Gold</strong> <em>3,232</em> <b class="down">▼ -0.21%</b><i></i></span>
-            <span class="market-item"><strong>Silver</strong> <em>32.45</em> <b class="down">▼ -0.19%</b><i></i></span>
-            <span class="market-item"><strong>Oil</strong> <em>62.15</em> <b class="down">▼ -0.77%</b><i></i></span>
-            <span class="market-item"><strong>USD/AED</strong> <em>3.6725</em> <b class="flat">◆</b><i></i></span>
-            <span class="market-item"><strong>Bitcoin</strong> <em>104,780</em> <b class="up">▲ +0.42%</b><i></i></span>
-            <span class="market-item"><strong>DFM</strong> <em>5,433</em> <b class="up">▲ +0.31%</b><i></i></span>
-            <span class="market-item"><strong>Gold</strong> <em>3,232</em> <b class="down">▼ -0.21%</b><i></i></span>
-            <span class="market-item"><strong>Silver</strong> <em>32.45</em> <b class="down">▼ -0.19%</b><i></i></span>
-            <span class="market-item"><strong>Oil</strong> <em>62.15</em> <b class="down">▼ -0.77%</b><i></i></span>
-            <span class="market-item"><strong>USD/AED</strong> <em>3.6725</em> <b class="flat">◆</b><i></i></span>
-            <span class="market-item"><strong>Bitcoin</strong> <em>104,780</em> <b class="up">▲ +0.42%</b><i></i></span>
-          </div>
-        </div>
-      </div>
-    </section>
     <header class="site-header">
-      <a class="brand" href="/" aria-label="Dubai Times home">
+      <a class="brand" href="/" aria-label="Dubai Time home">
         <span>Dubai</span>
-        <strong>Times</strong>
+        <strong>Time</strong>
       </a>
       <nav class="nav" aria-label="Main navigation">
+        <a href="/">Time</a>
+        <a href="/#weather">Weather</a>
+        <a href="/#news">News</a>
         <a href="/category/dubai">Dubai</a>
         <a href="/category/business">Business</a>
-        <a href="/category/real-estate">Real Estate</a>
-        <a href="/category/travel">Travel</a>
+        <a href="/admin">Admin</a>
         <a href="/about">About</a>
       </nav>
     </header>
@@ -76,63 +46,11 @@ const {
     </main>
     <footer class="site-footer">
       <div>
-        <strong>Dubai Times</strong>
-        <p>Independent digital news for Dubai, the UAE, and the wider region.</p>
+        <strong>Dubai Time</strong>
+        <p>UAE time, emirates weather, alerts, and independent news context.</p>
       </div>
-      <p class="footer-note">Built as the first foundation for the Dubai Times publishing system.</p>
+      <p class="footer-note">Built as the first foundation for the Dubai Time publishing system.</p>
     </footer>
-    <script>
-      const formatTime = (timeZone, options = {}) =>
-        new Intl.DateTimeFormat("en-US", {
-          timeZone,
-          hour: "2-digit",
-          minute: "2-digit",
-          second: "2-digit",
-          hour12: false,
-          ...options,
-        }).format(new Date());
-
-      const formatDate = (timeZone) =>
-        new Intl.DateTimeFormat("en-US", {
-          timeZone,
-          weekday: "short",
-          month: "short",
-          day: "numeric",
-          year: "numeric",
-          hour: "2-digit",
-          minute: "2-digit",
-          second: "2-digit",
-          hour12: false,
-        }).format(new Date());
-
-      const updateClocks = () => {
-        const now = new Date();
-        const local = document.getElementById("time-local");
-        const utc = document.getElementById("time-utc");
-        const ist = document.getElementById("time-ist");
-        const gst = document.getElementById("time-gst");
-
-        if (local) {
-          local.textContent = `Dubai ${formatDate("Asia/Dubai")}`;
-          local.setAttribute("datetime", now.toISOString());
-        }
-        if (utc) {
-          utc.textContent = formatTime("UTC");
-          utc.setAttribute("datetime", now.toISOString());
-        }
-        if (ist) {
-          ist.textContent = formatTime("Asia/Kolkata");
-          ist.setAttribute("datetime", now.toISOString());
-        }
-        if (gst) {
-          gst.textContent = formatTime("Asia/Dubai");
-          gst.setAttribute("datetime", now.toISOString());
-        }
-      };
-
-      updateClocks();
-      window.setInterval(updateClocks, 1000);
-    </script>
   </body>
 </html>
 
@@ -172,181 +90,20 @@ const {
     width: 100%;
   }
 
-  .time-ribbon {
-    background:
-      linear-gradient(90deg, rgba(8, 76, 97, 0.98), rgba(11, 110, 105, 0.92)),
-      radial-gradient(circle at top left, rgba(194, 145, 45, 0.34), transparent 30%);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.16);
-    color: #f9f5ea;
-  }
-
-  .time-ribbon-inner {
-    align-items: center;
-    display: flex;
-    gap: 18px;
-    justify-content: space-between;
-    margin: 0 auto;
-    max-width: 1180px;
-    min-height: 42px;
-    padding: 8px 24px;
-  }
-
-  .time-kicker {
-    border: 1px solid rgba(194, 145, 45, 0.55);
-    border-radius: 999px;
-    color: #f4d99b;
-    flex: 0 0 auto;
-    font-size: 0.72rem;
-    font-weight: 900;
-    letter-spacing: 0.12em;
-    padding: 6px 10px;
-    text-transform: uppercase;
-  }
-
-  #time-local {
-    flex: 1;
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: 1rem;
-    font-weight: 700;
-    letter-spacing: 0.01em;
-  }
-
-  .time-zones {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    justify-content: flex-end;
-  }
-
-  .time-zones span {
-    align-items: center;
-    background: rgba(255, 255, 255, 0.1);
-    border: 1px solid rgba(255, 255, 255, 0.14);
-    border-radius: 999px;
-    display: flex;
-    gap: 6px;
-    padding: 6px 10px;
-  }
-
-  .time-zones strong {
-    color: #f4d99b;
-    font-size: 0.68rem;
-    letter-spacing: 0.08em;
-  }
-
-  .time-zones time {
-    font-variant-numeric: tabular-nums;
-    font-size: 0.82rem;
-    font-weight: 800;
-  }
-
-  .market-ticker {
-    background: #0d1d2b;
-    border-bottom: 1px solid rgba(13, 29, 43, 0.2);
-    color: #f8fbff;
-    display: grid;
-    grid-template-columns: 150px minmax(0, 1fr);
-    min-height: 42px;
-  }
-
-  .market-ticker-inner {
-    align-items: center;
-    display: flex;
-    margin: 0 auto;
-    min-height: 42px;
-    min-width: 0;
-    overflow: hidden;
-    padding: 0;
-    width: 100%;
-  }
-
-  .market-label {
-    align-items: center;
-    background: #f3a51b;
-    color: #081522;
-    display: flex;
-    font-size: 1.05rem;
-    font-weight: 900;
-    letter-spacing: 0.04em;
-    padding: 0 18px;
-    text-transform: uppercase;
-    white-space: nowrap;
-  }
-
-  .market-scroll {
-    min-width: 0;
-    overflow: hidden;
-    width: 100%;
-  }
-
-  .market-scroll-track {
-    animation: slim-market-scroll 42s linear infinite;
-    align-items: center;
-    display: flex;
-    gap: 42px;
-    min-height: 42px;
-    width: max-content;
-  }
-
-  .market-item {
-    align-items: center;
-    display: flex;
-    gap: 12px;
-    white-space: nowrap;
-  }
-
-  .market-item strong {
-    color: #f8fbff;
-    font-size: 1.06rem;
-    font-weight: 800;
-    letter-spacing: 0.04em;
-    text-transform: uppercase;
-    white-space: nowrap;
-  }
-
-  .market-item em {
-    color: #d7e1eb;
-    font-style: normal;
-    font-variant-numeric: tabular-nums;
-    font-size: 1rem;
-    letter-spacing: 0.08em;
-  }
-
-  .market-item b {
-    font-size: 0.9rem;
-    font-variant-numeric: tabular-nums;
-    letter-spacing: 0.04em;
-  }
-
-  .market-item .down {
-    color: #ff454f;
-  }
-
-  .market-item .up {
-    color: #18b889;
-  }
-
-  .market-item .flat {
-    color: #f3a51b;
-  }
-
-  .market-item i {
-    background: #f3a51b;
-    display: inline-block;
-    height: 9px;
-    transform: rotate(45deg);
-    width: 9px;
-  }
-
   .site-header {
     align-items: center;
-    border-bottom: 1px solid var(--line);
+    backdrop-filter: blur(16px);
+    background: rgba(251, 250, 247, 0.9);
+    border-bottom: 1px solid rgba(222, 216, 205, 0.82);
     display: flex;
     gap: 28px;
     justify-content: space-between;
     margin: 0 auto;
     max-width: 1180px;
     padding: 22px 24px;
+    position: sticky;
+    top: 0;
+    z-index: 10;
   }
 
   .brand {
@@ -428,28 +185,6 @@ const {
   }
 
   @media (max-width: 760px) {
-    .market-ticker {
-      grid-template-columns: 112px minmax(0, 1fr);
-    }
-
-    .market-label {
-      font-size: 0.86rem;
-      padding: 0 12px;
-    }
-
-    .market-scroll-track {
-      gap: 28px;
-    }
-
-    .market-item strong {
-      font-size: 0.9rem;
-    }
-
-    .market-item em,
-    .market-item b {
-      font-size: 0.82rem;
-    }
-
     .site-header,
     .site-footer {
       align-items: flex-start;
@@ -462,30 +197,6 @@ const {
 
     .footer-note {
       text-align: left;
-    }
-
-    .time-ribbon-inner {
-      align-items: flex-start;
-      flex-direction: column;
-      gap: 8px;
-    }
-
-    .time-zones {
-      justify-content: flex-start;
-    }
-
-    .market-ticker-inner {
-      grid-template-columns: auto minmax(0, 1fr);
-    }
-  }
-
-  @keyframes slim-market-scroll {
-    from {
-      transform: translate3d(0, 0, 0);
-    }
-
-    to {
-      transform: translate3d(-50%, 0, 0);
     }
   }
 </style>

@@ -2,7 +2,7 @@
 title: "Art Dubai Turns 20, And The Most Important Detail May Be Free Entry"
 description: "Art Dubai’s latest edition celebrates two decades of growth, but its public access model says something deeper about culture, aspiration and who gets included."
 category: "Lifestyle"
-author: "Dubai Times Lifestyle Desk"
+author: "Dubai Time Lifestyle Desk"
 date: 2026-05-18
 watchLine: "Watch whether free access widens local participation and whether Dubai converts cultural prestige into repeat public engagement."
 image: "https://images.pexels.com/photos/10214100/pexels-photo-10214100.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

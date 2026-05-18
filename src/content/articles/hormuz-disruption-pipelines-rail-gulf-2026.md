@@ -2,7 +2,7 @@
 title: "The Gulf Is Learning To Move Around Hormuz, And That Could Change The Region"
 description: "As disruption in the Strait of Hormuz pushes trade towards pipelines, ports and rail, the shift could alter how the Gulf thinks about resilience for years."
 category: "World"
-author: "Dubai Times World Desk"
+author: "Dubai Time World Desk"
 date: 2026-05-18
 watchLine: "Watch whether bypass routes become permanent strategic priorities long after the current disruption fades."
 image: "https://images.pexels.com/photos/34390839/pexels-photo-34390839.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

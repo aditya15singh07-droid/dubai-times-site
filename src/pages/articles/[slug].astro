@@ -26,7 +26,7 @@ const fallbackRelated = allArticles
 const recommendedArticles = [...relatedArticles, ...fallbackRelated];
 ---
 
-<BaseLayout title={`${article.data.title} | Dubai Times`} description={article.data.description}>
+<BaseLayout title={`${article.data.title} | Dubai Time`} description={article.data.description}>
   <div class="reading-progress" aria-hidden="true"><span data-reading-progress></span></div>
   <article class="article section">
     <header class="article-header">
@@ -80,7 +80,7 @@ const recommendedArticles = [...relatedArticles, ...fallbackRelated];
     <section class="continue-reading" aria-label="Continue reading">
       <div class="continue-heading">
         <p class="eyebrow">Continue Reading</p>
-        <h2>More stories from the Dubai Times desk</h2>
+        <h2>More stories from the Dubai Time desk</h2>
       </div>
       <div class="continue-grid">
         {recommendedArticles.map((entry) => (

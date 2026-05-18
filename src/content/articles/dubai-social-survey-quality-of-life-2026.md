@@ -2,7 +2,7 @@
 title: "Dubai's Social Survey Shows Why Quality Of Life Is Becoming A Serious Policy Metric"
 description: "Dubai's eighth Social Survey points to high happiness, life satisfaction, family cohesion and social trust, giving policymakers a wider view of how residents experience the city."
 category: "Dubai"
-author: "Dubai Times City Desk"
+author: "Dubai Time City Desk"
 date: 2026-05-17
 publishedTime: "22:05 GST"
 watchLine: "Watch how Dubai uses survey data to shape family policy, inclusion, financial wellbeing and digital services."

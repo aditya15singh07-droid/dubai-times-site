@@ -2,7 +2,7 @@
 title: "ICP’s New AI Push Could Change How The UAE State Actually Works"
 description: "The UAE’s identity and customs authority says it wants half its operations to become autonomous or AI-led within two years, which makes this more than a routine tech update."
 category: "UAE"
-author: "Dubai Times UAE Desk"
+author: "Dubai Time UAE Desk"
 date: 2026-05-18
 watchLine: "Watch which ICP services become genuinely faster and whether automation stays transparent in identity, customs and border processes."
 image: "https://images.pexels.com/photos/33353719/pexels-photo-33353719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

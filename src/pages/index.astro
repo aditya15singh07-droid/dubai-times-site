@@ -7,136 +7,125 @@ const articles = (await getCollection("articles", ({ data }) => !data.draft))
   .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
 const [leadArticle, ...moreArticles] = articles;
 const estimateRead = (article) => Math.max(3, Math.round((article.body || "").split(/\s+/).length / 220));
-const latestDate = articles[0]?.data.date;
-const todayCount = latestDate
-  ? articles.filter((article) => article.data.date.toDateString() === latestDate.toDateString()).length
-  : 0;
-const activeSections = new Set(articles.map((article) => article.data.category)).size;
+
+const emirates = [
+  { name: "Abu Dhabi", label: "Capital", lat: 24.4539, lon: 54.3773 },
+  { name: "Dubai", label: "Business hub", lat: 25.2048, lon: 55.2708 },
+  { name: "Sharjah", label: "Culture", lat: 25.3463, lon: 55.4209 },
+  { name: "Ajman", label: "Coast", lat: 25.4052, lon: 55.5136 },
+  { name: "Fujairah", label: "East coast", lat: 25.1288, lon: 56.3265 },
+  { name: "Ras Al Khaimah", label: "Northern emirate", lat: 25.8007, lon: 55.9762 },
+  { name: "Umm Al Quwain", label: "Lagoon", lat: 25.5647, lon: 55.5552 },
+];
+
+const liveNews = articles.slice(0, 4);
 const editorPicks = categories
   .map((category) => articles.find((article) => article.data.category === category))
   .filter(Boolean)
   .slice(0, 4);
-const mostRead = [
-  articles.find((article) => article.id === "jebel-ali-port-dubai-trade-engine-2026"),
-  articles.find((article) => article.id === "dubai-metro-blue-line-tunnelling-future-commutes-2026"),
-  articles.find((article) => article.id === "dubai-property-sales-april-resilience-2026"),
-  articles.find((article) => article.id === "icp-ai-ecosystem-implementation-2026"),
-].filter(Boolean);
-const deepReads = articles
-  .filter((article) => estimateRead(article) >= 4)
-  .slice(0, 3);
-const updateStamp = latestDate?.toLocaleDateString("en-US", {
-  month: "long",
-  day: "numeric",
-  year: "numeric",
-});
-
-const marqueeItems = [
-  {
-    name: "Dubai Investments",
-    icon: "DXB",
-    tagline: "Global capital inflows",
-    stat: "AED48B Apr",
-    href: "/articles/dubai-property-sales-april-resilience-2026",
-  },
-  {
-    name: "Dubai South",
-    icon: "DS",
-    tagline: "Airport-city growth corridor",
-    stat: "Top Area",
-    href: "/articles/dubai-property-sales-april-resilience-2026",
-  },
-  {
-    name: "Business Bay",
-    icon: "BB",
-    tagline: "Commercial and branded towers",
-    stat: "Prime",
-    href: "/category/real-estate",
-  },
-  {
-    name: "Palm Jumeirah",
-    icon: "PJ",
-    tagline: "Waterfront luxury benchmark",
-    stat: "Luxury",
-    href: "/category/real-estate",
-  },
-  {
-    name: "Commercial Spaces",
-    icon: "CS",
-    tagline: "Grade-A office momentum",
-    stat: "+33.9%",
-    href: "/articles/dubai-property-sales-april-resilience-2026",
-  },
-  {
-    name: "Waterfront Apartments",
-    icon: "WA",
-    tagline: "Branded lifestyle assets",
-    stat: "Dubai Marina",
-    href: "/category/lifestyle",
-  },
-  {
-    name: "Dubai Islands",
-    icon: "DI",
-    tagline: "New coastline investment story",
-    stat: "Emerging",
-    href: "/category/real-estate",
-  },
-  {
-    name: "UAE Developers",
-    icon: "UD",
-    tagline: "Execution and trust signals",
-    stat: "Watchlist",
-    href: "/category/business",
-  },
-];
-
-const marqueeLoop = [...marqueeItems, ...marqueeItems];
-
-const liveNews = [
-  {
-    label: "Dubai",
-    headline: "RTA says Al Khaleej Street tunnel has reached 80% completion.",
-    href: "/articles/rta-al-khaleej-tunnel-shindagha-corridor-2026",
-  },
-  {
-    label: "Business",
-    headline: "DEWA's transmission projects under construction exceed AED8.5 billion.",
-    href: "/articles/dewa-transmission-grid-expansion-2025-2028",
-  },
-  {
-    label: "Culture",
-    headline: "Dubai launches MODA, the region's first museum dedicated to digital art.",
-    href: "/articles/dubai-museum-of-digital-art-difc-2026",
-  },
-  {
-    label: "Markets",
-    headline: "Dubai Holding becomes Emaar Properties' largest shareholder.",
-    href: "/articles/dubai-holding-emaar-stake-market-signal-2026",
-  },
-];
 ---
 
 <BaseLayout
-  title="Dubai Times | Dubai News, Business, Real Estate And Lifestyle"
-  description="Dubai Times is a new digital news publication covering Dubai, UAE business, real estate, travel, lifestyle, technology, and the region."
+  title="Dubai Time | UAE Clock, Emirates Weather And Dubai News"
+  description="Dubai Time shows the live UAE clock, seven-emirate weather, rain outlook, alerts, and curated Dubai news."
 >
-  <section class="section trust-strip" aria-label="Dubai Times edition details">
-    <span>Dubai Edition</span>
-    <span>Source-linked coverage</span>
-    <span>Business, property, travel and culture</span>
-    <span>Updated May 17, 2026</span>
+  <section class="time-hero" aria-label="Live UAE time">
+    <div class="section time-grid">
+      <div class="clock-card">
+        <p class="eyebrow">Live UAE Time</p>
+        <time class="main-clock" id="uae-clock" datetime="">--:--:--</time>
+        <div class="clock-date" id="uae-date">Loading Dubai time...</div>
+        <div class="clock-meta">
+          <span>GST · UTC+4</span>
+          <span>Auto-updating every second</span>
+          <span id="sun-note">Weather desk loading</span>
+        </div>
+      </div>
+      <aside class="clock-side" aria-label="Global reference times">
+        <div>
+          <span>UTC</span>
+          <strong id="utc-clock">--:--</strong>
+        </div>
+        <div>
+          <span>India</span>
+          <strong id="ist-clock">--:--</strong>
+        </div>
+        <div>
+          <span>New York</span>
+          <strong id="ny-clock">--:--</strong>
+        </div>
+      </aside>
+    </div>
   </section>
 
-  <section class="section hero">
+  <section class="section weather-desk" id="weather" aria-label="Seven emirates weather">
+    <div class="weather-heading">
+      <div>
+        <p class="eyebrow">Seven Emirates Weather</p>
+        <h1>Weather, rain chance and alerts across the UAE</h1>
+      </div>
+      <p>
+        Live conditions are pulled in the browser for all seven emirates. Use this as a fast
+        public dashboard before moving into the news.
+      </p>
+    </div>
+
+    <div class="alert-panel" id="weather-alert">
+      <span>Live Alert</span>
+      <strong>Checking rain, wind and heat conditions...</strong>
+    </div>
+
+    <div class="weather-grid" data-weather-grid>
+      {emirates.map((emirate) => (
+        <article
+          class="weather-card is-loading"
+          data-city={emirate.name}
+          data-label={emirate.label}
+          data-lat={emirate.lat}
+          data-lon={emirate.lon}
+        >
+          <div class="weather-top">
+            <div>
+              <span>{emirate.label}</span>
+              <h2>{emirate.name}</h2>
+            </div>
+            <strong data-temp>--°</strong>
+          </div>
+          <p data-summary>Loading live conditions...</p>
+          <div class="weather-metrics">
+            <span><b data-rain>--%</b> rain</span>
+            <span><b data-wind>--</b> wind</span>
+            <span><b data-humidity>--%</b> humidity</span>
+          </div>
+          <small data-updated>Updating now</small>
+        </article>
+      ))}
+    </div>
+  </section>
+
+  <section class="market-strip section" aria-label="Market snapshot">
+    <span>Markets</span>
+    <strong>Gold XAU/USD</strong>
+    <b>Oil US WTI</b>
+    <strong>USD/AED 3.6725</strong>
+    <b>Bitcoin BTC/USD</b>
+    <strong>Nasdaq Futures</strong>
+  </section>
+
+  <section class="section news-entry" id="news" aria-label="Dubai news">
+    <div class="news-heading">
+      <p class="eyebrow">News Desk</p>
+      <h2>After time and weather, read the stories shaping Dubai</h2>
+    </div>
     <article class="lead">
       <a href={`/articles/${leadArticle.id}`}>
         <img src={leadArticle.data.image} alt={leadArticle.data.imageAlt} />
       </a>
       <div class="lead-copy">
         <p class="eyebrow">{leadArticle.data.category}</p>
-        <h1>
+        <h3>
           <a href={`/articles/${leadArticle.id}`}>{leadArticle.data.title}</a>
-        </h1>
+        </h3>
         <p>{leadArticle.data.description}</p>
         <div class="meta">
           <span>{leadArticle.data.author}</span>
@@ -145,47 +134,32 @@ const liveNews = [
             day: "numeric",
             year: "numeric",
           })} · {leadArticle.data.publishedTime}</span>
+          <span>{estimateRead(leadArticle)} min read</span>
         </div>
       </div>
     </article>
   </section>
 
-  <section class="section intelligence-band" aria-label="Real estate market intelligence">
-    <div class="marquee-panel">
-      <div class="marquee-copy">
-        <p class="eyebrow">Market Intelligence</p>
-        <h2>Premium property signals investors are watching</h2>
-      </div>
-      <div class="marquee-shell">
-        <div class="marquee-track">
-          {marqueeLoop.map((item) => (
-            <a class="market-card" href={item.href} aria-label={`${item.name}: ${item.tagline}`}>
-              <span class="market-icon">{item.icon}</span>
-              <span class="market-text">
-                <strong>{item.name}</strong>
-                <small>{item.tagline}</small>
-              </span>
-              <span class="market-stat">{item.stat}</span>
-            </a>
-          ))}
-        </div>
-      </div>
-    </div>
-
-    <aside class="live-brief" aria-label="Live news brief">
-      <div class="live-heading">
-        <span></span>
-        <p>Live Brief</p>
-      </div>
-      <div class="live-list">
-        {liveNews.map((item) => (
-          <a href={item.href}>
-            <span>{item.label}</span>
-            <strong>{item.headline}</strong>
-          </a>
-        ))}
-      </div>
+  <section class="section live-briefing" aria-label="Live briefing">
+    <aside class="brief-card">
+      <p class="eyebrow">Quick Brief</p>
+      {liveNews.map((article) => (
+        <a href={`/articles/${article.id}`}>
+          <span>{article.data.category}</span>
+          <strong>{article.data.title}</strong>
+        </a>
+      ))}
     </aside>
+    <div class="editor-grid">
+      {editorPicks.map((article) => (
+        <a class="editor-pick" href={`/articles/${article.id}`}>
+          <img src={article.data.image} alt={article.data.imageAlt} loading="lazy" />
+          <span>{article.data.category}</span>
+          <strong>{article.data.title}</strong>
+          <small>{estimateRead(article)} min read · {article.data.publishedTime}</small>
+        </a>
+      ))}
+    </div>
   </section>
 
   <section class="section category-strip" aria-label="Sections">
@@ -196,74 +170,10 @@ const liveNews = [
     ))}
   </section>
 
-  <section class="section engagement-hub" aria-label="Dubai Times reader dashboard">
-    <div class="hub-main">
-      <div class="hub-heading">
-        <p class="eyebrow">Reader Desk</p>
-        <h2>Start with the stories that explain the day</h2>
-        <p>
-          A cleaner way to enter the edition: the latest city signals, sharp business context,
-          and deeper reads worth staying with.
-        </p>
-      </div>
-      <div class="hub-stats" aria-label="Edition stats">
-        <span><strong>{todayCount}</strong> new today</span>
-        <span><strong>{articles.length}</strong> total reads</span>
-        <span><strong>{activeSections}</strong> active desks</span>
-        <span><strong>{updateStamp}</strong> latest file</span>
-      </div>
-      <div class="editor-grid">
-        {editorPicks.map((article) => (
-          <a class="editor-pick" href={`/articles/${article.id}`}>
-            <img src={article.data.image} alt={article.data.imageAlt} loading="lazy" />
-            <span>{article.data.category}</span>
-            <strong>{article.data.title}</strong>
-            <small>{estimateRead(article)} min read · {article.data.publishedTime}</small>
-          </a>
-        ))}
-      </div>
-    </div>
-
-    <aside class="reader-stack" aria-label="Most read and reader pulse">
-      <div class="stack-card most-read">
-        <p class="eyebrow">Most Read</p>
-        {mostRead.map((article, index) => (
-          <a href={`/articles/${article.id}`}>
-            <span>{String(index + 1).padStart(2, "0")}</span>
-            <strong>{article.data.title}</strong>
-          </a>
-        ))}
-      </div>
-      <div class="stack-card reader-pulse" data-reader-pulse>
-        <p class="eyebrow">Reader Pulse</p>
-        <h3>What should Dubai Times explain deeper next?</h3>
-        <button type="button" data-vote="property">Property prices</button>
-        <button type="button" data-vote="ai">AI in government</button>
-        <p class="pulse-result" data-pulse-result>Vote to see the newsroom pulse.</p>
-      </div>
-    </aside>
-  </section>
-
-  <section class="section deep-read-band" aria-label="Deep reads">
-    <div>
-      <p class="eyebrow">Stay Longer</p>
-      <h2>Deep reads for people who want the full picture</h2>
-    </div>
-    <div class="deep-read-list">
-      {deepReads.map((article) => (
-        <a href={`/articles/${article.id}`}>
-          <span>{article.data.category}</span>
-          <strong>{article.data.title}</strong>
-          <small>{estimateRead(article)} min read</small>
-        </a>
-      ))}
-    </div>
-  </section>
-
   <section class="section news-grid">
     <div class="section-heading">
       <p class="eyebrow">Latest</p>
-      <h2>Today On Dubai Times</h2>
+      <h2>More From Dubai Time</h2>
     </div>
     <div class="cards">
       {moreArticles.map((article) => (
@@ -281,326 +191,465 @@ const liveNews = [
     </div>
   </section>
 
-  <script>
-    const pulse = document.querySelector("[data-reader-pulse]");
-    const result = document.querySelector("[data-pulse-result]");
-    const voteLabels = {
-      property: "Property prices is leading this session.",
-      ai: "AI in government is leading this session.",
+  <script define:vars={{ emirates }}>
+    const conditionText = {
+      0: "Clear sky",
+      1: "Mainly clear",
+      2: "Partly cloudy",
+      3: "Overcast",
+      45: "Fog",
+      48: "Depositing rime fog",
+      51: "Light drizzle",
+      53: "Moderate drizzle",
+      55: "Dense drizzle",
+      61: "Slight rain",
+      63: "Moderate rain",
+      65: "Heavy rain",
+      71: "Slight snow",
+      80: "Light rain showers",
+      81: "Rain showers",
+      82: "Heavy rain showers",
+      95: "Thunderstorm",
     };
 
-    const setPulse = (vote) => {
-      if (!result || !voteLabels[vote]) return;
-      result.textContent = voteLabels[vote];
-      window.localStorage.setItem("dubai-times-pulse", vote);
-      pulse?.querySelectorAll("button").forEach((button) => {
-        button.toggleAttribute("aria-pressed", button.getAttribute("data-vote") === vote);
+    const formatTime = (timeZone, withSeconds = false) =>
+      new Intl.DateTimeFormat("en-US", {
+        timeZone,
+        hour: "2-digit",
+        minute: "2-digit",
+        second: withSeconds ? "2-digit" : undefined,
+        hour12: false,
+      }).format(new Date());
+
+    const updateClock = () => {
+      const now = new Date();
+      const uaeClock = document.getElementById("uae-clock");
+      const uaeDate = document.getElementById("uae-date");
+      const utcClock = document.getElementById("utc-clock");
+      const istClock = document.getElementById("ist-clock");
+      const nyClock = document.getElementById("ny-clock");
+
+      if (uaeClock) {
+        uaeClock.textContent = formatTime("Asia/Dubai", true);
+        uaeClock.setAttribute("datetime", now.toISOString());
+      }
+      if (uaeDate) {
+        uaeDate.textContent = new Intl.DateTimeFormat("en-US", {
+          timeZone: "Asia/Dubai",
+          weekday: "long",
+          month: "long",
+          day: "numeric",
+          year: "numeric",
+        }).format(now);
+      }
+      if (utcClock) utcClock.textContent = formatTime("UTC");
+      if (istClock) istClock.textContent = formatTime("Asia/Kolkata");
+      if (nyClock) nyClock.textContent = formatTime("America/New_York");
+    };
+
+    const buildWeatherUrl = () => {
+      const latitudes = emirates.map((city) => city.lat).join(",");
+      const longitudes = emirates.map((city) => city.lon).join(",");
+      return `https://api.open-meteo.com/v1/forecast?latitude=${latitudes}&longitude=${longitudes}&current=temperature_2m,relative_humidity_2m,precipitation,rain,weather_code,wind_speed_10m&hourly=precipitation_probability&forecast_days=1&timezone=Asia%2FDubai`;
+    };
+
+    const setWeatherError = () => {
+      document.querySelectorAll(".weather-card").forEach((card) => {
+        card.classList.remove("is-loading");
+        card.querySelector("[data-summary]").textContent = "Live weather is temporarily unavailable.";
+        card.querySelector("[data-updated]").textContent = "Please refresh in a few minutes.";
       });
+      const alert = document.getElementById("weather-alert");
+      if (alert) {
+        alert.className = "alert-panel alert-watch";
+        alert.querySelector("strong").textContent = "Weather feed is not responding. Keep official local alerts in view.";
+      }
     };
 
-    const savedPulse = window.localStorage.getItem("dubai-times-pulse");
-    if (savedPulse) setPulse(savedPulse);
+    const updateWeather = async () => {
+      try {
+        const response = await fetch(buildWeatherUrl());
+        if (!response.ok) throw new Error("Weather request failed");
+        const payload = await response.json();
+        const cityWeather = Array.isArray(payload) ? payload : [payload];
+        let highestRain = 0;
+        let strongestWind = 0;
+        let hottest = 0;
 
-    pulse?.querySelectorAll("button").forEach((button) => {
-      button.addEventListener("click", () => setPulse(button.getAttribute("data-vote")));
-    });
+        cityWeather.forEach((item, index) => {
+          const card = document.querySelector(`[data-city="${emirates[index].name}"]`);
+          if (!card || !item.current) return;
+
+          const current = item.current;
+          const rainChance = item.hourly?.precipitation_probability?.[0] ?? 0;
+          highestRain = Math.max(highestRain, rainChance, current.rain || 0);
+          strongestWind = Math.max(strongestWind, current.wind_speed_10m || 0);
+          hottest = Math.max(hottest, current.temperature_2m || 0);
+
+          card.classList.remove("is-loading");
+          card.querySelector("[data-temp]").textContent = `${Math.round(current.temperature_2m)}°`;
+          card.querySelector("[data-summary]").textContent = conditionText[current.weather_code] || "Current conditions";
+          card.querySelector("[data-rain]").textContent = `${rainChance}%`;
+          card.querySelector("[data-wind]").textContent = `${Math.round(current.wind_speed_10m)} km/h`;
+          card.querySelector("[data-humidity]").textContent = `${Math.round(current.relative_humidity_2m)}%`;
+          card.querySelector("[data-updated]").textContent = `Updated ${formatTime("Asia/Dubai")} GST`;
+
+          card.classList.toggle("has-rain", rainChance >= 30 || current.rain > 0);
+          card.classList.toggle("has-heat", current.temperature_2m >= 38);
+        });
+
+        const alert = document.getElementById("weather-alert");
+        const sunNote = document.getElementById("sun-note");
+        if (alert) {
+          const message =
+            highestRain >= 40
+              ? "Rain watch active in parts of the UAE. Check roads, outdoor plans and official advisories."
+              : strongestWind >= 35
+                ? "Wind watch active. Outdoor visibility and exposed roads may need attention."
+                : hottest >= 38
+                  ? "Heat watch active. Hydration and midday outdoor exposure matter today."
+                  : "No major rain or wind signal from the live weather feed right now.";
+          alert.className = highestRain >= 40 || strongestWind >= 35 || hottest >= 38
+            ? "alert-panel alert-watch"
+            : "alert-panel alert-clear";
+          alert.querySelector("strong").textContent = message;
+        }
+        if (sunNote) sunNote.textContent = `UAE weather refreshed ${formatTime("Asia/Dubai")} GST`;
+      } catch {
+        setWeatherError();
+      }
+    };
+
+    updateClock();
+    updateWeather();
+    window.setInterval(updateClock, 1000);
+    window.setInterval(updateWeather, 15 * 60 * 1000);
   </script>
 </BaseLayout>
 
 <style>
-  .hero {
-    padding-top: 22px;
+  .time-hero {
+    background:
+      radial-gradient(circle at 18% 16%, rgba(194, 145, 45, 0.22), transparent 30%),
+      linear-gradient(135deg, #07131d 0%, #0d2d38 52%, #0b6e69 100%);
+    color: #fffaf0;
   }
 
-  .trust-strip {
-    color: var(--accent-strong);
+  .time-grid {
+    align-items: stretch;
+    display: grid;
+    gap: 22px;
+    grid-template-columns: minmax(0, 1fr) 310px;
+    min-height: 460px;
+    padding-bottom: 54px;
+    padding-top: 54px;
+  }
+
+  .clock-card,
+  .clock-side {
+    backdrop-filter: blur(18px);
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.16);
+    border-radius: 10px;
+    box-shadow: 0 30px 80px rgba(0, 0, 0, 0.28);
+  }
+
+  .clock-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: clamp(28px, 6vw, 64px);
+  }
+
+  .clock-card .eyebrow {
+    color: #f4d99b;
+  }
+
+  .main-clock {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: clamp(4.5rem, 14vw, 11rem);
+    font-variant-numeric: tabular-nums;
+    font-weight: 800;
+    letter-spacing: 0;
+    line-height: 0.86;
+  }
+
+  .clock-date {
+    color: rgba(255, 250, 240, 0.86);
+    font-size: clamp(1.1rem, 2vw, 1.55rem);
+    font-weight: 800;
+    margin-top: 22px;
+  }
+
+  .clock-meta {
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
-    padding-bottom: 0;
-    padding-top: 18px;
+    margin-top: 26px;
   }
 
-  .trust-strip span {
-    background: rgba(255, 255, 255, 0.84);
-    border: 1px solid var(--line);
+  .clock-meta span,
+  .clock-side div {
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.14);
     border-radius: 999px;
-    font-size: 0.78rem;
+    color: rgba(255, 250, 240, 0.88);
+    font-size: 0.84rem;
     font-weight: 800;
-    padding: 8px 11px;
+    padding: 10px 13px;
   }
 
-  .intelligence-band {
-    align-items: start;
-    display: grid;
-    gap: 20px;
-    grid-template-columns: minmax(0, 1fr) 330px;
-    padding-bottom: 18px;
-    padding-top: 14px;
-  }
-
-  .marquee-panel,
-  .live-brief {
-    background:
-      linear-gradient(135deg, rgba(255, 255, 255, 0.84), rgba(255, 255, 255, 0.54)),
-      radial-gradient(circle at top left, rgba(194, 145, 45, 0.18), transparent 34%),
-      radial-gradient(circle at bottom right, rgba(11, 110, 105, 0.14), transparent 34%);
-    border: 1px solid rgba(222, 216, 205, 0.84);
-    border-radius: 8px;
-    box-shadow: 0 20px 50px rgba(31, 39, 44, 0.08);
-    overflow: hidden;
-  }
-
-  .marquee-panel {
-    min-width: 0;
-    padding: 22px 0 20px;
-    position: relative;
-  }
-
-  .marquee-panel::before {
-    background: linear-gradient(90deg, var(--gold), rgba(11, 110, 105, 0.45), transparent);
-    content: "";
-    height: 1px;
-    inset: 0 0 auto;
-    position: absolute;
-  }
-
-  .marquee-copy {
-    align-items: end;
-    display: flex;
-    gap: 18px;
-    justify-content: space-between;
-    padding: 0 22px 18px;
-  }
-
-  .marquee-copy h2 {
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: clamp(1.45rem, 3vw, 2.5rem);
-    line-height: 1;
-    margin: 0;
-    max-width: 620px;
-    text-align: right;
-  }
-
-  .marquee-shell {
-    mask-image: linear-gradient(90deg, transparent, #000 9%, #000 91%, transparent);
-    overflow: hidden;
-    position: relative;
-  }
-
-  .marquee-track {
-    animation: market-scroll 38s linear infinite;
-    display: flex;
-    gap: 14px;
-    width: max-content;
-    will-change: transform;
-  }
-
-  .marquee-shell:hover .marquee-track {
-    animation-play-state: paused;
-  }
-
-  .market-card {
-    align-items: center;
-    backdrop-filter: blur(18px);
-    background:
-      linear-gradient(135deg, rgba(255, 255, 255, 0.78), rgba(255, 255, 255, 0.42)),
-      linear-gradient(135deg, rgba(194, 145, 45, 0.12), rgba(8, 76, 97, 0.08));
-    border: 1px solid rgba(255, 255, 255, 0.76);
-    border-radius: 8px;
-    box-shadow: 0 14px 34px rgba(8, 76, 97, 0.09);
+  .clock-side {
     display: grid;
     gap: 12px;
-    grid-template-columns: 44px 190px auto;
-    min-height: 82px;
-    padding: 14px;
-    position: relative;
-    transition:
-      transform 180ms ease,
-      border-color 180ms ease,
-      box-shadow 180ms ease;
-    width: 360px;
+    padding: 22px;
   }
 
-  .market-card::after {
-    background: linear-gradient(135deg, rgba(194, 145, 45, 0.58), rgba(11, 110, 105, 0.32), transparent);
-    border-radius: inherit;
-    content: "";
-    inset: -1px;
-    opacity: 0;
-    pointer-events: none;
-    position: absolute;
-    transition: opacity 180ms ease;
-    z-index: -1;
-  }
-
-  .market-card:hover {
-    border-color: rgba(194, 145, 45, 0.62);
-    box-shadow: 0 18px 42px rgba(8, 76, 97, 0.15);
-    transform: translateY(-3px);
-  }
-
-  .market-card:hover::after {
-    opacity: 1;
-  }
-
-  .market-icon {
-    align-items: center;
-    background: linear-gradient(135deg, var(--accent-strong), var(--accent));
-    border-radius: 50%;
-    color: #fff;
-    display: flex;
-    font-size: 0.72rem;
-    font-weight: 900;
-    height: 44px;
-    justify-content: center;
-    letter-spacing: 0.04em;
-    width: 44px;
-  }
-
-  .market-text {
+  .clock-side div {
+    align-content: center;
+    border-radius: 8px;
     display: grid;
-    gap: 5px;
-    min-width: 0;
+    gap: 8px;
   }
 
-  .market-text strong {
+  .clock-side span {
+    color: #f4d99b;
+    font-size: 0.75rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  .clock-side strong {
+    font-size: 2rem;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .weather-desk {
+    padding-top: 44px;
+  }
+
+  .weather-heading {
+    align-items: end;
+    display: grid;
+    gap: 24px;
+    grid-template-columns: minmax(0, 1fr) minmax(260px, 0.38fr);
+    margin-bottom: 22px;
+  }
+
+  .weather-heading h1,
+  .news-heading h2,
+  .section-heading h2 {
     font-family: Georgia, "Times New Roman", serif;
-    font-size: 1.08rem;
-    line-height: 1.05;
+    font-size: clamp(2.2rem, 5vw, 4.4rem);
+    line-height: 0.98;
+    margin: 8px 0 0;
   }
 
-  .market-text small {
+  .weather-heading p:not(.eyebrow) {
     color: var(--muted);
-    font-size: 0.82rem;
-    font-weight: 700;
-    line-height: 1.25;
+    line-height: 1.65;
+    margin: 0;
   }
 
-  .market-stat {
-    border: 1px solid rgba(194, 145, 45, 0.32);
+  .alert-panel {
+    align-items: center;
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    display: flex;
+    gap: 14px;
+    justify-content: space-between;
+    margin-bottom: 18px;
+    padding: 15px 18px;
+  }
+
+  .alert-panel span {
+    background: #111;
     border-radius: 999px;
-    color: var(--accent-strong);
+    color: #fff;
     font-size: 0.78rem;
     font-weight: 900;
-    justify-self: end;
-    padding: 7px 9px;
+    letter-spacing: 0.08em;
+    padding: 8px 12px;
+    text-transform: uppercase;
     white-space: nowrap;
   }
 
-  .live-brief {
-    padding: 18px;
+  .alert-panel strong {
+    color: var(--muted);
+    font-size: 0.95rem;
+    line-height: 1.45;
+    text-align: right;
   }
 
-  .live-heading {
-    align-items: center;
+  .alert-clear span {
+    background: var(--accent);
+  }
+
+  .alert-watch {
+    border-color: rgba(194, 145, 45, 0.55);
+    box-shadow: 0 14px 38px rgba(194, 145, 45, 0.13);
+  }
+
+  .alert-watch span {
+    background: var(--gold);
+    color: #111;
+  }
+
+  .weather-grid {
+    display: grid;
+    gap: 18px;
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .weather-card {
+    background:
+      linear-gradient(135deg, rgba(255, 255, 255, 0.98), rgba(248, 245, 238, 0.92)),
+      radial-gradient(circle at top right, rgba(11, 110, 105, 0.11), transparent 36%);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    box-shadow: 0 16px 42px rgba(7, 19, 24, 0.08);
     display: flex;
-    gap: 9px;
-    margin-bottom: 10px;
+    flex-direction: column;
+    min-height: 254px;
+    padding: 18px;
+    transition:
+      transform 180ms ease,
+      box-shadow 180ms ease,
+      border-color 180ms ease;
   }
 
-  .live-heading span {
-    animation: live-pulse 1.8s ease-in-out infinite;
-    background: #d72828;
-    border-radius: 50%;
-    box-shadow: 0 0 0 6px rgba(215, 40, 40, 0.12);
-    height: 8px;
-    width: 8px;
+  .weather-card:hover {
+    border-color: rgba(11, 110, 105, 0.42);
+    box-shadow: 0 22px 52px rgba(7, 19, 24, 0.13);
+    transform: translateY(-3px);
   }
 
-  .live-heading p {
-    color: var(--accent-strong);
-    font-size: 0.78rem;
-    font-weight: 900;
-    letter-spacing: 0.1em;
-    margin: 0;
-    text-transform: uppercase;
+  .weather-card.has-rain {
+    border-color: rgba(8, 76, 97, 0.46);
   }
 
-  .live-list {
-    display: grid;
-    gap: 9px;
+  .weather-card.has-heat {
+    border-color: rgba(194, 145, 45, 0.52);
   }
 
-  .live-list a {
-    border-top: 1px solid rgba(222, 216, 205, 0.8);
-    display: grid;
-    gap: 4px;
-    padding-top: 9px;
+  .weather-top {
+    align-items: start;
+    display: flex;
+    gap: 12px;
+    justify-content: space-between;
   }
 
-  .live-list span {
+  .weather-top span {
     color: var(--gold);
     font-size: 0.72rem;
     font-weight: 900;
+    letter-spacing: 0.08em;
     text-transform: uppercase;
   }
 
-  .live-list strong {
-    font-size: 0.9rem;
-    line-height: 1.32;
+  .weather-top h2 {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1.35rem;
+    line-height: 1;
+    margin: 8px 0 0;
   }
 
-  .live-list a:hover strong {
+  .weather-top strong {
     color: var(--accent-strong);
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 2.2rem;
+    line-height: 0.9;
   }
 
-  @keyframes market-scroll {
-    from {
-      transform: translate3d(0, 0, 0);
-    }
-
-    to {
-      transform: translate3d(calc(-50% - 7px), 0, 0);
-    }
+  .weather-card p {
+    color: var(--muted);
+    line-height: 1.5;
+    margin: 18px 0;
+    min-height: 48px;
   }
 
-  @keyframes live-pulse {
-    0%,
-    100% {
-      transform: scale(1);
-    }
-
-    50% {
-      transform: scale(1.35);
-    }
+  .weather-metrics {
+    display: grid;
+    gap: 8px;
+    margin-top: auto;
   }
 
-  @media (prefers-color-scheme: dark) {
-    .marquee-panel,
-    .live-brief {
-      background:
-        linear-gradient(135deg, rgba(17, 24, 30, 0.88), rgba(17, 24, 30, 0.62)),
-        radial-gradient(circle at top left, rgba(194, 145, 45, 0.2), transparent 36%),
-        radial-gradient(circle at bottom right, rgba(11, 110, 105, 0.22), transparent 36%);
-      border-color: rgba(255, 255, 255, 0.12);
-      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.32);
-    }
+  .weather-metrics span {
+    align-items: center;
+    border-top: 1px solid var(--line);
+    color: var(--muted);
+    display: flex;
+    font-size: 0.82rem;
+    font-weight: 800;
+    justify-content: space-between;
+    padding-top: 8px;
+  }
 
-    .market-card {
-      background:
-        linear-gradient(135deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.05)),
-        linear-gradient(135deg, rgba(194, 145, 45, 0.13), rgba(8, 76, 97, 0.16));
-      border-color: rgba(255, 255, 255, 0.14);
-    }
+  .weather-metrics b {
+    color: var(--ink);
+  }
 
-    .market-text strong,
-    .live-list strong,
-    .marquee-copy h2 {
-      color: #f7f2e8;
-    }
+  .weather-card small {
+    color: var(--muted);
+    display: block;
+    font-size: 0.75rem;
+    font-weight: 700;
+    margin-top: 13px;
+  }
+
+  .market-strip {
+    align-items: center;
+    background: #fff;
+    border-bottom: 1px solid var(--line);
+    border-top: 1px solid var(--line);
+    display: flex;
+    gap: 28px;
+    max-width: none;
+    overflow: hidden;
+    padding-bottom: 13px;
+    padding-top: 13px;
+    white-space: nowrap;
+  }
+
+  .market-strip span {
+    background: #111;
+    border-radius: 999px;
+    color: #fff;
+    font-weight: 900;
+    letter-spacing: 0.06em;
+    padding: 8px 14px;
+    text-transform: uppercase;
+  }
+
+  .market-strip strong {
+    color: var(--accent-strong);
+    font-size: 1.05rem;
+    font-weight: 900;
+  }
+
+  .market-strip b {
+    color: var(--muted);
+    font-size: 1.05rem;
+  }
+
+  .news-entry {
+    padding-top: 44px;
+  }
+
+  .news-heading {
+    margin-bottom: 20px;
+    max-width: 780px;
   }
 
   .lead {
-    background:
-      linear-gradient(135deg, rgba(255, 255, 255, 0.95), rgba(249, 247, 240, 0.9)),
-      radial-gradient(circle at top right, rgba(194, 145, 45, 0.18), transparent 35%);
-    border: 1px solid rgba(222, 216, 205, 0.84);
+    background: var(--panel);
+    border: 1px solid var(--line);
     border-radius: 8px;
-    box-shadow: 0 24px 70px rgba(7, 19, 24, 0.18);
+    box-shadow: 0 24px 70px rgba(7, 19, 24, 0.13);
     display: grid;
-    gap: 34px;
-    grid-template-columns: minmax(0, 1.1fr) minmax(360px, 0.9fr);
+    gap: 30px;
+    grid-template-columns: minmax(0, 1.05fr) minmax(340px, 0.95fr);
     overflow: hidden;
   }
 
@@ -615,17 +664,16 @@ const liveNews = [
     padding: 26px 30px 26px 0;
   }
 
-  h1 {
+  .lead-copy h3 {
     font-family: Georgia, "Times New Roman", serif;
-    font-size: clamp(2.3rem, 4.8vw, 4.2rem);
+    font-size: clamp(2rem, 4.2vw, 3.8rem);
     line-height: 1;
     margin: 12px 0 18px;
-    overflow-wrap: anywhere;
   }
 
   .lead-copy > p:not(.eyebrow) {
     color: var(--muted);
-    font-size: 1.1rem;
+    font-size: 1.06rem;
     line-height: 1.7;
   }
 
@@ -636,6 +684,99 @@ const liveNews = [
     font-size: 0.9rem;
     gap: 12px;
     margin-top: 24px;
+  }
+
+  .live-briefing {
+    align-items: start;
+    display: grid;
+    gap: 22px;
+    grid-template-columns: 340px minmax(0, 1fr);
+    padding-bottom: 18px;
+  }
+
+  .brief-card,
+  .editor-pick,
+  .story-card {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    box-shadow: 0 14px 34px rgba(7, 19, 24, 0.07);
+  }
+
+  .brief-card {
+    display: grid;
+    gap: 12px;
+    padding: 20px;
+  }
+
+  .brief-card a {
+    border-top: 1px solid var(--line);
+    display: grid;
+    gap: 6px;
+    padding-top: 12px;
+  }
+
+  .brief-card span,
+  .editor-pick span {
+    color: var(--accent);
+    font-size: 0.72rem;
+    font-weight: 900;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .brief-card strong {
+    line-height: 1.35;
+  }
+
+  .editor-grid {
+    display: grid;
+    gap: 16px;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .editor-pick {
+    display: grid;
+    overflow: hidden;
+    transition:
+      transform 180ms ease,
+      box-shadow 180ms ease;
+  }
+
+  .editor-pick:hover,
+  .story-card:hover {
+    box-shadow: 0 18px 48px rgba(7, 19, 24, 0.12);
+    transform: translateY(-3px);
+  }
+
+  .editor-pick img {
+    aspect-ratio: 16 / 10;
+    object-fit: cover;
+  }
+
+  .editor-pick span,
+  .editor-pick strong,
+  .editor-pick small {
+    margin-inline: 14px;
+  }
+
+  .editor-pick span {
+    margin-top: 12px;
+  }
+
+  .editor-pick strong {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1.05rem;
+    line-height: 1.14;
+    margin-top: 6px;
+  }
+
+  .editor-pick small {
+    color: var(--muted);
+    font-size: 0.78rem;
+    font-weight: 700;
+    margin-bottom: 14px;
+    margin-top: 10px;
   }
 
   .category-strip {
@@ -656,260 +797,7 @@ const liveNews = [
   }
 
   .section-heading {
-    align-items: end;
-    display: flex;
-    justify-content: space-between;
     margin-bottom: 18px;
-  }
-
-  .section-heading h2 {
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: clamp(2rem, 4vw, 3.4rem);
-    margin: 0;
-  }
-
-  .engagement-hub {
-    align-items: stretch;
-    display: grid;
-    gap: 22px;
-    grid-template-columns: minmax(0, 1fr) 340px;
-    padding-bottom: 18px;
-    padding-top: 22px;
-  }
-
-  .hub-main,
-  .stack-card,
-  .deep-read-band {
-    background:
-      linear-gradient(135deg, rgba(255, 255, 255, 0.96), rgba(248, 245, 238, 0.92)),
-      radial-gradient(circle at top right, rgba(194, 145, 45, 0.13), transparent 38%);
-    border: 1px solid var(--line);
-    border-radius: 8px;
-    box-shadow: 0 18px 48px rgba(7, 19, 24, 0.08);
-  }
-
-  .hub-main {
-    padding: 24px;
-  }
-
-  .hub-heading {
-    align-items: end;
-    display: grid;
-    gap: 14px;
-    grid-template-columns: minmax(0, 1fr) minmax(240px, 0.55fr);
-  }
-
-  .hub-heading h2,
-  .deep-read-band h2 {
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: clamp(1.9rem, 4vw, 3.1rem);
-    line-height: 1;
-    margin: 6px 0 0;
-  }
-
-  .hub-heading p:not(.eyebrow) {
-    color: var(--muted);
-    line-height: 1.6;
-    margin: 0;
-  }
-
-  .hub-stats {
-    border-bottom: 1px solid var(--line);
-    border-top: 1px solid var(--line);
-    display: grid;
-    gap: 1px;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-    margin: 22px 0;
-  }
-
-  .hub-stats span {
-    background: rgba(255, 255, 255, 0.62);
-    color: var(--muted);
-    display: grid;
-    font-size: 0.78rem;
-    font-weight: 800;
-    gap: 3px;
-    padding: 14px;
-    text-transform: uppercase;
-  }
-
-  .hub-stats strong {
-    color: var(--accent-strong);
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: 1.4rem;
-    line-height: 1;
-    text-transform: none;
-  }
-
-  .editor-grid {
-    display: grid;
-    gap: 16px;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-  }
-
-  .editor-pick {
-    background: #fff;
-    border: 1px solid rgba(222, 216, 205, 0.85);
-    border-radius: 6px;
-    display: grid;
-    overflow: hidden;
-    transition:
-      transform 180ms ease,
-      box-shadow 180ms ease;
-  }
-
-  .editor-pick:hover {
-    box-shadow: 0 16px 34px rgba(7, 19, 24, 0.11);
-    transform: translateY(-3px);
-  }
-
-  .editor-pick img {
-    aspect-ratio: 16 / 10;
-    object-fit: cover;
-  }
-
-  .editor-pick span,
-  .editor-pick strong,
-  .editor-pick small {
-    margin-inline: 14px;
-  }
-
-  .editor-pick span {
-    color: var(--accent);
-    font-size: 0.72rem;
-    font-weight: 900;
-    letter-spacing: 0.08em;
-    margin-top: 12px;
-    text-transform: uppercase;
-  }
-
-  .editor-pick strong {
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: 1.05rem;
-    line-height: 1.14;
-    margin-top: 6px;
-  }
-
-  .editor-pick small {
-    color: var(--muted);
-    font-size: 0.78rem;
-    font-weight: 700;
-    margin-bottom: 14px;
-    margin-top: 10px;
-  }
-
-  .reader-stack {
-    display: grid;
-    gap: 18px;
-  }
-
-  .stack-card {
-    padding: 20px;
-  }
-
-  .most-read {
-    display: grid;
-    gap: 13px;
-  }
-
-  .most-read a {
-    border-top: 1px solid var(--line);
-    display: grid;
-    gap: 8px;
-    grid-template-columns: 42px 1fr;
-    padding-top: 13px;
-  }
-
-  .most-read span {
-    color: var(--gold);
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: 1.25rem;
-    font-weight: 800;
-  }
-
-  .most-read strong {
-    font-size: 0.94rem;
-    line-height: 1.32;
-  }
-
-  .reader-pulse h3 {
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: 1.45rem;
-    line-height: 1.08;
-    margin: 6px 0 16px;
-  }
-
-  .reader-pulse button {
-    background: #fff;
-    border: 1px solid var(--line);
-    border-radius: 999px;
-    color: var(--accent-strong);
-    cursor: pointer;
-    font: inherit;
-    font-size: 0.9rem;
-    font-weight: 900;
-    margin: 0 8px 10px 0;
-    padding: 9px 12px;
-  }
-
-  .reader-pulse button[aria-pressed] {
-    background: var(--accent-strong);
-    border-color: var(--accent-strong);
-    color: #fff;
-  }
-
-  .pulse-result {
-    color: var(--muted);
-    font-size: 0.9rem;
-    font-weight: 700;
-    line-height: 1.5;
-    margin: 4px 0 0;
-  }
-
-  .deep-read-band {
-    align-items: center;
-    display: grid;
-    gap: 24px;
-    grid-template-columns: minmax(260px, 0.45fr) 1fr;
-    padding-bottom: 24px;
-    padding-top: 24px;
-  }
-
-  .deep-read-list {
-    display: grid;
-    gap: 12px;
-  }
-
-  .deep-read-list a {
-    align-items: center;
-    background: rgba(255, 255, 255, 0.74);
-    border: 1px solid rgba(222, 216, 205, 0.85);
-    border-radius: 6px;
-    display: grid;
-    gap: 8px;
-    grid-template-columns: 110px 1fr 82px;
-    padding: 14px;
-  }
-
-  .deep-read-list span {
-    color: var(--accent);
-    font-size: 0.72rem;
-    font-weight: 900;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-  }
-
-  .deep-read-list strong {
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: 1.2rem;
-    line-height: 1.15;
-  }
-
-  .deep-read-list small {
-    color: var(--muted);
-    font-size: 0.78rem;
-    font-weight: 800;
-    text-align: right;
   }
 
   .cards {
@@ -919,21 +807,11 @@ const liveNews = [
   }
 
   .story-card {
-    background: var(--panel);
-    border: 1px solid var(--line);
-    border-radius: 6px;
-    box-shadow: 0 14px 34px rgba(7, 19, 24, 0.07);
     overflow: hidden;
     transition:
       transform 180ms ease,
       box-shadow 180ms ease,
       border-color 180ms ease;
-  }
-
-  .story-card:hover {
-    border-color: rgba(194, 145, 45, 0.5);
-    box-shadow: 0 18px 48px rgba(7, 19, 24, 0.12);
-    transform: translateY(-3px);
   }
 
   .story-card img {
@@ -958,55 +836,53 @@ const liveNews = [
     margin: 0;
   }
 
+  @media (max-width: 1100px) {
+    .weather-grid {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .editor-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
   @media (max-width: 860px) {
+    .time-grid,
+    .weather-heading,
     .lead,
-    .cards,
-    .intelligence-band,
-    .engagement-hub,
-    .hub-heading,
-    .deep-read-band {
+    .live-briefing,
+    .cards {
       grid-template-columns: 1fr;
     }
 
-    .hub-stats,
-    .editor-grid {
-      grid-template-columns: repeat(2, minmax(0, 1fr));
+    .time-grid {
+      min-height: auto;
+    }
+
+    .clock-side {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
     }
 
     .lead-copy {
       align-self: start;
       padding: 22px;
     }
+  }
 
-    .marquee-copy {
+  @media (max-width: 640px) {
+    .clock-side,
+    .weather-grid,
+    .editor-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .alert-panel {
       align-items: flex-start;
       flex-direction: column;
     }
 
-    .marquee-copy h2 {
-      max-width: 100%;
+    .alert-panel strong {
       text-align: left;
-    }
-
-    .market-card {
-      grid-template-columns: 40px 170px auto;
-      width: 320px;
-    }
-
-    .deep-read-list a {
-      align-items: start;
-      grid-template-columns: 1fr;
-    }
-
-    .deep-read-list small {
-      text-align: left;
-    }
-  }
-
-  @media (max-width: 520px) {
-    .hub-stats,
-    .editor-grid {
-      grid-template-columns: 1fr;
     }
   }
 </style>

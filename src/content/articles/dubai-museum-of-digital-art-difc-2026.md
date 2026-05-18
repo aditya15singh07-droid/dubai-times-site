@@ -2,7 +2,7 @@
 title: "Dubai Launches Museum Of Digital Art As Culture And Technology Move Closer"
 description: "MODA at DIFC Zabeel District is set to become the region's first museum dedicated to digital art and new technologies."
 category: "Lifestyle"
-author: "Dubai Times Culture Desk"
+author: "Dubai Time Culture Desk"
 date: 2026-05-17
 publishedTime: "13:10 GST"
 watchLine: "Track MODA's first programming calendar, artist partnerships, education activity and repeat-visit appeal."

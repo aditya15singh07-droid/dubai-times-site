@@ -2,7 +2,7 @@
 title: "Dubai Metro Blue Line Tunnelling Starts, And The Real Story Is About Time"
 description: "Dubai has launched tunnelling works for the Blue Line, but the bigger story is how the city is trying to stay livable while it keeps growing."
 category: "Dubai"
-author: "Dubai Times Dubai Desk"
+author: "Dubai Time Dubai Desk"
 date: 2026-05-18
 watchLine: "Watch execution timelines, station-area planning and whether the line changes commuting behaviour before roads get tighter."
 image: "https://images.pexels.com/photos/33329502/pexels-photo-33329502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
