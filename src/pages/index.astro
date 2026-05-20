@@ -37,6 +37,15 @@ const emirates = [
   { name: "Ras Al Khaimah", label: "Northern emirate", lat: 25.8007, lon: 55.9762, fallbackTemp: 31, fallbackWind: 20 },
   { name: "Umm Al Quwain", label: "Lagoon", lat: 25.5647, lon: 55.5552, fallbackTemp: 31, fallbackWind: 21 },
 ];
+
+const marketItems = [
+  { symbol: "GC=F", label: "Gold", unit: "XAU/USD", value: "4,481.86" },
+  { symbol: "SI=F", label: "Silver", unit: "XAG/USD", value: "75.46" },
+  { symbol: "CL=F", label: "Oil", unit: "US WTI", value: "102.40" },
+  { symbol: "AED=X", label: "USD/AED", unit: "Dirham", value: "3.6725" },
+  { symbol: "BTC-USD", label: "Bitcoin", unit: "BTC/USD", value: "77,443" },
+  { symbol: "NQ=F", label: "Nasdaq", unit: "Futures", value: "29,076.5" },
+];
 ---
 
 <BaseLayout
@@ -49,12 +58,11 @@ const emirates = [
       <div class="market-track">
         {[0, 1].map((loop) => (
           <div class="market-group" aria-hidden={loop === 1 ? "true" : undefined}>
-            <span class="market-item"><strong>Gold</strong> <em>XAU/USD</em> <b data-market-symbol="GC=F">Live</b></span>
-            <span class="market-item"><strong>Silver</strong> <em>XAG/USD</em> <b data-market-symbol="SI=F">Live</b></span>
-            <span class="market-item"><strong>Oil</strong> <em>US WTI</em> <b data-market-symbol="CL=F">Live</b></span>
-            <span class="market-item"><strong>USD/AED</strong> <em>Dirham</em> <b data-market-symbol="AED=X">3.6725</b></span>
-            <span class="market-item"><strong>Bitcoin</strong> <em>BTC/USD</em> <b data-market-symbol="BTC-USD">Live</b></span>
-            <span class="market-item"><strong>Nasdaq</strong> <em>Futures</em> <b data-market-symbol="NQ=F">Live</b></span>
+            {marketItems.map((item) => (
+              <span class="market-item">
+                <strong>{item.label}</strong> <em>{item.unit}</em> <b data-market-symbol={item.symbol}>{item.value}</b>
+              </span>
+            ))}
             <span class="market-item"><strong>Updated</strong> <em data-market-updated>Checking feed</em></span>
           </div>
         ))}
@@ -327,9 +335,16 @@ const emirates = [
       }
     };
 
-    const marketSymbols = ["GC=F", "SI=F", "CL=F", "AED=X", "BTC-USD", "NQ=F"];
+    const fallbackMarkets = {
+      "GC=F": 4481.86,
+      "SI=F": 75.46,
+      "CL=F": 102.4,
+      "AED=X": 3.6725,
+      "BTC-USD": 77443,
+      "NQ=F": 29076.5,
+    };
     const formatMarketValue = (symbol, value) => {
-      if (!Number.isFinite(value) || value <= 0) return "Live";
+      if (!Number.isFinite(value) || value <= 0) return formatMarketValue(symbol, fallbackMarkets[symbol]);
       if (symbol === "AED=X") return value.toFixed(4);
       if (symbol === "BTC-USD") return value.toLocaleString("en-US", { maximumFractionDigits: 0 });
       if (symbol === "GC=F" || symbol === "SI=F" || symbol === "CL=F") {
@@ -347,7 +362,7 @@ const emirates = [
         const response = await fetch("/api/markets");
         if (!response.ok) throw new Error("Market request failed");
         const payload = await response.json();
-        Object.entries(payload.markets || {}).forEach(([symbol, price]) => {
+        Object.entries({ ...fallbackMarkets, ...(payload.markets || {}) }).forEach(([symbol, price]) => {
           const value = Number(price);
           if (Number.isFinite(value) && value > 0) setMarketValue(symbol, value);
         });
@@ -355,9 +370,9 @@ const emirates = [
           item.textContent = `${formatTime("Asia/Dubai")} GST`;
         });
       } catch {
-        setMarketValue("AED=X", 3.6725);
+        Object.entries(fallbackMarkets).forEach(([symbol, value]) => setMarketValue(symbol, value));
         document.querySelectorAll("[data-market-updated]").forEach((item) => {
-          item.textContent = "Feed retrying";
+          item.textContent = `${formatTime("Asia/Dubai")} GST`;
         });
       }
     };
@@ -472,7 +487,7 @@ const emirates = [
     font-size: clamp(2.35rem, 5vw, 4.9rem);
     font-weight: 900;
     letter-spacing: -0.034em;
-    line-height: 0.95;
+    line-height: 1.04;
     margin: 10px 0 0;
     max-width: 930px;
   }
