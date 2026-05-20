@@ -27,8 +27,6 @@ On paper, this is a traffic enforcement story.
 
 In real life, it is about how a fast city manages a new habit before it becomes a bigger safety problem.
 
-## The City Is Regulating A Daily Convenience
-
 E-scooters and bicycles have become part of Dubai's last-mile routine.
 
 They help residents cover the awkward gap between a Metro station and an office tower. They help tourists move around waterfront districts. They help workers save time on short trips that are too long to walk and too short to justify a car.
@@ -45,8 +43,6 @@ A helmet rule matters when a rider falls at speed. A lane rule matters when a pe
 
 The smallest vehicles can still create serious consequences.
 
-## Where The Patrols Will Matter Most
-
 The unit is expected to work across Dubai, with attention on high-use locations such as Jumeirah Beach Track, Mohammed bin Rashid Boulevard, Dubai Water Canal, Business Bay and Dubai Marina.
 
 It will also cover areas including Al Mankhool, Al Karama, Al Hamriya, Al Raffa and Al Muraqqabat.
@@ -60,8 +56,6 @@ Riders often share the same public space with families, workers and visitors.
 That is where discipline becomes more than a slogan.
 
 For a city like Dubai, the challenge is not whether scooters should exist. They already do. The challenge is whether they can exist without turning pavements and tracks into guessing games.
-
-## Fines Are The Visible Part
 
 The unit can issue violations and impound non-compliant mobility devices in coordination with Emirates Auction.
 
@@ -77,8 +71,6 @@ Personal mobility devices sit inside that bigger system. If they are used well, 
 
 The monitoring unit is therefore not only policing scooters. It is protecting trust in shared mobility.
 
-## Residents Need Clarity, Not Confusion
-
 For ordinary users, the rulebook must be simple.
 
 Ride where you are allowed. Wear the right protection. Do not carry another person on an e-scooter. Do not race through crowded areas. Slow down near crossings. Respect pedestrians.
@@ -93,8 +85,6 @@ Each group needs a slightly different message.
 
 A fine can punish one mistake. Clear public guidance can prevent hundreds.
 
-## A Small Policy With A Bigger Signal
-
 This move also says something about Dubai's next phase of transport.
 
 The city no longer thinks only in terms of big roads and major stations. It is also paying attention to the small journeys in between. That is important because the first and last kilometre often decides whether people use public transport at all.
@@ -104,8 +94,6 @@ If reaching a Metro station feels safe and easy, people use it more. If the path
 So the e-scooter story is quietly connected to congestion, sustainability and quality of life.
 
 A safe scooter lane may not look as grand as a new bridge. But for a resident trying to reach work on time, it can matter just as much.
-
-## What Comes Next
 
 The best outcome would be boring in the best possible way.
 

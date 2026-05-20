@@ -19,15 +19,11 @@ The public angle is straightforward. A larger, better-capitalised operator can t
 
 That is especially true for residents who use taxis at the edges of the day. Early airport trips, late-night returns, school runs when a private car is unavailable, quick cross-city hops in the heat. These are ordinary use cases, not luxury choices. Many Indian and expatriate workers rely on taxis and ride-hail links as part of a mixed transport routine. So the deal should be read not as a distant corporate transaction, but as an attempt to shape the platform behind those routines across more than one emirate.
 
-## The Deal Is About Geography
-
 DTC's own framing makes the intent clear. The company says its Dubai market share could rise from 47 per cent to about 59 per cent while giving it a meaningful 12 per cent presence in Abu Dhabi. That matters because the next stage of growth for UAE mobility companies is unlikely to come from doing the same thing harder within one city. It will come from multi-emirate scale, tighter digital integration and a broader service mix spanning taxis, ride-hailing, corporate transport and adjacent services.
 
 In other words, this deal is really about geography. Dubai remains DTC's base, but the company is signalling that its future cannot depend on a single-emirate footprint if it wants to become a genuine mobility champion. National Taxi gives it a functioning operating base, existing vehicles, route familiarity and an established presence in Abu Dhabi and Al Ain. The fact that DTC plans to retain the National Taxi brand while partially integrating back-office functions also suggests a pragmatic approach. It wants synergies without breaking what already works on the ground.
 
 That integration balance will be decisive. Mobility is one of those sectors where headquarters can overestimate how easily a system can be unified. Dispatch logic, local regulation, driver management, maintenance cycles, app behaviour and customer expectations all vary more than spreadsheets often admit. DTC is clearly aware of this, which is why it is talking about a partial integration model. Still, investors, regulators and riders will all be watching whether the company preserves reliability while trying to extract efficiencies.
-
-## A Bigger Platform Needs Public Trust
 
 There is a wider UAE story underneath this. As cities across the Emirates grow and daily movement becomes more app-shaped, transport operators are being pulled toward platform logic. Scale gives them better economics, but it also raises the importance of trust. If a larger group handles more of the public's daily trips, then transparency, complaint handling, driver standards and service consistency become more politically and socially visible. A mobility company at scale starts to behave a little like public infrastructure, even when it is listed and commercial.
 

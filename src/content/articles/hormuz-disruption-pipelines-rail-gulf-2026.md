@@ -22,8 +22,6 @@ This is not just a wartime workaround.
 
 It may become a long-term regional lesson.
 
-## Hormuz Has Always Been More Than An Energy Route
-
 People usually discuss Hormuz through oil. That is fair, but incomplete.
 
 The waterway is also part of the operating logic of Gulf economies. It supports the movement of raw materials, manufactured products, food imports, re-exports and the wider machinery of trade that makes daily life possible in the UAE and its neighbours.
@@ -31,8 +29,6 @@ The waterway is also part of the operating logic of Gulf economies. It supports 
 When that route becomes unreliable, the cost is not limited to crude shipments. It reaches industrial planning, logistics pricing, shipping confidence and the political sense of vulnerability.
 
 This is why the current adjustment matters so much. Gulf states are not only finding ways to cope for a few weeks. They are being reminded that overdependence on a single maritime corridor can shape the limits of national power.
-
-## The UAE's Geography Starts To Look Even More Valuable
 
 For the UAE, especially, the shift highlights an advantage it has been quietly building for years.
 
@@ -44,8 +40,6 @@ Resilience is not only about military deterrence. It is also about whether goods
 
 The UAE appears better positioned than some neighbours to make that pivot.
 
-## The Region May Begin Investing Differently
-
 If the current disruption leaves a lasting policy scar, one result will be different investment priorities.
 
 Pipelines will look less optional. Rail freight will look more strategic. East-coast ports and inland logistics links will attract stronger attention. Even industrial location decisions may change if companies begin placing greater value on access routes that do not depend entirely on Hormuz.
@@ -53,8 +47,6 @@ Pipelines will look less optional. Rail freight will look more strategic. East-c
 That could reshape parts of the Gulf economy over time.
 
 Infrastructure once justified as growth-enabling may increasingly be justified as risk-reducing. Those are not the same political arguments, and they often unlock different kinds of urgency.
-
-## Shipping Crises Also Change Commercial Psychology
 
 Markets do not need total closure to rethink behaviour.
 
@@ -66,8 +58,6 @@ In that sense, bypass systems do more than relieve pressure. They slowly weaken 
 
 That is one of the most important strategic implications in the story.
 
-## This Is Also A Household Story
-
 Global trade analysis can feel distant from daily life. It should not.
 
 When shipping routes strain, families eventually notice through prices, supply timing, job conditions and business caution. A city like Dubai, which relies heavily on imported goods and continuous movement, feels these shocks through the everyday economy long before most people start discussing maritime geography.
@@ -75,8 +65,6 @@ When shipping routes strain, families eventually notice through prices, supply t
 If alternative routes work well, they help soften that pressure. If they fail, the effects can move quickly into groceries, retail logistics, tourism confidence and industrial planning.
 
 That is why resilience infrastructure is not a technocratic luxury. It is part of social stability.
-
-## The Gulf May Leave This Crisis More Land-Linked Than Before
 
 For decades, the Gulf's economic imagination has been overwhelmingly maritime. That made sense. The sea built much of its wealth.
 

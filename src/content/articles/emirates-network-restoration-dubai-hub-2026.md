@@ -26,8 +26,6 @@ Taken together, this is not just a service update.
 
 It is a confidence campaign backed by operating numbers.
 
-## Network Recovery Is Really A Hub Story
-
 Emirates cannot be separated from Dubai.
 
 The carrier is one of the main reasons the city functions as a global crossroads. When Emirates loses depth or rhythm, Dubai's role in world travel weakens. When Emirates recovers quickly, it helps restore the city's wider positioning too.
@@ -35,8 +33,6 @@ The carrier is one of the main reasons the city functions as a global crossroads
 That is why the 96% figure should be read in a broader frame. It signals that the Dubai hub model remains resilient enough to pull traffic back across the Americas, Europe, Africa, West Asia, the Middle East, the Far East and Australasia.
 
 For a network airline, breadth matters because confidence compounds. Travellers are more willing to book long itineraries when they believe the carrier has regained operational shape across the map, not only on a handful of headline routes.
-
-## Recovery Must Feel Reliable, Not Merely Ambitious
 
 There is a useful distinction in aviation between reopening routes and rebuilding trust.
 
@@ -46,8 +42,6 @@ Emirates is leaning into that narrative. Its messaging around onboard experience
 
 That matters because premium long-haul airlines do not compete only on geography. They compete on reassurance.
 
-## Dubai Connect Shows The Carrier Knows What Travellers Need
-
 One of the more practical parts of the announcement is the renewed emphasis on Dubai Connect. For eligible passengers with layovers of six to 26 hours, the programme includes hotel accommodation, airport transfers, meals and, where needed, a UAE entry visa.
 
 That is a useful reminder of how hub carriers win business.
@@ -56,8 +50,6 @@ A long stop can be either a burden or a product. Emirates wants it to look like 
 
 If the airline can turn layovers into manageable, even pleasant, experiences, it makes the Dubai hub more defensible against rival routes.
 
-## The Competitive Context Is Still Tough
-
 Even with the recovery, the airline is operating at 75% of pre-disruption capacity. That leaves room to rebuild, and it also means the easy part may be over.
 
 The next stage is harder because expectations rise as conditions improve. Passengers become less forgiving. Competitors recalibrate. Fares, schedules and aircraft utilisation all come under sharper pressure.
@@ -65,8 +57,6 @@ The next stage is harder because expectations rise as conditions improve. Passen
 Emirates will need to balance expansion with reliability. Push too aggressively and the operation risks strain. Recover too cautiously and rival hubs seize the initiative.
 
 The airline's size gives it an advantage, but size also raises the standard it is judged by.
-
-## The Human Meaning Is Often Overlooked
 
 For travellers, this story is about more than network maps.
 
@@ -77,8 +67,6 @@ These everyday decisions are where airline recovery becomes real.
 Emirates has always been strong not just because of aircraft or lounges, but because millions of people have built travel habits around trusting the system to hold.
 
 That trust is what the 96% headline is really trying to restore.
-
-## The Next Few Months Will Tell The Real Story
 
 Summer schedules, passenger sentiment and regional conditions will show whether this recovery can deepen. The airline has regained broad network presence. Now it has to convert that into a reliable normal.
 

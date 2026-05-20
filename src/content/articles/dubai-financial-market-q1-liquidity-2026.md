@@ -19,15 +19,11 @@ Those numbers matter because liquid, active markets help economies fund growth m
 
 For most residents, of course, the exchange is not part of the morning commute. But its health still spills outward. A vibrant market supports listed employers, wealth managers, brokerages, research teams, legal services and a wider sense that Dubai's financial ecosystem has depth. Indian professionals and investors in the UAE pay close attention to these signals because they speak to more than share prices. They speak to whether Dubai is maturing into a market where capital can enter, trade and stay with confidence.
 
-## The Overseas Signal Is Important
-
 The most striking detail in the quarter may be the international profile of participation. Nearly four out of five new investors came from overseas, and foreign investors made up more than half of trading value. That matters because global capital is selective. It does not show up in force unless market access feels credible, settlement feels reliable and the broader jurisdiction feels investable. Dubai has worked hard to build that proposition, and DFM's first-quarter data suggests the pitch is still landing.
 
 Institutional participation at 70 per cent of trading value is another useful sign. Retail excitement can produce bursts of activity, but institutions give a market a different kind of credibility. They support depth, encourage better pricing efficiency and help reduce the sense that activity is purely sentiment-driven. For DFM, that balance between international and institutional demand is valuable because it places the exchange closer to the profile of a market integrated into wider capital flows rather than a purely domestic venue.
 
 Still, the quarter was not without nuance. DFM noted that the general index reached 6,774 points in early February before closing the quarter 10.1 per cent lower after softer market conditions in late March. That matters because it reminds us that strong liquidity does not equal a one-way market. Investors were active, but they were not blindly euphoric. In fact, the ability of activity to remain firm even as sentiment cooled may be one of the healthier features of the quarter.
-
-## Why Dubai Cares About This So Much
 
 Dubai wants its capital markets to do more than process trades. It wants them to reinforce the city's status as a global financial centre that can connect entrepreneurs, family businesses, state-linked champions and international investors in one place. A strong DFM helps support that ambition. It complements DIFC, strengthens the local public-markets culture and gives the city a more complete financial stack. That is strategically important because mature business hubs need public markets that can keep up with private wealth and private enterprise.
 

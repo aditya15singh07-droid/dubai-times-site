@@ -26,8 +26,6 @@ For many readers, that will sound like specialist language.
 
 It should not.
 
-## Better Data Means Fewer Expensive Surprises
-
 Cities usually get punished for what they do not know in time.
 
 If drainage systems are not understood properly, maintenance comes late. If canal edges, assets or water-linked infrastructure are not mapped accurately, planning becomes guesswork. If updates are slow, agencies end up reacting after damage or delay has already happened.
@@ -40,8 +38,6 @@ The keyword here is not glamour. It is accuracy.
 
 Accurate cities are easier to run.
 
-## The Digital Twin Idea Becomes Real Only With Good Inputs
-
 Dubai has spoken for some time about building digital infrastructure and digital twins. Those ideas often sound futuristic because they are presented as if the city will eventually mirror itself in data.
 
 But a digital twin is only as good as the information feeding it.
@@ -52,8 +48,6 @@ That is why this project deserves more attention than many bigger announcements.
 
 It suggests the city is doing the less glamorous groundwork needed to make smart-city language practical. Mapping canals and waterways may not excite the public like an AI launch does, but it can shape everything from maintenance planning to emergency response and future development along waterfront zones.
 
-## Waterfront Cities Need To Understand Water Better
-
 Dubai's relationship with water is economic, aesthetic and infrastructural all at once.
 
 Canals, creeks, marinas and coastline projects help define how the city looks and how parts of it function. Waterfront property values depend on them. Tourism depends on them. Public spaces depend on them. Resilience planning depends on them even more.
@@ -63,8 +57,6 @@ That means poor information around waterways is not a small technical gap. It be
 With urban growth continuing, better mapping helps the city manage expansion around water-linked assets more carefully. It can also help reduce maintenance inefficiency and improve how quickly agencies identify risks or changes on the ground.
 
 For residents, that eventually shows up as something simple: fewer breakdowns that feel avoidable.
-
-## The Real Reader Benefit Is Not The Device. It Is The Outcome
 
 Ordinary readers do not need to care about the Leica system or the engineering vocabulary behind it. What matters is whether better data leads to better public outcomes.
 
@@ -80,8 +72,6 @@ Those are the questions worth asking.
 
 Dubai often talks about efficiency in a broad way. Projects like this are where efficiency either becomes real or remains a slogan.
 
-## The Next Phase Matters More Than The Pilot
-
 Dubai Municipality says the work will expand to waterways across the emirate in coordination with relevant entities. That is encouraging, because pilots are easy to praise and easier to forget.
 
 The harder job is operationalising them.
@@ -91,8 +81,6 @@ To make this meaningful, the city has to keep updating the data, integrate it ac
 If planners, maintenance teams and infrastructure managers start working from a more reliable geospatial picture, then the project will have real weight.
 
 If not, it risks becoming a technically impressive footnote.
-
-## This Is What A Mature Smart-City Strategy Looks Like
 
 There is a useful lesson here for anyone following Dubai's technology story.
 

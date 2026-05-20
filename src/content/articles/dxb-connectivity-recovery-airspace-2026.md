@@ -24,8 +24,6 @@ The first-quarter numbers still show the cost. DXB handled 18.6 million guests i
 
 Those figures matter. But so does the fact that the hub did not go dark.
 
-## A Transit Airport Cannot Afford To Look Fragile
-
 DXB is not simply a local airport serving Dubai residents. It is a transfer machine. A large share of its value lies in connecting people between continents quickly and reliably. When disruption hits the region, that model comes under pressure faster than point-to-point airports in less exposed geographies.
 
 Dubai Airports' own figures underline this dependence. The operator says DXB supports a major share of Middle East transfer traffic and remains critical to global journeys moving through the region.
@@ -36,8 +34,6 @@ When a transfer hub stays functional under severe constraints, it protects not o
 
 Reputation matters in aviation because passengers and carriers remember which hubs stayed usable when conditions worsened.
 
-## Cargo Continuity Is The Understated Part Of The Story
-
 Passenger numbers usually dominate aviation headlines. Cargo often tells the harder economic truth.
 
 The movement of 213,000 tonnes of essential cargo through Dubai's airports during the disrupted period is a reminder that airports are not only about holidays and business trips. They are also supply-chain assets.
@@ -45,8 +41,6 @@ The movement of 213,000 tonnes of essential cargo through Dubai's airports durin
 Medicines, high-value goods, urgent components and commercially sensitive shipments all depend on functioning air links. When those links weaken, the effect travels quickly into prices, inventory stress and business continuity problems.
 
 Dubai's resilience pitch has always depended on logistics as much as glamour. Keeping cargo flowing under strain reinforces that pitch in a way marketing cannot.
-
-## Recovery Will Be Judged By Smoothness, Not Announcements
 
 The lifting of airspace restrictions is obviously positive. But the next phase is not automatic.
 
@@ -56,8 +50,6 @@ DXB says it is now scaling up operations in line with available regional flight 
 
 This is where operational discipline matters.
 
-## Ordinary People Feel Aviation Disruption In Very Ordinary Ways
-
 For a family, airport resilience may mean a parent gets home on time. For a student, it may mean a semester journey does not collapse. For a small business, it may mean a shipment arrives when promised. For hotel workers and taxi drivers, it may mean rosters and incomes remain steadier than expected.
 
 The human side of airport operations is easy to miss because aviation often speaks in statistics.
@@ -65,8 +57,6 @@ The human side of airport operations is easy to miss because aviation often spea
 But statistics become daily life very quickly in a city like Dubai, where travel, tourism, trade and transit are tightly woven into the economy.
 
 That is why DXB's continuity story matters beyond aviation watchers. It affects confidence in the city as a place where plans can still hold under pressure.
-
-## The Harder Test May Still Be Ahead
 
 Maintaining operations during disruption is one challenge. Absorbing returning demand cleanly is another.
 

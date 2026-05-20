@@ -24,8 +24,6 @@ Officials say the line will serve nine key districts with a projected population
 
 That is the formal announcement. The lived meaning is simpler. Dubai is trying to buy residents time before growth eats it away.
 
-## The City Is Planning Ahead For Pressure
-
 Large transport announcements in Dubai can sometimes sound abstract because they arrive wrapped in engineering numbers. But transport is one of the few public investments that ordinary people feel almost immediately once it starts working.
 
 A new rail line changes when people leave home. It changes what landlords can charge. It changes where offices open and where retailers want to be. It even changes how tired a city feels by the end of the workday.
@@ -35,8 +33,6 @@ The Blue Line is important because it extends the logic of the existing metro sy
 It is choosing to respond before the pressure becomes unmanageable.
 
 That is a serious policy choice. Many cities wait too long.
-
-## Transport Is Also An Economic Story
 
 It is easy to think of a metro line as a public-service story. It is that. But it is also a business story.
 
@@ -50,8 +46,6 @@ This is why metro expansion is never only about trains.
 
 It is about household stability.
 
-## The Station Question Will Matter As Much As The Tunnels
-
 The launch of tunnelling works is the dramatic headline. But the quieter question is what happens around the stations.
 
 Dubai has learned over time that transport lines create value unevenly. If station areas are easy to reach, well connected and designed for real daily use, ridership deepens. If they are treated as isolated infrastructure pieces, the gains become narrower.
@@ -63,8 +57,6 @@ The strongest metro systems do not win because trains exist. They win because th
 In Dubai, that usually means comfort matters as much as engineering. Shade matters. Safe crossings matter. Clear integration with buses and taxis matters. Reliable first-and-last-mile movement matters.
 
 If those pieces land well, the Blue Line could do more than carry passengers. It could reshape how whole districts function.
-
-## Residents Will Judge It By Daily Relief
 
 Commuters are not interested in policy language when they are stuck in traffic.
 
@@ -81,8 +73,6 @@ Did the handover between transport modes become easier?
 Did an area that felt far suddenly become workable?
 
 Those are the tests that matter.
-
-## A Growth City Cannot Keep Solving Everything With More Roads
 
 Dubai still builds roads aggressively, and it has reasons to. The city depends on logistics, tourism, trade and car-based flexibility in many districts. But no serious global city can road-build its way out of every future mobility problem.
 

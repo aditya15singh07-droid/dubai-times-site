@@ -27,8 +27,6 @@ That may sound like a long list of facility improvements.
 
 But for a wheelchair user, a visually impaired passenger or a parent accompanying a child with additional needs, these are not small details. They are the difference between dependence and independence.
 
-## Accessibility Is A Daily Experience
-
 Cities often talk about inclusion in official language.
 
 The lived version is much more practical.
@@ -40,8 +38,6 @@ These questions decide whether inclusion is real.
 RTA's upgrades aim to make the service journey easier at exactly those points where people usually struggle. A ramp matters at the entrance. Tactile indicators matter across the walking path. Braille signage matters before confusion starts. A hearing device matters when an announcement or counter conversation is not clear.
 
 This is how access becomes dignity.
-
-## The Queue System Detail Is Important
 
 One of the more interesting parts of the announcement is the redesign of queue management systems at Customer Happiness Centres.
 
@@ -57,8 +53,6 @@ This is the kind of change that rarely makes a loud headline, but it changes the
 
 People should not have to fight the room before they reach the service desk.
 
-## Digital Channels Must Also Be Accessible
-
 RTA also says it has provided alternative digital channels and accessible smart services.
 
 That part matters because modern government service is no longer only physical.
@@ -71,8 +65,6 @@ The best public service model is not one where everyone is forced into an app. I
 
 That gives people choice.
 
-## Dialogue Makes The Upgrade Smarter
-
 RTA's work with Rashid Centre for People of Determination in 2025 and Dubai Club for People of Determination in 2026 is another important signal.
 
 Accessibility designed without users often misses the point.
@@ -83,8 +75,6 @@ If those voices shape the upgrade, the result becomes more useful.
 
 That is the difference between compliance and care.
 
-## Why This Matters Beyond RTA
-
 Dubai wants to be a city for residents, tourists, investors and families.
 
 That ambition cannot work if accessibility is uneven.
@@ -94,8 +84,6 @@ A person should not find one station excellent and the next one frustrating. A f
 Consistency is the next challenge.
 
 RTA's upgrades are a step in that direction, but the citywide standard will matter more than any single centre.
-
-## A Better City For Everyone
 
 Accessibility often gets framed as a service for a specific group.
 

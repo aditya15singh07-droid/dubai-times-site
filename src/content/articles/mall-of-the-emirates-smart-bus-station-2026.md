@@ -26,8 +26,6 @@ The announcement is full of familiar words: smart, seamless, sustainable, integr
 
 But behind that language sits a practical question. Can Dubai make buses feel like a stronger first choice rather than a backup option?
 
-## The Bus Network Only Works If Transfers Feel Civilised
-
 Metro systems usually get the prestige. Buses do the harder, quieter work.
 
 They reach neighbourhoods that rail cannot cover directly. They pull riders into the broader transport system. They matter to workers, students, retail staff, tourists on budgets and residents who simply do not want every trip to begin with a car.
@@ -40,8 +38,6 @@ If a smart station model works here, it has a chance of proving real value.
 
 If it fails here, rollout elsewhere becomes harder to defend.
 
-## Good Design Can Save More Energy Than New Messaging
-
 Cities often spend years trying to persuade people to use public transport more. The basic truth is less glamorous. People shift behaviour when the system feels easier, not when they are lectured.
 
 That means digital screens, accurate service information, clear taxi links and reliable train-arrival data matter more than many policy speeches.
@@ -51,8 +47,6 @@ The new station aims to reduce waiting time and improve journey comfort. That ma
 If riders can trust the information in front of them, and if the handover from bus to metro becomes less annoying, public transport stops feeling like a compromise and starts feeling competent.
 
 That competence is what wins middle-income daily riders, not just occasional users.
-
-## Dubai Needs Public Transport To Feel Aspirational, Not Merely Available
 
 One of Dubai's long-term transport challenges is cultural as much as physical.
 
@@ -64,8 +58,6 @@ That ambition is sensible.
 
 Dubai understands branding. If it wants more people to use buses and feeder routes, it has to build environments that reflect the same modern identity the city likes to project elsewhere.
 
-## The Human Impact Is Immediate
-
 For a white-collar commuter, a smoother interchange can mean shaving stress from both ends of the day.
 
 For a retail worker or hotel staffer, it can mean fewer uncertain minutes between a shift ending and a safe ride home. For a visitor staying near the metro, it can make a bus connection feel manageable instead of intimidating. For a student, it can mean a journey that becomes routine rather than draining.
@@ -75,8 +67,6 @@ These are not glamorous outcomes. They are exactly the point.
 Urban quality improves when small frictions are removed from ordinary lives.
 
 Dubai often thinks in landmark terms, but its transport future will depend just as much on whether everyday riders feel respected by the system.
-
-## Scale Will Be The Real Story
 
 One smart station is a useful signal. It is not yet a citywide transformation.
 

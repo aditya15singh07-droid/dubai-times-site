@@ -25,8 +25,6 @@ This could easily sound like another official technology headline.
 
 But it is more useful to read it as a reliability story.
 
-## AI Is Only Useful If The System Works
-
 Dubai talks often about smart mobility.
 
 That ambition needs more than futuristic vehicles. It needs boring dependability. Apps must load. payment systems must work. Databases must stay alive. Customer services must respond. Internal systems must talk to each other.
@@ -39,8 +37,6 @@ In simple language, it watches the nervous system of RTA.
 
 That matters because transport is now deeply digital.
 
-## The Scale Is Not Small
-
 RTA says the centre supports more than 200 server-hosting units across data centres and handles more than 500 support requests daily.
 
 Those numbers help explain the complexity behind normal travel.
@@ -52,8 +48,6 @@ But all of it depends on systems that must stay up.
 When public transport becomes digital, downtime is not only a technical issue. It becomes a public-service issue.
 
 That is why the centre's Tier III classification matters. It points to readiness, reliability and service continuity. For residents, the value is simple: fewer interruptions, faster recovery and more confidence.
-
-## Data Can Change How RTA Responds
 
 The most interesting phrase in Al Tayer's remarks is not artificial intelligence. It is proactive anticipation.
 
@@ -71,8 +65,6 @@ It only works when the underlying data, people and processes are strong.
 
 RTA appears to understand that. The centre is not being presented only as a software upgrade. It is an operating model.
 
-## Why Ordinary Residents Should Care
-
 Most residents will never visit this centre.
 
 They will still feel its effect.
@@ -85,8 +77,6 @@ A working transport system reduces stress. A failing one spreads stress quickly.
 
 That is why digital resilience is now part of quality of life.
 
-## The Bigger Dubai Pattern
-
 Dubai's smart-city ambition has entered a more serious phase.
 
 The early phase was about visible digital services. The next phase is about connected, secure and resilient systems behind those services.
@@ -98,8 +88,6 @@ It involves cybersecurity, infrastructure, monitoring, support teams, governance
 RTA's centre sits inside that shift.
 
 If it works as promised, it can help Dubai move from smart features to smart operations.
-
-## What To Watch Next
 
 The test will be measurable.
 

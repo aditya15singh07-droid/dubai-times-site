@@ -19,15 +19,11 @@ For residents, industrial policy often feels invisible until something goes wron
 
 This is especially important for a country like the UAE, where infrastructure growth, healthcare demand, retail logistics and technology ambitions all depend on dependable supply chains. Indian businesses operating in the Emirates will recognise the practical value of that immediately. When financing reaches manufacturers, it supports more than factories. It supports distributors, exporters, service partners and the wider ecosystem around production. That can create jobs and business depth that last longer than the publicity cycle around one new fund announcement.
 
-## Why The Timing Matters
-
 The fund arrives at a moment when industrial policy is becoming fashionable again around the world, but for different reasons. In some places it is about green transition. In others it is about geopolitical competition. In the UAE, it is about both economic diversification and strategic resilience. The government wants manufacturing to contribute more to GDP, but it also wants critical sectors to feel less exposed to external shocks. That is why the initiative includes support for AI adoption across production and planning. Efficiency and resilience are being bundled together.
 
 That mix is sensible. Old-style industrial policy often focused too heavily on capacity without enough attention to competitiveness. The UAE appears to be aiming for something sharper: targeted production, better financing access, smarter operations and more local value capture. If that works, the country can strengthen selected supply chains without falling into the trap of subsidising weak output for symbolic reasons. The real test will be whether the funded projects become commercially durable rather than permanently dependent on policy support.
 
 Execution is the difficult part. Industrial funds can sound impressive at launch and then disperse resources too thinly across low-impact projects. The UAE will need discipline in project selection, sector prioritisation and outcome measurement. It will also need to avoid mistaking announced capacity for productive capacity. Factories only matter when they run efficiently, build local capability and connect to real demand. A resilience narrative becomes convincing only when it produces visible operational improvement.
-
-## The SME Angle Could Be Crucial
 
 One encouraging detail is the heavy SME presence around Make it in the Emirates. Smaller manufacturers and industrial service businesses often feel financing constraints more painfully than large corporates. If the new fund helps them scale equipment, improve processes or reach export readiness, the impact could be more widely distributed. That would matter because resilient industrial ecosystems are rarely built only by giant national champions. They are built by networks of smaller, specialised firms that can respond quickly, innovate and plug gaps.
 

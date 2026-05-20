@@ -24,8 +24,6 @@ This is not only a story about billboards.
 
 It is a story about how Dubai is trying to professionalise attention.
 
-## Long Contracts Mean The Market Is Looking Less Temporary
-
 One of the easiest ways to judge whether a sector is maturing is to see how long investors are willing to commit.
 
 Short deals can signal uncertainty. Longer deals suggest that operators believe the market is stable enough, regulated enough and profitable enough to support patient capital. In that sense, the five-to-seven-year structure matters as much as the AED971.3 million headline.
@@ -36,8 +34,6 @@ That shift has consequences.
 
 Once ad inventory is planned with longer horizons, quality becomes more important. Digital upgrades become easier to justify. Urban placement becomes more strategic. The sector begins moving away from patchwork thinking and towards asset management.
 
-## Outdoor Advertising Is Really About The Shape Of The City
-
 Dubai's ad market often gets read purely through a media lens. That misses half the point.
 
 Outdoor advertising is also an urban-design issue. It affects how streets look, how public spaces feel and how commercial districts communicate value. A clean, regulated screen network can support city branding, retail activity and event promotion. A poorly managed one can make even a premium area feel chaotic.
@@ -45,8 +41,6 @@ Outdoor advertising is also an urban-design issue. It affects how streets look, 
 This is why Mada Media's emphasis on organisation, infrastructure and digitalisation matters. The city is not only trying to sell more ad space. It is trying to control the visual economy of public space more carefully.
 
 That makes sense for Dubai. A city that obsesses over presentation will naturally care about who gets to occupy the public eye and on what terms.
-
-## Digital Screens Are Changing The Business Logic
 
 The growth of digital out-of-home advertising changes how the market works.
 
@@ -58,8 +52,6 @@ Dubai appears to understand this tension. The language around the Mada Media con
 
 If that discipline holds, the sector may become more valuable without becoming uglier.
 
-## Why This Matters Beyond Media Agencies
-
 Outdoor advertising affects more people than the media sector alone.
 
 Retailers depend on visibility. Events depend on citywide promotion. Tourism benefits from coherent wayfinding and destination messaging. Developers use outdoor campaigns to shape market attention. Even everyday commuters encounter the sector as part of the visual texture of the city.
@@ -70,8 +62,6 @@ For small and medium businesses, stronger digital outdoor inventory may also cre
 
 That would widen the value of the market beyond the biggest spenders.
 
-## The Hard Part Is Maintaining Quality While Expanding Scale
-
 Dubai has a habit of turning sectors into scale stories. Outdoor advertising can easily become one more example.
 
 But bigger is not the same as better.
@@ -81,8 +71,6 @@ The real challenge will be whether the city can expand digital inventory and lon
 The healthiest outcome sits somewhere in the middle: a well-regulated market that feels commercially alive without visually exhausting the city.
 
 That is what Mada Media's Q1 number should lead readers to watch.
-
-## A Mature Attention Market Has Real Economic Value
 
 Attention is one of the most valuable currencies in a crowded city. The places that manage it well tend to create better returns across retail, tourism, events and brand-building. The places that mismanage it create clutter and declining value.
 

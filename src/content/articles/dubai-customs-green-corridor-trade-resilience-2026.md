@@ -27,8 +27,6 @@ The idea is simple. If one route becomes difficult, use another one without bury
 
 In a region built on movement, that is not a small administrative change. It is a message.
 
-## Why The Corridor Matters
-
 Dubai has spent decades building itself as a trade city.
 
 Ports, airports, free zones, customs systems, warehouses and trucking routes all work together. The system looks smooth when everything is normal. Its real strength shows when things are not normal.
@@ -40,8 +38,6 @@ Reports around the route show a sharp rise in customs activity linked to the cor
 Those numbers are not just statistics.
 
 They show how quickly traders changed behaviour when the market required it. They also show that paperwork, border coordination and transport planning can make the difference between delay and delivery.
-
-## The Human Side Of Logistics
 
 Most people do not think about customs unless something goes wrong.
 
@@ -55,8 +51,6 @@ That is the hidden life of logistics.
 
 Dubai understands this well because its economy is not only about buying and selling. It is also about timing. The city makes money by being reliable when others hesitate.
 
-## Oman Becomes More Important
-
 The Oman link also tells us something wider about the Gulf.
 
 Regional logistics is becoming less dependent on one perfect route and more dependent on several workable routes. That is sensible. No serious trade hub can afford to rely only on the calm version of the map.
@@ -69,8 +63,6 @@ For exporters, this can mean faster movement when ships are diverted. For freigh
 
 That is how one customs decision can spread through many small businesses.
 
-## Speed Still Needs Discipline
-
 The success of a corridor is not only about speed.
 
 It is also about trust.
@@ -80,8 +72,6 @@ Authorities must know what is inside containers. Traders must know which documen
 If any part of that chain becomes unclear, the advantage disappears.
 
 That is why Dubai's customs reputation matters. The emirate has built its trade brand around process and predictability. The Green Corridor now has to prove that the same discipline can work when cargo moves through a more complex regional route.
-
-## A Bigger Signal For Dubai
 
 This story is not glamorous.
 

@@ -25,8 +25,6 @@ But anyone who has waited outdoors in a Gulf summer understands the point immedi
 
 Transport policy is not only about routes, buses and schedules. It is also about the few minutes before the bus arrives.
 
-## Waiting Is Part Of The Journey
-
 Public transport is judged in small moments.
 
 Was the bus on time? Was the route clear? Was the app accurate? Was the waiting area clean? Was there shade? Was the air-conditioning working?
@@ -39,8 +37,6 @@ So RTA's inspections are really about confidence.
 
 The authority says its teams are checking readiness around the clock and taking corrective action when faults appear. That is exactly how a large public network should work. Problems should be found before commuters are forced to complain.
 
-## The Numbers Show The Scale
-
 The figure of 895 shelters across 621 locations is important.
 
 It tells us that this is not a small maintenance task. These shelters sit across daily life in the city. Office workers use them. Students use them. Domestic workers use them. Tourists use them. Delivery and service staff use them.
@@ -50,8 +46,6 @@ For many people, the bus is not a lifestyle choice. It is the practical way to r
 That means shelter quality has a social dimension.
 
 If the system is uncomfortable, those who rely on it most feel the pain first.
-
-## Cleanliness Is Also A Shared Responsibility
 
 RTA has also launched awareness campaigns and installed posters asking users to help preserve shelters and keep them clean.
 
@@ -67,8 +61,6 @@ Residents often complain about public services when they fail. The better habit 
 
 The rider becomes part of the feedback system.
 
-## Accessibility Should Not Be An Afterthought
-
 The shelters also comply with the Dubai Universal Design Code for People of Determination, with dedicated wheelchair spaces and information display screens.
 
 This matters because bus travel is only inclusive if the waiting environment is inclusive too.
@@ -78,8 +70,6 @@ A bus may be accessible, but the journey fails if a person cannot wait comfortab
 Public transport works as a chain. Every link matters.
 
 The shelter is one of those links.
-
-## Why Comfort Changes Ridership
 
 Cities often want people to use public transport more.
 
@@ -92,8 +82,6 @@ That matters for congestion and emissions.
 Dubai is still a car-heavy city. Every improvement that makes buses easier to use helps reduce pressure elsewhere. It also supports the wider Metro and feeder network because many public transport journeys are connected.
 
 The best transport systems are not built only around flagship stations. They are built around small reliable points across the city.
-
-## The Summer Test
 
 The real test will come when temperatures rise.
 

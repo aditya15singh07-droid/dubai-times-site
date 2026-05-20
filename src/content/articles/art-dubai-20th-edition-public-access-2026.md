@@ -22,8 +22,6 @@ The 20th edition of Art Dubai, opened this week at Madinat Jumeirah, is not only
 
 That matters more than it may first appear.
 
-## Dubai Wants Culture To Be Part Of Its Identity, Not Just Its Branding
-
 For a long time, Dubai's global image leaned heavily on commerce, hospitality and construction spectacle. Culture was present, but often secondary in the outside imagination.
 
 That has been changing.
@@ -35,8 +33,6 @@ Those words could sound predictable in any art press note. In Dubai, they carry 
 That shift matters for talent, tourism and civic maturity.
 
 Cities that want to be taken seriously over the long term need more than malls and meetings. They need places where ideas, aesthetics and public conversation can breathe.
-
-## Free Entry Changes The Social Meaning Of The Fair
 
 This is where the public-access choice becomes important.
 
@@ -50,8 +46,6 @@ One reason cultural scenes deepen in cities is that people get repeated low-fric
 
 That is how participation grows.
 
-## Art Dubai's Maturity Mirrors Dubai's Own
-
 The fair's 20-year milestone is being presented as part of Dubai's wider artistic evolution, and that reading is fair enough.
 
 Twenty years ago, Dubai's cultural infrastructure was thinner, its collector base narrower and its international art profile less defined. Today the city has a more layered ecosystem that includes fairs, museums, foundations, design initiatives and a growing creative-economy conversation.
@@ -61,8 +55,6 @@ Art Dubai has helped build that ecosystem, but it has also benefited from it. Th
 What makes the current edition interesting is that it arrives at a point when Dubai no longer needs to prove it can host culture. The more urgent question is whether it can root culture more deeply in public life.
 
 Free entry is a useful step in that direction.
-
-## The Human Side Of Culture Often Gets Ignored
 
 Culture stories are often written as though only institutions matter.
 
@@ -80,8 +72,6 @@ These outcomes are harder to measure than ticket revenue or sponsor lists, but t
 
 For Indian and South Asian residents in Dubai, this also has another layer. Many come from places where public engagement with art can be vibrant but unevenly funded. A free-access major fair in Dubai can create a cross-cultural meeting point that feels both international and regionally relevant.
 
-## Prestige Alone Is Not Enough
-
 Dubai has become skilled at hosting premium events. That is no longer the difficult part.
 
 The harder task is making sure those events leave a social footprint that lasts beyond photographs and VIP rounds. If Art Dubai is serious about access, then it should be judged by whether the wider public actually shows up and whether that engagement deepens year after year.
@@ -91,8 +81,6 @@ If the fair remains admired but socially distant, the inclusive language will fe
 If more residents begin treating it as part of the city's normal cultural life, then this edition may mark something stronger than an anniversary.
 
 It may mark a shift in ownership.
-
-## A Creative City Needs Open Doors
 
 Dubai wants to be seen as a global centre for culture and the creative economy. That ambition is credible only if creative spaces feel open enough for people to enter, question, enjoy and return.
 

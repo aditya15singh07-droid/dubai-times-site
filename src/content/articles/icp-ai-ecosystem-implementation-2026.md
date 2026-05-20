@@ -22,15 +22,11 @@ That is an ambitious target by any standard.
 
 And because ICP sits close to identity, residency, customs and border processes, the consequences would be felt quickly if the plan becomes real.
 
-## This Is Not A Front-End Convenience Story
-
 Many digital government stories focus on the citizen interface. A form becomes shorter. A payment gets easier. A queue disappears. Those things matter, but they are surface improvements.
 
 ICP's announcement points toward something deeper. It suggests the authority wants to change how decisions, workflows and service delivery operate internally. That is where public-sector productivity gains become more significant, and where risks become more serious too.
 
 If AI-led models help process applications faster, detect anomalies earlier and improve coordination across services, people will feel the benefit in the form of less friction. If the systems become opaque or error-prone, the damage will also be immediate because identity and border processes are not minor conveniences. They are life administration.
-
-## The Agency Matters Because Its Decisions Touch Daily Mobility
 
 ICP is not a niche institution.
 
@@ -42,8 +38,6 @@ So when ICP talks about moving half its operations toward autonomous and AI-led 
 
 Will this make the state easier to deal with?
 
-## Speed Is Good. Transparency Is Essential
-
 The official framing aligns the initiative with the UAE National Strategy for Artificial Intelligence 2031 and the broader goal of improving government efficiency and quality of life. That is a reasonable policy direction.
 
 But in high-stakes public administration, efficiency alone is never enough.
@@ -54,8 +48,6 @@ These are not anti-technology questions. They are the questions that make techno
 
 The UAE's advantage is that it can move quickly. The responsibility that comes with that speed is proving that faster does not mean less accountable.
 
-## The Customs Angle May Matter As Much As The Resident Angle
-
 Another under-discussed part of ICP's remit is customs and port security.
 
 That side of the authority matters to businesses, logistics operators and the wider trade system. If AI improves risk screening, document handling and flow management, the gains could extend well beyond citizen-facing services. In a trade-heavy economy, even modest efficiency improvements at the border can create real value.
@@ -64,8 +56,6 @@ This is one reason the ICP roadmap deserves attention from business readers too.
 
 That is especially valuable when regional trade routes and logistics networks are already under pressure.
 
-## The UAE Is Moving From Digital Government To Autonomous Government
-
 The broader shift here is conceptual.
 
 For years, the UAE has built a reputation for digital government. The next phase appears to be autonomous government, where systems do not just digitise processes but begin to run substantial parts of them proactively and continuously.
@@ -73,8 +63,6 @@ For years, the UAE has built a reputation for digital government. The next phase
 That shift could be transformative if done well. It could also expose weaknesses quickly if governance, data quality and review mechanisms are not strong enough.
 
 ICP's role makes it one of the clearest places to watch whether this new phase works in practice.
-
-## What People Should Watch Next
 
 The best evidence will not come from another big announcement.
 
