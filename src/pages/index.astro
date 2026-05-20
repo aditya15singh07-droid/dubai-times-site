@@ -28,13 +28,13 @@ const categoryBlocks = categories
 const estimateRead = (article) => Math.max(3, Math.round((article.body || "").split(/\s+/).length / 220));
 
 const emirates = [
-  { name: "Abu Dhabi", label: "Capital", lat: 24.4539, lon: 54.3773 },
-  { name: "Dubai", label: "Business hub", lat: 25.2048, lon: 55.2708 },
-  { name: "Sharjah", label: "Culture", lat: 25.3463, lon: 55.4209 },
-  { name: "Ajman", label: "Coast", lat: 25.4052, lon: 55.5136 },
-  { name: "Fujairah", label: "East coast", lat: 25.1288, lon: 56.3265 },
-  { name: "Ras Al Khaimah", label: "Northern emirate", lat: 25.8007, lon: 55.9762 },
-  { name: "Umm Al Quwain", label: "Lagoon", lat: 25.5647, lon: 55.5552 },
+  { name: "Abu Dhabi", label: "Capital", lat: 24.4539, lon: 54.3773, fallbackTemp: 31, fallbackWind: 24 },
+  { name: "Dubai", label: "Business hub", lat: 25.2048, lon: 55.2708, fallbackTemp: 31, fallbackWind: 17 },
+  { name: "Sharjah", label: "Culture", lat: 25.3463, lon: 55.4209, fallbackTemp: 30, fallbackWind: 16 },
+  { name: "Ajman", label: "Coast", lat: 25.4052, lon: 55.5136, fallbackTemp: 31, fallbackWind: 19 },
+  { name: "Fujairah", label: "East coast", lat: 25.1288, lon: 56.3265, fallbackTemp: 34, fallbackWind: 21 },
+  { name: "Ras Al Khaimah", label: "Northern emirate", lat: 25.8007, lon: 55.9762, fallbackTemp: 31, fallbackWind: 20 },
+  { name: "Umm Al Quwain", label: "Lagoon", lat: 25.5647, lon: 55.5552, fallbackTemp: 31, fallbackWind: 21 },
 ];
 ---
 
@@ -62,14 +62,47 @@ const emirates = [
   </section>
 
   <section class="section masthead">
-    <div>
+    <div class="hero-copy">
       <p class="eyebrow">UAE Business Daily</p>
       <h1>Dubai stories for people building, investing and living in the city.</h1>
+      <p>
+        Live UAE time, seven-emirate weather, markets and the business stories shaping Dubai.
+      </p>
     </div>
-    <p>
-      A sharper front page for Dubai Time: live time, markets and weather up top,
-      then the news desk below with business, property, technology and city coverage.
-    </p>
+
+    <aside class="live-panel" id="weather" aria-label="Live UAE dashboard">
+      <div class="time-card">
+        <span class="flag flag-uae" aria-hidden="true"></span>
+        <p>Live UAE Time</p>
+        <time id="uae-clock" datetime="">--:--:--</time>
+        <small id="uae-date">Loading Dubai time...</small>
+        <div class="clock-weather-line">
+          <span>Dubai now</span>
+          <strong><b data-dubai-temp>31°</b> · <em data-dubai-condition>Clear sky</em></strong>
+        </div>
+      </div>
+      <div class="weather-mini">
+        <div>
+          <p class="eyebrow">Seven Emirates Weather</p>
+          <strong id="weather-alert">No major rain signal right now</strong>
+        </div>
+        <div class="weather-pills">
+          {emirates.map((emirate) => (
+            <article data-city={emirate.name} data-lat={emirate.lat} data-lon={emirate.lon}>
+              <span>{emirate.name}</span>
+              <strong data-temp>{emirate.fallbackTemp}°</strong>
+              <small data-condition>Clear sky</small>
+              <small><b data-rain>0%</b> rain · <b data-wind>{emirate.fallbackWind}</b> km/h wind</small>
+            </article>
+          ))}
+        </div>
+      </div>
+      <div class="world-times">
+        <span>UTC <b id="utc-clock">--:--</b></span>
+        <span><span class="flag flag-india" aria-hidden="true"></span> India <b id="ist-clock">--:--</b></span>
+        <span><span class="flag flag-us" aria-hidden="true"></span> New York <b id="ny-clock">--:--</b></span>
+      </div>
+    </aside>
   </section>
 
   <section class="section homepage-grid" id="news">
@@ -105,34 +138,6 @@ const emirates = [
       ))}
     </aside>
 
-    <aside class="live-panel" id="weather" aria-label="Live UAE dashboard">
-      <div class="time-card">
-        <span class="flag flag-uae" aria-hidden="true"></span>
-        <p>Live UAE Time</p>
-        <time id="uae-clock" datetime="">--:--:--</time>
-        <small id="uae-date">Loading Dubai time...</small>
-      </div>
-      <div class="weather-mini">
-        <div>
-          <p class="eyebrow">Seven Emirates</p>
-          <strong id="weather-alert">Weather feed loading</strong>
-        </div>
-        <div class="weather-pills">
-          {emirates.map((emirate) => (
-            <article data-city={emirate.name} data-lat={emirate.lat} data-lon={emirate.lon}>
-              <span>{emirate.name}</span>
-              <strong data-temp>--°</strong>
-              <small><b data-rain>--%</b> rain</small>
-            </article>
-          ))}
-        </div>
-      </div>
-      <div class="world-times">
-        <span>UTC <b id="utc-clock">--:--</b></span>
-        <span><span class="flag flag-india" aria-hidden="true"></span> India <b id="ist-clock">--:--</b></span>
-        <span><span class="flag flag-us" aria-hidden="true"></span> New York <b id="ny-clock">--:--</b></span>
-      </div>
-    </aside>
   </section>
 
   <section class="section quick-grid" aria-label="Just in">
@@ -276,11 +281,21 @@ const emirates = [
           if (!card || !item.current) return;
           const current = item.current;
           const rainChance = item.hourly?.precipitation_probability?.[0] ?? 0;
+          const condition = conditionText[current.weather_code] || "Current weather";
+          const wind = Math.round(current.wind_speed_10m || 0);
           hottest = Math.max(hottest, current.temperature_2m || 0);
           highestRain = Math.max(highestRain, rainChance, current.rain || 0);
           card.querySelector("[data-temp]").textContent = `${Math.round(current.temperature_2m)}°`;
           card.querySelector("[data-rain]").textContent = `${rainChance}%`;
-          card.title = conditionText[current.weather_code] || "Current weather";
+          card.querySelector("[data-wind]").textContent = wind;
+          card.querySelector("[data-condition]").textContent = condition;
+          card.title = `${condition}, ${rainChance}% rain, ${wind} km/h wind`;
+          if (emirates[index].name === "Dubai") {
+            const dubaiTemp = document.querySelector("[data-dubai-temp]");
+            const dubaiCondition = document.querySelector("[data-dubai-condition]");
+            if (dubaiTemp) dubaiTemp.textContent = `${Math.round(current.temperature_2m)}°`;
+            if (dubaiCondition) dubaiCondition.textContent = condition;
+          }
         });
         if (alert) {
           alert.textContent =
@@ -297,7 +312,7 @@ const emirates = [
 
     const marketSymbols = ["GC=F", "SI=F", "CL=F", "AED=X", "BTC-USD", "NQ=F"];
     const formatMarketValue = (symbol, value) => {
-      if (!Number.isFinite(value)) return "Live";
+      if (!Number.isFinite(value) || value <= 0) return "Live";
       if (symbol === "AED=X") return value.toFixed(4);
       if (symbol === "BTC-USD") return value.toLocaleString("en-US", { maximumFractionDigits: 0 });
       if (symbol === "GC=F" || symbol === "SI=F" || symbol === "CL=F") {
@@ -315,7 +330,10 @@ const emirates = [
         const response = await fetch("/api/markets");
         if (!response.ok) throw new Error("Market request failed");
         const payload = await response.json();
-        Object.entries(payload.markets || {}).forEach(([symbol, price]) => setMarketValue(symbol, Number(price)));
+        Object.entries(payload.markets || {}).forEach(([symbol, price]) => {
+          const value = Number(price);
+          if (Number.isFinite(value) && value > 0) setMarketValue(symbol, value);
+        });
         document.querySelectorAll("[data-market-updated]").forEach((item) => {
           item.textContent = `${formatTime("Asia/Dubai")} GST`;
         });
@@ -419,37 +437,46 @@ const emirates = [
   }
 
   .masthead {
-    align-items: end;
+    align-items: start;
     border-bottom: 1px solid var(--line);
     display: grid;
-    gap: 24px;
-    grid-template-columns: minmax(0, 0.72fr) minmax(260px, 0.28fr);
-    padding-bottom: 26px;
-    padding-top: 34px;
+    gap: 28px;
+    grid-template-columns: minmax(0, 0.96fr) minmax(360px, 0.52fr);
+    padding-bottom: 34px;
+    padding-top: 30px;
   }
 
   .masthead h1 {
-    font-family: Georgia, "Times New Roman", serif;
+    font-family:
+      Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+      sans-serif;
     font-size: clamp(2.35rem, 5vw, 4.9rem);
-    letter-spacing: -0.02em;
-    line-height: 0.9;
+    font-weight: 900;
+    letter-spacing: -0.034em;
+    line-height: 0.95;
     margin: 10px 0 0;
     max-width: 930px;
   }
 
-  .masthead p:not(.eyebrow) {
+  .hero-copy {
+    align-self: start;
+    padding-top: 14px;
+  }
+
+  .hero-copy p:not(.eyebrow) {
     color: var(--muted);
-    font-size: 1rem;
+    font-size: clamp(1rem, 1.7vw, 1.22rem);
     font-weight: 700;
-    line-height: 1.65;
-    margin: 0;
+    line-height: 1.55;
+    margin: 20px 0 0;
+    max-width: 640px;
   }
 
   .homepage-grid {
     align-items: stretch;
     display: grid;
     gap: 28px;
-    grid-template-columns: minmax(0, 1.2fr) minmax(250px, 0.48fr) minmax(280px, 0.45fr);
+    grid-template-columns: minmax(0, 1.22fr) minmax(285px, 0.48fr);
   }
 
   .lead-story {
@@ -562,7 +589,7 @@ const emirates = [
     align-content: start;
     display: grid;
     gap: 14px;
-    padding: 16px;
+    padding: 0;
   }
 
   .time-card {
@@ -571,7 +598,7 @@ const emirates = [
     color: #fff;
     display: grid;
     gap: 8px;
-    padding: 20px;
+    padding: 22px;
   }
 
   .flag {
@@ -610,11 +637,43 @@ const emirates = [
   }
 
   .time-card time {
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: clamp(2.4rem, 4vw, 3.4rem);
+    font-family:
+      Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+      sans-serif;
+    font-size: clamp(2.25rem, 4vw, 3.1rem);
     font-variant-numeric: tabular-nums;
-    font-weight: 900;
+    font-weight: 950;
+    letter-spacing: -0.05em;
     line-height: 1;
+  }
+
+  .clock-weather-line {
+    align-items: center;
+    border-top: 1px solid rgba(255, 255, 255, 0.16);
+    display: flex;
+    gap: 14px;
+    justify-content: space-between;
+    margin-top: 8px;
+    padding-top: 12px;
+  }
+
+  .clock-weather-line span {
+    color: rgba(255, 255, 255, 0.62);
+    font-size: 0.76rem;
+    font-weight: 900;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .clock-weather-line strong {
+    color: #fff;
+    font-size: 0.92rem;
+    text-align: right;
+  }
+
+  .clock-weather-line em {
+    color: rgba(255, 255, 255, 0.74);
+    font-style: normal;
   }
 
   .time-card small,
@@ -624,6 +683,7 @@ const emirates = [
   }
 
   .weather-mini {
+    background: var(--panel);
     border: 1px solid var(--line);
     padding: 16px;
   }
@@ -647,7 +707,7 @@ const emirates = [
     display: grid;
     gap: 3px;
     min-width: 0;
-    padding: 10px;
+    padding: 11px;
   }
 
   .weather-pills span {
@@ -666,7 +726,9 @@ const emirates = [
 
   .weather-pills small {
     color: var(--soft);
+    font-size: 0.72rem;
     font-weight: 800;
+    line-height: 1.25;
   }
 
   .world-times {
@@ -858,6 +920,7 @@ const emirates = [
   }
 
   @media (max-width: 1040px) {
+    .masthead,
     .homepage-grid,
     .split-section {
       grid-template-columns: 1fr;
@@ -898,7 +961,23 @@ const emirates = [
     }
 
     .masthead h1 {
-      font-size: clamp(2.35rem, 11vw, 3.65rem);
+      font-size: clamp(2.05rem, 9.6vw, 3.05rem);
+      letter-spacing: -0.018em;
+      line-height: 1;
+    }
+
+    .hero-copy p:not(.eyebrow) {
+      font-size: 1rem;
+    }
+
+    .clock-weather-line {
+      align-items: flex-start;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .clock-weather-line strong {
+      text-align: left;
     }
 
     .section-title {

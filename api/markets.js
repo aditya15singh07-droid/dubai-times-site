@@ -9,8 +9,10 @@ const parseStooqClose = (csv) => {
   const line = csv.trim().split("\n")[1];
   if (!line) return null;
   const columns = line.split(",");
-  const close = Number(columns[6]);
-  return Number.isFinite(close) ? close : null;
+  const rawClose = columns[6]?.trim();
+  if (!rawClose || rawClose.toLowerCase() === "n/d") return null;
+  const close = Number(rawClose);
+  return Number.isFinite(close) && close > 0 ? close : null;
 };
 
 const fetchWithTimeout = (url, options = {}) =>
@@ -36,7 +38,8 @@ const fetchUsdAed = async () => {
     const response = await fetchWithTimeout("https://open.er-api.com/v6/latest/USD");
     if (!response.ok) return 3.6725;
     const payload = await response.json();
-    return Number(payload.rates?.AED) || 3.6725;
+    const rate = Number(payload.rates?.AED);
+    return Number.isFinite(rate) && rate > 0 ? rate : 3.6725;
   } catch {
     return 3.6725;
   }
@@ -47,7 +50,8 @@ const fetchBitcoin = async () => {
     const response = await fetchWithTimeout("https://api.binance.com/api/v3/ticker/price?symbol=BTCUSDT");
     if (!response.ok) return null;
     const payload = await response.json();
-    return Number(payload.price) || null;
+    const price = Number(payload.price);
+    return Number.isFinite(price) && price > 0 ? price : null;
   } catch {
     return null;
   }
