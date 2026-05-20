@@ -10,41 +10,63 @@ export async function getStaticPaths() {
   }));
 }
 
+const articleTimestamp = (entry) => {
+  const [hour = "00", minute = "00"] = String(entry.data.publishedTime || "").match(/\d{2}/g) || [];
+  const date = new Date(entry.data.date);
+  date.setHours(Number(hour), Number(minute), 0, 0);
+  return date.getTime();
+};
+
 const { category } = Astro.props;
 const articles = await getCollection("articles", ({ data }) => !data.draft);
 const categoryArticles = articles
   .filter((article) => article.data.category.toLowerCase() === category.toLowerCase())
-  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+  .sort((a, b) => articleTimestamp(b) - articleTimestamp(a));
+
+const [leadArticle, ...restArticles] = categoryArticles;
 ---
 
 <BaseLayout
   title={`${category} News | Dubai Time`}
   description={`Latest ${category} coverage from Dubai Time.`}
 >
-  <section class="section">
+  <section class="section category-page">
     <header class="category-header">
-      <p class="eyebrow">Section</p>
+      <p class="eyebrow">Dubai Time Section</p>
       <h1>{category}</h1>
-      <p>Latest Dubai Time coverage from the {category} desk.</p>
+      <p>Sharp, UAE-first coverage from the {category} desk.</p>
     </header>
 
+    {leadArticle ? (
+      <article class="category-lead">
+        <a href={`/articles/${leadArticle.id}`}>
+          <img src={leadArticle.data.image} alt={leadArticle.data.imageAlt} />
+        </a>
+        <div>
+          <p class="eyebrow">{leadArticle.data.category}</p>
+          <h2><a href={`/articles/${leadArticle.id}`}>{leadArticle.data.title}</a></h2>
+          <p>{leadArticle.data.description}</p>
+          <small>{leadArticle.data.publishedTime}</small>
+        </div>
+      </article>
+    ) : (
+      <p class="empty">This section is ready. Articles will appear here as the Dubai Time engine starts publishing.</p>
+    )}
+
     <div class="listing">
-      {categoryArticles.length > 0 ? (
-        categoryArticles.map((article) => (
-          <article class="row">
-            <a href={`/articles/${article.id}`}>
-              <img src={article.data.image} alt={article.data.imageAlt} loading="lazy" />
-            </a>
-            <div>
-              <p class="eyebrow">{article.data.category}</p>
-              <h2><a href={`/articles/${article.id}`}>{article.data.title}</a></h2>
-              <p>{article.data.description}</p>
-            </div>
-          </article>
-        ))
-      ) : (
-        <p class="empty">This section is ready. Articles will appear here as the Dubai Time engine starts publishing.</p>
-      )}
+      {restArticles.map((article) => (
+        <article class="row">
+          <a href={`/articles/${article.id}`}>
+            <img src={article.data.image} alt={article.data.imageAlt} loading="lazy" />
+          </a>
+          <div>
+            <p class="eyebrow">{article.data.category}</p>
+            <h2><a href={`/articles/${article.id}`}>{article.data.title}</a></h2>
+            <p>{article.data.description}</p>
+            <small>{article.data.publishedTime}</small>
+          </div>
+        </article>
+      ))}
     </div>
   </section>
 </BaseLayout>
@@ -58,28 +80,71 @@ const categoryArticles = articles
 
   h1 {
     font-family: Georgia, "Times New Roman", serif;
-    font-size: clamp(2.6rem, 6vw, 5rem);
-    line-height: 1;
+    font-size: clamp(3rem, 7vw, 6.4rem);
+    letter-spacing: -0.03em;
+    line-height: 0.9;
     margin: 10px 0;
   }
 
   .category-header p:not(.eyebrow) {
     color: var(--muted);
     font-size: 1.1rem;
+    font-weight: 700;
+  }
+
+  .category-lead {
+    background: #111214;
+    color: #fff;
+    display: grid;
+    gap: 0;
+    grid-template-columns: minmax(0, 1.1fr) minmax(320px, 0.72fr);
+    margin-bottom: 24px;
+  }
+
+  .category-lead img {
+    aspect-ratio: 16 / 10;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .category-lead div {
+    align-self: center;
+    padding: clamp(24px, 4vw, 42px);
+  }
+
+  .category-lead h2 {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: clamp(2rem, 4vw, 3.7rem);
+    line-height: 0.96;
+    margin: 10px 0 14px;
+  }
+
+  .category-lead p:not(.eyebrow) {
+    color: rgba(255, 255, 255, 0.76);
+    line-height: 1.6;
+  }
+
+  .category-lead small,
+  .row small {
+    color: var(--soft);
+    font-size: 0.76rem;
+    font-weight: 900;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
   }
 
   .listing {
     display: grid;
-    gap: 22px;
+    gap: 18px;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .row {
     background: var(--panel);
     border: 1px solid var(--line);
-    border-radius: 6px;
     display: grid;
-    gap: 22px;
-    grid-template-columns: 260px 1fr;
+    gap: 0;
+    grid-template-columns: 190px 1fr;
     overflow: hidden;
   }
 
@@ -91,29 +156,37 @@ const categoryArticles = articles
 
   .row div {
     align-self: center;
-    padding: 18px 20px 18px 0;
+    padding: 18px;
   }
 
   .row h2 {
     font-family: Georgia, "Times New Roman", serif;
-    font-size: 1.7rem;
-    line-height: 1.12;
+    font-size: 1.45rem;
+    line-height: 1.1;
     margin: 8px 0 10px;
+  }
+
+  .row h2 a:hover,
+  .category-lead h2 a:hover {
+    color: var(--accent);
   }
 
   .row p:not(.eyebrow),
   .empty {
     color: var(--muted);
-    line-height: 1.6;
+    line-height: 1.55;
   }
 
-  @media (max-width: 700px) {
-    .row {
+  @media (max-width: 900px) {
+    .category-lead,
+    .listing {
       grid-template-columns: 1fr;
     }
+  }
 
-    .row div {
-      padding: 0 18px 18px;
+  @media (max-width: 620px) {
+    .row {
+      grid-template-columns: 1fr;
     }
   }
 </style>

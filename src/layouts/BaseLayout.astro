@@ -26,6 +26,10 @@ const {
     <title>{title}</title>
   </head>
   <body>
+    <div class="topline">
+      <span>Dubai Time Daily</span>
+      <span>UAE clock, markets, weather and business context</span>
+    </div>
     <header class="site-header">
       <a class="brand" href="/" aria-label="Dubai Time home">
         <span>Dubai</span>
@@ -36,7 +40,9 @@ const {
         <a href="/#weather">Weather</a>
         <a href="/#news">News</a>
         <a href="/category/dubai">Dubai</a>
+        <a href="/category/technology">Tech</a>
         <a href="/category/business">Business</a>
+        <a href="/category/real-estate">Real Estate</a>
         <a href="/about">About</a>
       </nav>
     </header>
@@ -56,14 +62,17 @@ const {
 <style is:global>
   :root {
     color-scheme: light;
-    --ink: #171717;
-    --muted: #62666f;
-    --line: #ded8cd;
-    --paper: #fbfaf7;
+    --ink: #111214;
+    --muted: #62636a;
+    --soft: #8a8c94;
+    --line: #e4e1dc;
+    --paper: #f7f5ef;
     --panel: #ffffff;
-    --accent: #0b6e69;
-    --accent-strong: #084c61;
-    --gold: #c2912d;
+    --accent: #e33b2f;
+    --accent-strong: #143c46;
+    --gold: #b9892f;
+    --cream: #fffaf1;
+    --shadow: 0 18px 54px rgba(17, 18, 20, 0.08);
     font-family:
       Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
       sans-serif;
@@ -75,9 +84,7 @@ const {
 
   body {
     margin: 0;
-    background:
-      linear-gradient(180deg, rgba(251, 250, 247, 0.96), rgba(244, 241, 233, 0.96)),
-      linear-gradient(135deg, rgba(8, 76, 97, 0.08), rgba(194, 145, 45, 0.07));
+    background: var(--paper);
     color: var(--ink);
   }
 
@@ -91,37 +98,48 @@ const {
     width: 100%;
   }
 
+  .topline {
+    align-items: center;
+    background: #111214;
+    color: rgba(255, 255, 255, 0.74);
+    display: flex;
+    font-size: 0.76rem;
+    font-weight: 800;
+    justify-content: space-between;
+    letter-spacing: 0.06em;
+    padding: 9px max(22px, calc((100vw - 1180px) / 2 + 24px));
+    text-transform: uppercase;
+  }
+
+  .topline span:first-child {
+    color: #fff;
+  }
+
   .site-header {
     align-items: center;
-    backdrop-filter: blur(22px) saturate(1.18);
-    background:
-      linear-gradient(135deg, rgba(255, 255, 255, 0.84), rgba(251, 250, 247, 0.68));
-    border: 1px solid rgba(255, 255, 255, 0.56);
-    border-bottom-color: rgba(222, 216, 205, 0.78);
-    border-radius: 0 0 10px 10px;
-    box-shadow: 0 18px 50px rgba(7, 19, 24, 0.08);
+    background: rgba(255, 250, 241, 0.96);
+    border-bottom: 1px solid var(--line);
     display: flex;
     gap: 28px;
     justify-content: space-between;
     margin: 0 auto;
-    max-width: 1180px;
-    padding: 22px 24px;
+    padding: 20px max(22px, calc((100vw - 1180px) / 2 + 24px)) 18px;
     position: sticky;
     top: 0;
-    z-index: 10;
+    z-index: 30;
   }
 
   .brand {
     align-items: baseline;
     display: flex;
     font-family: Georgia, "Times New Roman", serif;
-    font-size: clamp(2rem, 5vw, 4rem);
+    font-size: clamp(2rem, 4.5vw, 3.7rem);
     gap: 8px;
-    line-height: 0.9;
+    line-height: 0.86;
   }
 
   .brand span {
-    color: var(--accent-strong);
+    color: #143c46;
   }
 
   .brand strong {
@@ -132,50 +150,50 @@ const {
   .nav {
     display: flex;
     flex-wrap: wrap;
-    gap: 14px;
+    gap: 18px;
     justify-content: flex-end;
   }
 
   .nav a {
-    border-bottom: 2px solid transparent;
-    color: var(--muted);
-    font-size: 0.9rem;
-    font-weight: 700;
+    color: #34363c;
+    font-size: 0.82rem;
+    font-weight: 900;
+    letter-spacing: 0.04em;
     padding: 8px 0;
+    text-transform: uppercase;
   }
 
   .nav a:hover {
-    border-color: var(--gold);
-    color: var(--ink);
+    color: var(--accent);
   }
 
   .section {
     margin: 0 auto;
     max-width: 1180px;
-    padding: 34px 24px;
+    padding: 36px 24px;
   }
 
   .eyebrow {
     color: var(--accent);
     font-size: 0.78rem;
-    font-weight: 800;
+    font-weight: 900;
     letter-spacing: 0.08em;
     text-transform: uppercase;
   }
 
   .site-footer {
-    border-top: 1px solid var(--line);
+    background: #111214;
+    border-top: 5px solid var(--accent);
     color: var(--muted);
     display: flex;
     gap: 24px;
     justify-content: space-between;
-    margin: 42px auto 0;
-    max-width: 1180px;
-    padding: 28px 24px 40px;
+    margin: 54px 0 0;
+    padding: 34px max(22px, calc((100vw - 1180px) / 2 + 24px)) 42px;
   }
 
   .site-footer strong {
-    color: var(--ink);
+    color: #fff;
     font-family: Georgia, "Times New Roman", serif;
     font-size: 1.5rem;
   }
@@ -190,6 +208,12 @@ const {
   }
 
   @media (max-width: 760px) {
+    .topline {
+      align-items: flex-start;
+      flex-direction: column;
+      gap: 4px;
+    }
+
     .site-header,
     .site-footer {
       align-items: flex-start;
@@ -198,12 +222,13 @@ const {
 
     .site-header {
       gap: 18px;
-      padding: 24px 24px 20px;
+      padding: 20px 24px;
       position: relative;
     }
 
     .nav {
-      gap: 18px;
+      flex-wrap: nowrap;
+      gap: 20px;
       justify-content: flex-start;
       overflow-x: auto;
       padding-bottom: 4px;

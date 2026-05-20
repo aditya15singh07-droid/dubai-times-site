@@ -10,13 +10,21 @@ export async function getStaticPaths() {
   }));
 }
 
+const articleTimestamp = (entry) => {
+  const [hour = "00", minute = "00"] = String(entry.data.publishedTime || "").match(/\d{2}/g) || [];
+  const date = new Date(entry.data.date);
+  date.setHours(Number(hour), Number(minute), 0, 0);
+  return date.getTime();
+};
+
 const { article } = Astro.props;
 const { Content } = await render(article);
-const focusTags = article.data.tags.slice(0, 3).join(", ");
 const allArticles = (await getCollection("articles", ({ data }) => !data.draft))
-  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+  .sort((a, b) => articleTimestamp(b) - articleTimestamp(a));
+
 const estimateRead = (entry) => Math.max(3, Math.round((entry.body || "").split(/\s+/).length / 220));
 const readingMinutes = estimateRead(article);
+const latestArticles = allArticles.filter((entry) => entry.id !== article.id).slice(0, 5);
 const relatedArticles = allArticles
   .filter((entry) => entry.id !== article.id && entry.data.category === article.data.category)
   .slice(0, 3);
@@ -28,59 +36,74 @@ const recommendedArticles = [...relatedArticles, ...fallbackRelated];
 
 <BaseLayout title={`${article.data.title} | Dubai Time`} description={article.data.description}>
   <div class="reading-progress" aria-hidden="true"><span data-reading-progress></span></div>
-  <article class="article section">
-    <header class="article-header">
-      <p class="eyebrow">{article.data.category}</p>
+
+  <article class="article-shell">
+    <header class="article-hero">
+      <div class="article-kicker">
+        <a href={`/category/${article.data.category.toLowerCase().replaceAll(" ", "-")}`}>{article.data.category}</a>
+        <span>Dubai Time Leadership Desk</span>
+      </div>
       <h1>{article.data.title}</h1>
       <p class="dek">{article.data.description}</p>
-      <div class="meta">
-        <span>{article.data.author}</span>
-        <span>{article.data.date.toLocaleDateString("en-US", {
-          month: "long",
-          day: "numeric",
-          year: "numeric",
-        })} · {article.data.publishedTime}</span>
-        <span>{readingMinutes} min read</span>
+      <div class="author-row">
+        <div>
+          <span>By {article.data.author}</span>
+          <strong>{article.data.date.toLocaleDateString("en-US", {
+            month: "long",
+            day: "numeric",
+            year: "numeric",
+          })} · {article.data.publishedTime}</strong>
+        </div>
+        <div>
+          <span>Read Time</span>
+          <strong>{readingMinutes} minutes</strong>
+        </div>
       </div>
     </header>
-    <img class="hero-image" src={article.data.image} alt={article.data.imageAlt} />
-    {article.data.imageCredit && (
-      <p class="image-credit">
-        {article.data.imageCreditUrl ? (
-          <a href={article.data.imageCreditUrl} target="_blank" rel="noreferrer">{article.data.imageCredit}</a>
-        ) : (
-          article.data.imageCredit
-        )}
-      </p>
-    )}
-    <section class="reader-brief" aria-label="Reader brief">
-      <div>
+
+    <figure class="article-image">
+      <img src={article.data.image} alt={article.data.imageAlt} />
+      {article.data.imageCredit && (
+        <figcaption>
+          {article.data.imageCreditUrl ? (
+            <a href={article.data.imageCreditUrl} target="_blank" rel="noreferrer">{article.data.imageCredit}</a>
+          ) : (
+            article.data.imageCredit
+          )}
+        </figcaption>
+      )}
+    </figure>
+
+    <div class="article-layout">
+      <aside class="share-rail" aria-label="Article summary">
         <span>Brief</span>
-        <strong>{article.data.description}</strong>
+        <p>{article.data.watchLine}</p>
+        <a href="/">Dubai Time</a>
+      </aside>
+
+      <div class="article-body">
+        <Content />
       </div>
-      <div>
-        <span>Focus</span>
-        <strong>{focusTags || article.data.category}</strong>
-      </div>
-      <div>
-        <span>Read Time</span>
-        <strong>{readingMinutes} minutes, built for a complete picture.</strong>
-      </div>
-      <div>
-        <span>Watch</span>
-        <strong>{article.data.watchLine}</strong>
-      </div>
-    </section>
-    <div class="article-body">
-      <Content />
+
+      <aside class="latest-rail" aria-label="Latest stories">
+        <p class="eyebrow">Latest</p>
+        {latestArticles.map((entry) => (
+          <a href={`/articles/${entry.id}`}>
+            <span>{entry.data.category}</span>
+            <strong>{entry.data.title}</strong>
+          </a>
+        ))}
+      </aside>
     </div>
-    <footer class="tags" aria-label="Article tags">
+
+    <footer class="article-tags" aria-label="Article tags">
       {article.data.tags.map((tag) => <span>{tag}</span>)}
     </footer>
+
     <section class="continue-reading" aria-label="Continue reading">
-      <div class="continue-heading">
+      <div class="section-title">
         <p class="eyebrow">Continue Reading</p>
-        <h2>More stories from the Dubai Time desk</h2>
+        <h2>More from Dubai Time</h2>
       </div>
       <div class="continue-grid">
         {recommendedArticles.map((entry) => (
@@ -94,6 +117,7 @@ const recommendedArticles = [...relatedArticles, ...fallbackRelated];
       </div>
     </section>
   </article>
+
   <script>
     const progress = document.querySelector("[data-reading-progress]");
     const article = document.querySelector(".article-body");
@@ -114,16 +138,16 @@ const recommendedArticles = [...relatedArticles, ...fallbackRelated];
 
 <style>
   .reading-progress {
-    background: rgba(222, 216, 205, 0.6);
+    background: rgba(228, 225, 220, 0.9);
     height: 3px;
     inset: 0 0 auto;
     position: sticky;
     top: 0;
-    z-index: 20;
+    z-index: 40;
   }
 
   .reading-progress span {
-    background: linear-gradient(90deg, var(--gold), var(--accent));
+    background: var(--accent);
     display: block;
     height: 100%;
     transform: scaleX(0);
@@ -131,100 +155,161 @@ const recommendedArticles = [...relatedArticles, ...fallbackRelated];
     transition: transform 120ms linear;
   }
 
-  .article {
-    max-width: 980px;
+  .article-shell {
+    margin: 0 auto;
+    max-width: 1180px;
+    padding: 44px 24px 0;
   }
 
-  .article-header {
-    margin: 0 auto 28px;
-    max-width: 800px;
-    text-align: center;
+  .article-hero {
+    border-bottom: 1px solid var(--line);
+    max-width: 900px;
+    padding-bottom: 28px;
+  }
+
+  .article-kicker {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  .article-kicker a,
+  .article-kicker span {
+    color: var(--accent);
+    font-size: 0.78rem;
+    font-weight: 950;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .article-kicker span {
+    color: var(--soft);
   }
 
   h1 {
     font-family: Georgia, "Times New Roman", serif;
-    font-size: clamp(2.4rem, 6vw, 5.4rem);
-    line-height: 0.96;
-    margin: 14px 0 18px;
+    font-size: clamp(2.45rem, 5vw, 4.9rem);
+    letter-spacing: -0.03em;
+    line-height: 0.95;
+    margin: 16px 0 20px;
   }
 
   .dek {
-    color: var(--muted);
-    font-size: 1.2rem;
-    line-height: 1.7;
+    color: #3f4148;
+    font-size: clamp(1.1rem, 2vw, 1.35rem);
+    font-weight: 650;
+    line-height: 1.55;
     margin: 0;
+    max-width: 760px;
   }
 
-  .meta {
-    color: var(--muted);
+  .author-row {
     display: flex;
     flex-wrap: wrap;
-    gap: 14px;
-    justify-content: center;
-    margin-top: 22px;
+    gap: 26px;
+    margin-top: 24px;
   }
 
-  .hero-image {
-    aspect-ratio: 16 / 9;
-    object-fit: cover;
-  }
-
-  .image-credit {
-    color: var(--muted);
-    font-size: 0.78rem;
-    margin: 8px auto 0;
-    max-width: 900px;
-    text-align: right;
-  }
-
-  .image-credit a {
-    color: inherit;
-    text-decoration: underline;
-    text-decoration-color: rgba(98, 102, 111, 0.45);
-  }
-
-  .reader-brief {
-    background:
-      linear-gradient(135deg, rgba(255, 255, 255, 0.94), rgba(248, 245, 238, 0.88)),
-      radial-gradient(circle at top right, rgba(194, 145, 45, 0.12), transparent 38%);
-    border: 1px solid var(--line);
+  .author-row div {
+    border-left: 3px solid var(--accent);
     display: grid;
-    gap: 1px;
-    grid-template-columns: 1.1fr 0.8fr 0.8fr 1fr;
-    margin: 22px auto 0;
-    max-width: 900px;
+    gap: 5px;
+    padding-left: 12px;
   }
 
-  .reader-brief div {
-    background: rgba(255, 255, 255, 0.5);
-    display: grid;
-    gap: 8px;
-    padding: 16px;
-  }
-
-  .reader-brief span {
-    color: var(--gold);
-    font-size: 0.72rem;
-    font-weight: 900;
-    letter-spacing: 0.12em;
+  .author-row span {
+    color: var(--soft);
+    font-size: 0.76rem;
+    font-weight: 950;
+    letter-spacing: 0.06em;
     text-transform: uppercase;
   }
 
-  .reader-brief strong {
-    color: var(--ink);
-    font-size: 0.94rem;
-    line-height: 1.45;
+  .author-row strong {
+    font-size: 0.95rem;
+  }
+
+  .article-image {
+    margin: 30px 0 0;
+  }
+
+  .article-image img {
+    aspect-ratio: 16 / 8.5;
+    object-fit: cover;
+  }
+
+  .article-image figcaption {
+    color: var(--soft);
+    font-size: 0.78rem;
+    margin-top: 8px;
+    text-align: right;
+  }
+
+  .article-image a {
+    text-decoration: underline;
+  }
+
+  .article-layout {
+    align-items: start;
+    display: grid;
+    gap: 34px;
+    grid-template-columns: 150px minmax(0, 720px) 270px;
+    margin-top: 38px;
+  }
+
+  .share-rail,
+  .latest-rail {
+    position: sticky;
+    top: 116px;
+  }
+
+  .share-rail {
+    border-top: 3px solid var(--accent);
+    color: var(--muted);
+    display: grid;
+    gap: 12px;
+    padding-top: 14px;
+  }
+
+  .share-rail span,
+  .latest-rail span,
+  .continue-grid span {
+    color: var(--accent);
+    font-size: 0.72rem;
+    font-weight: 950;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+
+  .share-rail p {
+    font-size: 0.9rem;
+    font-weight: 700;
+    line-height: 1.55;
+    margin: 0;
+  }
+
+  .share-rail a {
+    background: #111214;
+    color: #fff;
+    font-size: 0.78rem;
+    font-weight: 900;
+    justify-self: start;
+    padding: 9px 11px;
+    text-transform: uppercase;
   }
 
   .article-body {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    box-shadow: var(--shadow);
     font-family: Georgia, "Times New Roman", serif;
-    font-size: 1.2rem;
-    line-height: 1.85;
-    margin: 34px auto 0;
-    max-width: 720px;
+    font-size: 1.18rem;
+    line-height: 1.82;
+    padding: clamp(24px, 4vw, 42px);
   }
 
-  .article-body h2 {
+  .article-body :global(h2) {
     border-top: 1px solid var(--line);
     color: var(--ink);
     font-family: Inter, ui-sans-serif, system-ui, sans-serif;
@@ -236,67 +321,69 @@ const recommendedArticles = [...relatedArticles, ...fallbackRelated];
     text-transform: uppercase;
   }
 
-  .article-body p {
+  .article-body :global(p) {
     margin: 0 0 20px;
   }
 
-  .article-body ul {
-    font-family: Inter, ui-sans-serif, system-ui, sans-serif;
-    font-size: 1rem;
-    line-height: 1.7;
-    margin: 0 0 24px;
-    padding-left: 22px;
-  }
-
-  .article-body li {
-    margin-bottom: 8px;
-  }
-
-  .article-body a {
-    border-bottom: 1px solid rgba(194, 145, 45, 0.55);
+  .article-body :global(a) {
+    border-bottom: 1px solid rgba(227, 59, 47, 0.5);
     color: var(--accent-strong);
-    font-weight: 700;
+    font-weight: 800;
   }
 
-  .tags {
+  .latest-rail {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    padding: 18px;
+  }
+
+  .latest-rail a {
+    border-top: 1px solid var(--line);
+    display: grid;
+    gap: 8px;
+    padding: 14px 0;
+  }
+
+  .latest-rail strong {
+    font-family: Georgia, "Times New Roman", serif;
+    line-height: 1.15;
+  }
+
+  .article-tags {
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
-    margin: 30px auto 0;
+    margin: 28px auto 0;
     max-width: 720px;
   }
 
-  .tags span {
+  .article-tags span {
+    background: #fff;
     border: 1px solid var(--line);
-    border-radius: 4px;
     color: var(--accent-strong);
-    font-size: 0.9rem;
-    font-weight: 800;
+    font-size: 0.82rem;
+    font-weight: 900;
     padding: 8px 10px;
   }
 
   .continue-reading {
     border-top: 1px solid var(--line);
-    margin: 42px auto 0;
-    max-width: 900px;
+    margin-top: 46px;
     padding-top: 28px;
   }
 
-  .continue-heading {
+  .section-title {
     align-items: end;
     display: flex;
-    gap: 20px;
     justify-content: space-between;
     margin-bottom: 18px;
   }
 
-  .continue-heading h2 {
+  .section-title h2 {
     font-family: Georgia, "Times New Roman", serif;
-    font-size: clamp(1.8rem, 4vw, 2.7rem);
+    font-size: clamp(1.8rem, 4vw, 3rem);
     line-height: 1;
     margin: 0;
-    max-width: 520px;
-    text-align: right;
   }
 
   .continue-grid {
@@ -308,17 +395,9 @@ const recommendedArticles = [...relatedArticles, ...fallbackRelated];
   .continue-grid a {
     background: var(--panel);
     border: 1px solid var(--line);
-    border-radius: 6px;
     display: grid;
-    overflow: hidden;
-    transition:
-      transform 180ms ease,
-      box-shadow 180ms ease;
-  }
-
-  .continue-grid a:hover {
-    box-shadow: 0 16px 36px rgba(7, 19, 24, 0.11);
-    transform: translateY(-3px);
+    gap: 11px;
+    padding-bottom: 16px;
   }
 
   .continue-grid img {
@@ -329,46 +408,59 @@ const recommendedArticles = [...relatedArticles, ...fallbackRelated];
   .continue-grid span,
   .continue-grid strong,
   .continue-grid small {
-    margin-inline: 14px;
-  }
-
-  .continue-grid span {
-    color: var(--accent);
-    font-size: 0.72rem;
-    font-weight: 900;
-    letter-spacing: 0.08em;
-    margin-top: 12px;
-    text-transform: uppercase;
+    margin-left: 16px;
+    margin-right: 16px;
   }
 
   .continue-grid strong {
     font-family: Georgia, "Times New Roman", serif;
-    font-size: 1.08rem;
-    line-height: 1.14;
-    margin-top: 6px;
+    font-size: 1.25rem;
+    line-height: 1.12;
   }
 
   .continue-grid small {
-    color: var(--muted);
-    font-size: 0.78rem;
+    color: var(--soft);
     font-weight: 800;
-    margin-bottom: 14px;
-    margin-top: 10px;
   }
 
-  @media (max-width: 760px) {
-    .reader-brief,
+  @media (max-width: 1050px) {
+    .article-layout {
+      grid-template-columns: 1fr;
+    }
+
+    .share-rail,
+    .latest-rail {
+      position: static;
+    }
+
+    .latest-rail {
+      display: none;
+    }
+  }
+
+  @media (max-width: 720px) {
+    .article-shell {
+      padding: 30px 18px 0;
+    }
+
+    h1 {
+      font-size: clamp(2.05rem, 9.4vw, 3rem);
+      letter-spacing: -0.02em;
+      line-height: 1.02;
+    }
+
+    .article-image img {
+      aspect-ratio: 4 / 3;
+    }
+
     .continue-grid {
       grid-template-columns: 1fr;
     }
 
-    .continue-heading {
+    .section-title {
       align-items: flex-start;
       flex-direction: column;
-    }
-
-    .continue-heading h2 {
-      text-align: left;
+      gap: 6px;
     }
   }
 </style>
