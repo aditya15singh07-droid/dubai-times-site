@@ -2,7 +2,7 @@
 title: "Jafza's New Investment Wave Shows Resilience Is Now A Selling Point"
 description: "DP World says Jafza attracted AED 854 million in tenant investments in the first four months of 2026, highlighting how business continuity has become part of Dubai's trade pitch."
 category: "Real Estate"
-author: "Natalie Wong"
+author: "Zoya Malhotra"
 date: 2026-05-19
 watchLine: "Watch whether Jafza can convert this early-year momentum into longer-term industrial and logistics commitments across 2026."
 image: "https://images.pexels.com/photos/14400831/pexels-photo-14400831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

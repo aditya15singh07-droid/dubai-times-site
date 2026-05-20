@@ -2,7 +2,7 @@
 title: "Dubai Ruler praises Emirates Post for cutting red tape and improving services: What UAE Readers Should Watch"
 description: "Dubai Ruler praises Emirates Post for cutting red tape and improving services signals another turn in how capital, customers and confidence are moving across the UAE."
 category: "Business"
-author: "Andrew Ross Sorkin"
+author: "Zoya Malhotra"
 date: 2026-05-19
 publishedTime: "17:38 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

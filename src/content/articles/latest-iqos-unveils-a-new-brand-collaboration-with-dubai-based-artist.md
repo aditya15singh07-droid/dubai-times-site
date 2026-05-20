@@ -2,7 +2,7 @@
 title: "IQOS Unveils a New Brand Collaboration with Dubai Based Artist: What It Means Now"
 description: "Dubai: IQOS Boutique has unveiled a new immersive art installation in collaboration with Dubai-based French artist Charlotte de Belle, marking the launch of the IQOS..."
 category: "Entertainment"
-author: "Ramona Shelburne"
+author: "Naina Batra"
 date: 2026-05-19
 publishedTime: "18:27 GST"
 watchLine: "Watch the next official update, market response and public impact."

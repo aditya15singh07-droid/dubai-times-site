@@ -2,7 +2,7 @@
 title: "'Century 21' establishes regional headquarters in Dubai: What UAE Readers Should Watch"
 description: "'Century 21' establishes regional headquarters in Dubai could affect residents directly, from public services and safety to daily planning across the Emirates."
 category: "Middle East"
-author: "Kashmir Hill"
+author: "Myra D Souza"
 date: 2026-05-19
 publishedTime: "19:12 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

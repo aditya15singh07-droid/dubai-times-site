@@ -2,7 +2,7 @@
 title: "DEWA's Q1 Numbers Show Why Utility Performance Is A Quiet Dubai Economic Story"
 description: "DEWA posted record first-quarter revenue, EBITDA and profit, underlining how basic infrastructure performance still shapes Dubai's wider growth story."
 category: "Business"
-author: "Andrew Ross Sorkin"
+author: "Rian Kapoor"
 date: 2026-05-18
 publishedTime: "02:20 GST"
 watchLine: "Watch whether customer account growth and clean energy share keep rising alongside new communities and industrial demand."

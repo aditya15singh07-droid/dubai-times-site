@@ -2,7 +2,7 @@
 title: "Gulf HNWIs are taking a more structured view of legacy: What It Means Now"
 description: "A more global next generation is pushing Gulf families to rethink how wealth is held. When markets become unstable, people usually start by checking their portfolios,..."
 category: "International"
-author: "Yaroslav Trofimov"
+author: "Vihaan Rao"
 date: 2026-05-19
 publishedTime: "17:13 GST"
 watchLine: "Watch the next official update, market response and public impact."

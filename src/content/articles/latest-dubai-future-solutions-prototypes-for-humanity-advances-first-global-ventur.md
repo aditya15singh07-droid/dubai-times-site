@@ -2,7 +2,7 @@
 title: "Dubai Future Solutions – Prototypes for Humanity advances first global ventures into UAE pilot projects and commercialisation: What UAE Readers Should Watch"
 description: "Dubai Future Solutions – Prototypes for Humanity advances first global ventures into UAE pilot projects and... could affect residents directly, from public services and safety to daily planning across the Emirates."
 category: "International"
-author: "Yaroslav Trofimov"
+author: "Kabir Anand"
 date: 2026-05-19
 publishedTime: "13:47 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

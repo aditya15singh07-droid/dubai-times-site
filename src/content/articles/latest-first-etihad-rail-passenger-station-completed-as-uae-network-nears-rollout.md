@@ -2,7 +2,7 @@
 title: "First Etihad Rail passenger station completed as UAE network nears rollout: What UAE Readers Should Watch"
 description: "First Etihad Rail passenger station completed as UAE network nears rollout matters for passengers, operators and the wider visitor economy that keeps Dubai moving."
 category: "Travel"
-author: "Peter Greenberg"
+author: "Mira Sethi"
 date: 2026-05-19
 publishedTime: "15:43 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

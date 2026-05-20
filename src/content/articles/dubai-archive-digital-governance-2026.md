@@ -2,7 +2,7 @@
 title: "Dubai Archive Could Matter Because Fast Cities Forget Fast"
 description: "The Mohammed Bin Rashid Al Maktoum Library Foundation has launched Dubai Archive, a new project linking digital governance, document management and the preservation of the city's institutional memory."
 category: "Lifestyle"
-author: "Natalie Wong"
+author: "Anika Menon"
 date: 2026-05-19
 publishedTime: "02:00 GST"
 watchLine: "Watch whether the pilot phase leads to common standards across more Dubai entities and visible gains in access, governance and document security."

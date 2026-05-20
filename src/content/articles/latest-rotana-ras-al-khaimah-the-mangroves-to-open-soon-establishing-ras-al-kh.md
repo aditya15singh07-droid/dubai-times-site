@@ -2,7 +2,7 @@
 title: "Rotana Ras Al Khaimah – The Mangroves to open soon, establishing Ras Al Khaimah’s premier events destination: What It Means Now"
 description: "The much-anticipated Rotana Ras Al Khaimah – The Mangroves is on track to open its doors soon, marking a significant addition to the emirate's hospitality..."
 category: "Health"
-author: "Dr. Sanjay Gupta"
+author: "Tara Khanna"
 date: 2026-05-19
 publishedTime: "19:09 GST"
 watchLine: "Watch the next official update, market response and public impact."

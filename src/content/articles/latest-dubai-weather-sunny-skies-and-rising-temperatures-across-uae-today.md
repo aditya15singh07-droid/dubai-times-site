@@ -2,7 +2,7 @@
 title: "Dubai weather: Sunny skies and rising temperatures across UAE today: What UAE Readers Should Watch"
 description: "Dubai weather: Sunny skies and rising temperatures across UAE today could affect residents directly, from public services and safety to daily planning across the Emirates."
 category: "Middle East"
-author: "Kashmir Hill"
+author: "Zoya Malhotra"
 date: 2026-05-20
 publishedTime: "05:54 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

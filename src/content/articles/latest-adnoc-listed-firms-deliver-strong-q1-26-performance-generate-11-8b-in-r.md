@@ -2,7 +2,7 @@
 title: "Adnoc listed firms deliver strong Q1 ’26 performance, generate $11.8b in revenue: What It Means Now"
 description: "Adnoc’s listed companies reported a resilient set of financial and operational results in the first quarter of 2026, reflecting the strength of the Group’s integrated..."
 category: "Business"
-author: "Andrew Ross Sorkin"
+author: "Naina Batra"
 date: 2026-05-19
 publishedTime: "14:49 GST"
 watchLine: "Watch the next official update, market response and public impact."

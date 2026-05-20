@@ -2,7 +2,7 @@
 title: "Adnoc Drilling revenue rises 5 per cent to $1.23 billion in Q1: What It Means Now"
 description: "Adnoc Drilling company on Monday announced its financial results for the first quarter (Q1) ended 31st March 2026.The company delivered its strongest first quarter..."
 category: "Business"
-author: "Andrew Ross Sorkin"
+author: "Tara Khanna"
 date: 2026-05-19
 publishedTime: "23:47 GST"
 watchLine: "Watch the next official update, market response and public impact."

@@ -2,7 +2,7 @@
 title: "DIFC Wants To Be AI Native. The Important Word Is Not AI, But Native"
 description: "DIFC’s new AI-native plan is more ambitious than a standard technology rollout because it aims to shape regulation, infrastructure and jobs together."
 category: "Middle East"
-author: "Kashmir Hill"
+author: "Rian Kapoor"
 date: 2026-05-18
 watchLine: "Watch whether DIFC moves from branding to enforceable frameworks, deployable tools and real hiring growth across finance and compliance."
 image: "https://images.pexels.com/photos/5480781/pexels-photo-5480781.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

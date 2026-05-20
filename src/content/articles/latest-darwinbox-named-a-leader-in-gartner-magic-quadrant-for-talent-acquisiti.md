@@ -2,7 +2,7 @@
 title: "Darwinbox named a leader in Gartner Magic Quadrant for talent acquisition suites: What It Means Now"
 description: "Darwinbox is rated No. 1 in both AI and ATS capabilities among all evaluated vendors by Gartner, validating its leadership in AI-led, enterprise-grade..."
 category: "Middle East"
-author: "Kashmir Hill"
+author: "Mira Sethi"
 date: 2026-05-19
 publishedTime: "18:20 GST"
 watchLine: "Watch the next official update, market response and public impact."

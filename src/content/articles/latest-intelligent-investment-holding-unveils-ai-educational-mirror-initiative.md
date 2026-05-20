@@ -2,7 +2,7 @@
 title: "Intelligent Investment Holding unveils AI Educational Mirror initiative: What It Means Now"
 description: "Intelligent Investment Holding and its strategic partners today announced a landmark national initiative: the AI Educational Mirror. Developed by the IIH TOP 300 AI..."
 category: "Business"
-author: "Andrew Ross Sorkin"
+author: "Ishaan Vora"
 date: 2026-05-19
 publishedTime: "20:16 GST"
 watchLine: "Watch the next official update, market response and public impact."

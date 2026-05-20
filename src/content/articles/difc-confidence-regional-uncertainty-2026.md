@@ -2,7 +2,7 @@
 title: "DIFC's Confidence Story Is Really About Stability In A Nervous Region"
 description: "Financial leaders are still backing Dubai and DIFC, and that confidence matters because capital remembers who stays steady during uncertainty."
 category: "Business"
-author: "Andrew Ross Sorkin"
+author: "Tara Khanna"
 date: 2026-05-18
 publishedTime: "12:44 GST"
 watchLine: "Watch whether global banks, wealth managers and fintech firms continue expanding in DIFC despite regional uncertainty."

@@ -2,7 +2,7 @@
 title: "Dubai unveils citywide Eid Al Adha festivities with luxury staycations: What UAE Readers Should Watch"
 description: "Dubai unveils citywide Eid Al Adha festivities with luxury staycations matters for passengers, operators and the wider visitor economy that keeps Dubai moving."
 category: "Travel"
-author: "Peter Greenberg"
+author: "Naina Batra"
 date: 2026-05-19
 publishedTime: "15:34 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

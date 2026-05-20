@@ -2,7 +2,7 @@
 title: "What’s next for smartphone durability? The HUAWEI Nova 15 Max is built to Last: What It Means Now"
 description: "Users today expect more from their smartphones than ever before, from dependable battery life to durable performance that can keep up with demanding daily routines...."
 category: "Middle East"
-author: "Kashmir Hill"
+author: "Aarav Mehta"
 date: 2026-05-19
 publishedTime: "20:23 GST"
 watchLine: "Watch the next official update, market response and public impact."

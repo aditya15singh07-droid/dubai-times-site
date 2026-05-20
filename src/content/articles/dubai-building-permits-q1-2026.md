@@ -2,7 +2,7 @@
 title: "Dubai's Q1 Permit Surge Suggests Construction Confidence Is Still Running Hot"
 description: "Dubai issued more than 10,700 building permits in the first quarter, offering a fresh signal that urban expansion and investor activity remain strong."
 category: "Middle East"
-author: "Kashmir Hill"
+author: "Naina Batra"
 date: 2026-05-18
 publishedTime: "03:10 GST"
 watchLine: "Watch whether permit growth turns into healthy completions, balanced supply and stronger community infrastructure."

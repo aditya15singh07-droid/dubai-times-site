@@ -2,7 +2,7 @@
 title: "UAE and S.Korea forge strategic tech pact in AI, semiconductors: What It Means Now"
 description: "SEOUL: The Ministry of Investment has led a high-level delegation to the brotherly Republic of Korea to advance bilateral cooperation and unlock new partnership..."
 category: "International"
-author: "Yaroslav Trofimov"
+author: "Samaira Qureshi"
 date: 2026-05-19
 publishedTime: "19:48 GST"
 watchLine: "Watch the next official update, market response and public impact."

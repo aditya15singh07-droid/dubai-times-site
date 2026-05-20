@@ -2,7 +2,7 @@
 title: "Dubai’s First Smart Bus Station Tries To Make Waiting Less Wasteful"
 description: "RTA has opened its first smart bus station at Mall of the Emirates, and the significance lies in how Dubai is trying to make public transport feel more usable."
 category: "Sport"
-author: "Noma Nazish"
+author: "Myra D Souza"
 date: 2026-05-18
 watchLine: "Watch whether RTA rolls the model out quickly and whether bus-to-metro transfers become visibly smoother for daily riders."
 image: "https://images.pexels.com/photos/4430911/pexels-photo-4430911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

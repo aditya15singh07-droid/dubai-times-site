@@ -2,7 +2,7 @@
 title: "Dubai's May Calendar Turns Gaming, Retail And Eid Into A Lifestyle Economy"
 description: "Dubai's 2026 retail calendar shows how events, shopping, esports, and family experiences are becoming part of the city's everyday economic engine."
 category: "Sport"
-author: "Noma Nazish"
+author: "Mira Sethi"
 date: 2026-05-17
 watchLine: "Follow whether gaming, Eid and retail campaigns keep converting attention into mall footfall, hotel demand and sponsor interest."
 image: "https://images.pexels.com/photos/17051853/pexels-photo-17051853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

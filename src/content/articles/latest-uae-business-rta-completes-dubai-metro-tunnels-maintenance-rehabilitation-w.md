@@ -2,7 +2,7 @@
 title: "UAE Business: RTA completes Dubai Metro tunnels maintenance, rehabilitation works: What UAE Readers Should Watch"
 description: "UAE Business: RTA completes Dubai Metro tunnels maintenance, rehabilitation works matters for passengers, operators and the wider visitor economy that keeps Dubai moving."
 category: "Travel"
-author: "Peter Greenberg"
+author: "Zoya Malhotra"
 date: 2026-05-19
 publishedTime: "15:33 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

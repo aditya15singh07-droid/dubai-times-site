@@ -2,7 +2,7 @@
 title: "Air India clocks record annual loss above $2 billion, shareholder&#039;s results show: What It Means Now"
 description: "​Air India Group ⁠recorded a record loss of more than $2 billion for its ‌2025-26 fiscal year, according to shareholder ‌Singapore Airlines' annual report, as India's..."
 category: "Travel"
-author: "Peter Greenberg"
+author: "Anika Menon"
 date: 2026-05-19
 publishedTime: "17:59 GST"
 watchLine: "Watch the next official update, market response and public impact."

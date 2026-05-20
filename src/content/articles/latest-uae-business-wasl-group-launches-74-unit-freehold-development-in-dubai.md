@@ -2,7 +2,7 @@
 title: "UAE Business: Wasl Group launches 74-unit freehold development in Dubai: What UAE Readers Should Watch"
 description: "UAE Business: Wasl Group launches 74-unit freehold development in Dubai adds a fresh marker to Dubai's property cycle, where demand, pricing and trust all move together."
 category: "Real Estate"
-author: "Natalie Wong"
+author: "Naina Batra"
 date: 2026-05-19
 publishedTime: "14:05 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

@@ -2,7 +2,7 @@
 title: "Plekhanov University in Dubai inaugurates R&D Center and unveils new patent and two revolutionary AI technologies: What UAE Readers Should Watch"
 description: "Plekhanov University in Dubai inaugurates R&D Center and unveils new patent and two revolutionary AI technologies shows how quickly AI, digital services and data rules are entering everyday UAE decisions."
 category: "Middle East"
-author: "Kashmir Hill"
+author: "Armaan Gill"
 date: 2026-05-19
 publishedTime: "18:42 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

@@ -2,7 +2,7 @@
 title: "Abu Dhabi Crown Prince Sheikh Khaled hails Adnoc for resilience in maintaining safe operations: What It Means Now"
 description: "His Highness Sheikh Khaled Bin Mohamed Bin Zayed Al Nahyan, Crown Prince of Abu Dhabi and Chairman of the Abu Dhabi Executive Council, has chaired a meeting of the..."
 category: "Business"
-author: "Andrew Ross Sorkin"
+author: "Kabir Anand"
 date: 2026-05-19
 publishedTime: "16:38 GST"
 watchLine: "Watch the next official update, market response and public impact."

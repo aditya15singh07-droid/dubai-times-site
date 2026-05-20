@@ -2,7 +2,7 @@
 title: "Emirate’s new retail campaign: Shop and ‘Win Your Home’ in Dubai, see details: What UAE Readers Should Watch"
 description: "Emirate’s new retail campaign: Shop and ‘Win Your Home’ in Dubai, see details adds a fresh marker to Dubai's property cycle, where demand, pricing and trust all move together."
 category: "Real Estate"
-author: "Natalie Wong"
+author: "Kabir Anand"
 date: 2026-05-20
 publishedTime: "07:30 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

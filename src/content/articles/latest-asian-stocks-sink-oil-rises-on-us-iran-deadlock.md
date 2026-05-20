@@ -2,7 +2,7 @@
 title: "Asian stocks sink, oil rises on US-Iran deadlock: What It Means Now"
 description: "Most Asian shares were lower in morning trade on Monday, extending slides in global markets, as the impasse in the Middle East drove oil prices more than two percent..."
 category: "International"
-author: "Yaroslav Trofimov"
+author: "Myra D Souza"
 date: 2026-05-19
 publishedTime: "14:42 GST"
 watchLine: "Watch the next official update, market response and public impact."

@@ -2,7 +2,7 @@
 title: "Middle East Digital Services Now Face The Trust Test"
 description: "Across the region, digital government and AI services are expanding quickly, but residents will judge them by privacy, accuracy and ease."
 category: "Middle East"
-author: "Kashmir Hill"
+author: "Rian Kapoor"
 date: 2026-05-20
 publishedTime: "17:03 GST"
 watchLine: "Watch privacy safeguards, complaint channels and whether services reduce paperwork in real life."

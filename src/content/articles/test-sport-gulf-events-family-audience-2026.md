@@ -2,7 +2,7 @@
 title: "Sport In The Gulf Is Becoming A Family Business"
 description: "Major sports events in the region are no longer only about elite athletes. They now shape tourism, family weekends and city branding."
 category: "Sport"
-author: "Noma Nazish"
+author: "Naina Batra"
 date: 2026-05-20
 publishedTime: "15:35 GST"
 watchLine: "Watch ticket prices, family access and whether events create repeat local audiences."

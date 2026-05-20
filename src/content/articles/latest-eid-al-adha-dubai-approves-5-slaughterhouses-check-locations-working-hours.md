@@ -2,7 +2,7 @@
 title: "Eid Al Adha: Dubai approves 5 slaughterhouses; check locations, working hours: What UAE Readers Should Watch"
 description: "Eid Al Adha: Dubai approves 5 slaughterhouses; check locations, working hours could affect residents directly, from public services and safety to daily planning across the Emirates."
 category: "Lifestyle"
-author: "Natalie Wong"
+author: "Kian Oberoi"
 date: 2026-05-19
 publishedTime: "17:32 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

@@ -2,7 +2,7 @@
 title: "Abu Dhabi-based next-generation AI platform Yasi One officially launched: What It Means Now"
 description: "Gulf Today, Staff ReporterAbu Dhabi: A significant step forward in artificial intelligence (AI) was announced recently with the official launch of Yasi One, a..."
 category: "Middle East"
-author: "Kashmir Hill"
+author: "Mira Sethi"
 date: 2026-05-19
 publishedTime: "22:26 GST"
 watchLine: "Watch the next official update, market response and public impact."

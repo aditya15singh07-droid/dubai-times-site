@@ -2,7 +2,7 @@
 title: "A $30 Billion Infrastructure Consortium Puts Abu Dhabi In A Bigger Capital Circuit"
 description: "The BlackRock-led infrastructure partnership involving Abu Dhabi's L'imad and ADNOC is a major capital formation story with implications well beyond one deal announcement."
 category: "Business"
-author: "Andrew Ross Sorkin"
+author: "Vihaan Rao"
 date: 2026-05-14
 watchLine: "Watch how quickly the consortium raises capital and whether the first investments show real regional execution rather than only strategic positioning."
 image: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1400&q=80"

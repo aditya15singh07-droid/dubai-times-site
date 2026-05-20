@@ -2,7 +2,7 @@
 title: "CFI launches 40 local stocks listed on DFM: What It Means Now"
 description: "DUBAI: CFI Financial Group has launched more than 40 local stocks listed on the Dubai Financial Market (DFM).The integration enhances market accessibility by..."
 category: "Business"
-author: "Andrew Ross Sorkin"
+author: "Mira Sethi"
 date: 2026-05-19
 publishedTime: "13:21 GST"
 watchLine: "Watch the next official update, market response and public impact."

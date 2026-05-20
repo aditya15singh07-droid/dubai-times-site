@@ -2,7 +2,7 @@
 title: "Dubai Scooter Patrols Are About More Than Fines"
 description: "Dubai Police and RTA have begun enforcing safer e-scooter and bicycle use, and the real story is how the city is trying to protect convenience before it becomes chaos."
 category: "Middle East"
-author: "Kashmir Hill"
+author: "Vihaan Rao"
 date: 2026-05-18
 publishedTime: "11:04 GST"
 watchLine: "Watch whether enforcement improves safety without making short daily trips harder for residents and visitors."

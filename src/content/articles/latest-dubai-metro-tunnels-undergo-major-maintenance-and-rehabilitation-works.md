@@ -2,7 +2,7 @@
 title: "Dubai Metro tunnels undergo major maintenance and rehabilitation works: What UAE Readers Should Watch"
 description: "Dubai Metro tunnels undergo major maintenance and rehabilitation works matters for passengers, operators and the wider visitor economy that keeps Dubai moving."
 category: "Travel"
-author: "Peter Greenberg"
+author: "Tara Khanna"
 date: 2026-05-19
 publishedTime: "14:45 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

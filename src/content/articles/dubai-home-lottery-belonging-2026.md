@@ -2,7 +2,7 @@
 title: "Dubai's New Home Lottery Is Also A Test Of Belonging"
 description: "Dubai has launched a citywide home giveaway linked to retail spending, but the bigger story is how the city is trying to turn consumption into long-term attachment."
 category: "Real Estate"
-author: "Natalie Wong"
+author: "Reyansh Suri"
 date: 2026-05-19
 watchLine: "Watch whether the campaign drives real middle-class engagement, retail footfall and a wider conversation about attainable home ownership in Dubai."
 image: "https://images.pexels.com/photos/7937364/pexels-photo-7937364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

@@ -2,7 +2,7 @@
 title: "KASCO Developments sets new benchmark with early completion of beachfront residences VOLNA by KASCO: What It Means Now"
 description: "The developer finalised the construction of its flagship Dubai project well ahead of scheduleLeading real estate developer KASCO Developments has proudly announced..."
 category: "Real Estate"
-author: "Natalie Wong"
+author: "Ishaan Vora"
 date: 2026-05-19
 publishedTime: "14:35 GST"
 watchLine: "Watch the next official update, market response and public impact."

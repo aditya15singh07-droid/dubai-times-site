@@ -2,7 +2,7 @@
 title: "Abu Dhabi Police showcases AI-powered security systems at ISNR 2026: What UAE Readers Should Watch"
 description: "Abu Dhabi Police showcases AI-powered security systems at ISNR 2026 could affect residents directly, from public services and safety to daily planning across the Emirates."
 category: "Middle East"
-author: "Kashmir Hill"
+author: "Armaan Gill"
 date: 2026-05-19
 publishedTime: "23:57 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

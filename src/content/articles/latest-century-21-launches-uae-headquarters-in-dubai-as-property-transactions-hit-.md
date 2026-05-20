@@ -2,7 +2,7 @@
 title: "Century 21 launches UAE headquarters in Dubai as property transactions hit $68.6bn: What UAE Readers Should Watch"
 description: "Century 21 launches UAE headquarters in Dubai as property transactions hit $68.6bn adds a fresh marker to Dubai's property cycle, where demand, pricing and trust all move together."
 category: "Real Estate"
-author: "Natalie Wong"
+author: "Myra D Souza"
 date: 2026-05-20
 publishedTime: "00:00 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

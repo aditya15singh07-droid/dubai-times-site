@@ -2,7 +2,7 @@
 title: "UAE Landlords Can Now Check Tenant Credit Scores Through UAE PASS - What It Means for Dubai’s Rental Market: What UAE Readers Should Watch"
 description: "UAE Landlords Can Now Check Tenant Credit Scores Through UAE PASS - What It Means for Dubai’s Rental Market adds a fresh marker to Dubai's property cycle, where demand, pricing and trust all move together."
 category: "Real Estate"
-author: "Natalie Wong"
+author: "Kabir Anand"
 date: 2026-05-20
 publishedTime: "00:10 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

@@ -2,7 +2,7 @@
 title: "How Emirates is preparing for life after DXB with Dubai South expansion: What UAE Readers Should Watch"
 description: "How Emirates is preparing for life after DXB with Dubai South expansion could affect residents directly, from public services and safety to daily planning across the Emirates."
 category: "Middle East"
-author: "Kashmir Hill"
+author: "Armaan Gill"
 date: 2026-05-19
 publishedTime: "15:02 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

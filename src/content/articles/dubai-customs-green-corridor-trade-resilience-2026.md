@@ -2,7 +2,7 @@
 title: "Dubai's Green Corridor Shows How Trade Finds A Way Around Trouble"
 description: "Dubai's customs route with Oman is becoming a practical answer to sea-lane disruption, and the real story is how quickly Gulf trade is learning to reroute."
 category: "Business"
-author: "Andrew Ross Sorkin"
+author: "Samaira Qureshi"
 date: 2026-05-18
 publishedTime: "12:18 GST"
 watchLine: "Watch whether the corridor becomes a temporary emergency fix or a longer-term logistics habit for exporters."

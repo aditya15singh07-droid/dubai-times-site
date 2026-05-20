@@ -2,7 +2,7 @@
 title: "Dubai's Entertainment Calendar Has To Feel Local Too"
 description: "Dubai can attract global entertainment names, but long-term cultural value grows when residents feel the calendar belongs to them."
 category: "Entertainment"
-author: "Ramona Shelburne"
+author: "Myra D Souza"
 date: 2026-05-20
 publishedTime: "16:42 GST"
 watchLine: "Watch local participation, ticket affordability and whether venues build regular audiences."

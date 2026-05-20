@@ -2,7 +2,7 @@
 title: "UAE landlords can now check tenants' credit scores before home rentals: What UAE Readers Should Watch"
 description: "UAE landlords can now check tenants' credit scores before home rentals adds a fresh marker to Dubai's property cycle, where demand, pricing and trust all move together."
 category: "Real Estate"
-author: "Natalie Wong"
+author: "Vihaan Rao"
 date: 2026-05-19
 publishedTime: "15:12 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

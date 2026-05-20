@@ -2,7 +2,7 @@
 title: "Why The UAE's Netherlands Push Matters For A Country Thinking Hard About Water And Climate"
 description: "A new round of UAE-Netherlands cooperation highlights how the Emirates is using diplomacy to deepen ties in water, energy and climate adaptation ahead of a major UN conference."
 category: "International"
-author: "Yaroslav Trofimov"
+author: "Kabir Anand"
 date: 2026-05-18
 publishedTime: "03:40 GST"
 watchLine: "Watch whether the cooperation produces visible projects before the 2026 UN Water Conference in Abu Dhabi."

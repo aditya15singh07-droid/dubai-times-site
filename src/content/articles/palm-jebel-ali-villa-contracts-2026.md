@@ -2,7 +2,7 @@
 title: "Palm Jebel Ali's New Villa Contracts Show The Coastline Expansion Is Getting Real"
 description: "Nakheel's latest contract awards for Palm Jebel Ali mark another step in Dubai's southern coastline build-out, with implications for housing supply, investor sentiment and urban form."
 category: "Real Estate"
-author: "Natalie Wong"
+author: "Vihaan Rao"
 date: 2026-04-27
 watchLine: "Watch whether delivery discipline, infrastructure sequencing and end-user demand keep pace as Palm Jebel Ali moves deeper into execution."
 image: "https://images.pexels.com/photos/12955837/pexels-photo-12955837.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

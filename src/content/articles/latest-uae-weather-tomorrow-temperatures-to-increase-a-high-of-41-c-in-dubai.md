@@ -2,7 +2,7 @@
 title: "UAE weather tomorrow: Temperatures to increase; a high of 41°C in Dubai: What UAE Readers Should Watch"
 description: "UAE weather tomorrow: Temperatures to increase; a high of 41°C in Dubai could affect residents directly, from public services and safety to daily planning across the Emirates."
 category: "Middle East"
-author: "Kashmir Hill"
+author: "Kabir Anand"
 date: 2026-05-19
 publishedTime: "18:50 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

@@ -2,7 +2,7 @@
 title: "Dubai's Lifestyle Economy Is Really A Time Economy"
 description: "Dubai's dining, retail and leisure scene increasingly competes for one scarce thing: the resident's weekend time."
 category: "Lifestyle"
-author: "Natalie Wong"
+author: "Myra D Souza"
 date: 2026-05-20
 publishedTime: "15:28 GST"
 watchLine: "Watch how malls, restaurants and public spaces package cooler, shorter and more useful experiences."

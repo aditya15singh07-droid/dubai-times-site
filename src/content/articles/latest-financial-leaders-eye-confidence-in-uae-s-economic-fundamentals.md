@@ -2,7 +2,7 @@
 title: "Financial leaders eye confidence in UAE’s economic fundamentals: What It Means Now"
 description: "Dubai International Financial Centre (DIFC) on Monday reaffirmed the strength, resilience and long-term outlook of its ecosystem, as global clients across banking,..."
 category: "International"
-author: "Yaroslav Trofimov"
+author: "Reyansh Suri"
 date: 2026-05-19
 publishedTime: "22:33 GST"
 watchLine: "Watch the next official update, market response and public impact."

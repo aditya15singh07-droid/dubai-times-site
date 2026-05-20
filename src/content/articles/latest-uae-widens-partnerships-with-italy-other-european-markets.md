@@ -2,7 +2,7 @@
 title: "UAE widens partnerships with Italy, other European markets: What It Means Now"
 description: "Investopia organised the fourth edition of the ‘Investopia Europe — Milan Dialogues’ at Palazzo Mezzanotte, the historic headquarters of the Italian Stock Exchange in..."
 category: "International"
-author: "Yaroslav Trofimov"
+author: "Rian Kapoor"
 date: 2026-05-19
 publishedTime: "16:31 GST"
 watchLine: "Watch the next official update, market response and public impact."

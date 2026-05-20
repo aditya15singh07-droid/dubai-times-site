@@ -2,7 +2,7 @@
 title: "Dubai's secret formula: Why 17 billionaires now call the UAE home: What UAE Readers Should Watch"
 description: "Dubai's secret formula: Why 17 billionaires now call the UAE home adds a fresh marker to Dubai's property cycle, where demand, pricing and trust all move together."
 category: "Real Estate"
-author: "Natalie Wong"
+author: "Devika Shah"
 date: 2026-05-20
 publishedTime: "06:00 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

@@ -2,7 +2,7 @@
 title: "UAE Business: Majid Al Futtaim to develop $16.8bn master community in Dubai South: What UAE Readers Should Watch"
 description: "UAE Business: Majid Al Futtaim to develop $16.8bn master community in Dubai South adds a fresh marker to Dubai's property cycle, where demand, pricing and trust all move together."
 category: "Real Estate"
-author: "Natalie Wong"
+author: "Armaan Gill"
 date: 2026-05-19
 publishedTime: "13:39 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

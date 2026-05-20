@@ -2,7 +2,7 @@
 title: "UAE's Agentic AI Push Tries To Make Government Services Faster And Smarter"
 description: "The UAE has started integrating agentic AI into federal government services, aiming to reduce paperwork, speed up approvals and improve everyday service delivery."
 category: "Middle East"
-author: "Kashmir Hill"
+author: "Ishaan Vora"
 date: 2026-05-17
 publishedTime: "21:05 GST"
 watchLine: "Watch whether agentic AI reduces routine service friction while keeping human accountability clear."

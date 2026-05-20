@@ -2,7 +2,7 @@
 title: "Dubai Property Sales Stay Resilient As April Transactions Reach AED48 Billion"
 description: "Dubai's April real estate data shows continued demand, but buyers are likely to become more selective as prices and supply keep rising."
 category: "Real Estate"
-author: "Natalie Wong"
+author: "Kabir Anand"
 date: 2026-05-17
 watchLine: "Watch whether transaction value keeps rising faster than volume and whether Dubai South keeps leading area demand."
 image: "https://images.pexels.com/photos/12955837/pexels-photo-12955837.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

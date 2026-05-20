@@ -2,7 +2,7 @@
 title: "Dubai South And Emirates NBD Want SMEs To Spend Less Time Fighting Banking Friction"
 description: "A new Dubai South-Emirates NBD deal aims to streamline account opening and banking access for SMEs, targeting one of the most annoying bottlenecks in business setup."
 category: "Business"
-author: "Andrew Ross Sorkin"
+author: "Vihaan Rao"
 date: 2026-05-19
 publishedTime: "09:40 GST"
 watchLine: "Watch whether the partnership actually cuts onboarding delays for new companies inside Dubai South."

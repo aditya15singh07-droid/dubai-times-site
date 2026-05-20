@@ -2,7 +2,7 @@
 title: "Emirates breaks ground on $5.1b engineering facility at Dubai South: What It Means Now"
 description: "Emirates has broken ground on its new $5.1 billion engineering complex at Dubai South, slated to become the world’s most modern and advanced maintenance, repairs and..."
 category: "International"
-author: "Yaroslav Trofimov"
+author: "Tara Khanna"
 date: 2026-05-19
 publishedTime: "13:14 GST"
 watchLine: "Watch the next official update, market response and public impact."

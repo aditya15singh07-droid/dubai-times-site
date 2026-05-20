@@ -2,7 +2,7 @@
 title: "My first ride on Etihad Rail: Inside the UAE's first completed passenger station: What UAE Readers Should Watch"
 description: "My first ride on Etihad Rail: Inside the UAE's first completed passenger station matters for passengers, operators and the wider visitor economy that keeps Dubai moving."
 category: "Travel"
-author: "Peter Greenberg"
+author: "Devika Shah"
 date: 2026-05-19
 publishedTime: "15:39 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

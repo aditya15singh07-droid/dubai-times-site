@@ -2,7 +2,7 @@
 title: "Dubai Real Estate Is Being Judged By End Users Now"
 description: "Dubai's property market is still active, but the sharper question is whether homes work for residents, not only investors."
 category: "Real Estate"
-author: "Natalie Wong"
+author: "Rian Kapoor"
 date: 2026-05-20
 publishedTime: "15:21 GST"
 watchLine: "Watch rent pressure, handover quality and whether new communities feel practical for families."

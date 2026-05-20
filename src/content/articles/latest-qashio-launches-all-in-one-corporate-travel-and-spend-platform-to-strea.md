@@ -2,7 +2,7 @@
 title: "Qashio launches all-in-one corporate travel and spend platform to streamline business travel expenses: What It Means Now"
 description: "Qashio, the MENA region’s leading spend management solution, has announced the launch of Qashio Corporate Travel, a new platform that allows employees to issue and..."
 category: "Travel"
-author: "Peter Greenberg"
+author: "Ishaan Vora"
 date: 2026-05-19
 publishedTime: "17:06 GST"
 watchLine: "Watch the next official update, market response and public impact."

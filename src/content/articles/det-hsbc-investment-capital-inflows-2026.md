@@ -2,7 +2,7 @@
 title: "DET And HSBC Are Trying To Turn Dubai's Investor Appeal Into A More Structured Pipeline"
 description: "A new strategic agreement between DET and HSBC aims to channel more corporates, capital and wealthy investors into Dubai using a clearer cross-border framework."
 category: "Business"
-author: "Andrew Ross Sorkin"
+author: "Tara Khanna"
 date: 2026-05-18
 publishedTime: "03:00 GST"
 watchLine: "Watch whether the DET-HSBC partnership leads to new regional headquarters, FDI projects and Asia-linked capital inflows."

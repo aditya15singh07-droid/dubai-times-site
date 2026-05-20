@@ -2,7 +2,7 @@
 title: "UAE and India reaffirm push for $200 billlion trade target at Dubai forum: What UAE Readers Should Watch"
 description: "UAE and India reaffirm push for $200 billlion trade target at Dubai forum signals another turn in how capital, customers and confidence are moving across the UAE."
 category: "International"
-author: "Yaroslav Trofimov"
+author: "Armaan Gill"
 date: 2026-05-19
 publishedTime: "19:02 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

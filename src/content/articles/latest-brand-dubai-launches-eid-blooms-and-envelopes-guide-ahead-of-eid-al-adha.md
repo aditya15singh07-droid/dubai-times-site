@@ -2,7 +2,7 @@
 title: "Brand Dubai launches 'Eid Blooms and Envelopes Guide' ahead of Eid Al Adha: What UAE Readers Should Watch"
 description: "Brand Dubai launches 'Eid Blooms and Envelopes Guide' ahead of Eid Al Adha captures the softer side of city growth, where culture, families and spending habits meet."
 category: "Lifestyle"
-author: "Natalie Wong"
+author: "Devika Shah"
 date: 2026-05-19
 publishedTime: "21:09 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

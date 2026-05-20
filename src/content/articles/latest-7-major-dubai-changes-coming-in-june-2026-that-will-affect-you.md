@@ -2,7 +2,7 @@
 title: "7 major Dubai changes coming in June 2026 that will affect you: What UAE Readers Should Watch"
 description: "7 major Dubai changes coming in June 2026 that will affect you could affect residents directly, from public services and safety to daily planning across the Emirates."
 category: "Middle East"
-author: "Kashmir Hill"
+author: "Vihaan Rao"
 date: 2026-05-19
 publishedTime: "14:54 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

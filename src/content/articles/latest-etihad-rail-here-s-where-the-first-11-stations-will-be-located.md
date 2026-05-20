@@ -2,7 +2,7 @@
 title: "Etihad Rail: Here’s where the first 11 stations will be located: What UAE Readers Should Watch"
 description: "Etihad Rail: Here’s where the first 11 stations will be located matters for passengers, operators and the wider visitor economy that keeps Dubai moving."
 category: "Travel"
-author: "Peter Greenberg"
+author: "Mira Sethi"
 date: 2026-05-19
 publishedTime: "17:11 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

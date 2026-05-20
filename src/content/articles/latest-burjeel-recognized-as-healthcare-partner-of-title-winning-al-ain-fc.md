@@ -2,7 +2,7 @@
 title: "Burjeel recognized as healthcare partner of title-winning Al Ain FC: What It Means Now"
 description: "As Al Ain FC celebrated their ADNOC Pro League triumph, Burjeel Holdings’ growing role as a specialized healthcare partner for four UAE football clubs highlights the..."
 category: "Health"
-author: "Dr. Sanjay Gupta"
+author: "Armaan Gill"
 date: 2026-05-19
 publishedTime: "14:28 GST"
 watchLine: "Watch the next official update, market response and public impact."

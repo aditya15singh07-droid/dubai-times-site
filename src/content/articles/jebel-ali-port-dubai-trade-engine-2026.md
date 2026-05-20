@@ -2,7 +2,7 @@
 title: "Jebel Ali Port Shows Why Dubai's Trade Engine Still Matters"
 description: "A review of Jebel Ali Port's operations puts the spotlight back on the infrastructure that keeps Dubai connected to global trade, shipping and supply chains."
 category: "International"
-author: "Yaroslav Trofimov"
+author: "Kabir Anand"
 date: 2026-05-17
 publishedTime: "20:45 GST"
 watchLine: "Watch how Jebel Ali's capacity, automation and logistics links support Dubai's next phase of trade-led growth."

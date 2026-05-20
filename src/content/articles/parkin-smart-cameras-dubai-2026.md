@@ -2,7 +2,7 @@
 title: "Parkin's Smart Cameras Show How Dubai Wants Parking To Disappear Into The Background"
 description: "Parkin's AI-powered camera rollout in key Dubai districts is not just a parking story. It is about making friction less visible in daily urban life."
 category: "Middle East"
-author: "Kashmir Hill"
+author: "Tara Khanna"
 date: 2026-05-13
 watchLine: "Watch whether the rollout cuts payment friction and disputes without making residents feel over-surveilled or overly penalised."
 image: "https://images.pexels.com/photos/27075258/pexels-photo-27075258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

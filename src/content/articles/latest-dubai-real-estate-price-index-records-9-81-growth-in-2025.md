@@ -2,7 +2,7 @@
 title: "Dubai Real Estate Price Index records 9.81% growth in 2025: What UAE Readers Should Watch"
 description: "Dubai Real Estate Price Index records 9.81% growth in 2025 adds a fresh marker to Dubai's property cycle, where demand, pricing and trust all move together."
 category: "Real Estate"
-author: "Natalie Wong"
+author: "Armaan Gill"
 date: 2026-05-20
 publishedTime: "03:57 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

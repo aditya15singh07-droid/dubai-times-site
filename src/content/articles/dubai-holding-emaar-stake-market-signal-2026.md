@@ -2,7 +2,7 @@
 title: "Dubai Holding's Emaar Stake Deepens Confidence In The City's Property Engine"
 description: "Dubai Holding has become Emaar Properties' largest shareholder, adding a fresh signal of institutional confidence in Dubai's real estate and lifestyle economy."
 category: "Real Estate"
-author: "Natalie Wong"
+author: "Reyansh Suri"
 date: 2026-05-17
 publishedTime: "12:35 GST"
 watchLine: "Watch future Emaar launches for stronger destination value, branded living, pricing discipline and delivery confidence."

@@ -2,7 +2,7 @@
 title: "Core42's New Partnership Shows The UAE's AI Race Is Moving To Plumbing"
 description: "Core42 and Solutions+ are building sovereign AI infrastructure capacity, which says more about the UAE's next technology phase than another splashy AI promise would."
 category: "Middle East"
-author: "Kashmir Hill"
+author: "Kabir Anand"
 date: 2026-05-06
 watchLine: "Watch whether the partnership produces repeatable enterprise deployments across government and Mubadala-linked entities rather than remaining a strategic memorandum."
 image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1400&q=80"

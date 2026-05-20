@@ -2,7 +2,7 @@
 title: "DMCC's Maritime Centre Wants Dubai To Earn More From Trade Than Port Fees"
 description: "DMCC's new Maritime Centre is meant to strengthen Dubai's shipping and trade ecosystem, but the larger ambition is to capture more of the finance and services wrapped around global cargo flows."
 category: "International"
-author: "Yaroslav Trofimov"
+author: "Zoya Malhotra"
 date: 2026-04-09
 watchLine: "Watch whether shipping firms, financiers and legal-service providers actually cluster around the platform in enough numbers to deepen Dubai's trade moat."
 image: "https://images.pexels.com/photos/3856433/pexels-photo-3856433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

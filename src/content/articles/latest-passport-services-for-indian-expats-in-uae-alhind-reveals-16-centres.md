@@ -2,7 +2,7 @@
 title: "Passport services for Indian expats in UAE: Alhind reveals 16 centres: What UAE Readers Should Watch"
 description: "Passport services for Indian expats in UAE: Alhind reveals 16 centres could affect residents directly, from public services and safety to daily planning across the Emirates."
 category: "Sport"
-author: "Noma Nazish"
+author: "Ishaan Vora"
 date: 2026-05-19
 publishedTime: "14:56 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

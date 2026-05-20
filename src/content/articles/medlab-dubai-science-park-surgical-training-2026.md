@@ -2,7 +2,7 @@
 title: "MedLab's New Dubai Facility Suggests Health Infrastructure Is Getting More Specialised"
 description: "A new surgical training hub at Dubai Science Park points to the kind of niche medical capability Dubai wants to build around education, healthcare and life sciences."
 category: "Health"
-author: "Dr. Sanjay Gupta"
+author: "Myra D Souza"
 date: 2026-05-18
 publishedTime: "02:50 GST"
 watchLine: "Watch whether the centre attracts more regional clinicians and deeper partnerships with hospitals and medical device companies."

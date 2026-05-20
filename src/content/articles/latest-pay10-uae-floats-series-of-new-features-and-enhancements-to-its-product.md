@@ -2,7 +2,7 @@
 title: "Pay10 UAE floats series of new features and enhancements to its products in UAE: What It Means Now"
 description: "Pay10 UAE, a regulated alternative payments platform delivering secure, interoperable, and compliant digital payment solutions across multiple markets, has announced..."
 category: "Business"
-author: "Andrew Ross Sorkin"
+author: "Samaira Qureshi"
 date: 2026-05-19
 publishedTime: "15:10 GST"
 watchLine: "Watch the next official update, market response and public impact."

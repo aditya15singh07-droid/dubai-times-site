@@ -2,7 +2,7 @@
 title: "Global stock markets retreat and bonds wilt as oil climbs: What It Means Now"
 description: "Global share markets slipped on Monday as fresh drone attacks in the Gulf pushed oil prices and bond yields higher, stoking inflation ‌worries in a week when the tech..."
 category: "International"
-author: "Yaroslav Trofimov"
+author: "Samaira Qureshi"
 date: 2026-05-19
 publishedTime: "13:00 GST"
 watchLine: "Watch the next official update, market response and public impact."

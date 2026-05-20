@@ -2,7 +2,7 @@
 title: "Dubai’s Canal Mapping Project Is Quietly About Power, Risk And Better Decisions"
 description: "Dubai Municipality’s mobile mapping survey of waterways looks technical, but it is part of a larger push to make the city easier to manage before problems grow."
 category: "Middle East"
-author: "Kashmir Hill"
+author: "Myra D Souza"
 date: 2026-05-18
 watchLine: "Watch whether the Digital Twin project starts changing flood planning, maintenance cycles and waterfront development decisions."
 image: "https://images.pexels.com/photos/33998346/pexels-photo-33998346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

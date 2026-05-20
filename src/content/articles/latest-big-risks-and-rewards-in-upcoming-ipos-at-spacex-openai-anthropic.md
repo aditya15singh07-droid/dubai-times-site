@@ -2,7 +2,7 @@
 title: "Big risks and rewards in upcoming IPOs at SpaceX, OpenAI, Anthropic: What It Means Now"
 description: "Wall Street is licking its chops over an unprecedented slate of massive IPOs set to arrive in the coming months, beginning with Elon Musk's SpaceX in June.That is..."
 category: "Business"
-author: "Andrew Ross Sorkin"
+author: "Aarav Mehta"
 date: 2026-05-19
 publishedTime: "15:17 GST"
 watchLine: "Watch the next official update, market response and public impact."

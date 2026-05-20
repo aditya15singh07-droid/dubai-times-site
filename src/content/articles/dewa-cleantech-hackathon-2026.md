@@ -2,7 +2,7 @@
 title: "DEWA's CleanTech Hackathon Shows Dubai Wants Climate Innovation To Feel Applied"
 description: "DEWA's Sustainability and Innovation Centre is hosting its fourth CleanTech Hackathon, using a practical competition format to push new sustainability solutions."
 category: "Business"
-author: "Andrew Ross Sorkin"
+author: "Devika Shah"
 date: 2026-05-18
 publishedTime: "02:30 GST"
 watchLine: "Watch whether the hackathon produces pilot-ready solutions that DEWA or partners actually test after the event."

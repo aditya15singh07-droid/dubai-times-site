@@ -2,7 +2,7 @@
 title: "Air India cuts international flights amid Middle East conflict: What It Means Now"
 description: "Air India will temporarily cut flights on several ‌international routes between June and August, it said on Wednesday, ​citing airspace ⁠restrictions in some regions..."
 category: "Travel"
-author: "Peter Greenberg"
+author: "Reyansh Suri"
 date: 2026-05-19
 publishedTime: "19:02 GST"
 watchLine: "Watch the next official update, market response and public impact."

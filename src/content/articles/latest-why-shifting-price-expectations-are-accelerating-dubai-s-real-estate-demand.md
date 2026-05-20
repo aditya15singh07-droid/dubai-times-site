@@ -2,7 +2,7 @@
 title: "Why shifting price expectations are accelerating Dubai’s real estate demand: What UAE Readers Should Watch"
 description: "Why shifting price expectations are accelerating Dubai’s real estate demand adds a fresh marker to Dubai's property cycle, where demand, pricing and trust all move together."
 category: "Real Estate"
-author: "Natalie Wong"
+author: "Naina Batra"
 date: 2026-05-19
 publishedTime: "17:39 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

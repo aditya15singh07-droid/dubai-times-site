@@ -2,7 +2,7 @@
 title: "Dubai memories from 1965: A Pakistani tailor family’s five-generation journey from Murshid Bazaar to Dubai Hills: What UAE Readers Should Watch"
 description: "Dubai memories from 1965: A Pakistani tailor family’s five-generation journey from Murshid Bazaar to Dubai Hills captures the softer side of city growth, where culture, families and spending habits meet."
 category: "Lifestyle"
-author: "Natalie Wong"
+author: "Aarav Mehta"
 date: 2026-05-20
 publishedTime: "07:00 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

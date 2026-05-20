@@ -2,7 +2,7 @@
 title: "Global Risk Reaches The UAE Through Trade First"
 description: "International tension often reaches UAE residents through freight costs, fuel prices, travel decisions and investor caution."
 category: "Travel"
-author: "Peter Greenberg"
+author: "Armaan Gill"
 date: 2026-05-20
 publishedTime: "16:49 GST"
 watchLine: "Watch shipping routes, energy prices, insurance costs and travel advisories."

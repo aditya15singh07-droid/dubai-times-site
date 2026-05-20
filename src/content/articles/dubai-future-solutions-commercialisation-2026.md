@@ -2,7 +2,7 @@
 title: "Dubai Future Solutions Wants Research Startups To Land In The UAE, Not Just Visit It"
 description: "Dubai Future Solutions says three university ventures from Switzerland, the US and Egypt are moving toward pilots and commercial expansion in the UAE."
 category: "Business"
-author: "Andrew Ross Sorkin"
+author: "Tara Khanna"
 date: 2026-05-19
 publishedTime: "01:30 GST"
 watchLine: "Watch whether the first pilots convert into contracts, UAE entities and repeatable commercial pathways by late 2026."

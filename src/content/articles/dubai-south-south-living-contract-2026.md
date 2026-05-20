@@ -2,7 +2,7 @@
 title: "South Living's New Contract Shows How The Airport Story Is Repricing Dubai South Housing"
 description: "Dubai South has awarded a AED150 million construction contract for South Living Tower, with officials linking stronger housing demand to the planned airport expansion."
 category: "Travel"
-author: "Peter Greenberg"
+author: "Armaan Gill"
 date: 2026-05-19
 publishedTime: "10:00 GST"
 watchLine: "Watch whether infrastructure-led interest in Dubai South translates into sustained occupancy and balanced community growth."

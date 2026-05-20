@@ -2,7 +2,7 @@
 title: "Dubai's Eid Push Is Really About Keeping The City Warm For Families"
 description: "Dubai's citywide Eid Al Adha programme is framed as leisure and tourism, but the underlying story is how the city keeps residents emotionally engaged while attracting visitors."
 category: "Travel"
-author: "Peter Greenberg"
+author: "Kian Oberoi"
 date: 2026-05-18
 watchLine: "Watch whether the Eid calendar drives stronger staycations, family spending and repeat visitation without making the city feel overly expensive."
 image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1400&q=80"

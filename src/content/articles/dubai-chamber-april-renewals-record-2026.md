@@ -2,7 +2,7 @@
 title: "More Than 30,000 Dubai Chamber Renewals In April. Confidence Is The Real Headline"
 description: "A record month for Dubai Chamber renewals suggests businesses still see the emirate as worth backing, even in a difficult regional backdrop."
 category: "Business"
-author: "Andrew Ross Sorkin"
+author: "Vihaan Rao"
 date: 2026-05-18
 watchLine: "Watch whether renewal confidence turns into new hiring, licensing and investment rather than only administrative continuity."
 image: "https://images.pexels.com/photos/32991337/pexels-photo-32991337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

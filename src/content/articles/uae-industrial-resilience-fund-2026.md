@@ -2,7 +2,7 @@
 title: "The UAE's Dh1 Billion Industrial Fund Is A Supply-Chain Story In Disguise"
 description: "The UAE's new industrial resilience fund is being sold as diversification policy, but it is also a response to the country's growing focus on supply-chain security and industrial capability."
 category: "Business"
-author: "Andrew Ross Sorkin"
+author: "Myra D Souza"
 date: 2026-04-26
 watchLine: "Watch where the first funded projects land and whether the scheme meaningfully improves local manufacturing depth rather than headline volume alone."
 image: "https://images.pexels.com/photos/7413996/pexels-photo-7413996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

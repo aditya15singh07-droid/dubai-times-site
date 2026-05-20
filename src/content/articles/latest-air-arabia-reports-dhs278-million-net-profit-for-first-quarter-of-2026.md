@@ -2,7 +2,7 @@
 title: "Air Arabia reports Dhs278 million net profit for first quarter of 2026: What It Means Now"
 description: "Air Arabia (PJSC), the first and largest budget carrier operator in the Middle East and North Africa, on Thursday announced its financial and operational results for..."
 category: "Business"
-author: "Andrew Ross Sorkin"
+author: "Kian Oberoi"
 date: 2026-05-19
 publishedTime: "16:45 GST"
 watchLine: "Watch the next official update, market response and public impact."

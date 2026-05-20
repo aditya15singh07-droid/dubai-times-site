@@ -2,7 +2,7 @@
 title: "Dubai South's New Incentives Show The Real Fight Is To Keep Existing Businesses Moving"
 description: "Dubai South has introduced new free zone incentives around company formation, licence renewals and late-fee relief, aiming to keep business momentum intact."
 category: "Business"
-author: "Andrew Ross Sorkin"
+author: "Aarav Mehta"
 date: 2026-05-19
 publishedTime: "10:20 GST"
 watchLine: "Watch whether the incentives improve retention and renewal activity rather than only attracting short-term interest."

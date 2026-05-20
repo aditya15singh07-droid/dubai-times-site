@@ -2,7 +2,7 @@
 title: "Role of eInvoicing system in UAE’s digital transformation highlighted: What It Means Now"
 description: "The Ministry of Finance (MoF), in collaboration with the Federal Tax Authority (FTA) and Dubai Chambers, has organised the second awareness event on the UAE’s..."
 category: "Business"
-author: "Andrew Ross Sorkin"
+author: "Kian Oberoi"
 date: 2026-05-19
 publishedTime: "23:40 GST"
 watchLine: "Watch the next official update, market response and public impact."

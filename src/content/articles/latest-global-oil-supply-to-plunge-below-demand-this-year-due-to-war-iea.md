@@ -2,7 +2,7 @@
 title: "Global oil supply to plunge below demand this year due to war: IEA: What It Means Now"
 description: "Global oil supply will fall short of total demand ​this year as the Iran war wreaks havoc on Middle East oil production and drains inventories at an unprecedented..."
 category: "International"
-author: "Yaroslav Trofimov"
+author: "Tara Khanna"
 date: 2026-05-19
 publishedTime: "18:41 GST"
 watchLine: "Watch the next official update, market response and public impact."

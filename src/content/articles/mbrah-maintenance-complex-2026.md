@@ -2,7 +2,7 @@
 title: "MBRAH's New Maintenance Complex Suggests Dubai Wants The Aviation Supply Chain To Stay Nearby"
 description: "Mohammed Bin Rashid Aerospace Hub has launched a new light industrial and maintenance complex, expanding the kind of aviation support capacity Dubai South wants to cluster around its airport ecosystem."
 category: "Travel"
-author: "Peter Greenberg"
+author: "Kabir Anand"
 date: 2026-05-19
 publishedTime: "10:10 GST"
 watchLine: "Watch whether smaller aviation suppliers use the new complex to expand locally instead of servicing Dubai from outside the ecosystem."

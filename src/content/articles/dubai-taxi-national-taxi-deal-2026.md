@@ -2,7 +2,7 @@
 title: "Dubai Taxi's National Taxi Deal Is Really A UAE Scale Story"
 description: "Dubai Taxi Company's planned acquisition of National Taxi is formally a corporate deal, but the bigger issue is how mobility platforms are consolidating across emirates."
 category: "Travel"
-author: "Peter Greenberg"
+author: "Rian Kapoor"
 date: 2026-05-13
 watchLine: "Watch the regulatory approvals, integration pace and whether service quality improves as DTC expands beyond its Dubai core."
 image: "https://images.pexels.com/photos/4430911/pexels-photo-4430911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

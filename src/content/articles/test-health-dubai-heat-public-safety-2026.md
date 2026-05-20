@@ -2,7 +2,7 @@
 title: "Dubai Heat Safety Is A Public Health Story"
 description: "Rising summer heat turns weather into a health question for workers, children, older residents and anyone moving around the city."
 category: "Health"
-author: "Dr. Sanjay Gupta"
+author: "Devika Shah"
 date: 2026-05-20
 publishedTime: "16:56 GST"
 watchLine: "Watch hydration advice, outdoor work rules, school timings and emergency response data."

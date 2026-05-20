@@ -2,7 +2,7 @@
 title: "Dubai Is Using Cannes To Sell More Than Sunlight And Skylines"
 description: "The Dubai Films and Games Commission is using Cannes to pitch the emirate as a practical production base with infrastructure, talent and long-term industry intent."
 category: "Entertainment"
-author: "Ramona Shelburne"
+author: "Reyansh Suri"
 date: 2026-05-19
 publishedTime: "01:40 GST"
 watchLine: "Watch for new productions, studio tie-ups and local crew development after the Cannes outreach concludes."

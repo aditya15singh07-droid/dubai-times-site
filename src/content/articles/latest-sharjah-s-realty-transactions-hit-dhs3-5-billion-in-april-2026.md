@@ -2,7 +2,7 @@
 title: "Sharjah’s realty transactions hit Dhs3.5 billion in April 2026: What It Means Now"
 description: "Sharjah’s real estate sector recorded transactions worth Dhs3.5 billion in April 2026, through 15,669 transactions across the emirate, according to data issued by the..."
 category: "Real Estate"
-author: "Natalie Wong"
+author: "Myra D Souza"
 date: 2026-05-19
 publishedTime: "21:44 GST"
 watchLine: "Watch the next official update, market response and public impact."

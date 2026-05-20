@@ -2,7 +2,7 @@
 title: "UAE and India ramp up $200bn trade drive as business ties deepen: What UAE Readers Should Watch"
 description: "UAE and India ramp up $200bn trade drive as business ties deepen signals another turn in how capital, customers and confidence are moving across the UAE."
 category: "International"
-author: "Yaroslav Trofimov"
+author: "Naina Batra"
 date: 2026-05-19
 publishedTime: "17:02 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

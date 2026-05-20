@@ -2,7 +2,7 @@
 title: "DP World, Al Dahra sign pact to fortify global food security: What It Means Now"
 description: "DP World and Al Dahra Holding, a multinational agribusiness headquartered in Abu Dhabi, have signed a Memorandum of Understanding to explore opportunities aimed at..."
 category: "Lifestyle"
-author: "Natalie Wong"
+author: "Anika Menon"
 date: 2026-05-19
 publishedTime: "21:51 GST"
 watchLine: "Watch the next official update, market response and public impact."

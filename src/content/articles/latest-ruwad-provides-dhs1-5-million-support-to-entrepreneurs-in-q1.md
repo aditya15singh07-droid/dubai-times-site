@@ -2,7 +2,7 @@
 title: "RUWAD provides Dhs1.5 million support to entrepreneurs in Q1: What It Means Now"
 description: "Sharjah Entrepreneurship Centre RUWAD, affiliated with Sharjah Economic Development Department, recorded strong growth in support for entrepreneurial projects during..."
 category: "Middle East"
-author: "Kashmir Hill"
+author: "Vihaan Rao"
 date: 2026-05-19
 publishedTime: "19:55 GST"
 watchLine: "Watch the next official update, market response and public impact."

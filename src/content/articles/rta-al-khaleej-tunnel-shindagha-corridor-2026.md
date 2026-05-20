@@ -2,7 +2,7 @@
 title: "RTA's Al Khaleej Tunnel Reaches 80% As Dubai Pushes Deira Connectivity"
 description: "The 1.65-kilometre Al Khaleej Street tunnel is moving toward completion as part of the wider Al Shindagha Corridor upgrade."
 category: "Middle East"
-author: "Kashmir Hill"
+author: "Samaira Qureshi"
 date: 2026-05-17
 publishedTime: "14:20 GST"
 watchLine: "Track peak-hour travel times and whether Deira, Dubai Islands and Port Rashid market the connectivity gain."

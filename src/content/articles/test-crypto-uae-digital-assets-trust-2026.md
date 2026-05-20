@@ -2,7 +2,7 @@
 title: "The UAE Crypto Story Is Moving From Hype To Trust"
 description: "Crypto in the UAE is entering a more serious phase where regulation, custody and public confidence matter more than loud promises."
 category: "Crypto"
-author: "David Yaffe-Bellany"
+author: "Tara Khanna"
 date: 2026-05-20
 publishedTime: "14:07 GST"
 watchLine: "Watch whether investors ask better questions about custody, licensing and risk."

@@ -2,7 +2,7 @@
 title: "UAE’s ABAI and SignSplit Science announce strategic partnership on AI, blockchain & research data protection: What UAE Readers Should Watch"
 description: "UAE’s ABAI and SignSplit Science announce strategic partnership on AI, blockchain & research data protection shows how quickly AI, digital services and data rules are entering everyday UAE decisions."
 category: "Crypto"
-author: "David Yaffe-Bellany"
+author: "Samaira Qureshi"
 date: 2026-05-20
 publishedTime: "08:48 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

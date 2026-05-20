@@ -2,7 +2,7 @@
 title: "AD Ports Group signs agreement to buy MBS Logistics for Dhs300 million: What It Means Now"
 description: "AD Ports Group on Monday announced that it has signed an agreement to acquire MBS Logistics, a Germany-based global integrated logistics services provider, for an..."
 category: "International"
-author: "Yaroslav Trofimov"
+author: "Kabir Anand"
 date: 2026-05-19
 publishedTime: "13:07 GST"
 watchLine: "Watch the next official update, market response and public impact."

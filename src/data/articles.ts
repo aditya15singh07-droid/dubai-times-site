@@ -12,16 +12,16 @@ export const categories = [
 ];
 
 export const reportersByCategory = {
-  Travel: "Peter Greenberg",
-  Crypto: "David Yaffe-Bellany",
-  Business: "Andrew Ross Sorkin",
-  "Real Estate": "Natalie Wong",
-  Lifestyle: "Natalie Wong",
-  Sport: "Noma Nazish",
-  Entertainment: "Ramona Shelburne",
-  International: "Yaroslav Trofimov",
-  Health: "Dr. Sanjay Gupta",
-  "Middle East": "Kashmir Hill",
+  Travel: "Aarav Mehta",
+  Crypto: "Mira Sethi",
+  Business: "Kabir Anand",
+  "Real Estate": "Zoya Malhotra",
+  Lifestyle: "Rian Kapoor",
+  Sport: "Naina Batra",
+  Entertainment: "Vihaan Rao",
+  International: "Tara Khanna",
+  Health: "Ishaan Vora",
+  "Middle East": "Anika Menon",
 };
 
 export const categoryPath = (category: string) => category.toLowerCase().replaceAll(" ", "-");

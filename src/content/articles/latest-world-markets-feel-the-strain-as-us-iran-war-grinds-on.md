@@ -2,7 +2,7 @@
 title: "World markets feel the strain as US-Iran war grinds on: What It Means Now"
 description: "From a rout in Asian currencies to the closure of a low budget US airline, the dragging Middle East conflict is starting to bite across the globe and test the..."
 category: "Travel"
-author: "Peter Greenberg"
+author: "Mira Sethi"
 date: 2026-05-19
 publishedTime: "22:19 GST"
 watchLine: "Watch the next official update, market response and public impact."

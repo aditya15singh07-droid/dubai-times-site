@@ -2,7 +2,7 @@
 title: "Dubai Holding's Microsoft Deal Shows AI Is Moving From Pilot To Operating System"
 description: "Dubai Holding says it will embed AI across core operations with Microsoft support, signalling a bigger shift from experiments to enterprise-wide deployment."
 category: "Business"
-author: "Andrew Ross Sorkin"
+author: "Ishaan Vora"
 date: 2026-05-19
 publishedTime: "01:10 GST"
 watchLine: "Watch whether Dubai Holding names concrete use cases, productivity gains and governance rules over the next two quarters."

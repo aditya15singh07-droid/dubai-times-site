@@ -2,7 +2,7 @@
 title: "India and the UAE: A friendship shaping the future of the world: What It Means Now"
 description: "In an age defined by geopolitical turbulence, economic uncertainty, and shifting global alliances, some bilateral relationships rise above the realm of conventional..."
 category: "International"
-author: "Yaroslav Trofimov"
+author: "Reyansh Suri"
 date: 2026-05-19
 publishedTime: "23:01 GST"
 watchLine: "Watch the next official update, market response and public impact."

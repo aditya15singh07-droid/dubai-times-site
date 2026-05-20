@@ -2,7 +2,7 @@
 title: "Middlesex University&#039;s owner Al Masar Al Shamil Education reports strong Q1 2026 results with revenue up 22%: What It Means Now"
 description: "The Company, chaired by Dr. Shamsheer Vayalil, reported a 29.1% year-on-year increase in net profit to Dhs 61.7 million (SAR 63.0 million).Al Masar Al Shamil..."
 category: "Business"
-author: "Andrew Ross Sorkin"
+author: "Kabir Anand"
 date: 2026-05-19
 publishedTime: "21:58 GST"
 watchLine: "Watch the next official update, market response and public impact."

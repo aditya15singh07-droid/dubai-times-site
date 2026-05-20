@@ -2,7 +2,7 @@
 title: "EDS unveils ‘Green Advertising’ in Dubai, pioneering sustainable outdoor media across the UAE: What UAE Readers Should Watch"
 description: "EDS unveils ‘Green Advertising’ in Dubai, pioneering sustainable outdoor media across the UAE could affect residents directly, from public services and safety to daily planning across the Emirates."
 category: "Middle East"
-author: "Kashmir Hill"
+author: "Zoya Malhotra"
 date: 2026-05-19
 publishedTime: "16:11 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

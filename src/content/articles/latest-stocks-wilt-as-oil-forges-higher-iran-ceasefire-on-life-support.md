@@ -2,7 +2,7 @@
 title: "Stocks wilt as oil forges higher; Iran ceasefire ‘on life support’: What It Means Now"
 description: "Oil gained for a third day on Tuesday ‌and the dollar rose as hopes faded for a deal to get ships moving through the Strait of Hormuz, ​while a red-hot rally in chip..."
 category: "International"
-author: "Yaroslav Trofimov"
+author: "Anika Menon"
 date: 2026-05-19
 publishedTime: "20:37 GST"
 watchLine: "Watch the next official update, market response and public impact."

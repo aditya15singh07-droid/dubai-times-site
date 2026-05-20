@@ -2,7 +2,7 @@
 title: "Uptown Dubai's New Office Towers Say The Premium Workspace Race Is Not Over"
 description: "DMCC's launch of two new commercial towers in Uptown Dubai shows that the demand story for grade-A office space in the emirate still has room to run."
 category: "Real Estate"
-author: "Natalie Wong"
+author: "Ishaan Vora"
 date: 2026-04-22
 watchLine: "Watch leasing velocity, tenant mix and whether Dubai can keep adding premium office stock without weakening pricing power."
 image: "https://images.pexels.com/photos/15478136/pexels-photo-15478136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

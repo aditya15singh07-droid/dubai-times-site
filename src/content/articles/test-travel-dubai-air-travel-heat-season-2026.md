@@ -2,7 +2,7 @@
 title: "Dubai Travel In The Hot Season Is Becoming A Test Of Timing"
 description: "Dubai's travel calendar is shifting toward smarter planning as families, airlines and hotels adjust to heat, school breaks and high visitor expectations."
 category: "Travel"
-author: "Peter Greenberg"
+author: "Zoya Malhotra"
 date: 2026-05-20
 publishedTime: "14:00 GST"
 watchLine: "Watch flight timings, hotel pricing and how families plan shorter, cooler city breaks."

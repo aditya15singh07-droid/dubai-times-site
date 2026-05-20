@@ -2,7 +2,7 @@
 title: "Dubai’s Outdoor Ad Market Is Growing Up, Not Just Getting Bigger"
 description: "Mada Media’s nearly AED1 billion in Q1 contracts says Dubai’s outdoor advertising market is becoming longer-term, more digital and more strategic."
 category: "Business"
-author: "Andrew Ross Sorkin"
+author: "Kian Oberoi"
 date: 2026-05-18
 watchLine: "Watch whether digital screens, pricing power and urban-design rules keep pushing outdoor ads toward higher-quality inventory."
 image: "https://images.pexels.com/photos/34659828/pexels-photo-34659828.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

@@ -2,7 +2,7 @@
 title: "UAE Industrial Push Gains Scale As Make It In The Emirates Closes Record Edition"
 description: "Make it in the Emirates 2026 drew more visitors, more agreements, and a sharper industrial message for investors watching the UAE's non-oil economy."
 category: "Business"
-author: "Andrew Ross Sorkin"
+author: "Kabir Anand"
 date: 2026-05-17
 watchLine: "Watch whether offtake agreements and industrial funds become factories, jobs, supply contracts and exportable products."
 image: "https://images.pexels.com/photos/7413996/pexels-photo-7413996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

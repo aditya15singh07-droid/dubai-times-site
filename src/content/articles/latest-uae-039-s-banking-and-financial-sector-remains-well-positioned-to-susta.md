@@ -2,7 +2,7 @@
 title: "UAE&#039;s banking and financial sector remains well-positioned to sustain strong performance: UBF: What It Means Now"
 description: "UAE Banking Federation (UBF), the sole representative and unified voice of UAE banks, affirmed that the banking and financial sector remains well-positioned to..."
 category: "Business"
-author: "Andrew Ross Sorkin"
+author: "Zoya Malhotra"
 date: 2026-05-19
 publishedTime: "18:34 GST"
 watchLine: "Watch the next official update, market response and public impact."

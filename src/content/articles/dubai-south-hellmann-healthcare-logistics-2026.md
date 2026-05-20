@@ -2,7 +2,7 @@
 title: "Dubai South's New Healthcare Logistics Bet Shows Cold-Chain Capacity Is Becoming Strategic"
 description: "Hellmann Calipar Healthcare Logistics has opened a new Dubai South distribution facility, adding specialised storage and compliance capacity for sensitive medical products."
 category: "Health"
-author: "Dr. Sanjay Gupta"
+author: "Rian Kapoor"
 date: 2026-05-19
 publishedTime: "09:50 GST"
 watchLine: "Watch whether specialised healthcare logistics becomes a bigger competitive edge for Dubai South's regional supply chain pitch."

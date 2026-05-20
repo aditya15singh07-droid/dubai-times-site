@@ -2,7 +2,7 @@
 title: "Al Shera'a Gives Dubai's Sustainability Push A Very Public Address"
 description: "Dubai has opened DEWA's new Al Shera'a headquarters in Al Jaddaf, positioning the building as a global example of smart, net-positive government infrastructure."
 category: "International"
-author: "Yaroslav Trofimov"
+author: "Samaira Qureshi"
 date: 2026-05-17
 publishedTime: "19:25 GST"
 watchLine: "Watch whether Al Shera'a becomes a practical benchmark for future public buildings, not only a landmark launch."

@@ -2,7 +2,7 @@
 title: "Bolt's Abu Dhabi Move Shows App Mobility Is Becoming A Multi-City Habit"
 description: "Bolt's entry into Abu Dhabi through its Dubai Taxi Company partnership is a small market move with larger implications for how residents now expect urban transport to work."
 category: "Sport"
-author: "Noma Nazish"
+author: "Reyansh Suri"
 date: 2026-05-18
 watchLine: "Watch whether app-based mobility adoption deepens in Abu Dhabi and whether cross-city expansion starts to change rider expectations across the UAE."
 image: "https://images.pexels.com/photos/8554428/pexels-photo-8554428.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

@@ -2,7 +2,7 @@
 title: "Chamber unveils ‘Member Privileges’ initiative with five partnerships deals: What It Means Now"
 description: "The Abu Dhabi Chamber of Commerce and Industry announced the launch of its ‘Member Privileges’ initiative through five new strategic partnership agreements with..."
 category: "Business"
-author: "Andrew Ross Sorkin"
+author: "Naina Batra"
 date: 2026-05-19
 publishedTime: "16:24 GST"
 watchLine: "Watch the next official update, market response and public impact."

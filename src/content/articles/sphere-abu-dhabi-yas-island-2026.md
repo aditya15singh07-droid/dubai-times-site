@@ -2,7 +2,7 @@
 title: "Sphere Abu Dhabi Is A Tourism Bet, But Also A Confidence Signal"
 description: "Abu Dhabi's decision to bring Sphere to Yas Island is a cultural and tourism play, but it also reflects the emirate's long-term confidence in large-scale destination building."
 category: "Travel"
-author: "Peter Greenberg"
+author: "Vihaan Rao"
 date: 2026-05-14
 watchLine: "Watch how Abu Dhabi integrates the project into its broader tourism ecosystem and whether the venue helps lengthen visitor stays once construction is complete."
 image: "https://images.pexels.com/photos/31703898/pexels-photo-31703898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

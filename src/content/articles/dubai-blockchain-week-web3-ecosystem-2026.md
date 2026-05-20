@@ -2,7 +2,7 @@
 title: "MENA Blockchain Week Puts Dubai's Web3 Network Back On Stage"
 description: "The city-wide blockchain event brings founders, investors, institutions, and policymakers into one Dubai platform as the region's digital asset ecosystem matures."
 category: "Crypto"
-author: "David Yaffe-Bellany"
+author: "Anika Menon"
 date: 2026-05-17
 watchLine: "Look for licensed activity, enterprise pilots and companies choosing Dubai as a base after the conference week ends."
 image: "https://images.pexels.com/photos/8370783/pexels-photo-8370783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

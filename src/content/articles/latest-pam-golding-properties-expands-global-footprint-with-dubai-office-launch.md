@@ -2,7 +2,7 @@
 title: "Pam Golding Properties expands global footprint with Dubai office launch: What UAE Readers Should Watch"
 description: "Pam Golding Properties expands global footprint with Dubai office launch could affect residents directly, from public services and safety to daily planning across the Emirates."
 category: "International"
-author: "Yaroslav Trofimov"
+author: "Naina Batra"
 date: 2026-05-19
 publishedTime: "15:55 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

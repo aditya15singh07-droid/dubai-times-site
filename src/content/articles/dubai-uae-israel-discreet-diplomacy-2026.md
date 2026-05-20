@@ -2,7 +2,7 @@
 title: "UAE-Israel Ties Face A Public Test As Regional Diplomacy Becomes Harder To Keep Quiet"
 description: "Recent claims and denials around UAE-Israel contacts show how regional security partnerships can become politically sensitive when they move into public view."
 category: "International"
-author: "Yaroslav Trofimov"
+author: "Ishaan Vora"
 date: 2026-05-17
 watchLine: "Watch future official language for signs that cooperation remains formal, public-facing and carefully bounded."
 image: "https://images.pexels.com/photos/4386403/pexels-photo-4386403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

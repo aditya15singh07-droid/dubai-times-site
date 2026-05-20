@@ -2,7 +2,7 @@
 title: "A UAE LegalTech Launch Shows AI Is Moving Into Regulated, Messy Work"
 description: "Legaline's launch in the UAE suggests AI is moving beyond demos and into the layered, multilingual, regulation-heavy work that defines real business operations."
 category: "Business"
-author: "Andrew Ross Sorkin"
+author: "Armaan Gill"
 date: 2026-05-06
 watchLine: "Watch whether lawyers and SME clients actually adopt the platform and whether trust in its jurisdiction-specific AI proves durable."
 image: "https://images.pexels.com/photos/5480781/pexels-photo-5480781.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

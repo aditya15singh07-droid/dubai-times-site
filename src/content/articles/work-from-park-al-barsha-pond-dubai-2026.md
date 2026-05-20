@@ -2,7 +2,7 @@
 title: "Dubai’s Work From Park Plan Sounds Trendy, But It Is Really About Urban Pressure"
 description: "The new Work from Park initiative is pitched as a flexible work idea, but it also reveals how Dubai wants its public spaces to do more jobs."
 category: "Middle East"
-author: "Kashmir Hill"
+author: "Aarav Mehta"
 date: 2026-05-18
 watchLine: "Watch whether the Al Barsha Pond Park pilot gets real daily use from freelancers and SMEs, not just social media attention."
 image: "https://images.pexels.com/photos/4560092/pexels-photo-4560092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

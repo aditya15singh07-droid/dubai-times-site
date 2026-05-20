@@ -2,7 +2,7 @@
 title: "Sharjah launches logistics corridor with Oman, sends first shipments from Port Khalid to Sohar Port: What It Means Now"
 description: "The Sharjah Ports, Customs and Free Zones Authority has launched an integrated logistics corridor, developed in coordination with Oman Customs, as part of an advanced..."
 category: "Business"
-author: "Andrew Ross Sorkin"
+author: "Aarav Mehta"
 date: 2026-05-19
 publishedTime: "15:56 GST"
 watchLine: "Watch the next official update, market response and public impact."

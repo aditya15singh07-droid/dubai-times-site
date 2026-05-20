@@ -2,7 +2,7 @@
 title: "Etihad Rail passenger train: What the UAE’s new journey looks like from inside: What UAE Readers Should Watch"
 description: "Etihad Rail passenger train: What the UAE’s new journey looks like from inside matters for passengers, operators and the wider visitor economy that keeps Dubai moving."
 category: "Travel"
-author: "Peter Greenberg"
+author: "Mira Sethi"
 date: 2026-05-20
 publishedTime: "06:00 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

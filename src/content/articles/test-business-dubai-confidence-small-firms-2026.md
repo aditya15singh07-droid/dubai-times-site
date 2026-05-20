@@ -2,7 +2,7 @@
 title: "Dubai Business Confidence Now Depends On The Small Operator"
 description: "Dubai's growth story looks strongest when small firms, suppliers and service businesses feel that demand is real and payment cycles are healthy."
 category: "Health"
-author: "Dr. Sanjay Gupta"
+author: "Armaan Gill"
 date: 2026-05-20
 publishedTime: "14:14 GST"
 watchLine: "Watch hiring, receivables, renewals and whether small businesses keep expanding."

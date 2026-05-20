@@ -2,7 +2,7 @@
 title: "The UAE Food Bank And JOOD Deal Shows Dubai Wants Giving To Be Easier And Smarter"
 description: "A new partnership between the UAE Food Bank and JOOD aims to digitise contributions, reduce food waste and strengthen year-round humanitarian support in Dubai."
 category: "Lifestyle"
-author: "Natalie Wong"
+author: "Aarav Mehta"
 date: 2026-05-18
 publishedTime: "03:20 GST"
 watchLine: "Watch whether the JOOD platform increases recurring donations and helps the Food Bank scale impact beyond Ramadan peaks."

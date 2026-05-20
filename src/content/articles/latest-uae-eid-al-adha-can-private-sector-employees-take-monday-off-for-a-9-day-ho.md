@@ -2,7 +2,7 @@
 title: "UAE Eid Al Adha: Can private sector employees take Monday off for a 9-day holiday break?: What UAE Readers Should Watch"
 description: "UAE Eid Al Adha: Can private sector employees take Monday off for a 9-day holiday break? could affect residents directly, from public services and safety to daily planning across the Emirates."
 category: "Lifestyle"
-author: "Natalie Wong"
+author: "Zoya Malhotra"
 date: 2026-05-20
 publishedTime: "06:00 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."

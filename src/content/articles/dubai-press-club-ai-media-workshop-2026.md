@@ -2,7 +2,7 @@
 title: "Dubai's Media AI Debate Is Maturing Beyond Hype And Panic"
 description: "A Dubai Press Club workshop on AI tools and media creativity highlights how the emirate's content ecosystem is starting to talk about practical use, not just fear or excitement."
 category: "Middle East"
-author: "Kashmir Hill"
+author: "Zoya Malhotra"
 date: 2026-05-18
 publishedTime: "02:40 GST"
 watchLine: "Watch whether media organisations in Dubai turn AI curiosity into training, policy and newsroom experimentation."

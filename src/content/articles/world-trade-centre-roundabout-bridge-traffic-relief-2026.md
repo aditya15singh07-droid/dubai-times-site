@@ -2,7 +2,7 @@
 title: "Dubai Opens Another Trade Centre Bridge, With A Bigger Promise Than Concrete"
 description: "A new 500-metre bridge near the World Trade Centre aims to cut a short trip from eight minutes to two, but the deeper question is how fast Dubai can stay ahead of traffic."
 category: "International"
-author: "Yaroslav Trofimov"
+author: "Reyansh Suri"
 date: 2026-05-18
 watchLine: "Watch whether the full six-bridge package meaningfully eases peak-hour pressure around Sheikh Zayed Road and Al Mustaqbal Street."
 image: "https://images.pexels.com/photos/37089595/pexels-photo-37089595.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

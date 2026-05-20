@@ -2,7 +2,7 @@
 title: "DFM's Strong Quarter Shows Liquidity Still Likes Dubai"
 description: "Dubai Financial Market's first-quarter numbers point to a market that remains attractive to international and institutional capital even after a more volatile March."
 category: "International"
-author: "Yaroslav Trofimov"
+author: "Mira Sethi"
 date: 2026-04-30
 watchLine: "Watch whether overseas participation, new investor inflows and daily trading value stay firm through the rest of 2026."
 image: "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"

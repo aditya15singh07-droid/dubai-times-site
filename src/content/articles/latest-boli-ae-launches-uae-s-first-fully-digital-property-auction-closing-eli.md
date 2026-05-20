@@ -2,7 +2,7 @@
 title: "Boli.ae launches UAE’s first fully digital property auction, closing elite City Walk asset within 7 days: What It Means Now"
 description: "Boli.ae, the UAE’s digital property auction platform, has announced the successful completion of its inaugural digital real estate auction, marking a major shift in..."
 category: "Real Estate"
-author: "Natalie Wong"
+author: "Samaira Qureshi"
 date: 2026-05-19
 publishedTime: "22:12 GST"
 watchLine: "Watch the next official update, market response and public impact."
