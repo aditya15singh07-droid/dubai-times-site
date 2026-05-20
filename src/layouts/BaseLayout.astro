@@ -1,4 +1,6 @@
 ---
+import { categories, categoryPath } from "../data/articles";
+
 type Props = {
   title?: string;
   description?: string;
@@ -8,6 +10,15 @@ const {
   title = "Dubai Time",
   description = "Dubai Time tracks the UAE clock, emirates weather, alerts, and the stories shaping Dubai and the wider UAE.",
 } = Astro.props;
+
+const primaryLinks = [
+  { href: "/", label: "Time" },
+  { href: "/#weather", label: "Weather" },
+  { href: "/#news", label: "News" },
+  { href: "/category/business", label: "Business" },
+  { href: "/category/real-estate", label: "Real Estate" },
+  { href: "/about", label: "About" },
+];
 ---
 
 <!doctype html>
@@ -31,21 +42,49 @@ const {
       <span>UAE clock, markets, weather and business context</span>
     </div>
     <header class="site-header">
-      <a class="brand" href="/" aria-label="Dubai Time home">
-        <span>Dubai</span>
-        <strong>Time</strong>
-      </a>
-      <nav class="nav" aria-label="Main navigation">
-        <a href="/">Time</a>
-        <a href="/#weather">Weather</a>
-        <a href="/#news">News</a>
-        <a href="/category/business">Business</a>
-        <a href="/category/real-estate">Real Estate</a>
-        <a href="/category/travel">Travel</a>
-        <a href="/category/crypto">Crypto</a>
-        <a href="/category/middle-east">Middle East</a>
-        <a href="/about">About</a>
+      <div class="mobile-header-row">
+        <button
+          class="menu-toggle"
+          type="button"
+          aria-label="Open menu"
+          aria-controls="mobile-menu"
+          aria-expanded="false"
+          data-menu-toggle
+        >
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+        <a class="brand" href="/" aria-label="Dubai Time home">
+          <span>Dubai</span>
+          <strong>Time</strong>
+        </a>
+      </div>
+      <nav class="nav desktop-nav" aria-label="Main navigation">
+        {primaryLinks.map((link) => <a href={link.href}>{link.label}</a>)}
       </nav>
+      <div class="mobile-menu" id="mobile-menu" data-mobile-menu hidden>
+        <nav class="mobile-nav" aria-label="Mobile navigation">
+          <a href="/">Home</a>
+          <a href="/#weather">Weather</a>
+          <a href="/#news">News</a>
+          <button
+            class="category-toggle"
+            type="button"
+            aria-controls="mobile-categories"
+            aria-expanded="false"
+            data-category-toggle
+          >
+            <span>Categories</span>
+            <i aria-hidden="true"></i>
+          </button>
+          <div class="mobile-categories" id="mobile-categories" data-mobile-categories hidden>
+            {categories.map((category) => <a href={`/category/${categoryPath(category)}`}>{category}</a>)}
+          </div>
+          <a href="/about">About</a>
+        </nav>
+        <p>Live UAE time, seven-emirate weather, markets and category-led news context.</p>
+      </div>
     </header>
     <main>
       <slot />
@@ -57,6 +96,50 @@ const {
       </div>
       <p class="footer-note">Built as the first foundation for the Dubai Time publishing system.</p>
     </footer>
+    <script is:inline>
+      const menuToggle = document.querySelector("[data-menu-toggle]");
+      const mobileMenu = document.querySelector("[data-mobile-menu]");
+      const categoryToggle = document.querySelector("[data-category-toggle]");
+      const mobileCategories = document.querySelector("[data-mobile-categories]");
+
+      function setMenuOpen(isOpen) {
+        if (!menuToggle || !mobileMenu) return;
+        menuToggle.setAttribute("aria-expanded", String(isOpen));
+        menuToggle.classList.toggle("is-open", isOpen);
+        mobileMenu.hidden = !isOpen;
+      }
+
+      function setCategoriesOpen(isOpen) {
+        if (!categoryToggle || !mobileCategories) return;
+        categoryToggle.setAttribute("aria-expanded", String(isOpen));
+        categoryToggle.classList.toggle("is-open", isOpen);
+        mobileCategories.hidden = !isOpen;
+      }
+
+      menuToggle?.addEventListener("click", () => {
+        const isOpen = menuToggle.getAttribute("aria-expanded") === "true";
+        setMenuOpen(!isOpen);
+      });
+
+      categoryToggle?.addEventListener("click", () => {
+        const isOpen = categoryToggle.getAttribute("aria-expanded") === "true";
+        setCategoriesOpen(!isOpen);
+      });
+
+      mobileMenu?.querySelectorAll("a").forEach((link) => {
+        link.addEventListener("click", () => {
+          setMenuOpen(false);
+          setCategoriesOpen(false);
+        });
+      });
+
+      document.addEventListener("keydown", (event) => {
+        if (event.key === "Escape") {
+          setMenuOpen(false);
+          setCategoriesOpen(false);
+        }
+      });
+    </script>
   </body>
 </html>
 
@@ -131,6 +214,15 @@ const {
     z-index: 30;
   }
 
+  .mobile-header-row {
+    display: contents;
+  }
+
+  .menu-toggle,
+  .mobile-menu {
+    display: none;
+  }
+
   .brand {
     align-items: baseline;
     display: flex;
@@ -177,6 +269,11 @@ const {
 
   .nav a:hover {
     color: var(--accent);
+  }
+
+  .mobile-menu[hidden],
+  .mobile-categories[hidden] {
+    display: none !important;
   }
 
   .section {
@@ -252,32 +349,149 @@ const {
       position: relative;
     }
 
+    .mobile-header-row {
+      align-items: center;
+      display: flex;
+      gap: 14px;
+      justify-content: flex-start;
+      width: 100%;
+    }
+
+    .menu-toggle {
+      align-items: center;
+      appearance: none;
+      background: transparent;
+      border: 0;
+      cursor: pointer;
+      display: inline-flex;
+      flex: 0 0 auto;
+      flex-direction: column;
+      gap: 5px;
+      height: 40px;
+      justify-content: center;
+      margin: 0;
+      padding: 0;
+      width: 40px;
+    }
+
+    .menu-toggle span {
+      background: #101214;
+      border-radius: 999px;
+      box-shadow: 0 0 0 1px rgba(227, 59, 47, 0.04);
+      display: block;
+      height: 3px;
+      transition:
+        transform 180ms ease,
+        opacity 180ms ease,
+        background 180ms ease;
+      width: 27px;
+    }
+
+    .menu-toggle.is-open span {
+      background: var(--accent);
+    }
+
+    .menu-toggle.is-open span:nth-child(1) {
+      transform: translateY(8px) rotate(45deg);
+    }
+
+    .menu-toggle.is-open span:nth-child(2) {
+      opacity: 0;
+    }
+
+    .menu-toggle.is-open span:nth-child(3) {
+      transform: translateY(-8px) rotate(-45deg);
+    }
+
     .brand {
       font-size: clamp(1.95rem, 10vw, 2.7rem);
       gap: 7px;
       line-height: 1;
     }
 
-    .nav {
-      display: grid;
-      gap: 8px;
-      grid-template-columns: repeat(3, minmax(0, 1fr));
-      justify-content: flex-start;
-      overflow: visible;
-      padding-bottom: 0;
-      white-space: normal;
+    .desktop-nav {
+      display: none;
+    }
+
+    .mobile-menu:not([hidden]) {
+      background: rgba(255, 250, 241, 0.98);
+      border: 1px solid rgba(17, 18, 20, 0.08);
+      box-shadow: 0 24px 60px rgba(17, 18, 20, 0.12);
+      display: block;
+      padding: 16px;
       width: 100%;
     }
 
-    .nav a {
+    .mobile-nav {
+      display: grid;
+      gap: 10px;
+    }
+
+    .mobile-nav > a,
+    .category-toggle {
+      align-items: center;
+      background: #fff;
+      border: 1px solid var(--line);
+      color: #111214;
+      display: flex;
+      font: inherit;
+      font-size: 0.92rem;
+      font-weight: 900;
+      justify-content: space-between;
+      letter-spacing: 0.02em;
+      line-height: 1;
+      min-height: 48px;
+      padding: 0 16px;
+      text-transform: uppercase;
+      width: 100%;
+    }
+
+    .category-toggle {
+      appearance: none;
+      cursor: pointer;
+    }
+
+    .category-toggle i {
+      border-left: 7px solid transparent;
+      border-right: 7px solid transparent;
+      border-top: 8px solid #111214;
+      display: block;
+      height: 0;
+      transition: transform 180ms ease;
+      width: 0;
+    }
+
+    .category-toggle.is-open i {
+      transform: rotate(180deg);
+    }
+
+    .mobile-categories {
+      display: grid;
+      gap: 8px;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      padding: 2px 0 4px;
+    }
+
+    .mobile-categories a {
       background: rgba(17, 18, 20, 0.045);
       border: 1px solid rgba(17, 18, 20, 0.08);
-      border-radius: 999px;
-      font-size: 0.66rem;
-      letter-spacing: 0.025em;
-      line-height: 1;
-      padding: 9px 6px;
+      color: #303238;
+      font-size: 0.74rem;
+      font-weight: 900;
+      letter-spacing: 0.02em;
+      min-height: 40px;
+      padding: 13px 10px;
       text-align: center;
+      text-transform: uppercase;
+    }
+
+    .mobile-menu p {
+      color: var(--muted);
+      font-size: 0.82rem;
+      font-weight: 750;
+      line-height: 1.5;
+      margin: 14px 0 0;
+      text-align: left;
     }
 
     .footer-note {
@@ -286,8 +500,8 @@ const {
   }
 
   @media (max-width: 420px) {
-    .nav {
-      grid-template-columns: repeat(2, minmax(0, 1fr));
+    .mobile-categories {
+      grid-template-columns: 1fr;
     }
   }
 </style>
