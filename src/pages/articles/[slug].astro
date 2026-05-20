@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { getCollection, render } from "astro:content";
+import { optimizedImage } from "../../lib/images";
 
 export async function getStaticPaths() {
   const articles = await getCollection("articles", ({ data }) => !data.draft);
@@ -62,7 +63,7 @@ const recommendedArticles = [...relatedArticles, ...fallbackRelated];
     </header>
 
     <figure class="article-image">
-      <img src={article.data.image} alt={article.data.imageAlt} />
+      <img src={optimizedImage(article.data.image)} alt={article.data.imageAlt} />
       {article.data.imageCredit && (
         <figcaption>
           {article.data.imageCreditUrl ? (
@@ -108,7 +109,7 @@ const recommendedArticles = [...relatedArticles, ...fallbackRelated];
       <div class="continue-grid">
         {recommendedArticles.map((entry) => (
           <a href={`/articles/${entry.id}`}>
-            <img src={entry.data.image} alt={entry.data.imageAlt} loading="lazy" />
+            <img src={optimizedImage(entry.data.image)} alt={entry.data.imageAlt} loading="lazy" />
             <span>{entry.data.category}</span>
             <strong>{entry.data.title}</strong>
             <small>{estimateRead(entry)} min read · {entry.data.publishedTime}</small>
@@ -189,15 +190,15 @@ const recommendedArticles = [...relatedArticles, ...fallbackRelated];
 
   h1 {
     font-family: Georgia, "Times New Roman", serif;
-    font-size: clamp(2.45rem, 5vw, 4.9rem);
+    font-size: clamp(2rem, 3.6vw, 3.65rem);
     letter-spacing: -0.03em;
-    line-height: 0.95;
+    line-height: 1.04;
     margin: 16px 0 20px;
   }
 
   .dek {
     color: #3f4148;
-    font-size: clamp(1.1rem, 2vw, 1.35rem);
+    font-size: clamp(1rem, 1.5vw, 1.16rem);
     font-weight: 650;
     line-height: 1.55;
     margin: 0;
@@ -304,9 +305,12 @@ const recommendedArticles = [...relatedArticles, ...fallbackRelated];
     border: 1px solid var(--line);
     box-shadow: var(--shadow);
     font-family: Georgia, "Times New Roman", serif;
-    font-size: 1.18rem;
-    line-height: 1.82;
+    font-size: 1.05rem;
+    hyphens: auto;
+    line-height: 1.78;
     padding: clamp(24px, 4vw, 42px);
+    text-align: justify;
+    text-justify: inter-word;
   }
 
   .article-body :global(h2) {
@@ -323,6 +327,9 @@ const recommendedArticles = [...relatedArticles, ...fallbackRelated];
 
   .article-body :global(p) {
     margin: 0 0 20px;
+    hyphens: auto;
+    text-align: justify;
+    text-justify: inter-word;
   }
 
   .article-body :global(a) {
@@ -381,8 +388,8 @@ const recommendedArticles = [...relatedArticles, ...fallbackRelated];
 
   .section-title h2 {
     font-family: Georgia, "Times New Roman", serif;
-    font-size: clamp(1.8rem, 4vw, 3rem);
-    line-height: 1;
+    font-size: clamp(1.5rem, 3vw, 2.35rem);
+    line-height: 1.08;
     margin: 0;
   }
 
@@ -414,8 +421,8 @@ const recommendedArticles = [...relatedArticles, ...fallbackRelated];
 
   .continue-grid strong {
     font-family: Georgia, "Times New Roman", serif;
-    font-size: 1.25rem;
-    line-height: 1.12;
+    font-size: 1.08rem;
+    line-height: 1.18;
   }
 
   .continue-grid small {
@@ -444,9 +451,9 @@ const recommendedArticles = [...relatedArticles, ...fallbackRelated];
     }
 
     h1 {
-      font-size: clamp(2.05rem, 9.4vw, 3rem);
+      font-size: clamp(1.85rem, 8.2vw, 2.65rem);
       letter-spacing: -0.02em;
-      line-height: 1.02;
+      line-height: 1.08;
     }
 
     .article-image img {

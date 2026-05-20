@@ -2,6 +2,7 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import { categories } from "../data/articles";
+import { optimizedImage } from "../lib/images";
 
 const articleTimestamp = (article) => {
   const [hour = "00", minute = "00"] = String(article.data.publishedTime || "").match(/\d{2}/g) || [];
@@ -72,10 +73,10 @@ const marketItems = [
 
   <section class="section masthead">
     <div class="hero-copy">
-      <p class="eyebrow">UAE Business Daily</p>
-      <h1>Dubai stories for people building, investing and living in the city.</h1>
+      <p class="eyebrow">Live UAE Time</p>
+      <h1>UAE time, weather and market pulse.</h1>
       <p>
-        Live UAE time, seven-emirate weather, markets and the business stories shaping Dubai.
+        A clean dashboard for Dubai time, seven-emirate weather, rain signals, wind and the market numbers people check through the day.
       </p>
     </div>
 
@@ -133,7 +134,7 @@ const marketItems = [
   <section class="section homepage-grid" id="news">
     <article class="lead-story">
       <a href={`/articles/${leadArticle.id}`} aria-label={leadArticle.data.title}>
-        <img src={leadArticle.data.image} alt={leadArticle.data.imageAlt} />
+        <img src={optimizedImage(leadArticle.data.image)} alt={leadArticle.data.imageAlt} />
       </a>
       <div>
         <p class="eyebrow">{leadArticle.data.category}</p>
@@ -191,7 +192,7 @@ const marketItems = [
         {latest.map((article) => (
           <article class="story-row">
             <a href={`/articles/${article.id}`}>
-              <img src={article.data.image} alt={article.data.imageAlt} loading="lazy" />
+              <img src={optimizedImage(article.data.image)} alt={article.data.imageAlt} loading="lazy" />
             </a>
             <div>
               <p class="eyebrow">{article.data.category}</p>
@@ -227,7 +228,7 @@ const marketItems = [
           <a class="category-name" href={`/category/${block.category.toLowerCase().replaceAll(" ", "-")}`}>{block.category}</a>
           {block.articles.map((article) => (
             <a class="mini-card" href={`/articles/${article.id}`}>
-              <img src={article.data.image} alt={article.data.imageAlt} loading="lazy" />
+              <img src={optimizedImage(article.data.image)} alt={article.data.imageAlt} loading="lazy" />
               <strong>{article.data.title}</strong>
               <small>{article.data.publishedTime}</small>
             </a>
@@ -474,36 +475,37 @@ const marketItems = [
     align-items: start;
     border-bottom: 1px solid var(--line);
     display: grid;
-    gap: 28px;
-    grid-template-columns: minmax(0, 0.96fr) minmax(360px, 0.52fr);
-    padding-bottom: 34px;
-    padding-top: 30px;
+    gap: 18px;
+    grid-template-columns: 1fr;
+    padding-bottom: 28px;
+    padding-top: 24px;
   }
 
   .masthead h1 {
     font-family:
       Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
       sans-serif;
-    font-size: clamp(2.35rem, 5vw, 4.9rem);
+    font-size: clamp(2rem, 3.6vw, 3.55rem);
     font-weight: 900;
     letter-spacing: -0.034em;
     line-height: 1.04;
-    margin: 10px 0 0;
-    max-width: 930px;
+    margin: 8px 0 0;
+    max-width: 760px;
   }
 
   .hero-copy {
     align-self: start;
-    padding-top: 14px;
+    max-width: 830px;
+    padding-top: 4px;
   }
 
   .hero-copy p:not(.eyebrow) {
     color: var(--muted);
-    font-size: clamp(1rem, 1.7vw, 1.22rem);
+    font-size: clamp(0.94rem, 1.3vw, 1.08rem);
     font-weight: 700;
     line-height: 1.55;
-    margin: 20px 0 0;
-    max-width: 640px;
+    margin: 14px 0 0;
+    max-width: 760px;
   }
 
   .hero-live-news {
@@ -512,7 +514,7 @@ const marketItems = [
     color: #fff;
     grid-column: 1;
     margin-top: 4px;
-    max-width: 760px;
+    max-width: none;
   }
 
   .hero-live-heading {
@@ -606,8 +608,8 @@ const marketItems = [
 
   .lead-story h2 {
     font-family: Georgia, "Times New Roman", serif;
-    font-size: clamp(2rem, 4vw, 3.6rem);
-    line-height: 0.96;
+    font-size: clamp(1.55rem, 2.8vw, 2.65rem);
+    line-height: 1.02;
     margin: 10px 0 14px;
   }
 
@@ -619,7 +621,7 @@ const marketItems = [
 
   .lead-story p:not(.eyebrow) {
     color: var(--muted);
-    font-size: 1.04rem;
+    font-size: 0.96rem;
     line-height: 1.65;
   }
 
@@ -654,8 +656,8 @@ const marketItems = [
   .insight-rail h2 {
     display: block;
     font-family: Georgia, "Times New Roman", serif;
-    font-size: 1.8rem;
-    line-height: 1;
+    font-size: 1.45rem;
+    line-height: 1.08;
   }
 
   .top-link {
@@ -697,10 +699,12 @@ const marketItems = [
   .live-panel {
     align-content: start;
     display: grid;
-    gap: 14px;
-    grid-column: 2;
-    grid-row: 1 / span 2;
+    gap: 0;
+    grid-column: 1;
+    grid-row: auto;
+    grid-template-columns: minmax(270px, 0.9fr) minmax(0, 1.35fr) minmax(210px, 0.58fr);
     padding: 0;
+    overflow: hidden;
   }
 
   .time-card {
@@ -711,7 +715,7 @@ const marketItems = [
     color: #fff;
     display: grid;
     gap: 8px;
-    padding: 22px;
+    padding: 24px;
   }
 
   .flag {
@@ -753,7 +757,7 @@ const marketItems = [
     font-family:
       Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
       sans-serif;
-    font-size: clamp(2.25rem, 4vw, 3.1rem);
+    font-size: clamp(2.1rem, 4vw, 3.65rem);
     font-variant-numeric: tabular-nums;
     font-weight: 950;
     letter-spacing: -0.05em;
@@ -797,7 +801,8 @@ const marketItems = [
 
   .weather-mini {
     background: var(--panel);
-    border: 1px solid var(--line);
+    border: 0;
+    border-left: 1px solid var(--line);
     padding: 16px;
   }
 
@@ -846,6 +851,7 @@ const marketItems = [
 
   .world-times {
     background: #111214;
+    border-left: 1px solid rgba(255, 255, 255, 0.08);
     display: grid;
     gap: 1px;
   }
@@ -875,8 +881,8 @@ const marketItems = [
 
   .section-title h2 {
     font-family: Georgia, "Times New Roman", serif;
-    font-size: clamp(1.8rem, 3vw, 3rem);
-    line-height: 1;
+    font-size: clamp(1.5rem, 2.3vw, 2.25rem);
+    line-height: 1.08;
     margin: 0;
     max-width: 680px;
     text-align: right;
@@ -893,7 +899,7 @@ const marketItems = [
     border: 1px solid var(--line);
     display: grid;
     gap: 10px;
-    min-height: 170px;
+    min-height: 145px;
     padding: 16px;
   }
 
@@ -913,8 +919,8 @@ const marketItems = [
 
   .just-in-grid strong {
     font-family: Georgia, "Times New Roman", serif;
-    font-size: 1.15rem;
-    line-height: 1.12;
+    font-size: 1rem;
+    line-height: 1.18;
   }
 
   .just-in-grid small {
@@ -958,8 +964,8 @@ const marketItems = [
 
   .story-row h3 {
     font-family: Georgia, "Times New Roman", serif;
-    font-size: 1.55rem;
-    line-height: 1.08;
+    font-size: 1.28rem;
+    line-height: 1.14;
     margin: 8px 0 10px;
   }
 
@@ -1006,7 +1012,7 @@ const marketItems = [
     background: #111214;
     color: #fff;
     font-family: Georgia, "Times New Roman", serif;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     font-weight: 900;
     padding: 16px;
   }
@@ -1041,7 +1047,7 @@ const marketItems = [
 
     .live-panel {
       grid-column: auto;
-      grid-template-columns: 1fr 1.4fr;
+      grid-template-columns: 1fr 1.25fr;
       grid-row: auto;
     }
 
@@ -1081,14 +1087,19 @@ const marketItems = [
       grid-template-columns: 1fr;
     }
 
+    .weather-mini,
+    .world-times {
+      border-left: 0;
+    }
+
     .masthead {
       padding-top: 28px;
     }
 
     .masthead h1 {
-      font-size: clamp(2.05rem, 9.6vw, 3.05rem);
+      font-size: clamp(1.9rem, 8vw, 2.55rem);
       letter-spacing: -0.018em;
-      line-height: 1;
+      line-height: 1.06;
     }
 
     .hero-copy p:not(.eyebrow) {

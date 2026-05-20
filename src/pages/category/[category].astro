@@ -2,6 +2,7 @@
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import { categories } from "../../data/articles";
+import { optimizedImage } from "../../lib/images";
 
 export async function getStaticPaths() {
   return categories.map((category) => ({
@@ -40,7 +41,7 @@ const [leadArticle, ...restArticles] = categoryArticles;
     {leadArticle ? (
       <article class="category-lead">
         <a href={`/articles/${leadArticle.id}`}>
-          <img src={leadArticle.data.image} alt={leadArticle.data.imageAlt} />
+          <img src={optimizedImage(leadArticle.data.image)} alt={leadArticle.data.imageAlt} />
         </a>
         <div>
           <p class="eyebrow">{leadArticle.data.category}</p>
@@ -57,7 +58,7 @@ const [leadArticle, ...restArticles] = categoryArticles;
       {restArticles.map((article) => (
         <article class="row">
           <a href={`/articles/${article.id}`}>
-            <img src={article.data.image} alt={article.data.imageAlt} loading="lazy" />
+            <img src={optimizedImage(article.data.image)} alt={article.data.imageAlt} loading="lazy" />
           </a>
           <div>
             <p class="eyebrow">{article.data.category}</p>
@@ -80,15 +81,15 @@ const [leadArticle, ...restArticles] = categoryArticles;
 
   h1 {
     font-family: Georgia, "Times New Roman", serif;
-    font-size: clamp(3rem, 7vw, 6.4rem);
+    font-size: clamp(2.2rem, 5vw, 4.25rem);
     letter-spacing: -0.03em;
-    line-height: 0.9;
+    line-height: 1.02;
     margin: 10px 0;
   }
 
   .category-header p:not(.eyebrow) {
     color: var(--muted);
-    font-size: 1.1rem;
+    font-size: 1rem;
     font-weight: 700;
   }
 
@@ -114,8 +115,8 @@ const [leadArticle, ...restArticles] = categoryArticles;
 
   .category-lead h2 {
     font-family: Georgia, "Times New Roman", serif;
-    font-size: clamp(2rem, 4vw, 3.7rem);
-    line-height: 0.96;
+    font-size: clamp(1.65rem, 3vw, 2.8rem);
+    line-height: 1.04;
     margin: 10px 0 14px;
   }
 
@@ -161,8 +162,8 @@ const [leadArticle, ...restArticles] = categoryArticles;
 
   .row h2 {
     font-family: Georgia, "Times New Roman", serif;
-    font-size: 1.45rem;
-    line-height: 1.1;
+    font-size: 1.2rem;
+    line-height: 1.16;
     margin: 8px 0 10px;
   }
 
@@ -175,6 +176,8 @@ const [leadArticle, ...restArticles] = categoryArticles;
   .empty {
     color: var(--muted);
     line-height: 1.55;
+    text-align: justify;
+    text-justify: inter-word;
   }
 
   @media (max-width: 900px) {
