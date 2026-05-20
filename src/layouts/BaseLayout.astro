@@ -15,9 +15,16 @@ const primaryLinks = [
   { href: "/", label: "Time" },
   { href: "/#weather", label: "Weather" },
   { href: "/#news", label: "News" },
-  { href: "/category/business", label: "Business" },
-  { href: "/category/real-estate", label: "Real Estate" },
   { href: "/about", label: "About" },
+];
+
+const desktopLinks = [
+  ...primaryLinks.slice(0, 3),
+  ...categories.map((category) => ({
+    href: `/category/${categoryPath(category)}`,
+    label: category,
+  })),
+  primaryLinks[3],
 ];
 ---
 
@@ -61,7 +68,7 @@ const primaryLinks = [
         </a>
       </div>
       <nav class="nav desktop-nav" aria-label="Main navigation">
-        {primaryLinks.map((link) => <a href={link.href}>{link.label}</a>)}
+        {desktopLinks.map((link) => <a href={link.href}>{link.label}</a>)}
       </nav>
       <div class="mobile-menu" id="mobile-menu" data-mobile-menu hidden>
         <nav class="mobile-nav" aria-label="Mobile navigation">
@@ -205,7 +212,7 @@ const primaryLinks = [
     background: rgba(255, 250, 241, 0.96);
     border-bottom: 1px solid var(--line);
     display: flex;
-    gap: 28px;
+    gap: 24px;
     justify-content: space-between;
     margin: 0 auto;
     padding: 20px max(22px, calc((100vw - 1180px) / 2 + 24px)) 18px;
@@ -254,16 +261,16 @@ const primaryLinks = [
   .nav {
     display: flex;
     flex-wrap: wrap;
-    gap: 18px;
+    gap: 10px 16px;
     justify-content: flex-end;
   }
 
   .nav a {
     color: #34363c;
-    font-size: 0.76rem;
+    font-size: 0.68rem;
     font-weight: 900;
-    letter-spacing: 0.04em;
-    padding: 8px 0;
+    letter-spacing: 0.03em;
+    padding: 7px 0;
     text-transform: uppercase;
   }
 
