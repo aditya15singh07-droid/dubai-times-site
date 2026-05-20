@@ -17,7 +17,6 @@ const articles = (await getCollection("articles", ({ data }) => !data.draft))
 const [leadArticle, ...restArticles] = articles;
 const topStories = restArticles.slice(0, 4);
 const justIn = articles.slice(0, 7);
-const heroLiveNews = articles.slice(0, 5);
 const latest = restArticles.slice(4, 16);
 const opinionRail = articles.filter((article) => ["Business", "Technology", "Real Estate"].includes(article.data.category)).slice(0, 5);
 const categoryBlocks = categories
@@ -53,37 +52,13 @@ const marketItems = [
   title="Dubai Time | UAE Business, Markets, Weather And Leadership News"
   description="Dubai Time is a UAE-first business and city news publication with live time, markets, weather and sharp context on Dubai."
 >
-  <section class="market-ticker" aria-label="Live markets ticker">
-    <div class="market-label"><span></span>Markets</div>
-    <div class="market-window">
-      <div class="market-track">
-        {[0, 1].map((loop) => (
-          <div class="market-group" aria-hidden={loop === 1 ? "true" : undefined}>
-            {marketItems.map((item) => (
-              <span class="market-item">
-                <strong>{item.label}</strong> <em>{item.unit}</em> <b data-market-symbol={item.symbol}>{item.value}</b>
-              </span>
-            ))}
-            <span class="market-item"><strong>Updated</strong> <em data-market-updated>Checking feed</em></span>
-          </div>
-        ))}
-      </div>
-    </div>
-  </section>
-
   <section class="section masthead">
-    <div class="hero-copy">
-      <p class="eyebrow">Live UAE Time</p>
-      <h1>UAE time, weather and market pulse.</h1>
-      <p>
-        A clean dashboard for Dubai time, seven-emirate weather, rain signals, wind and the market numbers people check through the day.
-      </p>
-    </div>
-
     <aside class="live-panel" id="weather" aria-label="Live UAE dashboard">
       <div class="time-card">
-        <span class="flag flag-uae" aria-hidden="true"></span>
-        <p>Live UAE Time</p>
+        <div class="clock-label">
+          <span class="flag flag-uae" aria-hidden="true"></span>
+          <p>Dubai Clock</p>
+        </div>
         <time id="uae-clock" datetime="">--:--:--</time>
         <small id="uae-date">Loading Dubai time...</small>
         <div class="clock-weather-line">
@@ -113,19 +88,21 @@ const marketItems = [
         <span><span class="flag flag-us" aria-hidden="true"></span> New York <b id="ny-clock">--:--</b></span>
       </div>
     </aside>
+  </section>
 
-    <div class="hero-live-news" aria-label="Live news">
-      <div class="hero-live-heading">
-        <span></span>
-        <strong>Live News</strong>
-      </div>
-      <div class="hero-live-list">
-        {heroLiveNews.map((article) => (
-          <a href={`/articles/${article.id}`}>
-            <span>{article.data.category}</span>
-            <strong>{article.data.title}</strong>
-            <small>{article.data.publishedTime}</small>
-          </a>
+  <section class="market-ticker" aria-label="Live markets ticker">
+    <div class="market-label"><span></span>Markets</div>
+    <div class="market-window">
+      <div class="market-track">
+        {[0, 1].map((loop) => (
+          <div class="market-group" aria-hidden={loop === 1 ? "true" : undefined}>
+            {marketItems.map((item) => (
+              <span class="market-item">
+                <strong>{item.label}</strong> <em>{item.unit}</em> <b data-market-symbol={item.symbol}>{item.value}</b>
+              </span>
+            ))}
+            <span class="market-item"><strong>Updated</strong> <em data-market-updated>Checking feed</em></span>
+          </div>
         ))}
       </div>
     </div>
@@ -472,115 +449,11 @@ const marketItems = [
   }
 
   .masthead {
-    align-items: start;
     border-bottom: 1px solid var(--line);
     display: grid;
-    gap: 18px;
     grid-template-columns: 1fr;
-    padding-bottom: 28px;
-    padding-top: 24px;
-  }
-
-  .masthead h1 {
-    font-family:
-      Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-      sans-serif;
-    font-size: clamp(2rem, 3.6vw, 3.55rem);
-    font-weight: 900;
-    letter-spacing: -0.034em;
-    line-height: 1.04;
-    margin: 8px 0 0;
-    max-width: 760px;
-  }
-
-  .hero-copy {
-    align-self: start;
-    max-width: 830px;
-    padding-top: 4px;
-  }
-
-  .hero-copy p:not(.eyebrow) {
-    color: var(--muted);
-    font-size: clamp(0.94rem, 1.3vw, 1.08rem);
-    font-weight: 700;
-    line-height: 1.55;
-    margin: 14px 0 0;
-    max-width: 760px;
-  }
-
-  .hero-live-news {
-    background: #111214;
-    box-shadow: var(--shadow);
-    color: #fff;
-    grid-column: 1;
-    margin-top: 4px;
-    max-width: none;
-  }
-
-  .hero-live-heading {
-    align-items: center;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.12);
-    display: flex;
-    gap: 9px;
-    padding: 12px 16px;
-  }
-
-  .hero-live-heading span {
-    background: var(--accent);
-    border-radius: 50%;
-    box-shadow: 0 0 0 5px rgba(227, 59, 47, 0.18);
-    height: 8px;
-    width: 8px;
-  }
-
-  .hero-live-heading strong {
-    font-size: 0.78rem;
-    font-weight: 950;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-  }
-
-  .hero-live-list {
-    display: grid;
-    grid-template-columns: repeat(5, minmax(0, 1fr));
-  }
-
-  .hero-live-list a {
-    border-right: 1px solid rgba(255, 255, 255, 0.1);
-    display: grid;
-    gap: 9px;
-    min-height: 145px;
-    padding: 14px;
-  }
-
-  .hero-live-list a:last-child {
-    border-right: 0;
-  }
-
-  .hero-live-list a:hover {
-    background: rgba(255, 255, 255, 0.06);
-  }
-
-  .hero-live-list span {
-    color: #ff5a4f;
-    font-size: 0.68rem;
-    font-weight: 950;
-    letter-spacing: 0.07em;
-    text-transform: uppercase;
-  }
-
-  .hero-live-list strong {
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: 1rem;
-    line-height: 1.12;
-  }
-
-  .hero-live-list small {
-    align-self: end;
-    color: rgba(255, 255, 255, 0.58);
-    font-size: 0.72rem;
-    font-weight: 850;
-    text-transform: uppercase;
+    padding-bottom: 30px;
+    padding-top: 28px;
   }
 
   .homepage-grid {
@@ -700,22 +573,34 @@ const marketItems = [
     align-content: start;
     display: grid;
     gap: 0;
-    grid-column: 1;
-    grid-row: auto;
-    grid-template-columns: minmax(270px, 0.9fr) minmax(0, 1.35fr) minmax(210px, 0.58fr);
+    grid-template-columns: 1fr;
+    margin: 0 auto;
+    max-width: 1180px;
     padding: 0;
     overflow: hidden;
+    width: 100%;
   }
 
   .time-card {
+    align-items: center;
     background:
       radial-gradient(circle at 18% 0%, rgba(255, 255, 255, 0.12), transparent 32%),
       linear-gradient(135deg, #050607 0%, #0c171a 46%, #111214 100%);
     border-bottom: 1px solid rgba(255, 255, 255, 0.08);
     color: #fff;
     display: grid;
-    gap: 8px;
-    padding: 24px;
+    gap: 14px;
+    justify-items: center;
+    min-height: 385px;
+    padding: 42px 24px;
+    text-align: center;
+  }
+
+  .clock-label {
+    align-items: center;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
   }
 
   .flag {
@@ -757,11 +642,11 @@ const marketItems = [
     font-family:
       Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
       sans-serif;
-    font-size: clamp(2.1rem, 4vw, 3.65rem);
+    font-size: clamp(4.4rem, 10vw, 9.8rem);
     font-variant-numeric: tabular-nums;
     font-weight: 950;
-    letter-spacing: -0.05em;
-    line-height: 1;
+    letter-spacing: -0.07em;
+    line-height: 0.9;
   }
 
   .clock-weather-line {
@@ -770,8 +655,10 @@ const marketItems = [
     display: flex;
     gap: 14px;
     justify-content: space-between;
-    margin-top: 8px;
-    padding-top: 12px;
+    margin-top: 6px;
+    max-width: 640px;
+    padding-top: 16px;
+    width: 100%;
   }
 
   .clock-weather-line span {
@@ -802,8 +689,8 @@ const marketItems = [
   .weather-mini {
     background: var(--panel);
     border: 0;
-    border-left: 1px solid var(--line);
-    padding: 16px;
+    border-top: 1px solid var(--line);
+    padding: 18px;
   }
 
   .weather-mini strong {
@@ -814,9 +701,11 @@ const marketItems = [
 
   .weather-pills {
     display: grid;
-    gap: 8px;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 10px;
+    grid-template-columns: repeat(7, minmax(118px, 1fr));
     margin-top: 14px;
+    overflow-x: auto;
+    padding-bottom: 2px;
   }
 
   .weather-pills article {
@@ -851,8 +740,8 @@ const marketItems = [
 
   .world-times {
     background: #111214;
-    border-left: 1px solid rgba(255, 255, 255, 0.08);
-    display: grid;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+    display: flex;
     gap: 1px;
   }
 
@@ -860,6 +749,7 @@ const marketItems = [
     align-items: center;
     background: rgba(255, 255, 255, 0.06);
     display: flex;
+    flex: 1;
     gap: 8px;
     justify-content: space-between;
     padding: 10px 12px;
@@ -1046,9 +936,7 @@ const marketItems = [
     }
 
     .live-panel {
-      grid-column: auto;
-      grid-template-columns: 1fr 1.25fr;
-      grid-row: auto;
+      grid-template-columns: 1fr;
     }
 
     .world-times {
@@ -1056,13 +944,8 @@ const marketItems = [
     }
 
     .just-in-grid,
-    .category-grid,
-    .hero-live-list {
+    .category-grid {
       grid-template-columns: repeat(2, minmax(0, 1fr));
-    }
-
-    .hero-live-news {
-      margin-top: 0;
     }
 
     .insight-rail {
@@ -1093,17 +976,17 @@ const marketItems = [
     }
 
     .masthead {
-      padding-top: 28px;
+      padding-top: 18px;
     }
 
-    .masthead h1 {
-      font-size: clamp(1.9rem, 8vw, 2.55rem);
-      letter-spacing: -0.018em;
-      line-height: 1.06;
+    .time-card {
+      min-height: 330px;
+      padding: 34px 18px;
     }
 
-    .hero-copy p:not(.eyebrow) {
-      font-size: 1rem;
+    .time-card time {
+      font-size: clamp(3.1rem, 17vw, 5.2rem);
+      letter-spacing: -0.055em;
     }
 
     .clock-weather-line {
@@ -1127,15 +1010,16 @@ const marketItems = [
     }
 
     .just-in-grid,
-    .category-grid,
-    .hero-live-list {
+    .category-grid {
       grid-template-columns: 1fr;
     }
 
-    .hero-live-list a {
-      border-right: 0;
-      border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-      min-height: auto;
+    .weather-pills {
+      grid-template-columns: repeat(7, minmax(128px, 1fr));
+    }
+
+    .world-times {
+      display: grid;
     }
 
     .story-row div {
