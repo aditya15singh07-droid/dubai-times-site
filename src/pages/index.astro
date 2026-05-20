@@ -3,8 +3,15 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import { categories } from "../data/articles";
 
+const articleTimestamp = (article) => {
+  const [hour = "00", minute = "00"] = String(article.data.publishedTime || "").match(/\d{2}/g) || [];
+  const date = new Date(article.data.date);
+  date.setHours(Number(hour), Number(minute), 0, 0);
+  return date.getTime();
+};
+
 const articles = (await getCollection("articles", ({ data }) => !data.draft))
-  .sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+  .sort((a, b) => articleTimestamp(b) - articleTimestamp(a));
 const [leadArticle, ...moreArticles] = articles;
 const estimateRead = (article) => Math.max(3, Math.round((article.body || "").split(/\s+/).length / 220));
 
