@@ -233,7 +233,11 @@ const {
     .topline {
       align-items: flex-start;
       flex-direction: column;
-      gap: 4px;
+      font-size: 0.64rem;
+      gap: 3px;
+      letter-spacing: 0.045em;
+      line-height: 1.25;
+      padding: 8px 18px;
     }
 
     .site-header,
@@ -243,28 +247,47 @@ const {
     }
 
     .site-header {
-      gap: 18px;
-      padding: 20px 24px;
+      gap: 14px;
+      padding: 18px;
       position: relative;
     }
 
+    .brand {
+      font-size: clamp(1.95rem, 10vw, 2.7rem);
+      gap: 7px;
+      line-height: 1;
+    }
+
     .nav {
-      flex-wrap: nowrap;
-      gap: 20px;
+      display: grid;
+      gap: 8px;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
       justify-content: flex-start;
-      overflow-x: auto;
-      padding-bottom: 4px;
-      scrollbar-width: none;
-      white-space: nowrap;
+      overflow: visible;
+      padding-bottom: 0;
+      white-space: normal;
       width: 100%;
     }
 
-    .nav::-webkit-scrollbar {
-      display: none;
+    .nav a {
+      background: rgba(17, 18, 20, 0.045);
+      border: 1px solid rgba(17, 18, 20, 0.08);
+      border-radius: 999px;
+      font-size: 0.66rem;
+      letter-spacing: 0.025em;
+      line-height: 1;
+      padding: 9px 6px;
+      text-align: center;
     }
 
     .footer-note {
       text-align: left;
+    }
+  }
+
+  @media (max-width: 420px) {
+    .nav {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
     }
   }
 </style>

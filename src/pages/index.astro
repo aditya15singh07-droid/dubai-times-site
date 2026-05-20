@@ -995,27 +995,51 @@ const marketItems = [
     }
 
     .masthead {
-      padding-top: 18px;
+      padding: 16px 16px 24px;
+    }
+
+    .live-panel {
+      overflow: visible;
     }
 
     .time-card {
-      min-height: 330px;
-      padding: 34px 18px;
+      align-content: center;
+      gap: 10px;
+      min-height: 250px;
+      padding: 24px 16px;
+    }
+
+    .clock-label {
+      gap: 8px;
+    }
+
+    .time-card p {
+      font-size: 0.68rem;
+      letter-spacing: 0.06em;
     }
 
     .time-card time {
-      font-size: clamp(3.1rem, 17vw, 5.2rem);
-      letter-spacing: -0.055em;
+      display: block;
+      font-size: clamp(2.8rem, 15vw, 4.3rem);
+      letter-spacing: -0.04em;
+      line-height: 0.95;
+      max-width: 100%;
+    }
+
+    .time-card small {
+      font-size: 0.78rem;
     }
 
     .clock-weather-line {
-      align-items: flex-start;
-      flex-direction: column;
-      gap: 6px;
+      align-items: center;
+      flex-direction: row;
+      gap: 10px;
+      margin-top: 4px;
+      padding-top: 12px;
     }
 
     .clock-weather-line strong {
-      text-align: left;
+      text-align: right;
     }
 
     .section-title {
@@ -1034,7 +1058,17 @@ const marketItems = [
     }
 
     .weather-pills {
-      grid-template-columns: repeat(7, minmax(128px, 1fr));
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      overflow-x: visible;
+    }
+
+    .weather-pills article {
+      padding: 12px;
+    }
+
+    .weather-pills span {
+      overflow: visible;
+      white-space: normal;
     }
 
     .world-times {
@@ -1043,6 +1077,17 @@ const marketItems = [
 
     .story-row div {
       padding: 0 18px 18px;
+    }
+  }
+
+  @media (max-width: 420px) {
+    .clock-weather-line {
+      align-items: flex-start;
+      flex-direction: column;
+    }
+
+    .clock-weather-line strong {
+      text-align: left;
     }
   }
 </style>
