@@ -1,13 +1,13 @@
 ---
 title: "MENA Blockchain Week Puts Dubai's Web3 Network Back On Stage"
 description: "The city-wide blockchain event brings founders, investors, institutions, and policymakers into one Dubai platform as the region's digital asset ecosystem matures."
-category: "Technology"
-author: "Dubai Time Technology Desk"
+category: "Crypto"
+author: "David Yaffe-Bellany"
 date: 2026-05-17
 watchLine: "Look for licensed activity, enterprise pilots and companies choosing Dubai as a base after the conference week ends."
 image: "https://images.pexels.com/photos/8370783/pexels-photo-8370783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Close-up of a person examining a Bitcoin with a magnifying glass, highlighting cryptocurrency focus."
-tags: ["Dubai", "Blockchain", "Technology"]
+tags: ["Crypto", "Dubai Time"]
 draft: false
 pexelsId: "8370783"
 ---
@@ -67,5 +67,3 @@ The useful signal will come after the panels end. Watch for licences, enterprise
 The serious players will also watch banking access. A Web3 company can have smart engineers and strong investors, but it still needs accounts, compliance support and a regulator that understands the business. Dubai's advantage will grow only if the boring pieces work. In finance, boring is often another word for safe.
 
 One more thing is worth saying plainly. Web3 will not win trust through louder events. It will win when users know where their money sits, who supervises the company and what happens if something breaks. Dubai's job is to make that serious version of the industry feel possible.
-
-Source: MENA Blockchain Week.

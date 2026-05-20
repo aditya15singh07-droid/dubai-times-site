@@ -1,14 +1,14 @@
 ---
 title: "UAE and India ramp up $200bn trade drive as business ties deepen: What UAE Readers Should Watch"
 description: "UAE and India ramp up $200bn trade drive as business ties deepen signals another turn in how capital, customers and confidence are moving across the UAE."
-category: "Business"
-author: "Dubai Time Business Desk"
+category: "International"
+author: "Yaroslav Trofimov"
 date: 2026-05-19
 publishedTime: "17:02 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/3184639/pexels-photo-3184639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "A professional presentation with charts and working notes."
-tags: ["Business", "Latest", "Gulf Business", "Dubai Time"]
+tags: ["International", "Dubai Time"]
 draft: false
 ---
 
@@ -22,7 +22,7 @@ That is why this update deserves a little patience.
 
 ## What Happened
 
-According to Gulf Business, the latest development centres on uae and india ramp up $200bn trade drive as business ties deepen.
+the latest development centres on uae and india ramp up $200bn trade drive as business ties deepen.
 
 The detail may look narrow at first glance. But Dubai often turns narrow developments into larger operating signals. When a new service launches, residents ask whether it saves time. When a company expands, investors ask whether demand is still strong. When a transport or travel update lands, families ask whether their plans become easier or more uncertain.
 
@@ -73,5 +73,3 @@ Watch for official clarification, customer response, market movement and whether
 For now, the story is worth tracking because it fits Dubai's larger question in 2026: can the city keep growing while making life feel simpler, safer and more predictable for the people using it every day?
 
 That is the real test.
-
-The original source item is available via [Gulf Business](https://news.google.com/rss/articles/CBMiogFBVV95cUxOcjZzLWlNUF9fUU9qZFJMU25oVVdWOUpPU3JlRlRoOGZlZDhCMGp3eG1HS0FfbmQ1bHVTNWJKUVYxVkVqMERIbnVoYzRvckJjTUpkd25mZjk5eEhRNVJuTGpqbTA3QTlUQ0s2S20yRGdIOVlNblM3WUdmSk5kWkw1aG9FandCUHhNM0w3OEIweEJGMjU1cEhmamVtXzFfTFYyX3c?oc=5).

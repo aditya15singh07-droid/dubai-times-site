@@ -1,14 +1,14 @@
 ---
 title: "South Living's New Contract Shows How The Airport Story Is Repricing Dubai South Housing"
 description: "Dubai South has awarded a AED150 million construction contract for South Living Tower, with officials linking stronger housing demand to the planned airport expansion."
-category: "Real Estate"
-author: "Dubai Times Real Estate Desk"
+category: "Travel"
+author: "Peter Greenberg"
 date: 2026-05-19
 publishedTime: "10:00 GST"
 watchLine: "Watch whether infrastructure-led interest in Dubai South translates into sustained occupancy and balanced community growth."
 image: "https://images.unsplash.com/photo-1460317442991-0ec209397118?auto=format&fit=crop&w=1400&q=80"
 imageAlt: "Residential towers and landscaped community spaces in a growing urban district"
-tags: ["Dubai", "Real Estate", "Dubai South", "Housing"]
+tags: ["Travel", "Dubai Time"]
 draft: false
 ---
 
@@ -67,5 +67,3 @@ That does not guarantee a perfect outcome. It does, however, show the market is 
 The district now has to prove it can carry that attention without losing discipline. If it does, projects like South Living may later look less like isolated launches and more like early markers of a genuine residential shift around Dubai's next airport economy.
 
 That is the difference between a tradeable story and a liveable district.
-
-Source: [Dubai South](https://www.dubaisouth.ae/en/newsroom/dubai-south-awards-aed-150-million-construction-contract-for-its-south-living-project)

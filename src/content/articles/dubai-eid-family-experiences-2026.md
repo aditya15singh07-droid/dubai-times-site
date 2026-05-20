@@ -2,13 +2,13 @@
 title: "Dubai's Eid Holiday Push Is A Reminder That Residents Are Also The Tourism Market"
 description: "Dubai is lining up citywide Eid Al Adha offers, attractions and staycations, with a clear bet that local and regional demand can fill the city during the holiday window."
 category: "Travel"
-author: "Dubai Times Travel Desk"
+author: "Peter Greenberg"
 date: 2026-05-19
 publishedTime: "01:50 GST"
 watchLine: "Watch occupancy, retail footfall and how strongly residents respond to staycation-led offers during the Eid window."
 image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1400&q=80"
 imageAlt: "Beachfront resort setting with holiday atmosphere and family leisure appeal"
-tags: ["Dubai", "Eid Al Adha", "Travel", "Lifestyle"]
+tags: ["Travel", "Dubai Time"]
 draft: false
 ---
 
@@ -65,5 +65,3 @@ The odds remain in its favour.
 Dubai combines hospitality depth, ease of access, strong service culture and a long-practised talent for packaging experiences. Eid campaigns like this are a reminder that the city does not only sell itself to the world. It also sells itself, very deliberately, to the people who already know it best.
 
 That may be one of its smartest tourism instincts.
-
-Source: [Government of Dubai Media Office](https://mediaoffice.ae/en/news/2026/may/18-05/dubai-lines-up-dazzling-array-of-leisure-and-family-experiences-over-the-eid-al-adha-holidays)

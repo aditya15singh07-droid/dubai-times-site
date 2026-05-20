@@ -1,14 +1,14 @@
 ---
 title: "Dubai's Social Survey Shows Why Quality Of Life Is Becoming A Serious Policy Metric"
 description: "Dubai's eighth Social Survey points to high happiness, life satisfaction, family cohesion and social trust, giving policymakers a wider view of how residents experience the city."
-category: "Dubai"
-author: "Dubai Time City Desk"
+category: "Lifestyle"
+author: "Natalie Wong"
 date: 2026-05-17
 publishedTime: "22:05 GST"
 watchLine: "Watch how Dubai uses survey data to shape family policy, inclusion, financial wellbeing and digital services."
 image: "https://images.pexels.com/photos/5445453/pexels-photo-5445453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Family enjoying a sunny picnic with fruits and wine, capturing joyful moments together."
-tags: ["Dubai", "Quality Of Life", "Social Survey", "Community"]
+tags: ["Lifestyle", "Dubai Time"]
 draft: false
 pexelsId: "5445453"
 ---
@@ -118,5 +118,3 @@ For people outside the boardroom, that is what quality of life means.
 It is not only the skyline. It is the school run, the rent payment, the doctor's visit, the evening walk, the internet connection and the feeling that someone will help if life becomes difficult.
 
 Dubai's next challenge is to make sure those everyday signals stay strong.
-
-Source: [Government of Dubai Media Office](https://www.mediaoffice.ae/en/news/2026/may/04-05/community-development-authority-in-dubai-announces-results-of-8th-social-survey)

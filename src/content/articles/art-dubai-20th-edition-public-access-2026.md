@@ -1,13 +1,13 @@
 ---
 title: "Art Dubai Turns 20, And The Most Important Detail May Be Free Entry"
 description: "Art Dubai’s latest edition celebrates two decades of growth, but its public access model says something deeper about culture, aspiration and who gets included."
-category: "Lifestyle"
-author: "Dubai Time Lifestyle Desk"
+category: "Entertainment"
+author: "Ramona Shelburne"
 date: 2026-05-18
 watchLine: "Watch whether free access widens local participation and whether Dubai converts cultural prestige into repeat public engagement."
 image: "https://images.pexels.com/photos/10214100/pexels-photo-10214100.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "A hijabi woman celebrates graduation outdoors with an academic cap under the summer sky in Maldives."
-tags: ["Dubai", "Lifestyle", "Art Dubai", "Culture"]
+tags: ["Entertainment", "Dubai Time"]
 draft: false
 pexelsId: "10214100"
 ---
@@ -105,5 +105,3 @@ That may prove to be the smartest part of the whole event.
 Because a city's cultural maturity is not measured only by the art it can import or sell.
 
 It is measured by how many people it invites to look.
-
-Source: [Government of Dubai Media Office](https://mediaoffice.ae/en/news/2026/may/14-05/latifa-bint-mohammed-inaugurates-the-20th-edition-of-art-dubai)

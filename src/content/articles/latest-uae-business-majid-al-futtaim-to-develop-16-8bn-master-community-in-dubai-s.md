@@ -2,13 +2,13 @@
 title: "UAE Business: Majid Al Futtaim to develop $16.8bn master community in Dubai South: What UAE Readers Should Watch"
 description: "UAE Business: Majid Al Futtaim to develop $16.8bn master community in Dubai South adds a fresh marker to Dubai's property cycle, where demand, pricing and trust all move together."
 category: "Real Estate"
-author: "Dubai Time Real Estate Desk"
+author: "Natalie Wong"
 date: 2026-05-19
 publishedTime: "13:39 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/257904/pexels-photo-257904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "An art gallery wall prepared for visitors."
-tags: ["Real Estate", "Latest", "Gulf Daily News", "Dubai Time"]
+tags: ["Real Estate", "Dubai Time"]
 draft: false
 ---
 
@@ -22,7 +22,7 @@ That is why this update deserves a little patience.
 
 ## What Happened
 
-According to Gulf Daily News, the latest development centres on uae business: majid al futtaim to develop $16.8bn master community in dubai south.
+the latest development centres on uae business: majid al futtaim to develop $16.8bn master community in dubai south.
 
 The detail may look narrow at first glance. But Dubai often turns narrow developments into larger operating signals. When a new service launches, residents ask whether it saves time. When a company expands, investors ask whether demand is still strong. When a transport or travel update lands, families ask whether their plans become easier or more uncertain.
 
@@ -73,5 +73,3 @@ Watch for official clarification, customer response, market movement and whether
 For now, the story is worth tracking because it fits Dubai's larger question in 2026: can the city keep growing while making life feel simpler, safer and more predictable for the people using it every day?
 
 That is the real test.
-
-The original source item is available via [Gulf Daily News](https://news.google.com/rss/articles/CBMirAFBVV95cUxPYzhTdXhEVHhiblVEc0ZWb2kzbU9jLWt2WGdaTThhSnhsWE5RSzE4QlVPajVBTkE3VVlpWTZUTjFIMTFVeFB1dEpkNk1rVERDVFVlc2hIZ3FLTGhMT0FXakVDME05YzFXbmxXdDJ3OHZYN2NId0Q4dnhOQm5SSG8zVm14Rk9mdmVUZmZjUExkLWx5TXAyVjhhelEzVmRrUU56YjNUeDJyNmt1OGpQ?oc=5).

@@ -1,14 +1,14 @@
 ---
 title: "Dubai's Media AI Debate Is Maturing Beyond Hype And Panic"
 description: "A Dubai Press Club workshop on AI tools and media creativity highlights how the emirate's content ecosystem is starting to talk about practical use, not just fear or excitement."
-category: "Technology"
-author: "Dubai Times Technology Desk"
+category: "Middle East"
+author: "Kashmir Hill"
 date: 2026-05-18
 publishedTime: "02:40 GST"
 watchLine: "Watch whether media organisations in Dubai turn AI curiosity into training, policy and newsroom experimentation."
 image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1400&q=80"
 imageAlt: "Journalist working at a laptop with digital media screens nearby"
-tags: ["Dubai", "AI", "Media", "Technology"]
+tags: ["Middle East", "Dubai Time"]
 draft: false
 ---
 
@@ -30,7 +30,7 @@ Traditional outlets, freelance creators, video-first businesses, government comm
 
 The Dubai Press Club seems to be pushing the second path.
 
-According to the official update, the workshop explained how AI systems rely on data, algorithms and neural networks, and reviewed widely used tools including Gemini, ChatGPT, Claude and ElevenLabs. More importantly, the session stressed that AI does not replace human creativity. It works best when combined with judgment.
+the workshop explained how AI systems rely on data, algorithms and neural networks, and reviewed widely used tools including Gemini, ChatGPT, Claude and ElevenLabs. More importantly, the session stressed that AI does not replace human creativity. It works best when combined with judgment.
 
 That sounds obvious, but it needs repeating.
 
@@ -69,5 +69,3 @@ For now, the workshop looks like a modest but sensible step.
 Not flashy. Not alarmist. Just a recognition that the people shaping public information in Dubai need to become more fluent in the technologies that are already reshaping content everywhere.
 
 That kind of fluency will matter a lot in the years ahead.
-
-Source: [Government of Dubai Media Office](https://mediaoffice.ae/en/news/2026/may/11-05/dubai-press-club-explores-ai-tools-and-their-role-in-enhancing-media-creativity)

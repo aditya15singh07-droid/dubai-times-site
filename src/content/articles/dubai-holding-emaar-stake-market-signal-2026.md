@@ -2,13 +2,13 @@
 title: "Dubai Holding's Emaar Stake Deepens Confidence In The City's Property Engine"
 description: "Dubai Holding has become Emaar Properties' largest shareholder, adding a fresh signal of institutional confidence in Dubai's real estate and lifestyle economy."
 category: "Real Estate"
-author: "Dubai Time Business Desk"
+author: "Natalie Wong"
 date: 2026-05-17
 publishedTime: "12:35 GST"
 watchLine: "Watch future Emaar launches for stronger destination value, branded living, pricing discipline and delivery confidence."
 image: "https://images.pexels.com/photos/36094170/pexels-photo-36094170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Stunning view of Burj Khalifa and surrounding skyscrapers reflecting in a tranquil pool, Dubai."
-tags: ["Dubai", "Emaar", "Real Estate", "Markets"]
+tags: ["Real Estate", "Dubai Time"]
 draft: false
 pexelsId: "36094170"
 ---
@@ -68,5 +68,3 @@ The market will still judge Emaar through launches, pricing and delivery. Big ba
 This is also why brand power still matters in Dubai. Buyers may compare square feet, but they remember who delivered well. They ask friends, brokers and bankers. They look at older projects. In a selective market, reputation becomes a currency almost as important as location.
 
 There is still a caution. A strong shareholder does not make every project a good buy. Investors should still compare price, rent, service charges and future supply. The deal strengthens confidence, but it does not remove the need for homework.
-
-Source: [Government of Dubai Media Office](https://www.mediaoffice.ae/en/news/2026/may/12-05/dubai-holding-and-icd-announce-completion-of-strategic-transaction-in-emaar-properties)

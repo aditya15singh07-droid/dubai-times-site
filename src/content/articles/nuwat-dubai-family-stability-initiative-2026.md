@@ -1,14 +1,14 @@
 ---
 title: "Nuwat Dubai Puts Family Stability Back At The Centre Of City Growth"
 description: "Dubai's Community Development Authority has launched Nuwat Dubai to support family wellbeing, counselling access and stronger community ties under the Sheikha Hind Bint Maktoum Family Programme."
-category: "Dubai"
-author: "Dubai Time City Desk"
+category: "Real Estate"
+author: "Natalie Wong"
 date: 2026-05-17
 publishedTime: "21:35 GST"
 watchLine: "Watch whether Nuwat Dubai turns family support from event activity into regular, trusted community help."
 image: "https://images.pexels.com/photos/8205092/pexels-photo-8205092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "A family meets with a social worker in a cozy living room, discussing adoption details."
-tags: ["Dubai", "Family", "Community", "Social Agenda 33"]
+tags: ["Real Estate", "Dubai Time"]
 draft: false
 pexelsId: "8205092"
 ---
@@ -100,5 +100,3 @@ For people outside the boardroom, that trust is the point.
 A strong city is not only one where businesses open and tourists arrive. It is one where families feel they can stay, raise children, ask for help and plan a future without carrying every pressure alone.
 
 If Nuwat Dubai moves in that direction, it deserves attention.
-
-Source: [Government of Dubai Media Office](https://www.mediaoffice.ae/en/news/2026/may/15-05/nuwat-dubai)

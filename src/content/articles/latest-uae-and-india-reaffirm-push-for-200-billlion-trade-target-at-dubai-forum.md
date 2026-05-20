@@ -1,14 +1,14 @@
 ---
 title: "UAE and India reaffirm push for $200 billlion trade target at Dubai forum: What UAE Readers Should Watch"
 description: "UAE and India reaffirm push for $200 billlion trade target at Dubai forum signals another turn in how capital, customers and confidence are moving across the UAE."
-category: "Business"
-author: "Dubai Time Business Desk"
+category: "International"
+author: "Yaroslav Trofimov"
 date: 2026-05-19
 publishedTime: "19:02 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Colleagues reviewing documents during a strategy session."
-tags: ["Business", "Latest", "DD India", "Dubai Time"]
+tags: ["International", "Dubai Time"]
 draft: false
 ---
 
@@ -22,7 +22,7 @@ That is why this update deserves a little patience.
 
 ## What Happened
 
-According to DD India, the latest development centres on uae and india reaffirm push for $200 billlion trade target at dubai forum.
+the latest development centres on uae and india reaffirm push for $200 billlion trade target at dubai forum.
 
 The detail may look narrow at first glance. But Dubai often turns narrow developments into larger operating signals. When a new service launches, residents ask whether it saves time. When a company expands, investors ask whether demand is still strong. When a transport or travel update lands, families ask whether their plans become easier or more uncertain.
 
@@ -73,5 +73,3 @@ Watch for official clarification, customer response, market movement and whether
 For now, the story is worth tracking because it fits Dubai's larger question in 2026: can the city keep growing while making life feel simpler, safer and more predictable for the people using it every day?
 
 That is the real test.
-
-The original source item is available via [DD India](https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ29aZGNseGRwOGRWUUdFMlZKb2xvOHFfbVVQeXc0VVFOUkZLMXJvU1RKTUhaaU1mSTh6VlQ5SWF3Q2RWMnJLd1NSTURNeXQwUDVWb2Q2M05LZ2dkUW45bGpMakRQUlc1ZFl3a3dSeXB4YjdmVnN6S0hZU0tVdjBoODVPaHBNV1RkWjk5UlhYRmhXZTlKeGZBYXVNOW14UF9HMjlybm1R?oc=5).

@@ -1,14 +1,14 @@
 ---
 title: "Dubai Export Support Deals Aim To Give Manufacturers A Wider Global Reach"
 description: "New finance, credit and logistics partnerships are designed to help Dubai-based manufacturers compete more effectively in international markets."
-category: "Business"
-author: "Dubai Time Business Desk"
+category: "International"
+author: "Yaroslav Trofimov"
 date: 2026-05-17
 publishedTime: "11:15 GST"
 watchLine: "Watch whether manufacturers use the support package to open new markets, secure repeat orders and report measurable export growth."
 image: "https://images.pexels.com/photos/19544248/pexels-photo-19544248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Two welders wearing protective gear working in a busy industrial factory workshop."
-tags: ["Dubai", "Exports", "Manufacturing", "D33"]
+tags: ["International", "Dubai Time"]
 draft: false
 pexelsId: "19544248"
 ---

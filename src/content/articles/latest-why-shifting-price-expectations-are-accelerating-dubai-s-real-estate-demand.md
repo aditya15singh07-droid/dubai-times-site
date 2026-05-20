@@ -2,13 +2,13 @@
 title: "Why shifting price expectations are accelerating Dubai’s real estate demand: What UAE Readers Should Watch"
 description: "Why shifting price expectations are accelerating Dubai’s real estate demand adds a fresh marker to Dubai's property cycle, where demand, pricing and trust all move together."
 category: "Real Estate"
-author: "Dubai Time Real Estate Desk"
+author: "Natalie Wong"
 date: 2026-05-19
 publishedTime: "17:39 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/3184300/pexels-photo-3184300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Business partners reviewing a new growth plan."
-tags: ["Real Estate", "Latest", "Economy Middle East", "Dubai Time"]
+tags: ["Real Estate", "Dubai Time"]
 draft: false
 ---
 
@@ -22,7 +22,7 @@ That is why this update deserves a little patience.
 
 ## What Happened
 
-According to Economy Middle East, the latest development centres on why shifting price expectations are accelerating dubai’s real estate demand.
+the latest development centres on why shifting price expectations are accelerating dubai’s real estate demand.
 
 The detail may look narrow at first glance. But Dubai often turns narrow developments into larger operating signals. When a new service launches, residents ask whether it saves time. When a company expands, investors ask whether demand is still strong. When a transport or travel update lands, families ask whether their plans become easier or more uncertain.
 
@@ -73,5 +73,3 @@ Watch for official clarification, customer response, market movement and whether
 For now, the story is worth tracking because it fits Dubai's larger question in 2026: can the city keep growing while making life feel simpler, safer and more predictable for the people using it every day?
 
 That is the real test.
-
-The original source item is available via [Economy Middle East](https://news.google.com/rss/articles/CBMirwFBVV95cUxOR0U3OS1QcGpMQUx6dWNLMUtzVWxkQXM3MHYwc3daWWd4SDlfNGNqYlJzVWlvN0c0SWxxNEtSTU1FbVlnZWExWVEzc1duRDF3RmFqdnBWcDVVUU4yRXZGNU5vZ3VfM0pLOEZJTVZRdF9iQnF6RXljYTFHVWM1RHF6WHhrZVBGcmtEcDB3MzNUVWhCYnN1SjFWeEV2M1ZoTVB3S2hCenB4V2hQb1RYN2k4?oc=5).

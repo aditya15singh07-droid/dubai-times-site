@@ -1,14 +1,14 @@
 ---
 title: "Dubai's Accessibility Upgrades Are Really About Independence"
 description: "RTA's latest People of Determination upgrades show that better transport is not only about moving faster, but about letting people move without asking for help."
-category: "Dubai"
-author: "Dubai Time Dubai Desk"
+category: "Sport"
+author: "Noma Nazish"
 date: 2026-05-18
 publishedTime: "12:24 GST"
 watchLine: "Watch whether the upgrades move from individual centres into a consistent citywide accessibility experience."
 image: "https://images.pexels.com/photos/5970684/pexels-photo-5970684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "A wheelchair user moving through a busy urban street."
-tags: ["Dubai", "RTA", "Accessibility", "People of Determination", "Transport"]
+tags: ["Sport", "Dubai Time"]
 draft: false
 pexelsId: "5970684"
 ---

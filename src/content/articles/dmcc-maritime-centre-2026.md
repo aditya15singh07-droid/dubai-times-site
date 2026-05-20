@@ -1,13 +1,13 @@
 ---
 title: "DMCC's Maritime Centre Wants Dubai To Earn More From Trade Than Port Fees"
 description: "DMCC's new Maritime Centre is meant to strengthen Dubai's shipping and trade ecosystem, but the larger ambition is to capture more of the finance and services wrapped around global cargo flows."
-category: "Business"
-author: "Dubai Times Desk"
+category: "International"
+author: "Yaroslav Trofimov"
 date: 2026-04-09
 watchLine: "Watch whether shipping firms, financiers and legal-service providers actually cluster around the platform in enough numbers to deepen Dubai's trade moat."
 image: "https://images.pexels.com/photos/3856433/pexels-photo-3856433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "An aerial view of shipping containers stacked at a large commercial port."
-tags: ["Dubai", "Trade", "Shipping", "Business"]
+tags: ["International", "Dubai Time"]
 draft: false
 ---
 
@@ -34,5 +34,3 @@ Timing is also important. Regional tension, shipping rerouting and higher attent
 For Indian businesses and investors, that pitch is relevant. The India-Gulf trade corridor depends heavily on reliable shipping and well-organised logistics finance. A stronger Dubai maritime ecosystem could make the city even more useful as a regional operating base for firms trading across South Asia, Africa and the Middle East. In that sense, the DMCC move is not only about local cluster-building. It is also about cross-border relevance.
 
 What to watch now is whether the Maritime Centre becomes a real operating cluster or remains a clever institutional wrapper around activity that would have happened anyway. If shipowners, financiers and specialist advisers start building more connected practices around it, Dubai will have widened its trade moat. If not, the initiative will still look smart, but less transformative. The larger truth, however, is already visible. Dubai no longer wants to merely move the world's cargo. It wants a larger share of the thinking, capital and control that travel with it.
-
-Source: [DMCC](https://dmcc.ae/latest-news/dmcc-launches-maritime-centre-to-strengthen-dubais-global-shipping-and-trade-position)

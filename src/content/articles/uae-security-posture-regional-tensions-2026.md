@@ -1,13 +1,13 @@
 ---
 title: "UAE Security Message Hardens As Regional Tensions Test Gulf Stability"
 description: "The UAE's response to renewed regional attacks underlines how security, diplomacy, and investor confidence now sit closer together."
-category: "UAE"
-author: "Dubai Time UAE Desk"
+category: "Middle East"
+author: "Kashmir Hill"
 date: 2026-05-17
 watchLine: "Watch whether the UAE maintains firm deterrence messaging while preserving normal economic, aviation and logistics activity."
 image: "https://images.pexels.com/photos/30541591/pexels-photo-30541591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Barbed wire protecting the MONUSCO gate, surrounded by stone walls and plants."
-tags: ["UAE", "Security", "Diplomacy"]
+tags: ["Middle East", "Dubai Time"]
 draft: false
 pexelsId: "30541591"
 ---
@@ -71,8 +71,6 @@ The UAE's task is to keep that normal morning intact. People need to see flights
 For employers, this stability question affects planning. Companies can handle risk when they understand it. What they need from the state is calm communication, visible readiness and the confidence that normal operations will continue as far as possible.
 
 So communication cannot sound confused. In tense weeks, people listen more closely than usual. A steady official tone helps residents separate real risk from rumour.
-
-Source: WAM via Aletihad.
 
 For families, that calm is the real measure of security.
 

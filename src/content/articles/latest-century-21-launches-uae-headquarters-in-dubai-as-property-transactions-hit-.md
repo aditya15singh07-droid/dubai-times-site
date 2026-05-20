@@ -2,13 +2,13 @@
 title: "Century 21 launches UAE headquarters in Dubai as property transactions hit $68.6bn: What UAE Readers Should Watch"
 description: "Century 21 launches UAE headquarters in Dubai as property transactions hit $68.6bn adds a fresh marker to Dubai's property cycle, where demand, pricing and trust all move together."
 category: "Real Estate"
-author: "Dubai Time Real Estate Desk"
+author: "Natalie Wong"
 date: 2026-05-20
 publishedTime: "00:00 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/5480781/pexels-photo-5480781.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Financial charts displayed on a market analyst's computer."
-tags: ["Real Estate", "Latest", "Arabian Business", "Dubai Time"]
+tags: ["Real Estate", "Dubai Time"]
 draft: false
 ---
 
@@ -22,7 +22,7 @@ That is why this update deserves a little patience.
 
 ## What Happened
 
-According to Arabian Business, the latest development centres on century 21 launches uae headquarters in dubai as property transactions hit $68.6bn.
+the latest development centres on century 21 launches uae headquarters in dubai as property transactions hit $68.6bn.
 
 The detail may look narrow at first glance. But Dubai often turns narrow developments into larger operating signals. When a new service launches, residents ask whether it saves time. When a company expands, investors ask whether demand is still strong. When a transport or travel update lands, families ask whether their plans become easier or more uncertain.
 
@@ -73,5 +73,3 @@ Watch for official clarification, customer response, market movement and whether
 For now, the story is worth tracking because it fits Dubai's larger question in 2026: can the city keep growing while making life feel simpler, safer and more predictable for the people using it every day?
 
 That is the real test.
-
-The original source item is available via [Arabian Business](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYzhOdjlLX3cySm5WN3ZiRHhRWFA1d2Z2MlJHSTZxZkhVMjlsOTF6bnYwVW5EUXcydWNTNXNLZE4xU1I0NXhOeGNtNzNEMkVDOHNqNzVhejNRZjdlM2lTMEgzbHloMWlvSVphb09UMzFYSTF4X1czRUdiOVNiNXZuZjdCdXFkcDlOUXJJM1lIdDg3dkUza0pLWnlfT2RvZ3JOY0V5NndzMXgxYnc0LWhzU1o0VXdfOHFqZ2hTTW9jTUJBMFE?oc=5).

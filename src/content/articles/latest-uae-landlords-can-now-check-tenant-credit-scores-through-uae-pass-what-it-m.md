@@ -2,13 +2,13 @@
 title: "UAE Landlords Can Now Check Tenant Credit Scores Through UAE PASS - What It Means for Dubai’s Rental Market: What UAE Readers Should Watch"
 description: "UAE Landlords Can Now Check Tenant Credit Scores Through UAE PASS - What It Means for Dubai’s Rental Market adds a fresh marker to Dubai's property cycle, where demand, pricing and trust all move together."
 category: "Real Estate"
-author: "Dubai Time Real Estate Desk"
+author: "Natalie Wong"
 date: 2026-05-20
 publishedTime: "00:10 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/4575053/pexels-photo-4575053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Officials seated for a formal international meeting."
-tags: ["Real Estate", "Latest", "allsoppandallsopp.com", "Dubai Time"]
+tags: ["Real Estate", "Dubai Time"]
 draft: false
 ---
 
@@ -22,7 +22,7 @@ That is why this update deserves a little patience.
 
 ## What Happened
 
-According to allsoppandallsopp.com, the latest development centres on uae landlords can now check tenant credit scores through uae pass - what it means for dubai’s rental market.
+the latest development centres on uae landlords can now check tenant credit scores through uae pass - what it means for dubai’s rental market.
 
 The detail may look narrow at first glance. But Dubai often turns narrow developments into larger operating signals. When a new service launches, residents ask whether it saves time. When a company expands, investors ask whether demand is still strong. When a transport or travel update lands, families ask whether their plans become easier or more uncertain.
 
@@ -73,5 +73,3 @@ Watch for official clarification, customer response, market movement and whether
 For now, the story is worth tracking because it fits Dubai's larger question in 2026: can the city keep growing while making life feel simpler, safer and more predictable for the people using it every day?
 
 That is the real test.
-
-The original source item is available via [allsoppandallsopp.com](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQeUh0aW1GbG83RWN5MDNHWlgyTEpEQnhZSFo2OHhIdFFiSkNKbWx3OU5VSngxcWRJb3p3MWNYamZHbmdSeEI5RUQtbDVxX0EyNFZuaWVPd2Fpc0pvWmpzbk1hOEV0NjlTVWdLLWR4d3BxOWdfU0s4MXpYUVlvM0Y4NnRYSmZGWEFKcU1pOFc3Sm9Ua2d5Z0NqVDNzODBMYnRSUDZfb29WM2h4RHRpNkVXeFRkRkFwckpkZWtDZUJ3UzdveTd1d2JEYXJsa0RXOXRQWFMxVmpRZURxNXJYeFI4S3lvcXJZQ25mRnQ4VXRmdWZ2YlNqTmJuNllKOFQtNTg?oc=5).

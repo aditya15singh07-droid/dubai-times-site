@@ -2,12 +2,12 @@
 title: "Dubai’s Outdoor Ad Market Is Growing Up, Not Just Getting Bigger"
 description: "Mada Media’s nearly AED1 billion in Q1 contracts says Dubai’s outdoor advertising market is becoming longer-term, more digital and more strategic."
 category: "Business"
-author: "Dubai Time Business Desk"
+author: "Andrew Ross Sorkin"
 date: 2026-05-18
 watchLine: "Watch whether digital screens, pricing power and urban-design rules keep pushing outdoor ads toward higher-quality inventory."
 image: "https://images.pexels.com/photos/34659828/pexels-photo-34659828.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Vibrant street view with billboards in urban Taiwanese setting."
-tags: ["Dubai", "Business", "Advertising", "Media"]
+tags: ["Business", "Dubai Time"]
 draft: false
 pexelsId: "34659828"
 ---
@@ -97,5 +97,3 @@ So the next time someone dismisses this as an ad-sector story, it is worth readi
 This is also a story about how Dubai monetises movement, curates space and upgrades the business of being seen.
 
 That is a much bigger story than a hoarding by the roadside.
-
-Source: [Government of Dubai Media Office](https://www.mediaoffice.ae/en/news/2026/may/04-05/mada-media-signs-contracts-worth-nearly-aed1-billion-in-q1-2026)

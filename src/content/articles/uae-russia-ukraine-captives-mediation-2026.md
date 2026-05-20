@@ -1,14 +1,14 @@
 ---
 title: "The UAE's Russia-Ukraine Mediation Keeps Growing Into A Distinct Foreign Policy Role"
 description: "The UAE says its latest mediation effort secured the exchange of 410 captives between Russia and Ukraine, reinforcing a humanitarian role it has cultivated carefully."
-category: "World"
-author: "Dubai Times World Desk"
+category: "International"
+author: "Yaroslav Trofimov"
 date: 2026-05-18
 publishedTime: "03:50 GST"
 watchLine: "Watch whether the UAE can sustain this mediator role as the wider Russia-Ukraine conflict remains unresolved."
 image: "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1400&q=80"
 imageAlt: "Diplomatic meeting setting with flags and conference table"
-tags: ["UAE", "Russia", "Ukraine", "Diplomacy"]
+tags: ["International", "Dubai Time"]
 draft: false
 ---
 
@@ -69,5 +69,3 @@ Those are not easy questions. But the latest exchange suggests the country still
 In international politics, usefulness can be more important than noise. The UAE's mediation track in the Russia-Ukraine war is becoming a good example of that principle.
 
 It does not promise miracles. It offers something smaller, rarer and sometimes more valuable: a way to bring at least some people home.
-
-Source: [UAE Ministry of Foreign Affairs](https://www.mofa.gov.ae/en/MediaHub/News/2026/5/15/UAE-Russia-and-Ukraine)

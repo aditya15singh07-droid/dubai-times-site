@@ -2,13 +2,13 @@
 title: "Dubai South's New Incentives Show The Real Fight Is To Keep Existing Businesses Moving"
 description: "Dubai South has introduced new free zone incentives around company formation, licence renewals and late-fee relief, aiming to keep business momentum intact."
 category: "Business"
-author: "Dubai Times Business Desk"
+author: "Andrew Ross Sorkin"
 date: 2026-05-19
 publishedTime: "10:20 GST"
 watchLine: "Watch whether the incentives improve retention and renewal activity rather than only attracting short-term interest."
 image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1400&q=80"
 imageAlt: "Business team reviewing documents across a meeting table"
-tags: ["Dubai", "Dubai South", "Free Zone", "Business"]
+tags: ["Business", "Dubai Time"]
 draft: false
 ---
 
@@ -71,5 +71,3 @@ If Dubai South can do that consistently, the benefits may outlast any single inc
 That would mean the zone is not only selling future potential. It is improving present-day usability. And in a competitive business environment, that is often what companies remember most.
 
 That memory can be commercially powerful.
-
-Source: [Dubai South](https://www.dubaisouth.ae/en/newsroom/dubai-south-introduces-new-incentives-to-sustain-economic-momentum)

@@ -2,13 +2,13 @@
 title: "UAE Business: RTA completes Dubai Metro tunnels maintenance, rehabilitation works: What UAE Readers Should Watch"
 description: "UAE Business: RTA completes Dubai Metro tunnels maintenance, rehabilitation works matters for passengers, operators and the wider visitor economy that keeps Dubai moving."
 category: "Travel"
-author: "Dubai Time Travel Desk"
+author: "Peter Greenberg"
 date: 2026-05-19
 publishedTime: "15:33 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/2449452/pexels-photo-2449452.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "A modern skyline under clear city light."
-tags: ["Travel", "Latest", "Gulf Daily News", "Dubai Time"]
+tags: ["Travel", "Dubai Time"]
 draft: false
 ---
 
@@ -22,7 +22,7 @@ That is why this update deserves a little patience.
 
 ## What Happened
 
-According to Gulf Daily News, the latest development centres on uae business: rta completes dubai metro tunnels maintenance, rehabilitation works.
+the latest development centres on uae business: rta completes dubai metro tunnels maintenance, rehabilitation works.
 
 The detail may look narrow at first glance. But Dubai often turns narrow developments into larger operating signals. When a new service launches, residents ask whether it saves time. When a company expands, investors ask whether demand is still strong. When a transport or travel update lands, families ask whether their plans become easier or more uncertain.
 
@@ -73,5 +73,3 @@ Watch for official clarification, customer response, market movement and whether
 For now, the story is worth tracking because it fits Dubai's larger question in 2026: can the city keep growing while making life feel simpler, safer and more predictable for the people using it every day?
 
 That is the real test.
-
-The original source item is available via [Gulf Daily News](https://news.google.com/rss/articles/CBMiU0FVX3lxTE8ySXFCX242WEhmaGJWV2dnTUVOczhLb3dqa25BSURoOFlnY1lsV3V5UXZkbHh1VVVEMUxFcEVmMkNnbE9hMWJTWTRHWFJUYXo5LVJr?oc=5).

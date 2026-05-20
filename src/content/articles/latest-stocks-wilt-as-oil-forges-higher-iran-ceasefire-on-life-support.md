@@ -1,14 +1,14 @@
 ---
 title: "Stocks wilt as oil forges higher; Iran ceasefire ‘on life support’: What It Means Now"
 description: "Oil gained for a third day on Tuesday ‌and the dollar rose as hopes faded for a deal to get ships moving through the Strait of Hormuz, ​while a red-hot rally in chip..."
-category: "Business"
-author: "Dubai Time Business Desk"
+category: "International"
+author: "Yaroslav Trofimov"
 date: 2026-05-19
 publishedTime: "20:37 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/12/1078095.webp"
 imageAlt: "Stocks wilt as oil forges higher; Iran ceasefire ‘on life support’ related news image from source feed."
-tags: ["Business", "Latest", "Gulf Business", "Dubai Time"]
+tags: ["International", "Dubai Time"]
 draft: false
 ---
 
@@ -73,5 +73,3 @@ The next stage will decide whether this remains a passing headline or becomes pa
 Readers should watch for follow-up action, official clarification, business response and any visible change in public behaviour. The first report tells us what happened. The next response tells us whether it matters.
 
 For now, the story deserves attention because it sits inside a larger UAE pattern: fast decisions, high expectations and a public that increasingly judges announcements by practical results.
-
-The source item is available at [Gulf Business](https://www.gulftoday.ae/business/2026/05/12/stocks-wilt-as-oil-forges-higher-iran-ceasefire-on-life-support).

@@ -2,12 +2,12 @@
 title: "Palm Jebel Ali's New Villa Contracts Show The Coastline Expansion Is Getting Real"
 description: "Nakheel's latest contract awards for Palm Jebel Ali mark another step in Dubai's southern coastline build-out, with implications for housing supply, investor sentiment and urban form."
 category: "Real Estate"
-author: "Dubai Times Desk"
+author: "Natalie Wong"
 date: 2026-04-27
 watchLine: "Watch whether delivery discipline, infrastructure sequencing and end-user demand keep pace as Palm Jebel Ali moves deeper into execution."
 image: "https://images.pexels.com/photos/12955837/pexels-photo-12955837.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "A miniature house and contract papers representing a major waterfront real estate commitment."
-tags: ["Dubai", "Real Estate", "Palm Jebel Ali", "Housing"]
+tags: ["Real Estate", "Dubai Time"]
 draft: false
 ---
 
@@ -34,5 +34,3 @@ It is tempting to frame Palm Jebel Ali purely as a luxury product for global cap
 For Indian and regional buyers, that story carries extra weight. Dubai has become a serious destination for capital preservation, second homes and family migration planning. Projects like Palm Jebel Ali feed that long-term interest. But those buyers are more discerning than before. They care about delivery, resale depth, service charges and district maturity. In that sense, the latest contract announcement matters because it gives the market something firmer than aspiration to analyse.
 
 Over the next two years, the real question will be whether Palm Jebel Ali develops with enough speed and coherence to justify the scale of expectation already around it. Construction is now moving beyond symbolism. That makes every next step more consequential. If the project lands well, it will strengthen Dubai's case as a city that can still expand its premium geography with confidence. If not, it will remind the market that building coastline is easier than building trust.
-
-Source: [Dubai Holding](https://www.dubaiholding.com/en/media-hub/press-releases/nakheel-awards-contracts-worth-over-aed-3-5-billion-to-build-544-villas-on-dubais-palm-jebel-ali)

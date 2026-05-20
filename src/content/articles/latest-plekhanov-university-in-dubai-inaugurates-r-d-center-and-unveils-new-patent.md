@@ -1,14 +1,14 @@
 ---
 title: "Plekhanov University in Dubai inaugurates R&D Center and unveils new patent and two revolutionary AI technologies: What UAE Readers Should Watch"
 description: "Plekhanov University in Dubai inaugurates R&D Center and unveils new patent and two revolutionary AI technologies shows how quickly AI, digital services and data rules are entering everyday UAE decisions."
-category: "Technology"
-author: "Dubai Time Technology Desk"
+category: "Middle East"
+author: "Kashmir Hill"
 date: 2026-05-19
 publishedTime: "18:42 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Professionals working together in a bright office."
-tags: ["Technology", "Latest", "ZAWYA", "Dubai Time"]
+tags: ["Middle East", "Dubai Time"]
 draft: false
 ---
 
@@ -22,7 +22,7 @@ That is why this update deserves a little patience.
 
 ## What Happened
 
-According to ZAWYA, the latest development centres on plekhanov university in dubai inaugurates r&d center and unveils new patent and two revolutionary ai technologies.
+the latest development centres on plekhanov university in dubai inaugurates r&d center and unveils new patent and two revolutionary ai technologies.
 
 The detail may look narrow at first glance. But Dubai often turns narrow developments into larger operating signals. When a new service launches, residents ask whether it saves time. When a company expands, investors ask whether demand is still strong. When a transport or travel update lands, families ask whether their plans become easier or more uncertain.
 
@@ -73,5 +73,3 @@ Watch for official clarification, customer response, market movement and whether
 For now, the story is worth tracking because it fits Dubai's larger question in 2026: can the city keep growing while making life feel simpler, safer and more predictable for the people using it every day?
 
 That is the real test.
-
-The original source item is available via [ZAWYA](https://news.google.com/rss/articles/CBMijAJBVV95cUxPSnFHaEptWDgzal9tU3VHZTJidE9McDNJOWRFX2JFZVRNZFRobjl4OThNODU5VUM3bE1MR2dTNF82Q3pmYXZvQkV2MUIwQlJiLVBzYjNpQVQ4YUdfa0RITUF3U29lX2UzQ19RN21KbGdRaFJJay1fTUNpdVdxTi1DekFlbE1HMTlVX0V5dTlUTENaSlFGcDhhek53TjEwcDFjRGUydWZQc0tiMF9Rd2loZGQyWjJzQ3oweThIQ3A3U0Vralk3bk9rcXdZcUQ2MUUwaGc1N3kyMkx6UC1PbUJUeFhvaGttNk5FV1E4R3VCOElRTGlxYjBPWUJ1U1Z2LVJPaXVpNnZnT0JtTmVZ?oc=5).

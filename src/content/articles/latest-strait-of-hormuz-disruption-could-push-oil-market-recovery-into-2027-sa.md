@@ -2,13 +2,13 @@
 title: "Strait of Hormuz disruption could push oil market recovery into 2027, says Aramco CEO: What It Means Now"
 description: "Disruption to oil exports ‌via the Strait of Hormuz is threatening to delay the market's return to normal until 2027, Saudi ​Aramco CEO Amin ⁠Nasser warned on..."
 category: "Business"
-author: "Dubai Time Business Desk"
+author: "Andrew Ross Sorkin"
 date: 2026-05-19
 publishedTime: "23:54 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/11/1077778.webp"
 imageAlt: "Strait of Hormuz disruption could push oil market recovery into 2027, says Aramco CEO related news image from source feed."
-tags: ["Business", "Latest", "Gulf Business", "Dubai Time"]
+tags: ["Business", "Dubai Time"]
 draft: false
 ---
 
@@ -73,5 +73,3 @@ The next stage will decide whether this remains a passing headline or becomes pa
 Readers should watch for follow-up action, official clarification, business response and any visible change in public behaviour. The first report tells us what happened. The next response tells us whether it matters.
 
 For now, the story deserves attention because it sits inside a larger UAE pattern: fast decisions, high expectations and a public that increasingly judges announcements by practical results.
-
-The source item is available at [Gulf Business](https://www.gulftoday.ae/business/2026/05/11/strait-of-hormuz-disruption-could-push-oil-market-recovery-into-2027-says-aramco-ceo).

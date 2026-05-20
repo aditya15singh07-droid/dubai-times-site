@@ -1,19 +1,19 @@
 ---
 title: "A $30 Billion Infrastructure Consortium Puts Abu Dhabi In A Bigger Capital Circuit"
 description: "The BlackRock-led infrastructure partnership involving Abu Dhabi's L'imad and ADNOC is a major capital formation story with implications well beyond one deal announcement."
-category: "World"
-author: "Dubai Times Desk"
+category: "Business"
+author: "Andrew Ross Sorkin"
 date: 2026-05-14
 watchLine: "Watch how quickly the consortium raises capital and whether the first investments show real regional execution rather than only strategic positioning."
 image: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1400&q=80"
 imageAlt: "Waterfront infrastructure and urban development representing long-horizon capital investment."
-tags: ["Abu Dhabi", "Infrastructure", "Capital", "World"]
+tags: ["Business", "Dubai Time"]
 draft: false
 ---
 
 Some announcements are really about one project. Others are about where a city or country now sits in the global hierarchy of money. The new infrastructure partnership involving BlackRock's Global Infrastructure Partners, Abu Dhabi's L'imad, ADNOC and Singapore's Temasek belongs to the second category. The headline is large enough on its own, up to $30 billion aimed at the Gulf and Central Asia. But the deeper meaning is that Abu Dhabi is no longer just a destination for infrastructure capital. It is helping organise the capital itself.
 
-The National reported on 14 May that a BlackRock-led consortium including Global Infrastructure Partners, L'imad, ADNOC and Temasek planned an infrastructure partnership targeting the Gulf and Central Asia with the aim of deploying up to $30 billion. The report said the platform would combine equity and debt capital and focus on sectors including energy, transport, logistics, digital infrastructure, water and waste management. The consortium also said it could consider selected opportunities across the broader Middle East and North Africa region.
+The latest report says a BlackRock-led consortium including Global Infrastructure Partners, L'imad, ADNOC and Temasek planned an infrastructure partnership targeting the Gulf and Central Asia with the aim of deploying up to $30 billion. The report said the platform would combine equity and debt capital and focus on sectors including energy, transport, logistics, digital infrastructure, water and waste management. The consortium also said it could consider selected opportunities across the broader Middle East and North Africa region.
 
 Infrastructure capital can sound abstract, but its impact is intensely physical. It shapes which roads are built, where water systems expand, how digital networks scale and whether logistics bottlenecks become tolerable or costly. When serious long-term capital is available, projects that would otherwise stall can move. For residents, that can eventually mean smoother services, more stable utilities, better transport links and stronger job creation around construction, operations and maintenance. The timeline is long, but the consequences are real.
 
@@ -34,7 +34,5 @@ The partnership sends a message beyond Abu Dhabi. It suggests that Gulf capital 
 For Indian businesses and investors, that development is worth tracking because infrastructure finance in the Gulf often spills into trade corridors, digital connectivity and logistics opportunities that affect South Asia as well. Stronger regional capital platforms can widen the set of projects that become commercially viable. That creates opportunity, but also raises the competitive standard for everyone trying to participate.
 
 The real verdict will come later, when the consortium starts backing actual assets and the first projects reveal its operating style. But even before that, the announcement tells us something important about Abu Dhabi's direction. The emirate wants to sit closer to the centre of long-horizon capital formation. If it succeeds, that will matter not only for one fund or one deal cycle. It will shape how the wider region finances the systems on which future growth depends.
-
-Source: [The National](https://www.thenationalnews.com/business/economy/2026/05/14/abu-dhabis-limad-and-adnoc-join-global-investors-in-30bn-infrastructure-partnership/)
 
 In that sense, this is not only a business story. It is a world story about who gets to organise infrastructure money in the next decade, and why Gulf institutions increasingly expect to be among those organisers.

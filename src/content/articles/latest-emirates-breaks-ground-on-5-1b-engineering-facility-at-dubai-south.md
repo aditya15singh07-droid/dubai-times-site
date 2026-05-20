@@ -1,14 +1,14 @@
 ---
 title: "Emirates breaks ground on $5.1b engineering facility at Dubai South: What It Means Now"
 description: "Emirates has broken ground on its new $5.1 billion engineering complex at Dubai South, slated to become the world’s most modern and advanced maintenance, repairs and..."
-category: "Business"
-author: "Dubai Time Business Desk"
+category: "International"
+author: "Yaroslav Trofimov"
 date: 2026-05-19
 publishedTime: "13:14 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/18/1079790.webp"
 imageAlt: "Emirates breaks ground on $5.1b engineering facility at Dubai South related news image from source feed."
-tags: ["Business", "Latest", "Gulf Business", "Dubai Time"]
+tags: ["International", "Dubai Time"]
 draft: false
 ---
 
@@ -73,5 +73,3 @@ The next stage will decide whether this remains a passing headline or becomes pa
 Readers should watch for follow-up action, official clarification, business response and any visible change in public behaviour. The first report tells us what happened. The next response tells us whether it matters.
 
 For now, the story deserves attention because it sits inside a larger UAE pattern: fast decisions, high expectations and a public that increasingly judges announcements by practical results.
-
-The source item is available at [Gulf Business](https://www.gulftoday.ae/business/2026/05/18/emirates-breaks-ground-on-51b-engineering-facility-at-dubai-south).

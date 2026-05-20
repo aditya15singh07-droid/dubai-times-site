@@ -2,12 +2,12 @@
 title: "Dubai Tourism Enters 2026 With Record Visitor Momentum"
 description: "Dubai's 2025 tourism performance gives the city a strong base for another competitive year across hotels, events, aviation, and retail."
 category: "Travel"
-author: "Dubai Time Travel Desk"
+author: "Peter Greenberg"
 date: 2026-05-17
 watchLine: "Watch repeat visitation, hotel pricing balance and whether Dubai keeps converting event demand into longer stays."
 image: "https://images.pexels.com/photos/31703898/pexels-photo-31703898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "A dynamic aerial view of a bustling crowd with a zoom blur effect, showcasing movement and energy."
-tags: ["Dubai", "Tourism", "Travel"]
+tags: ["Travel", "Dubai Time"]
 draft: false
 pexelsId: "31703898"
 ---
@@ -69,5 +69,3 @@ The next challenge is not only more visitors. It is better repeat visits, fair p
 The Indian market will remain important in this story. Families like Dubai because it is close, clean, familiar and easy to navigate. But they also compare value. If hotels, taxis and attractions become too expensive, the repeat visitor may shorten the trip or choose another season.
 
 Hotel staff are a useful way to read the market. When tourism is strong, their shifts, tips, rosters and career prospects change. A record year is not only a number at DET. It is also felt at reception desks, kitchens, housekeeping teams and tour counters.
-
-Source: Dubai Department of Economy and Tourism.

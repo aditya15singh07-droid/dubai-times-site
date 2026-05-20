@@ -1,7 +1,7 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
-import { categories } from "../data/articles";
+import { categories, categoryPath } from "../data/articles";
 import { optimizedImage } from "../lib/images";
 
 const articleTimestamp = (article) => {
@@ -18,7 +18,7 @@ const [leadArticle, ...restArticles] = articles;
 const topStories = restArticles.slice(0, 4);
 const justIn = articles.slice(0, 7);
 const latest = restArticles.slice(4, 16);
-const opinionRail = articles.filter((article) => ["Business", "Technology", "Real Estate"].includes(article.data.category)).slice(0, 5);
+const opinionRail = articles.filter((article) => ["Business", "Crypto", "Real Estate"].includes(article.data.category)).slice(0, 5);
 const categoryBlocks = categories
   .map((category) => ({
     category,
@@ -202,7 +202,7 @@ const marketItems = [
     <div class="category-grid">
       {categoryBlocks.map((block) => (
         <section>
-          <a class="category-name" href={`/category/${block.category.toLowerCase().replaceAll(" ", "-")}`}>{block.category}</a>
+          <a class="category-name" href={`/category/${categoryPath(block.category)}`}>{block.category}</a>
           {block.articles.map((article) => (
             <a class="mini-card" href={`/articles/${article.id}`}>
               <img src={optimizedImage(article.data.image)} alt={article.data.imageAlt} loading="lazy" />
@@ -480,9 +480,11 @@ const marketItems = [
   }
 
   .lead-story h2 {
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: clamp(1.55rem, 2.8vw, 2.65rem);
-    line-height: 1.02;
+    font-family:
+      Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+      sans-serif;
+    font-size: clamp(1rem, 1.55vw, 1.35rem);
+    line-height: 1.16;
     margin: 10px 0 14px;
   }
 
@@ -528,9 +530,11 @@ const marketItems = [
   .rail-heading strong,
   .insight-rail h2 {
     display: block;
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: 1.45rem;
-    line-height: 1.08;
+    font-family:
+      Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+      sans-serif;
+    font-size: 0.95rem;
+    line-height: 1.2;
   }
 
   .top-link {
@@ -547,8 +551,10 @@ const marketItems = [
 
   .top-link > span {
     color: var(--accent);
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: 1.5rem;
+    font-family:
+      Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+      sans-serif;
+    font-size: 1rem;
     font-weight: 900;
   }
 
@@ -727,8 +733,10 @@ const marketItems = [
   }
 
   .weather-pills strong {
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: 1.5rem;
+    font-family:
+      Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+      sans-serif;
+    font-size: 1.25rem;
   }
 
   .weather-pills small {
@@ -770,9 +778,11 @@ const marketItems = [
   }
 
   .section-title h2 {
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: clamp(1.5rem, 2.3vw, 2.25rem);
-    line-height: 1.08;
+    font-family:
+      Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+      sans-serif;
+    font-size: clamp(1.05rem, 1.6vw, 1.45rem);
+    line-height: 1.18;
     margin: 0;
     max-width: 680px;
     text-align: right;
@@ -808,9 +818,11 @@ const marketItems = [
   }
 
   .just-in-grid strong {
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: 1rem;
-    line-height: 1.18;
+    font-family:
+      Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+      sans-serif;
+    font-size: 0.88rem;
+    line-height: 1.26;
   }
 
   .just-in-grid small {
@@ -853,9 +865,11 @@ const marketItems = [
   }
 
   .story-row h3 {
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: 1.28rem;
-    line-height: 1.14;
+    font-family:
+      Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+      sans-serif;
+    font-size: 0.98rem;
+    line-height: 1.22;
     margin: 8px 0 10px;
   }
 
@@ -901,8 +915,10 @@ const marketItems = [
   .category-name {
     background: #111214;
     color: #fff;
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: 1.25rem;
+    font-family:
+      Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+      sans-serif;
+    font-size: 0.92rem;
     font-weight: 900;
     padding: 16px;
   }
@@ -924,8 +940,11 @@ const marketItems = [
   }
 
   .mini-card strong {
-    font-family: Georgia, "Times New Roman", serif;
-    line-height: 1.12;
+    font-family:
+      Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+      sans-serif;
+    font-size: 0.88rem;
+    line-height: 1.22;
   }
 
   @media (max-width: 1040px) {

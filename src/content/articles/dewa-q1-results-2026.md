@@ -2,13 +2,13 @@
 title: "DEWA's Q1 Numbers Show Why Utility Performance Is A Quiet Dubai Economic Story"
 description: "DEWA posted record first-quarter revenue, EBITDA and profit, underlining how basic infrastructure performance still shapes Dubai's wider growth story."
 category: "Business"
-author: "Dubai Times Business Desk"
+author: "Andrew Ross Sorkin"
 date: 2026-05-18
 publishedTime: "02:20 GST"
 watchLine: "Watch whether customer account growth and clean energy share keep rising alongside new communities and industrial demand."
 image: "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?auto=format&fit=crop&w=1400&q=80"
 imageAlt: "Power infrastructure lines against a sunset sky"
-tags: ["Dubai", "DEWA", "Utilities", "Energy"]
+tags: ["Business", "Dubai Time"]
 draft: false
 ---
 
@@ -63,5 +63,3 @@ There is also a reputational angle. When global investors assess Dubai, they loo
 So the Q1 numbers should be read as more than a corporate update.
 
 They are a reminder that the cities which keep expanding successfully are usually the ones where the invisible systems stay disciplined. Dubai's skyline may sell the dream. DEWA helps make sure the dream does not trip over an extension cord.
-
-Source: [DEWA](https://www.dewa.gov.ae/en/about-us/media-publications/latest-news/2026/5/dubai-electricity-and-water-authority-pjsc)

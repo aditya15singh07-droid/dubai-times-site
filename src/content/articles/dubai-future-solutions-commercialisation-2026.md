@@ -1,14 +1,14 @@
 ---
 title: "Dubai Future Solutions Wants Research Startups To Land In The UAE, Not Just Visit It"
 description: "Dubai Future Solutions says three university ventures from Switzerland, the US and Egypt are moving toward pilots and commercial expansion in the UAE."
-category: "Technology"
-author: "Dubai Times Technology Desk"
+category: "Business"
+author: "Andrew Ross Sorkin"
 date: 2026-05-19
 publishedTime: "01:30 GST"
 watchLine: "Watch whether the first pilots convert into contracts, UAE entities and repeatable commercial pathways by late 2026."
 image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1400&q=80"
 imageAlt: "Founder workspace with laptop, notes and prototype planning materials"
-tags: ["Dubai", "Dubai Future Foundation", "Startups", "Innovation"]
+tags: ["Business", "Dubai Time"]
 draft: false
 ---
 
@@ -67,5 +67,3 @@ That matters because the next generation of economic competition will not be won
 Dubai seems to understand that.
 
 Now it has to show that the pathway is real enough for more founders to trust.
-
-Source: [Government of Dubai Media Office](https://www.mediaoffice.ae/en/news/2026/may/18-05/dubai-future-solutions-advances-first-global-ventures-into-uae-pilot-projects-and-commercialisation)

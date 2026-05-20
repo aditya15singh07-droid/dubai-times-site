@@ -1,13 +1,13 @@
 ---
 title: "The Gulf Is Learning To Move Around Hormuz, And That Could Change The Region"
 description: "As disruption in the Strait of Hormuz pushes trade towards pipelines, ports and rail, the shift could alter how the Gulf thinks about resilience for years."
-category: "World"
-author: "Dubai Time World Desk"
+category: "Travel"
+author: "Peter Greenberg"
 date: 2026-05-18
 watchLine: "Watch whether bypass routes become permanent strategic priorities long after the current disruption fades."
 image: "https://images.pexels.com/photos/34390839/pexels-photo-34390839.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Discover the vibrant hills of Hormuz Island, Iran, under a bright blue sky."
-tags: ["World", "Gulf", "Hormuz", "Trade"]
+tags: ["Travel", "Dubai Time"]
 draft: false
 pexelsId: "34390839"
 ---
@@ -16,7 +16,7 @@ The Strait of Hormuz has always looked narrow on the map.
 
 In moments of crisis, it starts to look painfully narrow in policy too.
 
-The latest analysis from The National argues that continuing disruption around Hormuz is forcing Gulf states to think harder about moving oil, goods and industrial flows through pipelines, rail and alternative ports rather than treating the sea lane as permanently dependable. The details are striking. The UAE is expanding its Fujairah pipeline, doubling bypass capacity to roughly 3 to 3.4 million barrels per day. Sharjah's Khor Fakkan port, the report says, has jumped from handling about 2,000 containers a week before the conflict to 50,000 now. Etihad Rail and Red Sea-linked routes are also gaining strategic weight.
+The latest analysis argues that continuing disruption around Hormuz is forcing Gulf states to think harder about moving oil, goods and industrial flows through pipelines, rail and alternative ports rather than treating the sea lane as permanently dependable. The details are striking. The UAE is expanding its Fujairah pipeline, doubling bypass capacity to roughly 3 to 3.4 million barrels per day. Sharjah's Khor Fakkan port, the report says, has jumped from handling about 2,000 containers a week before the conflict to 50,000 now. Etihad Rail and Red Sea-linked routes are also gaining strategic weight.
 
 This is not just a wartime workaround.
 
@@ -93,5 +93,3 @@ That may prove to be one of the most consequential side effects of this crisis.
 The Gulf is being forced to imagine movement differently.
 
 And once that imagination changes, strategy usually follows.
-
-Source: [The National](https://www.thenationalnews.com/business/energy/2026/05/17/how-strait-of-hormuz-disruption-is-forcing-gulf-transit-towards-pipelines-and-rail/)

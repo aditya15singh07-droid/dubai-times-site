@@ -2,13 +2,13 @@
 title: "DET And HSBC Are Trying To Turn Dubai's Investor Appeal Into A More Structured Pipeline"
 description: "A new strategic agreement between DET and HSBC aims to channel more corporates, capital and wealthy investors into Dubai using a clearer cross-border framework."
 category: "Business"
-author: "Dubai Times Business Desk"
+author: "Andrew Ross Sorkin"
 date: 2026-05-18
 publishedTime: "03:00 GST"
 watchLine: "Watch whether the DET-HSBC partnership leads to new regional headquarters, FDI projects and Asia-linked capital inflows."
 image: "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
 imageAlt: "Business district towers and financial offices in Dubai"
-tags: ["Dubai", "DET", "HSBC", "Investment"]
+tags: ["Business", "Dubai Time"]
 draft: false
 ---
 
@@ -67,5 +67,3 @@ It would also help the city defend itself against the criticism that too much of
 The city already has many of the ingredients. The challenge is turning them into a cleaner operating model for incoming capital.
 
 If the DET-HSBC arrangement helps do that, it will matter far more than the standard language of a signing photo.
-
-Source: [Government of Dubai Media Office](https://mediaoffice.ae/en/news/2026/april/13-04/dubai-department-of-economy-and-tourism-and-hsbc)

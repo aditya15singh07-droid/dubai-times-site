@@ -1,13 +1,13 @@
 ---
 title: "Parkin's Smart Cameras Show How Dubai Wants Parking To Disappear Into The Background"
 description: "Parkin's AI-powered camera rollout in key Dubai districts is not just a parking story. It is about making friction less visible in daily urban life."
-category: "Dubai"
-author: "Dubai Times Desk"
+category: "Middle East"
+author: "Kashmir Hill"
 date: 2026-05-13
 watchLine: "Watch whether the rollout cuts payment friction and disputes without making residents feel over-surveilled or overly penalised."
 image: "https://images.pexels.com/photos/27075258/pexels-photo-27075258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Digital dashboards and urban mobility analytics screens used to manage transport systems."
-tags: ["Dubai", "Parking", "AI", "Mobility"]
+tags: ["Middle East", "Dubai Time"]
 draft: false
 ---
 
@@ -34,5 +34,3 @@ What Parkin is really doing is part of a bigger shift. The curbside is turning i
 For readers from India and the wider region, that shift is worth noticing because it shows how everyday governance is changing. Smart-city talk often sounds inflated. But when it lands properly, it shows up in small, practical moments: the ease of stopping for a pharmacy run, the confidence of arriving at an appointment on time, the reduction in pointless disputes. Those are not flashy outcomes. They are the kind that keep a city usable as it grows denser and busier.
 
 The next test is behavioural. Will motorists trust the system enough to adapt without resentment? Will complaints fall? Will turnover improve in high-pressure districts? And will the public feel that the technology is serving mobility rather than simply monetising it more efficiently? If Dubai gets that balance right, the smart parking camera story will be about much more than sensors and poles. It will be about a city trying to remove another small layer of friction from daily life, one curb at a time.
-
-Source: [Gulf Business](https://gulfbusiness.com/en/2026/transport/parkin-begins-rollout-of-smart-parking-cameras-in-dubai/)

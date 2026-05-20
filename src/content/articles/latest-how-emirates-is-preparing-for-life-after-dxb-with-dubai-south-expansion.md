@@ -1,14 +1,14 @@
 ---
 title: "How Emirates is preparing for life after DXB with Dubai South expansion: What UAE Readers Should Watch"
 description: "How Emirates is preparing for life after DXB with Dubai South expansion could affect residents directly, from public services and safety to daily planning across the Emirates."
-category: "UAE"
-author: "Dubai Time UAE Desk"
+category: "Middle East"
+author: "Kashmir Hill"
 date: 2026-05-19
 publishedTime: "15:02 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/378570/pexels-photo-378570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "A glass office tower in a financial district."
-tags: ["UAE", "Latest", "Gulf News", "Dubai Time"]
+tags: ["Middle East", "Dubai Time"]
 draft: false
 ---
 
@@ -22,7 +22,7 @@ That is why this update deserves a little patience.
 
 ## What Happened
 
-According to Gulf News, the latest development centres on how emirates is preparing for life after dxb with dubai south expansion.
+the latest development centres on how emirates is preparing for life after dxb with dubai south expansion.
 
 The detail may look narrow at first glance. But Dubai often turns narrow developments into larger operating signals. When a new service launches, residents ask whether it saves time. When a company expands, investors ask whether demand is still strong. When a transport or travel update lands, families ask whether their plans become easier or more uncertain.
 
@@ -73,5 +73,3 @@ Watch for official clarification, customer response, market movement and whether
 For now, the story is worth tracking because it fits Dubai's larger question in 2026: can the city keep growing while making life feel simpler, safer and more predictable for the people using it every day?
 
 That is the real test.
-
-The original source item is available via [Gulf News](https://news.google.com/rss/articles/CBMivwFBVV95cUxNSzUtbmJxTnZ0UXE0anlpaHQ0MTc0eGx0TjBocGQ2cXZhbFljOWUxaFRjUWRBTmpURlVFOThxOXBSUmJFUjRPU1RJMkk5c01YWHNGX2g4LXZGUDI5YnF2UUNYaWpoU2hXMU1rcFh5WENlQXJEWXNOY0RxWmFFdzRiNGxGWkpHY2U2aWpraDFQMnVnQ3VDaWQ4MUszREhac0NfMFpyZXktZmhFa2g1X3I3aE9QY2h1dTc3Mko5M3Jqb9IB0gFBVV95cUxNQ3h4XzhrLW1JR0VIY3h4X3lQM2tzdjhtdF9WcTlNaGVwRS10bjNhVER5VmJJSWUybUJ6NEV2dVFGNTdCdWZLNkFNa21Ra2xCb1JpbVBVdTRNZmhSX1Exd2hQdTF1ZEdZX3MzUU5JRTZKRzVQNHlnUmt5NWR0Q1ZobzdCVjVuQTB0MWM4Y1RIa3lkejJxQURQTmdLeDg1eV9jcG01enFKcVdhNzdiU3F1LVIwcmFBdmFCUV91emNtSjhvcjhFZFJZLS1CaDVuVngwenc?oc=5).

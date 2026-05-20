@@ -1,13 +1,13 @@
 ---
 title: "Waterfront Dining Remains A Strong Pull For Dubai Visitors"
 description: "Restaurants near beaches, marinas, and landmark districts continue to benefit from Dubai's tourism appeal and outdoor lifestyle."
-category: "Lifestyle"
-author: "Dubai Time Lifestyle Desk"
+category: "Travel"
+author: "Peter Greenberg"
 date: 2026-05-17
 watchLine: "Watch which waterfront venues turn views into repeat business through service, value, identity and year-round programming."
 image: "https://images.pexels.com/photos/15627310/pexels-photo-15627310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Charming outdoor café by the sea with a scenic ocean view."
-tags: ["Dining", "Tourism", "Lifestyle"]
+tags: ["Travel", "Dubai Time"]
 draft: false
 pexelsId: "15627310"
 ---

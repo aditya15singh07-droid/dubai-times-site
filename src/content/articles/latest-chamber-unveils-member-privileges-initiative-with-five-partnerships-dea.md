@@ -2,13 +2,13 @@
 title: "Chamber unveils ‘Member Privileges’ initiative with five partnerships deals: What It Means Now"
 description: "The Abu Dhabi Chamber of Commerce and Industry announced the launch of its ‘Member Privileges’ initiative through five new strategic partnership agreements with..."
 category: "Business"
-author: "Dubai Time Business Desk"
+author: "Andrew Ross Sorkin"
 date: 2026-05-19
 publishedTime: "16:24 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/17/1079329.webp"
 imageAlt: "Chamber unveils ‘Member Privileges’ initiative with five partnerships deals related news image from source feed."
-tags: ["Business", "Latest", "Gulf Business", "Dubai Time"]
+tags: ["Business", "Dubai Time"]
 draft: false
 ---
 
@@ -73,5 +73,3 @@ The next stage will decide whether this remains a passing headline or becomes pa
 Readers should watch for follow-up action, official clarification, business response and any visible change in public behaviour. The first report tells us what happened. The next response tells us whether it matters.
 
 For now, the story deserves attention because it sits inside a larger UAE pattern: fast decisions, high expectations and a public that increasingly judges announcements by practical results.
-
-The source item is available at [Gulf Business](https://www.gulftoday.ae/business/2026/05/17/chamber-unveils-member-privileges-initiative-with-five-partnerships-deals).

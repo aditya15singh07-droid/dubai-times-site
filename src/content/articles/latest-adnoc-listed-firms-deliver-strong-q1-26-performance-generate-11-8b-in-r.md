@@ -2,13 +2,13 @@
 title: "Adnoc listed firms deliver strong Q1 ’26 performance, generate $11.8b in revenue: What It Means Now"
 description: "Adnoc’s listed companies reported a resilient set of financial and operational results in the first quarter of 2026, reflecting the strength of the Group’s integrated..."
 category: "Business"
-author: "Dubai Time Business Desk"
+author: "Andrew Ross Sorkin"
 date: 2026-05-19
 publishedTime: "14:49 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/18/1079656.webp"
 imageAlt: "Adnoc listed firms deliver strong Q1 ’26 performance, generate $11.8b in revenue related news image from source feed."
-tags: ["Business", "Latest", "Gulf Business", "Dubai Time"]
+tags: ["Business", "Dubai Time"]
 draft: false
 ---
 
@@ -73,5 +73,3 @@ The next stage will decide whether this remains a passing headline or becomes pa
 Readers should watch for follow-up action, official clarification, business response and any visible change in public behaviour. The first report tells us what happened. The next response tells us whether it matters.
 
 For now, the story deserves attention because it sits inside a larger UAE pattern: fast decisions, high expectations and a public that increasingly judges announcements by practical results.
-
-The source item is available at [Gulf Business](https://www.gulftoday.ae/business/2026/05/18/adnoc-listed-firms-deliver-strong-q1-26-performance-generate-118b-in-revenue).

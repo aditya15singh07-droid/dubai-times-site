@@ -1,14 +1,14 @@
 ---
 title: "Boli.ae launches UAE’s first fully digital property auction, closing elite City Walk asset within 7 days: What It Means Now"
 description: "Boli.ae, the UAE’s digital property auction platform, has announced the successful completion of its inaugural digital real estate auction, marking a major shift in..."
-category: "Business"
-author: "Dubai Time Business Desk"
+category: "Real Estate"
+author: "Natalie Wong"
 date: 2026-05-19
 publishedTime: "22:12 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/12/1077946.webp"
 imageAlt: "Boli.ae launches UAE’s first fully digital property auction, closing elite City Walk asset within 7 days related news image from source feed."
-tags: ["Business", "Latest", "Gulf Business", "Dubai Time"]
+tags: ["Real Estate", "Dubai Time"]
 draft: false
 ---
 
@@ -73,5 +73,3 @@ The next stage will decide whether this remains a passing headline or becomes pa
 Readers should watch for follow-up action, official clarification, business response and any visible change in public behaviour. The first report tells us what happened. The next response tells us whether it matters.
 
 For now, the story deserves attention because it sits inside a larger UAE pattern: fast decisions, high expectations and a public that increasingly judges announcements by practical results.
-
-The source item is available at [Gulf Business](https://www.gulftoday.ae/business/2026/05/12/boliae-launches-uaes-first-fully-digital-property-auction-closing-elite-city-walk-asset-within-7-days).

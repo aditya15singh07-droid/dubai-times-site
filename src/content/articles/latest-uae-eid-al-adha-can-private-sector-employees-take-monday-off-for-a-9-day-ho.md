@@ -1,14 +1,14 @@
 ---
 title: "UAE Eid Al Adha: Can private sector employees take Monday off for a 9-day holiday break?: What UAE Readers Should Watch"
 description: "UAE Eid Al Adha: Can private sector employees take Monday off for a 9-day holiday break? could affect residents directly, from public services and safety to daily planning across the Emirates."
-category: "UAE"
-author: "Dubai Time UAE Desk"
+category: "Lifestyle"
+author: "Natalie Wong"
 date: 2026-05-20
 publishedTime: "06:00 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/7648472/pexels-photo-7648472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Passengers walking through a bright international airport terminal."
-tags: ["UAE", "Latest", "Khaleej Times", "Dubai Time"]
+tags: ["Lifestyle", "Dubai Time"]
 draft: false
 ---
 
@@ -22,7 +22,7 @@ That is why this update deserves a little patience.
 
 ## What Happened
 
-According to Khaleej Times, the latest development centres on uae eid al adha: can private sector employees take monday off for a 9-day holiday break?.
+the latest development centres on uae eid al adha: can private sector employees take monday off for a 9-day holiday break?.
 
 The detail may look narrow at first glance. But Dubai often turns narrow developments into larger operating signals. When a new service launches, residents ask whether it saves time. When a company expands, investors ask whether demand is still strong. When a transport or travel update lands, families ask whether their plans become easier or more uncertain.
 
@@ -73,5 +73,3 @@ Watch for official clarification, customer response, market movement and whether
 For now, the story is worth tracking because it fits Dubai's larger question in 2026: can the city keep growing while making life feel simpler, safer and more predictable for the people using it every day?
 
 That is the real test.
-
-The original source item is available via [Khaleej Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxQRVlFdE9QSVRkQjR4VGlKaHV0RTdGNERISFp3aEI1UnlMaDhvT2lvaEUyTUdIb3VRbWRlbllBbmM1SFFLQ3pZdWVYNWpCRW1IWjZHUUU1N0Iyd0tET0Z6b21pOWpnTTlQb2c0bzQ0QVJqREgyclRhcVI4YXkzSk4zczhZbXVzdVltNU1MV0dMN3FUWFZaT2tpM0xENzFFNDTSAZ8BQVVfeXFMUEVZRXRPUElUZEI0eFRpSmh1dEU3RjRESEhad2hCNVJ5TGg4b09pb2hFMk1HSG91UW1kZW5ZQW5jNUhRS0N6WXVlWDVqQkVtSFo2R1FFNTdCMndLRE9Gem9taTlqZ005UG9nNG80NEFSakRIMnJUYXFSOGF5M0pOM3M4WW11c3VZbTVNTFdHTDdxVFhWWk9raTNMRDcxRTQ0?oc=5).

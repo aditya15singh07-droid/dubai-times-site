@@ -1,14 +1,14 @@
 ---
 title: "DEWA's Grid Expansion Shows The Scale Behind Dubai's Growth"
 description: "DEWA commissioned major substations in 2025 and has more than AED8.5 billion of transmission projects under construction through 2028."
-category: "Business"
-author: "Dubai Time Business Desk"
+category: "Travel"
+author: "Peter Greenberg"
 date: 2026-05-17
 publishedTime: "14:45 GST"
 watchLine: "Track whether DEWA's 2028 transmission pipeline lands ahead of new community, hotel, industrial and data-infrastructure demand."
 image: "https://images.pexels.com/photos/29348617/pexels-photo-29348617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "High voltage transmission towers with clear blue sky at dusk in an open field."
-tags: ["Dubai", "DEWA", "Infrastructure", "Energy"]
+tags: ["Travel", "Dubai Time"]
 draft: false
 pexelsId: "29348617"
 ---
@@ -66,5 +66,3 @@ For Indian businesses looking at Dubai, this matters because reliable utilities 
 For Indian companies looking at Dubai, this is the sort of detail worth noticing. Reliable power is not glamorous, but it decides whether expansion feels calm or risky.
 
 There is another practical angle here. Dubai's summers do not forgive weak planning. Cooling demand rises, hotels run full systems, malls stay busy and families expect life to continue without drama. A stronger grid gives the city room to grow without making residents feel the strain first. For a business family choosing between Dubai and another base, that reliability can quietly decide the answer.
-
-Source: [Government of Dubai Media Office](https://mediaoffice.ae/en/news/2026/may/17-05/dewa)

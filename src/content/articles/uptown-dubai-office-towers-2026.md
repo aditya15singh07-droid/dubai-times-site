@@ -2,12 +2,12 @@
 title: "Uptown Dubai's New Office Towers Say The Premium Workspace Race Is Not Over"
 description: "DMCC's launch of two new commercial towers in Uptown Dubai shows that the demand story for grade-A office space in the emirate still has room to run."
 category: "Real Estate"
-author: "Dubai Times Desk"
+author: "Natalie Wong"
 date: 2026-04-22
 watchLine: "Watch leasing velocity, tenant mix and whether Dubai can keep adding premium office stock without weakening pricing power."
 image: "https://images.pexels.com/photos/15478136/pexels-photo-15478136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Modern skyscrapers rising in a prime commercial district under a clear sky."
-tags: ["Dubai", "Office", "Real Estate", "DMCC"]
+tags: ["Real Estate", "Dubai Time"]
 draft: false
 ---
 
@@ -34,5 +34,3 @@ There is a broader cultural signal here too. Dubai still believes in business pr
 This is one reason Dubai continues to attract Indian companies, family offices, start-ups and multinational regional headquarters. The city offers digital speed, but it also preserves the importance of place. Many businesses want both. They want cloud workflows and strong addresses. They want flexibility, but not total disembodiment. Uptown Dubai's new towers are a bet that this mixed model will stay attractive for years, especially among firms that want premium quality without losing access to a larger business network.
 
 The next indicators to watch are leasing demand, sector mix and whether Uptown Dubai can deepen its identity as more than a branded cluster of tall buildings. If companies move in and the district develops daily commercial life around them, DMCC's office expansion will look well timed. If the towers end up as prestige inventory searching for a community, the story will be less convincing. For now, the launch says something clear: in Dubai, the race for premium workspace is still very much alive.
-
-Source: [DMCC](https://dmcc.ae/latest-news/dmcc-launches-twin-commercial-towers-one-uptown-place-and-two-uptown-place-as-part-of-uptown-dubai-expansion)

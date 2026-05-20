@@ -1,14 +1,14 @@
 ---
 title: "Dubai Archive Could Matter Because Fast Cities Forget Fast"
 description: "The Mohammed Bin Rashid Al Maktoum Library Foundation has launched Dubai Archive, a new project linking digital governance, document management and the preservation of the city's institutional memory."
-category: "Dubai"
-author: "Dubai Times City Desk"
+category: "Lifestyle"
+author: "Natalie Wong"
 date: 2026-05-19
 publishedTime: "02:00 GST"
 watchLine: "Watch whether the pilot phase leads to common standards across more Dubai entities and visible gains in access, governance and document security."
 image: "https://images.unsplash.com/photo-1516321165247-4aa89a48be28?auto=format&fit=crop&w=1400&q=80"
 imageAlt: "Archive shelves and digital records concept representing document preservation"
-tags: ["Dubai", "Digital Governance", "Library", "History"]
+tags: ["Lifestyle", "Dubai Time"]
 draft: false
 ---
 
@@ -65,5 +65,3 @@ The city has spent decades becoming faster.
 Projects like Dubai Archive will show whether it can also become wiser about what it chooses to preserve while moving at that speed.
 
 That is a quieter kind of progress, but often the more durable one.
-
-Source: [Government of Dubai Media Office](https://www.mediaoffice.ae/en/news/2026/may/18-05/mohammed-bin-rashid-library-foundation-launches-dubai-archive)

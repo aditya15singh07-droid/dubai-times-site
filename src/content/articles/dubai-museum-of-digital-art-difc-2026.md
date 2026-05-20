@@ -1,14 +1,14 @@
 ---
 title: "Dubai Launches Museum Of Digital Art As Culture And Technology Move Closer"
 description: "MODA at DIFC Zabeel District is set to become the region's first museum dedicated to digital art and new technologies."
-category: "Lifestyle"
-author: "Dubai Time Culture Desk"
+category: "Entertainment"
+author: "Ramona Shelburne"
 date: 2026-05-17
 publishedTime: "13:10 GST"
 watchLine: "Track MODA's first programming calendar, artist partnerships, education activity and repeat-visit appeal."
 image: "https://images.pexels.com/photos/37148213/pexels-photo-37148213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Retro Apple II computer in a museum setting, showcasing vintage technology design."
-tags: ["Dubai", "Culture", "Digital Art", "DIFC"]
+tags: ["Entertainment", "Dubai Time"]
 draft: false
 pexelsId: "37148213"
 ---
@@ -70,5 +70,3 @@ The museum will need strong programming, local talent and reasons to return. Scr
 For young artists, the hope is access. Dubai has no shortage of luxury events, but a serious museum can create a different kind of stage. It can bring students, coders, designers and collectors into the same conversation. That mix is where a cultural scene starts feeling real.
 
 Parents may also see value here. A strong digital art museum can make technology feel creative instead of intimidating. For students, it can show that coding, design and storytelling are not separate worlds. That is useful in a city trying to attract future-facing talent.
-
-Source: [Government of Dubai Media Office](https://www.mediaoffice.ae/en/news/2026/may/16-05/latifa-bint-mohammed-launches-meuseum-of-digital-art)

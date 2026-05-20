@@ -1,14 +1,14 @@
 ---
 title: "Lufthansa Technik's New Dubai Facility Shows Aviation Service Speed Is Becoming A Competitive Weapon"
 description: "A new Painting and Grinding Center at Mohammed Bin Rashid Aerospace Hub is designed to cut repair turnaround times and deepen Dubai's regional MRO capability."
-category: "Travel"
-author: "Dubai Times Aviation Desk"
+category: "Middle East"
+author: "Kashmir Hill"
 date: 2026-05-19
 publishedTime: "10:30 GST"
 watchLine: "Watch whether faster component repair work at MBRAH attracts more airline clients and follow-on technical investment."
 image: "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?auto=format&fit=crop&w=1400&q=80"
 imageAlt: "Aircraft maintenance workers operating near a hangar facility"
-tags: ["Dubai", "Lufthansa Technik", "Aviation", "MBRAH"]
+tags: ["Middle East", "Dubai Time"]
 draft: false
 ---
 
@@ -69,5 +69,3 @@ In aviation, glamour may fill seats, but maintenance capability keeps the whole 
 There is also a subtle confidence signal in the choice of capability itself. Painting and grinding for structural and composite repairs are not showpiece services for press releases. They are operational services that matter because airlines need them to work predictably. Investment in that layer usually indicates a long-term view rather than a publicity exercise.
 
 That is why the centre fits the wider Dubai South story so well. The district is trying to accumulate practical aviation advantages one capability at a time. This new facility adds another brick to that wall.
-
-Source: [Dubai South](https://www.dubaisouth.ae/en/newsroom/mohammed-bin-rashid-aerospace-hub-and-lufthansa-technik-middle-east-inaugurate-new-facility-expanding-aviation-service-capabilities-in-dubai)

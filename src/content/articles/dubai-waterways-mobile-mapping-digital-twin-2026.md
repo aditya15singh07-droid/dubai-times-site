@@ -1,13 +1,13 @@
 ---
 title: "Dubai’s Canal Mapping Project Is Quietly About Power, Risk And Better Decisions"
 description: "Dubai Municipality’s mobile mapping survey of waterways looks technical, but it is part of a larger push to make the city easier to manage before problems grow."
-category: "Technology"
-author: "Dubai Time Technology Desk"
+category: "Middle East"
+author: "Kashmir Hill"
 date: 2026-05-18
 watchLine: "Watch whether the Digital Twin project starts changing flood planning, maintenance cycles and waterfront development decisions."
 image: "https://images.pexels.com/photos/33998346/pexels-photo-33998346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Stack of yellow QR code markers placed on a detailed map for location tracking and navigation."
-tags: ["Dubai", "Technology", "Digital Twin", "Infrastructure"]
+tags: ["Middle East", "Dubai Time"]
 draft: false
 pexelsId: "33998346"
 ---
@@ -109,5 +109,3 @@ This is about a city trying to look at its own bones more clearly.
 That may not sound exciting.
 
 It is exactly the kind of work that serious city-building depends on.
-
-Source: [Government of Dubai Media Office](https://www.mediaoffice.ae/en/news/2026/may/11-05/dubai-municipality-completes-the-middle-easts)

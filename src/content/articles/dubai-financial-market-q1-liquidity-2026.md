@@ -1,13 +1,13 @@
 ---
 title: "DFM's Strong Quarter Shows Liquidity Still Likes Dubai"
 description: "Dubai Financial Market's first-quarter numbers point to a market that remains attractive to international and institutional capital even after a more volatile March."
-category: "Business"
-author: "Dubai Times Desk"
+category: "International"
+author: "Yaroslav Trofimov"
 date: 2026-04-30
 watchLine: "Watch whether overseas participation, new investor inflows and daily trading value stay firm through the rest of 2026."
 image: "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1400&q=80"
 imageAlt: "Financial district towers in Dubai representing capital markets and investment activity."
-tags: ["Dubai", "Markets", "DFM", "Investment"]
+tags: ["International", "Dubai Time"]
 draft: false
 ---
 
@@ -34,5 +34,3 @@ Dubai wants its capital markets to do more than process trades. It wants them to
 This is also relevant for South Asian capital. Dubai increasingly sits at the crossroads of India-Gulf wealth, corporate expansion and diaspora investment behaviour. A more liquid DFM offers another channel through which that capital can participate in the emirate's growth story. It is one thing for people to bank in Dubai or set up companies there. It is another for them to trade and allocate capital through its public market with serious conviction.
 
 The next question is whether DFM can keep this momentum through a year that is unlikely to stay calm. Daily trading value above AED 1 billion is a strong headline, but the real test is persistence. If new investors remain active, if international participation stays deep and if market infrastructure keeps feeling smooth, DFM's Q1 will look like more than a good quarter. It will look like another sign that liquidity still sees Dubai as worth trusting, even when the wider world is less settled.
-
-Source: [Government of Dubai Media Office](https://www.mediaoffice.ae/en/news/2026/april/30-04/dubai-financial-market-records-strong-q1-2026-performance)

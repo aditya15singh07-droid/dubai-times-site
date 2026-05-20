@@ -1,14 +1,14 @@
 ---
 title: "Why The UAE's Netherlands Push Matters For A Country Thinking Hard About Water And Climate"
 description: "A new round of UAE-Netherlands cooperation highlights how the Emirates is using diplomacy to deepen ties in water, energy and climate adaptation ahead of a major UN conference."
-category: "UAE"
-author: "Dubai Times UAE Desk"
+category: "International"
+author: "Yaroslav Trofimov"
 date: 2026-05-18
 publishedTime: "03:40 GST"
 watchLine: "Watch whether the cooperation produces visible projects before the 2026 UN Water Conference in Abu Dhabi."
 image: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1400&q=80"
 imageAlt: "Waterfront infrastructure and modern urban skyline"
-tags: ["UAE", "Netherlands", "Water", "Climate"]
+tags: ["International", "Dubai Time"]
 draft: false
 ---
 
@@ -16,7 +16,7 @@ Water diplomacy can sound technical until you live in a region where water is a 
 
 That is why the UAE's latest cooperation push with the Netherlands deserves more attention than a routine foreign affairs brief usually gets.
 
-According to the UAE Ministry of Foreign Affairs, Assistant Minister Abdulla Balalaa visited the Netherlands on 7 and 8 May to advance cooperation in trade, energy and water, climate adaptation and other strategic sectors. The visit also deepened engagement ahead of the 2026 UN Water Conference, which the UAE and Senegal will co-host in Abu Dhabi later this year.
+Assistant Minister Abdulla Balalaa visited the Netherlands on 7 and 8 May to advance cooperation in trade, energy and water, climate adaptation and other strategic sectors. The visit also deepened engagement ahead of the 2026 UN Water Conference, which the UAE and Senegal will co-host in Abu Dhabi later this year.
 
 This is a useful partnership on paper and an even more useful one in practice.
 
@@ -63,5 +63,3 @@ Water is one of the clearest tests of that intelligence.
 If this partnership helps the UAE build stronger solutions, share knowledge and prepare more credibly for the upcoming UN conference, it will matter well beyond diplomatic protocol.
 
 In the Gulf, serious water thinking is never just environmental. It is economic, social and strategic at the same time.
-
-Source: [UAE Ministry of Foreign Affairs](https://www.mofa.gov.ae/en/mediahub/news/2026/5/10/uae-netherlands)

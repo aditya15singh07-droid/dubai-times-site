@@ -2,13 +2,13 @@
 title: "Khor Al Mamzar Beach Opens As Dubai Expands Its Lifestyle Infrastructure"
 description: "The new Khor Al Mamzar Beach adds a larger swimming shoreline, night beach access and public facilities as Dubai invests in quality-of-life destinations."
 category: "Lifestyle"
-author: "Dubai Time City Desk"
+author: "Natalie Wong"
 date: 2026-05-17
 publishedTime: "11:50 GST"
 watchLine: "Watch whether events, sports activations and food concepts turn the upgraded beach into a repeat destination."
 image: "https://images.pexels.com/photos/34345411/pexels-photo-34345411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Serene view of Al Mamzar Beach with palm trees during a tranquil sunset in Dubai."
-tags: ["Dubai", "Lifestyle", "Tourism", "Infrastructure"]
+tags: ["Lifestyle", "Dubai Time"]
 draft: false
 pexelsId: "34345411"
 ---
@@ -72,5 +72,3 @@ For many residents, this is the kind of project that makes a city feel kinder. N
 The night beach is especially interesting. Dubai's climate makes evening life important for much of the year. A safe, well-lit beach can stretch public life beyond sunset and give families a practical alternative to indoor leisure.
 
 Maintenance will decide the long-term mood. Clean facilities, clear safety systems and steady programming can turn the beach into a weekly habit. Without that care, even a strong opening can lose energy.
-
-Source: [Government of Dubai Media Office](https://www.mediaoffice.ae/en/news/2026/may/05-05/dubai-municipality-opens-khor-al-mamzar-beach-to-the-public)

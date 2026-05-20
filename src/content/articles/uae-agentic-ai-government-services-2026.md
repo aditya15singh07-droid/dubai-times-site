@@ -1,14 +1,14 @@
 ---
 title: "UAE's Agentic AI Push Tries To Make Government Services Faster And Smarter"
 description: "The UAE has started integrating agentic AI into federal government services, aiming to reduce paperwork, speed up approvals and improve everyday service delivery."
-category: "Technology"
-author: "Dubai Time Technology Desk"
+category: "Middle East"
+author: "Kashmir Hill"
 date: 2026-05-17
 publishedTime: "21:05 GST"
 watchLine: "Watch whether agentic AI reduces routine service friction while keeping human accountability clear."
 image: "https://images.pexels.com/photos/8867631/pexels-photo-8867631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Friendly call center agent wearing a headset, talking and smiling at his desk with a colleague."
-tags: ["UAE", "AI", "Government Services", "Technology"]
+tags: ["Middle East", "Dubai Time"]
 draft: false
 pexelsId: "8867631"
 ---
@@ -112,5 +112,3 @@ If the UAE gets that balance right, agentic AI could become less of a buzzword a
 ## The Line To Remember
 
 The standard should remain human. AI can help, but people still need clear responsibility, appeal routes and a real person when the system gets stuck.
-
-Source: [UAE Government Media Office](https://www.mediaoffice.gov.ae/en/news/2026/may/17-05/uae-government-launches-agentic-ai-integration-across-federal-services)

@@ -2,13 +2,13 @@
 title: "UAE landlords can now check tenants' credit scores before home rentals: What UAE Readers Should Watch"
 description: "UAE landlords can now check tenants' credit scores before home rentals adds a fresh marker to Dubai's property cycle, where demand, pricing and trust all move together."
 category: "Real Estate"
-author: "Dubai Time Real Estate Desk"
+author: "Natalie Wong"
 date: 2026-05-19
 publishedTime: "15:12 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/2403209/pexels-photo-2403209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Aerial view of city streets and tall buildings."
-tags: ["Real Estate", "Latest", "Business Standard", "Dubai Time"]
+tags: ["Real Estate", "Dubai Time"]
 draft: false
 ---
 
@@ -22,7 +22,7 @@ That is why this update deserves a little patience.
 
 ## What Happened
 
-According to Business Standard, the latest development centres on uae landlords can now check tenants' credit scores before home rentals.
+the latest development centres on uae landlords can now check tenants' credit scores before home rentals.
 
 The detail may look narrow at first glance. But Dubai often turns narrow developments into larger operating signals. When a new service launches, residents ask whether it saves time. When a company expands, investors ask whether demand is still strong. When a transport or travel update lands, families ask whether their plans become easier or more uncertain.
 
@@ -73,5 +73,3 @@ Watch for official clarification, customer response, market movement and whether
 For now, the story is worth tracking because it fits Dubai's larger question in 2026: can the city keep growing while making life feel simpler, safer and more predictable for the people using it every day?
 
 That is the real test.
-
-The original source item is available via [Business Standard](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWWdtT2E1bnQwZV9rdzYyR29EMVNPTEdSYk95eDg5dkNRcEpYc0J6NHNJd3RLRTlFcy1WdkhoUWZIX2t4T25oSW84TmlfcUVmem5CYkNFMFkzVk90N3VHZnkzdGVET3MtMFRWN3lhSVpGNGc3bmFXNm1NWElOcjVLbktMRnp4NUVncDRPQjhYR0J0djNmeTl3Vks0dENBNGI0NzkyTlk3d0x4Z3JKNlozZHBvYld3Rk1NekppTEF5U2VyWUhxVl9pbmVSOERSaWNHZ0ExRXVB0gHWAUFVX3lxTE1ZZ21PYTVudDBlX2t3NjJHb0QxU09MR1JiT3l4ODl2Q1FwSlhzQno0c0l3dEtFOUVzLVZ2SGhRZkhfa3hPbmhJbzhOaV9xRWZ6bkJiQ0UwWTNWT3Q3dUdmeTN0ZURPcy0wVFY3eWFJWkY0ZzduYVc2bU1YSU5yNUtuS0xGeng1RWdwNE9COFhHQnR2M2Z5OXdWSzR0Q0E0YjQ3OTJOWTd3THhncko2WjNkcG9iV3dGTU16SmlMQXlTZXJZSHFWX2luZVI4RFJpY0dnQTFFdUE?oc=5).

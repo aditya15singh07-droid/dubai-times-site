@@ -1,14 +1,14 @@
 ---
 title: "Abu Dhabi Police showcases AI-powered security systems at ISNR 2026: What UAE Readers Should Watch"
 description: "Abu Dhabi Police showcases AI-powered security systems at ISNR 2026 could affect residents directly, from public services and safety to daily planning across the Emirates."
-category: "UAE"
-author: "Dubai Time UAE Desk"
+category: "Middle East"
+author: "Kashmir Hill"
 date: 2026-05-19
 publishedTime: "23:57 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/15627310/pexels-photo-15627310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Waterfront dining and hospitality space in a modern city."
-tags: ["UAE", "Latest", "Gulf News", "Dubai Time"]
+tags: ["Middle East", "Dubai Time"]
 draft: false
 ---
 
@@ -22,7 +22,7 @@ That is why this update deserves a little patience.
 
 ## What Happened
 
-According to Gulf News, the latest development centres on abu dhabi police showcases ai-powered security systems at isnr 2026.
+the latest development centres on abu dhabi police showcases ai-powered security systems at isnr 2026.
 
 The detail may look narrow at first glance. But Dubai often turns narrow developments into larger operating signals. When a new service launches, residents ask whether it saves time. When a company expands, investors ask whether demand is still strong. When a transport or travel update lands, families ask whether their plans become easier or more uncertain.
 
@@ -73,5 +73,3 @@ Watch for official clarification, customer response, market movement and whether
 For now, the story is worth tracking because it fits Dubai's larger question in 2026: can the city keep growing while making life feel simpler, safer and more predictable for the people using it every day?
 
 That is the real test.
-
-The original source item is available via [Gulf News](https://news.google.com/rss/articles/CBMipwFBVV95cUxPWi1YanBoX3VON3NyQ3RQYThqOEVRaHlqUU9PQXZGYVdjVnNSRXlRN1N1Q3piNVhfTHhBaUlLdEt4MkN5UFk3X0hUOU1XR09zTE5WeWdpNlZ2MmdYQzBUTngzSzVyNXZBVVRpR2g2WXh1ZEVEVzJwbWJzRXJiQV9RTUVNbldPN0NwUGQ4cHJiMk9qcHY0RzdrVXF2alphaVRQSldzb2o2WdIBtwFBVV95cUxQa2VXYWdFZUtRNFJ4eGxaUEUxY0NfdlgxNXVFdXdTY3pSeVl4a1VGVVJMYXl2TUJ3RWpxZVBqYUxIMFQ0WHZ1YXRPMUFmZ0FJUklkSFRiT1VOXzVwcHowc2ExbjBRU2Y5UmE5SndPSXB0cW9vWERkUndBRnNLZ0pPOUFVMjh4X09FclFidHdtVmRaWVotMzJiS0RDcHkydUpEN1RwX3VfRF9PVm53dnNLcHdLWXN5LTQ?oc=5).

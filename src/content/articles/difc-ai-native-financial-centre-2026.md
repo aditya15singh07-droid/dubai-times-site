@@ -1,13 +1,13 @@
 ---
 title: "DIFC Wants To Be AI Native. The Important Word Is Not AI, But Native"
 description: "DIFC’s new AI-native plan is more ambitious than a standard technology rollout because it aims to shape regulation, infrastructure and jobs together."
-category: "Technology"
-author: "Dubai Time Technology Desk"
+category: "Middle East"
+author: "Kashmir Hill"
 date: 2026-05-18
 watchLine: "Watch whether DIFC moves from branding to enforceable frameworks, deployable tools and real hiring growth across finance and compliance."
 image: "https://images.pexels.com/photos/5480781/pexels-photo-5480781.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "System with various wires managing access to centralized resource of server in data center"
-tags: ["Dubai", "DIFC", "AI", "Finance"]
+tags: ["Middle East", "Dubai Time"]
 draft: false
 pexelsId: "5480781"
 ---
@@ -18,7 +18,7 @@ Very few say they want to rebuild themselves around it.
 
 That difference is what makes DIFC's latest announcement worth taking seriously. The financial centre has said it will become the world's first AI-native financial centre, and that wording matters. AI-enabled is one thing. AI-native means the technology is supposed to sit inside the system, not merely decorate the edges of it.
 
-According to DIFC, the plan will embed AI across legal frameworks, regulatory systems, talent development and physical infrastructure. Officials have attached a large economic claim to that ambition: USD3.5 billion, or about AED12.9 billion, in value and 25,000 new jobs.
+the plan will embed AI across legal frameworks, regulatory systems, talent development and physical infrastructure. Officials have attached a large economic claim to that ambition: USD3.5 billion, or about AED12.9 billion, in value and 25,000 new jobs.
 
 Those are big numbers. As always, the question is whether the architecture underneath them is credible.
 
@@ -95,5 +95,3 @@ In a region where many centres compete on speed and image, DIFC is trying to com
 If it gets that right, the story will not be that it used AI early.
 
 The story will be that it changed the rules of what a financial hub can be.
-
-Source: [Government of Dubai Media Office](https://mediaoffice.ae/en/news/2026/april/21-04/difc-ai-native-financial-centre)

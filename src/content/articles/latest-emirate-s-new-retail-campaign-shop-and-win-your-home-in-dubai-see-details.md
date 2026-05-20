@@ -2,13 +2,13 @@
 title: "Emirate’s new retail campaign: Shop and ‘Win Your Home’ in Dubai, see details: What UAE Readers Should Watch"
 description: "Emirate’s new retail campaign: Shop and ‘Win Your Home’ in Dubai, see details adds a fresh marker to Dubai's property cycle, where demand, pricing and trust all move together."
 category: "Real Estate"
-author: "Dubai Time Real Estate Desk"
+author: "Natalie Wong"
 date: 2026-05-20
 publishedTime: "07:30 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Professionals discussing market updates around a meeting table."
-tags: ["Real Estate", "Latest", "Gulf Business", "Dubai Time"]
+tags: ["Real Estate", "Dubai Time"]
 draft: false
 ---
 
@@ -22,7 +22,7 @@ That is why this update deserves a little patience.
 
 ## What Happened
 
-According to Gulf Business, the latest development centres on emirate’s new retail campaign: shop and ‘win your home’ in dubai, see details.
+the latest development centres on emirate’s new retail campaign: shop and ‘win your home’ in dubai, see details.
 
 The detail may look narrow at first glance. But Dubai often turns narrow developments into larger operating signals. When a new service launches, residents ask whether it saves time. When a company expands, investors ask whether demand is still strong. When a transport or travel update lands, families ask whether their plans become easier or more uncertain.
 
@@ -73,5 +73,3 @@ Watch for official clarification, customer response, market movement and whether
 For now, the story is worth tracking because it fits Dubai's larger question in 2026: can the city keep growing while making life feel simpler, safer and more predictable for the people using it every day?
 
 That is the real test.
-
-The original source item is available via [Gulf Business](https://news.google.com/rss/articles/CBMiugFBVV95cUxPOXBhVGVackxwc0wwbTRkWGl0eThUSF8zNHh0QzdmNWFsSk5BUEpUSkVwcVFRMmQ0RV9GbUdpSUZ6d0RmenhBVlJPaVVvQWdjYnpJN3BwMFdyc1RiQUFBMHozbklmTnZYVlFpVlRRSXVoNWZ1eG9pcllEZ0ptVG1vRnNyWFJ1NWtBWE5IZXZiRVFJXzVhRFZvenBKSGhEdDBwX09FQ09CbEI5aDE4R1JNZDhXYkUtcl9iaFE?oc=5).

@@ -1,13 +1,13 @@
 ---
 title: "Emirates Group’s Record Year Shows Dubai’s Aviation Engine Is Still Pulling"
 description: "Emirates Group has posted another record financial year, and the result says as much about Dubai’s role in global movement as it does about airline performance."
-category: "Business"
-author: "Dubai Time Business Desk"
+category: "Travel"
+author: "Peter Greenberg"
 date: 2026-05-18
 watchLine: "Watch how much of the group’s cash strength turns into fleet delivery, retrofit execution and resilient margins in 2026-27."
 image: "https://images.pexels.com/photos/20640898/pexels-photo-20640898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "A sleek private jet with visible engine inside a spacious hangar in Paris, France."
-tags: ["Dubai", "Emirates Group", "Business", "Aviation"]
+tags: ["Travel", "Dubai Time"]
 draft: false
 pexelsId: "20640898"
 ---
@@ -93,5 +93,3 @@ In the months ahead, the group will need to show that the cash, profit and netwo
 Not just scale.
 
 Staying power.
-
-Source: [Emirates Media Centre](https://www.emirates.com/media-centre/emirates-group-achieves-record-profit-of-aed-244-bn-us-66-bn-in-2025-26/)

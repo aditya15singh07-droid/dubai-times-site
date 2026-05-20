@@ -1,13 +1,13 @@
 ---
 title: "UAE-Israel Ties Face A Public Test As Regional Diplomacy Becomes Harder To Keep Quiet"
 description: "Recent claims and denials around UAE-Israel contacts show how regional security partnerships can become politically sensitive when they move into public view."
-category: "World"
-author: "Dubai Time World Desk"
+category: "International"
+author: "Yaroslav Trofimov"
 date: 2026-05-17
 watchLine: "Watch future official language for signs that cooperation remains formal, public-facing and carefully bounded."
 image: "https://images.pexels.com/photos/4386403/pexels-photo-4386403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Closeup of crop unrecognizable person holding small flag of Israel before huge flag of United States of America on background"
-tags: ["UAE", "Israel", "Diplomacy"]
+tags: ["International", "Dubai Time"]
 draft: false
 pexelsId: "4386403"
 ---
@@ -71,5 +71,3 @@ For Gulf businesses, this kind of diplomatic clarity matters more than it may ap
 Indian readers will recognise the balancing act. Countries often maintain relationships that are strategically useful but politically sensitive. The skill lies in keeping channels open without making the public feel that important decisions are being made in the shadows.
 
 This is not a story for quick conclusions. It is a story to track through official wording, regional meetings and whether business channels remain calm while politics stays sensitive.
-
-Source: Associated Press.

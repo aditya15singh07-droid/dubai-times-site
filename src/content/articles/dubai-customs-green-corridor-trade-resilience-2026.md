@@ -2,13 +2,13 @@
 title: "Dubai's Green Corridor Shows How Trade Finds A Way Around Trouble"
 description: "Dubai's customs route with Oman is becoming a practical answer to sea-lane disruption, and the real story is how quickly Gulf trade is learning to reroute."
 category: "Business"
-author: "Dubai Time Business Desk"
+author: "Andrew Ross Sorkin"
 date: 2026-05-18
 publishedTime: "12:18 GST"
 watchLine: "Watch whether the corridor becomes a temporary emergency fix or a longer-term logistics habit for exporters."
 image: "https://images.pexels.com/photos/14400831/pexels-photo-14400831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Multicoloured shipping containers stacked at a commercial port."
-tags: ["Dubai", "Customs", "Oman", "Trade", "Logistics"]
+tags: ["Business", "Dubai Time"]
 draft: false
 pexelsId: "14400831"
 ---

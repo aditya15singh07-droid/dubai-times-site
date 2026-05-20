@@ -1,14 +1,14 @@
 ---
 title: "UAE and S.Korea forge strategic tech pact in AI, semiconductors: What It Means Now"
 description: "SEOUL: The Ministry of Investment has led a high-level delegation to the brotherly Republic of Korea to advance bilateral cooperation and unlock new partnership..."
-category: "Business"
-author: "Dubai Time Business Desk"
+category: "International"
+author: "Yaroslav Trofimov"
 date: 2026-05-19
 publishedTime: "19:48 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/13/1078488.webp"
 imageAlt: "UAE and S.Korea forge strategic tech pact in AI, semiconductors related news image from source feed."
-tags: ["Business", "Latest", "Gulf Business", "Dubai Time"]
+tags: ["International", "Dubai Time"]
 draft: false
 ---
 
@@ -73,5 +73,3 @@ The next stage will decide whether this remains a passing headline or becomes pa
 Readers should watch for follow-up action, official clarification, business response and any visible change in public behaviour. The first report tells us what happened. The next response tells us whether it matters.
 
 For now, the story deserves attention because it sits inside a larger UAE pattern: fast decisions, high expectations and a public that increasingly judges announcements by practical results.
-
-The source item is available at [Gulf Business](https://www.gulftoday.ae/business/2026/05/13/uae-and-skorea-forge-strategic-tech-pact-in-ai-semiconductors).

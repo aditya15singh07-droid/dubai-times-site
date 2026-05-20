@@ -2,13 +2,13 @@
 title: "Dubai memories from 1965: A Pakistani tailor family’s five-generation journey from Murshid Bazaar to Dubai Hills: What UAE Readers Should Watch"
 description: "Dubai memories from 1965: A Pakistani tailor family’s five-generation journey from Murshid Bazaar to Dubai Hills captures the softer side of city growth, where culture, families and spending habits meet."
 category: "Lifestyle"
-author: "Dubai Time Lifestyle Desk"
+author: "Natalie Wong"
 date: 2026-05-20
 publishedTime: "07:00 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/7413916/pexels-photo-7413916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Engineers reviewing industrial operations in a modern facility."
-tags: ["Lifestyle", "Latest", "Gulf News", "Dubai Time"]
+tags: ["Lifestyle", "Dubai Time"]
 draft: false
 ---
 
@@ -22,7 +22,7 @@ That is why this update deserves a little patience.
 
 ## What Happened
 
-According to Gulf News, the latest development centres on dubai memories from 1965: a pakistani tailor family’s five-generation journey from murshid bazaar to dubai hills.
+the latest development centres on dubai memories from 1965: a pakistani tailor family’s five-generation journey from murshid bazaar to dubai hills.
 
 The detail may look narrow at first glance. But Dubai often turns narrow developments into larger operating signals. When a new service launches, residents ask whether it saves time. When a company expands, investors ask whether demand is still strong. When a transport or travel update lands, families ask whether their plans become easier or more uncertain.
 
@@ -73,5 +73,3 @@ Watch for official clarification, customer response, market movement and whether
 For now, the story is worth tracking because it fits Dubai's larger question in 2026: can the city keep growing while making life feel simpler, safer and more predictable for the people using it every day?
 
 That is the real test.
-
-The original source item is available via [Gulf News](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNlMybERCQ2VrSHJXaXhiNTdYLXdjbXNMRHQ3NTI4Uy1pcGZLQl80MzljNzdhbXUzUDl5RGNRTVNXb2U5TTZWTWN5SEQ5MWNNS3J4VEMyNExyZS10M3poQm5lX3FoR3czMkFKYW5ULXp4dEpsU2ZsYk9vY0ZJYjREbVRUNWF0aE5Gc2kxOWV6MU1acjY4THUwbFVpS3lkcWtGb0NFblFwWDZZTHRHQTNuVUJQUDlxeGRScnFqbm1NcXpGd1lSVXJiQU4xSTZLUFV1azVZVktsaW5kQUhaZFNhWVU3RVlMSTlaa21hSk9tZlPSAfABQVVfeXFMUDZTMmxEQkNla0hyV2l4YjU3WC13Y21zTER0NzUyOFMtaXBmS0JfNDM5Yzc3YW11M1A5eURjUU1TV29lOU02Vk1jeUhEOTFjTUtyeFRDMjRMcmUtdDN6aEJuZV9xaEd3MzJBSmFuVC16eHRKbFNmbGJPb2NGSWI0RG1UVDVhdGhORnNpMTllejFNWnI2OEx1MGxVaUt5ZHFrRm9DRW5RcFg2WUx0R0EzblVCUFA5cXhkUnJxam5tTXF6RndZUlVyYkFOMUk2S1BVdWs1WVZLbGluZEFIWmRTYVlVN0VZTEk5WmttYUpPbWZT?oc=5).

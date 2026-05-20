@@ -1,14 +1,14 @@
 ---
 title: "DP World, Al Dahra sign pact to fortify global food security: What It Means Now"
 description: "DP World and Al Dahra Holding, a multinational agribusiness headquartered in Abu Dhabi, have signed a Memorandum of Understanding to explore opportunities aimed at..."
-category: "Business"
-author: "Dubai Time Business Desk"
+category: "Lifestyle"
+author: "Natalie Wong"
 date: 2026-05-19
 publishedTime: "21:51 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/12/1078090.webp"
 imageAlt: "DP World, Al Dahra sign pact to fortify global food security related news image from source feed."
-tags: ["Business", "Latest", "Gulf Business", "Dubai Time"]
+tags: ["Lifestyle", "Dubai Time"]
 draft: false
 ---
 
@@ -73,5 +73,3 @@ The next stage will decide whether this remains a passing headline or becomes pa
 Readers should watch for follow-up action, official clarification, business response and any visible change in public behaviour. The first report tells us what happened. The next response tells us whether it matters.
 
 For now, the story deserves attention because it sits inside a larger UAE pattern: fast decisions, high expectations and a public that increasingly judges announcements by practical results.
-
-The source item is available at [Gulf Business](https://www.gulftoday.ae/business/2026/05/12/dp-world-al-dahra-sign-pact-to-fortify-global-food-security).

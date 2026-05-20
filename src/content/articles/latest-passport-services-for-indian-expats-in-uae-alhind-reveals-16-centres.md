@@ -1,14 +1,14 @@
 ---
 title: "Passport services for Indian expats in UAE: Alhind reveals 16 centres: What UAE Readers Should Watch"
 description: "Passport services for Indian expats in UAE: Alhind reveals 16 centres could affect residents directly, from public services and safety to daily planning across the Emirates."
-category: "UAE"
-author: "Dubai Time UAE Desk"
+category: "Sport"
+author: "Noma Nazish"
 date: 2026-05-19
 publishedTime: "14:56 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/325185/pexels-photo-325185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "High-rise buildings and city architecture."
-tags: ["UAE", "Latest", "Gulf News", "Dubai Time"]
+tags: ["Sport", "Dubai Time"]
 draft: false
 ---
 
@@ -22,7 +22,7 @@ That is why this update deserves a little patience.
 
 ## What Happened
 
-According to Gulf News, the latest development centres on passport services for indian expats in uae: alhind reveals 16 centres.
+the latest development centres on passport services for indian expats in uae: alhind reveals 16 centres.
 
 The detail may look narrow at first glance. But Dubai often turns narrow developments into larger operating signals. When a new service launches, residents ask whether it saves time. When a company expands, investors ask whether demand is still strong. When a transport or travel update lands, families ask whether their plans become easier or more uncertain.
 
@@ -73,5 +73,3 @@ Watch for official clarification, customer response, market movement and whether
 For now, the story is worth tracking because it fits Dubai's larger question in 2026: can the city keep growing while making life feel simpler, safer and more predictable for the people using it every day?
 
 That is the real test.
-
-The original source item is available via [Gulf News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOdTdTb0pwZVJ5dnZYeDFobUxjZ0VmUGZodXJZN0tKenRnRERmam8wYzhIdVRRSXowaktaN28tUUl0eXRlZnRoOHFOMmJ5OTUtV1I3MDBFZzRhUS0yTk5BUGROYjg3cEtlbUNsRW1YY2xUcmFkSkt4VEZBbWpkaFFQbkRrLTlpWGp6R3VkMmJvMlpMSlF1WTlCaEVVZVRGWUs0SVluZUF3NTgzNTZJTVJQN01n0gHEAUFVX3lxTE9hNUhSeWszb1NvSEV1MHc5QW5QLVp1MjJUTlFfNUlqQ1NLZlRGVXpuY25Vajlxbnlob1JkZUtjZDZXRHBhUS1mcjRxM1ZuM3JHUTV3RWN5LWdrWThMbTVHcUh1ckhycFRNWW1xaEpBNGVmQWFhTjVTX2N1aHVlcE9BUVNZNE5qajl3akdSR2VnSVJJQUtfc0ptZ1ozWVBUcXNVaG5SRVFWYlE0UmZVX1o0RkxVbHVuWjdpQUs3bHZhQ3VfTXU?oc=5).

@@ -1,13 +1,13 @@
 ---
 title: "Dubai Incentives Put Liquidity And Business Confidence Back In Focus"
 description: "Dubai's AED1 billion incentives package gives companies and residents near-term breathing room while reinforcing the emirate's wider growth strategy."
-category: "Dubai"
-author: "Dubai Time City Desk"
+category: "Business"
+author: "Andrew Ross Sorkin"
 date: 2026-05-17
 watchLine: "Follow whether fee relief and liquidity support show up in licensing activity, hotel performance, trade flows and hiring."
 image: "https://images.pexels.com/photos/14641161/pexels-photo-14641161.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Close-up of a modern glass facade with geometric patterns in The Hague, Netherlands."
-tags: ["Dubai", "Economy", "Government"]
+tags: ["Business", "Dubai Time"]
 draft: false
 pexelsId: "14641161"
 ---
@@ -67,5 +67,3 @@ The numbers to watch are practical: licences, hiring, hotel occupancy, trade flo
 There is a lesson here for anyone reading from India. Many businesses do not fail because the idea is bad. They fail because payments, fees and timing squeeze them at the wrong moment. Policy that reduces pressure at the right time can keep otherwise healthy firms from making desperate decisions.
 
 The package will also test communication. Relief works best when people understand it quickly. If businesses need consultants just to decode the benefit, some of the value is lost. Simple access and clear rules will decide how widely the support is actually felt.
-
-Source: Government of Dubai Protocol Department.

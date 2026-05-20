@@ -1,14 +1,14 @@
 ---
 title: "VIDEO: Hamdan visits Jebel Ali Port, says it is at the heart of UAE&#039;s continuing success story: What It Means Now"
 description: "Sheikh Hamdan Bin Mohammed bin Rashid Al Maktoum, Crown Prince of Dubai, Deputy Prime Minister, Minister of Defence and Chairman of The Executive Council of Dubai, on..."
-category: "Business"
-author: "Dubai Time Business Desk"
+category: "Middle East"
+author: "Kashmir Hill"
 date: 2026-05-19
 publishedTime: "17:52 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/14/1078640.webp"
 imageAlt: "VIDEO: Hamdan visits Jebel Ali Port, says it is at the heart of UAE&#039;s continuing success story related news image from source feed."
-tags: ["Business", "Latest", "Gulf Business", "Dubai Time"]
+tags: ["Middle East", "Dubai Time"]
 draft: false
 ---
 
@@ -73,5 +73,3 @@ The next stage will decide whether this remains a passing headline or becomes pa
 Readers should watch for follow-up action, official clarification, business response and any visible change in public behaviour. The first report tells us what happened. The next response tells us whether it matters.
 
 For now, the story deserves attention because it sits inside a larger UAE pattern: fast decisions, high expectations and a public that increasingly judges announcements by practical results.
-
-The source item is available at [Gulf Business](https://www.gulftoday.ae/business/2026/05/14/hamdan-visits-jebel-ali-port-says-it-is-at-the-heart-of-uaes-continuing-success-story).

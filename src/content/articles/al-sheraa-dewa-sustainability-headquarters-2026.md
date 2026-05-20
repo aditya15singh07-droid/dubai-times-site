@@ -1,14 +1,14 @@
 ---
 title: "Al Shera'a Gives Dubai's Sustainability Push A Very Public Address"
 description: "Dubai has opened DEWA's new Al Shera'a headquarters in Al Jaddaf, positioning the building as a global example of smart, net-positive government infrastructure."
-category: "Dubai"
-author: "Dubai Time City Desk"
+category: "International"
+author: "Yaroslav Trofimov"
 date: 2026-05-17
 publishedTime: "19:25 GST"
 watchLine: "Watch whether Al Shera'a becomes a practical benchmark for future public buildings, not only a landmark launch."
 image: "https://images.pexels.com/photos/267501/pexels-photo-267501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "A modern glass-facade building against a blue sky, featuring innovative architecture."
-tags: ["Dubai", "DEWA", "Sustainability", "Architecture"]
+tags: ["International", "Dubai Time"]
 draft: false
 pexelsId: "267501"
 ---
@@ -80,5 +80,3 @@ For people outside the boardroom, the hope is simple. If the government can make
 ## The Line To Remember
 
 The sensible way to judge Al Shera'a is not by the launch language. Judge it after a year of use: energy performance, employee comfort, visitor experience and whether other public buildings borrow from it.
-
-Source: [Government of Dubai Media Office](https://mediaoffice.ae/en/news/2026/may/15-05/mohammed-bin-rashid-inaugurates-the-new-headquarters-of-the-dubai-electricity-and-water-authority)

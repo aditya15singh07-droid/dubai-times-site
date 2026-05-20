@@ -1,14 +1,14 @@
 ---
 title: "Dubai's Q1 Permit Surge Suggests Construction Confidence Is Still Running Hot"
 description: "Dubai issued more than 10,700 building permits in the first quarter, offering a fresh signal that urban expansion and investor activity remain strong."
-category: "Real Estate"
-author: "Dubai Times Real Estate Desk"
+category: "Middle East"
+author: "Kashmir Hill"
 date: 2026-05-18
 publishedTime: "03:10 GST"
 watchLine: "Watch whether permit growth turns into healthy completions, balanced supply and stronger community infrastructure."
 image: "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1400&q=80"
 imageAlt: "Construction cranes and high-rise buildings in a fast-growing city"
-tags: ["Dubai", "Construction", "Real Estate", "Urban Development"]
+tags: ["Middle East", "Dubai Time"]
 draft: false
 ---
 
@@ -63,5 +63,3 @@ Still, the current numbers tell us something clear. Developers remain active. Th
 For buyers and renters, that may eventually offer more choice. For investors, it offers another sign that Dubai's growth story still has physical momentum behind it. For policymakers, it is a reminder that success now depends less on announcing more projects and more on making the pipeline liveable.
 
 That is the next mature phase of the city.
-
-Source: [Government of Dubai Media Office](https://www.mediaoffice.ae/en/news/2026/march/25-03/dubai-records-strong-performance-in-the-construction-sector)

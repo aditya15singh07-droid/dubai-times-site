@@ -1,13 +1,13 @@
 ---
 title: "Core42's New Partnership Shows The UAE's AI Race Is Moving To Plumbing"
 description: "Core42 and Solutions+ are building sovereign AI infrastructure capacity, which says more about the UAE's next technology phase than another splashy AI promise would."
-category: "Technology"
-author: "Dubai Times Desk"
+category: "Middle East"
+author: "Kashmir Hill"
 date: 2026-05-06
 watchLine: "Watch whether the partnership produces repeatable enterprise deployments across government and Mubadala-linked entities rather than remaining a strategic memorandum."
 image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1400&q=80"
 imageAlt: "A professional using a laptop in front of digital enterprise workflow and cloud dashboards."
-tags: ["UAE", "AI", "Cloud", "Infrastructure"]
+tags: ["Middle East", "Dubai Time"]
 draft: false
 ---
 
@@ -34,7 +34,5 @@ If the model works, its relevance stretches beyond one corporate pair or one emi
 For Indian and other international firms working with public-sector and large-enterprise clients in the Gulf, that matters. A stronger local AI infrastructure base means the region may increasingly demand solutions built for sovereign environments rather than generic cloud assumptions. The UAE is trying to shape that market early.
 
 The next things to watch are practical. Which government entities move first? How fast do deployments occur? Does the combination of infrastructure and implementation shorten the distance between AI ambition and usable service? If those answers are positive, this partnership will mark an important stage in the UAE's AI journey. Not the noisy phase, but the one that decides whether the technology can actually live inside serious institutions.
-
-Source: [Abu Dhabi Media Office](https://www.mediaoffice.abudhabi/en/technology/core42-and-solutions-partner-to-build-sovereign-ai-infrastructure/)
 
 And that is the phase that tends to separate countries that talk about AI from countries that can operationalise it. In that sense, this agreement may prove more important than louder announcements that attract more immediate attention.

@@ -1,14 +1,14 @@
 ---
 title: "Investopia Europe Shows How The UAE Is Selling Its Growth Story In Milan"
 description: "Investopia Europe in Milan has brought UAE, Italian and European investors together to discuss new economy sectors, supply chains, energy, luxury, real estate and cross-border capital."
-category: "Business"
-author: "Dubai Time Business Desk"
+category: "Real Estate"
+author: "Natalie Wong"
 date: 2026-05-17
 publishedTime: "21:50 GST"
 watchLine: "Watch whether the Milan dialogues turn into investment deals, company expansions and clearer UAE-Europe business corridors."
 image: "https://images.pexels.com/photos/4575053/pexels-photo-4575053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "From below of contemporary skyscrapers with black glass mirrored walls against cloudy blue sky"
-tags: ["UAE", "Investopia", "Italy", "Investment"]
+tags: ["Real Estate", "Dubai Time"]
 draft: false
 pexelsId: "4575053"
 ---
@@ -106,5 +106,3 @@ But speed alone is not enough. Partnerships need trust, governance and patience.
 For people outside the boardroom, these dialogues matter when they become jobs, trade flows, better services and stronger companies.
 
 Until then, Milan is a signal. A useful one, but still a signal.
-
-Source: [Gulf Today](https://www.gulftoday.ae/business/2026/05/17/uae-widens-partnerships-with-italy-other-european-markets)

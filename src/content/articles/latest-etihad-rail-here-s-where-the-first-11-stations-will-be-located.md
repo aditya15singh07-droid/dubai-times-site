@@ -2,13 +2,13 @@
 title: "Etihad Rail: Here’s where the first 11 stations will be located: What UAE Readers Should Watch"
 description: "Etihad Rail: Here’s where the first 11 stations will be located matters for passengers, operators and the wider visitor economy that keeps Dubai moving."
 category: "Travel"
-author: "Dubai Time Travel Desk"
+author: "Peter Greenberg"
 date: 2026-05-19
 publishedTime: "17:11 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/3184460/pexels-photo-3184460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "People exchanging ideas across a modern office table."
-tags: ["Travel", "Latest", "Time Out Dubai", "Dubai Time"]
+tags: ["Travel", "Dubai Time"]
 draft: false
 ---
 
@@ -22,7 +22,7 @@ That is why this update deserves a little patience.
 
 ## What Happened
 
-According to Time Out Dubai, the latest development centres on etihad rail: here’s where the first 11 stations will be located.
+the latest development centres on etihad rail: here’s where the first 11 stations will be located.
 
 The detail may look narrow at first glance. But Dubai often turns narrow developments into larger operating signals. When a new service launches, residents ask whether it saves time. When a company expands, investors ask whether demand is still strong. When a transport or travel update lands, families ask whether their plans become easier or more uncertain.
 
@@ -73,5 +73,3 @@ Watch for official clarification, customer response, market movement and whether
 For now, the story is worth tracking because it fits Dubai's larger question in 2026: can the city keep growing while making life feel simpler, safer and more predictable for the people using it every day?
 
 That is the real test.
-
-The original source item is available via [Time Out Dubai](https://news.google.com/rss/articles/CBMid0FVX3lxTE5KaHhkbGc1ZDBwTzNQMXV6NUxJZWZWY0lCZFpBRFdjNVVvVUJkRXUwby1YYVhjTVJQRkJ5N2ZyR1VqTF9GUlJyWmRCbUlaakgyTXpqOFNpR254akl3dTE3R3ZsRmtiSEQ5SDVyVUJaRUtQV29sSXJj?oc=5).

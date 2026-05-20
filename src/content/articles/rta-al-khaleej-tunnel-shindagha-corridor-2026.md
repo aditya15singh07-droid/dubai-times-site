@@ -1,14 +1,14 @@
 ---
 title: "RTA's Al Khaleej Tunnel Reaches 80% As Dubai Pushes Deira Connectivity"
 description: "The 1.65-kilometre Al Khaleej Street tunnel is moving toward completion as part of the wider Al Shindagha Corridor upgrade."
-category: "Dubai"
-author: "Dubai Time City Desk"
+category: "Middle East"
+author: "Kashmir Hill"
 date: 2026-05-17
 publishedTime: "14:20 GST"
 watchLine: "Track peak-hour travel times and whether Deira, Dubai Islands and Port Rashid market the connectivity gain."
 image: "https://images.pexels.com/photos/34842262/pexels-photo-34842262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Engineer in safety gear inspects a subway tunnel under construction, highlighting urban development."
-tags: ["Dubai", "RTA", "Infrastructure", "Transport"]
+tags: ["Middle East", "Dubai Time"]
 draft: false
 pexelsId: "34842262"
 ---
@@ -72,5 +72,3 @@ The older parts of Dubai need this kind of support. Deira and nearby districts c
 For shopkeepers, clinics and restaurants in the catchment, the tunnel may matter in small but real ways. Easier access can bring a customer who previously avoided the route. Over time, those little decisions can change local business confidence.
 
 The best transport upgrades often disappear into routine. People stop praising them because they simply work. That is exactly the kind of success Dubai should want from this corridor.
-
-Source: [Government of Dubai Media Office](https://www.mediaoffice.ae/en/news/2026/may/17-05/rta)

@@ -1,14 +1,14 @@
 ---
 title: "Dubai Is Using Cannes To Sell More Than Sunlight And Skylines"
 description: "The Dubai Films and Games Commission is using Cannes to pitch the emirate as a practical production base with infrastructure, talent and long-term industry intent."
-category: "Lifestyle"
-author: "Dubai Times Culture Desk"
+category: "Entertainment"
+author: "Ramona Shelburne"
 date: 2026-05-19
 publishedTime: "01:40 GST"
 watchLine: "Watch for new productions, studio tie-ups and local crew development after the Cannes outreach concludes."
 image: "https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&w=1400&q=80"
 imageAlt: "Film production setup with camera equipment and lights on set"
-tags: ["Dubai", "Film", "Cannes", "Creative Economy"]
+tags: ["Entertainment", "Dubai Time"]
 draft: false
 ---
 
@@ -69,5 +69,3 @@ If the city can combine its connectivity with dependable film infrastructure, th
 Then Cannes will have served its real purpose.
 
 Not as a glamour stop, but as a marketplace where Dubai began to look like a repeatable production partner.
-
-Source: [Government of Dubai Media Office](https://mediaoffice.ae/en/news/2026/may/18-05/dfgc-spotlights-dubai-growing-film-production-capabilities-at-cannes-film-festival)

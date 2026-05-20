@@ -1,13 +1,13 @@
 ---
 title: "Dubai's May Calendar Turns Gaming, Retail And Eid Into A Lifestyle Economy"
 description: "Dubai's 2026 retail calendar shows how events, shopping, esports, and family experiences are becoming part of the city's everyday economic engine."
-category: "Lifestyle"
-author: "Dubai Time Lifestyle Desk"
+category: "Sport"
+author: "Noma Nazish"
 date: 2026-05-17
 watchLine: "Follow whether gaming, Eid and retail campaigns keep converting attention into mall footfall, hotel demand and sponsor interest."
 image: "https://images.pexels.com/photos/17051853/pexels-photo-17051853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Vibrant mall filled with shoppers, contemporary decor, and stylish fashion outlets."
-tags: ["Dubai", "Retail", "Lifestyle"]
+tags: ["Sport", "Dubai Time"]
 draft: false
 pexelsId: "17051853"
 ---
@@ -69,5 +69,3 @@ The danger is fatigue. Events must feel fresh and useful, not like noise stacked
 Gaming also brings a different customer into the retail story. This audience is younger, sharper and less impressed by old-style promotions. They want community, access and a reason to show up. If Dubai gets that right, gaming can support malls and venues without feeling forced.
 
 For parents, gaming events can also change the meaning of a mall visit. It is no longer only shopping and food courts. It can become a place where children, creators and brands meet. That gives retail spaces a better chance of staying relevant.
-
-Source: Dubai Department of Economy and Tourism.

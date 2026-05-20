@@ -2,13 +2,13 @@
 title: "Dubai Real Estate Price Index records 9.81% growth in 2025: What UAE Readers Should Watch"
 description: "Dubai Real Estate Price Index records 9.81% growth in 2025 adds a fresh marker to Dubai's property cycle, where demand, pricing and trust all move together."
 category: "Real Estate"
-author: "Dubai Time Real Estate Desk"
+author: "Natalie Wong"
 date: 2026-05-20
 publishedTime: "03:57 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/5445453/pexels-photo-5445453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "A family discussing plans at home in warm evening light."
-tags: ["Real Estate", "Latest", "Gulf News", "Dubai Time"]
+tags: ["Real Estate", "Dubai Time"]
 draft: false
 ---
 
@@ -22,7 +22,7 @@ That is why this update deserves a little patience.
 
 ## What Happened
 
-According to Gulf News, the latest development centres on dubai real estate price index records 9.81% growth in 2025.
+the latest development centres on dubai real estate price index records 9.81% growth in 2025.
 
 The detail may look narrow at first glance. But Dubai often turns narrow developments into larger operating signals. When a new service launches, residents ask whether it saves time. When a company expands, investors ask whether demand is still strong. When a transport or travel update lands, families ask whether their plans become easier or more uncertain.
 
@@ -73,5 +73,3 @@ Watch for official clarification, customer response, market movement and whether
 For now, the story is worth tracking because it fits Dubai's larger question in 2026: can the city keep growing while making life feel simpler, safer and more predictable for the people using it every day?
 
 That is the real test.
-
-The original source item is available via [Gulf News](https://news.google.com/rss/articles/CBMivgFBVV95cUxPTVFrNV8yZ1NjZVZobDBWVmNxRzlKS1Z6dklCQTY3dUdhWWM2a3pEdklYOFBaQ1RiczJuc3JPM1JsUE83MkU0aENtV19yQ1huS0RabUhtMlpYdHktNXNNWTRjdEdvVWpDaGFYWUt4SGRmUmxPVTdvTXJuSkI2ZFRaYWwxU2hXZnI3VzFtLWVIZGN2a25nbmVER0pOclM0dXpvblk5UTNza0pxODhic212cl9PRTZBU0tZZzQ1OWlB0gG-AUFVX3lxTE9NUWs1XzJnU2NlVmhsMFZWY3FHOUpLVnp2SUJBNjd1R2FZYzZrekR2SVg4UFpDVGJzMm5zck8zUmxQTzcyRTRoQ21XX3JDWG5LRFptSG0yWlh0eS01c01ZNGN0R29VakNoYVhZS3hIZGZSbE9VN29Ncm5KQjZkVFphbDFTaFdmcjdXMW0tZUhkY3ZrbmduZURHSk5yUzR1em9uWTlRM3NrSnE4OGJzbXZyX09FNkFTS1lnNDU5aUE?oc=5).

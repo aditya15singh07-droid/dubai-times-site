@@ -1,14 +1,14 @@
 ---
 title: "Jebel Ali Port Shows Why Dubai's Trade Engine Still Matters"
 description: "A review of Jebel Ali Port's operations puts the spotlight back on the infrastructure that keeps Dubai connected to global trade, shipping and supply chains."
-category: "Business"
-author: "Dubai Time Business Desk"
+category: "International"
+author: "Yaroslav Trofimov"
 date: 2026-05-17
 publishedTime: "20:45 GST"
 watchLine: "Watch how Jebel Ali's capacity, automation and logistics links support Dubai's next phase of trade-led growth."
 image: "https://images.pexels.com/photos/3856433/pexels-photo-3856433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Aerial shot of colorful shipping containers at North Jakarta's bustling port, Indonesia."
-tags: ["Dubai", "Jebel Ali", "Trade", "Logistics"]
+tags: ["International", "Dubai Time"]
 draft: false
 pexelsId: "3856433"
 ---
@@ -96,5 +96,3 @@ So Jebel Ali remains one of Dubai's most important economic assets. It is not ju
 ## The Line To Remember
 
 A port does not need to be glamorous to be powerful. Jebel Ali's job is to keep Dubai useful, and that usefulness is the city's real advantage.
-
-Source: [Government of Dubai Media Office](https://mediaoffice.ae/en/news/2026/may/17-05/hamdan-bin-mohammed-reviews-operations-and-key-developments-at-jebel-ali-port)

@@ -1,13 +1,13 @@
 ---
 title: "Dubai's New Home Lottery Is Also A Test Of Belonging"
 description: "Dubai has launched a citywide home giveaway linked to retail spending, but the bigger story is how the city is trying to turn consumption into long-term attachment."
-category: "Lifestyle"
-author: "Dubai Times Desk"
+category: "Real Estate"
+author: "Natalie Wong"
 date: 2026-05-19
 watchLine: "Watch whether the campaign drives real middle-class engagement, retail footfall and a wider conversation about attainable home ownership in Dubai."
 image: "https://images.pexels.com/photos/7937364/pexels-photo-7937364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Prospective homebuyers walking through a modern residential interior in Dubai."
-tags: ["Dubai", "Retail", "Housing", "Lifestyle"]
+tags: ["Real Estate", "Dubai Time"]
 draft: false
 ---
 
@@ -34,5 +34,3 @@ The most interesting thing about this initiative may be what it says about how D
 For Indian and wider South Asian readers, that nuance is important. Dubai's relationship with the subcontinent is not built only on tourism or luxury. It is built on migrants who made careers, built family routines and supported businesses for decades. A campaign like this speaks directly to that social reality. It says the city understands that long-term attachment is not created by policy papers alone. It is created when people can imagine themselves not just passing through, but putting down emotional and financial roots.
 
 If the campaign works, the headline will not only be a few apartment handovers. The stronger signal will be whether Dubai manages to lift retail traffic, widen consumer optimism and deepen the public sense that the city still has room for aspiration beyond the ultra-rich. In a place where many people measure time by lease renewals, visa renewals and school terms, the smartest part of this campaign is not the prize value. It is the suggestion that ordinary spending might connect to a more settled future. That is a powerful story if Dubai can make it feel real.
-
-Source: [Government of Dubai Media Office](https://www.mediaoffice.ae/en/news/2026/may/19-05/dubai-launches-win-your-home-in-dubai)

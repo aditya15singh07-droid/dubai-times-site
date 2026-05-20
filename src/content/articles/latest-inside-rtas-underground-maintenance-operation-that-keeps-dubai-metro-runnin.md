@@ -2,13 +2,13 @@
 title: "Inside RTA's underground maintenance operation that keeps Dubai Metro running safely: What UAE Readers Should Watch"
 description: "Inside RTA's underground maintenance operation that keeps Dubai Metro running safely matters for passengers, operators and the wider visitor economy that keeps Dubai moving."
 category: "Travel"
-author: "Dubai Time Travel Desk"
+author: "Peter Greenberg"
 date: 2026-05-19
 publishedTime: "14:39 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/358220/pexels-photo-358220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "An aircraft wing above clouds during travel."
-tags: ["Travel", "Latest", "Khaleej Times", "Dubai Time"]
+tags: ["Travel", "Dubai Time"]
 draft: false
 ---
 
@@ -22,7 +22,7 @@ That is why this update deserves a little patience.
 
 ## What Happened
 
-According to Khaleej Times, the latest development centres on inside rta's underground maintenance operation that keeps dubai metro running safely.
+the latest development centres on inside rta's underground maintenance operation that keeps dubai metro running safely.
 
 The detail may look narrow at first glance. But Dubai often turns narrow developments into larger operating signals. When a new service launches, residents ask whether it saves time. When a company expands, investors ask whether demand is still strong. When a transport or travel update lands, families ask whether their plans become easier or more uncertain.
 
@@ -73,5 +73,3 @@ Watch for official clarification, customer response, market movement and whether
 For now, the story is worth tracking because it fits Dubai's larger question in 2026: can the city keep growing while making life feel simpler, safer and more predictable for the people using it every day?
 
 That is the real test.
-
-The original source item is available via [Khaleej Times](https://news.google.com/rss/articles/CBMipwFBVV95cUxQaTJqcmprMDlDSHFPOEFjSC1jWktNQWh2alQwODM2bVZSc21tblI0MU1SaFhRYnpyd3h3TmZJMXZaYml3RzFkNUxodzlXdWlNWWctMDNUZEFPbzQzY0I2Q2VWRHlMRFdZc3Q5c1JXUGQ5bVRqRk1XTEswaVF0TmN2MDFhRDFCX0FXWndlYVRDTVlhX243QWxYZW9wRFlFdGRyV2RXRFhzONIBpwFBVV95cUxQaTJqcmprMDlDSHFPOEFjSC1jWktNQWh2alQwODM2bVZSc21tblI0MU1SaFhRYnpyd3h3TmZJMXZaYml3RzFkNUxodzlXdWlNWWctMDNUZEFPbzQzY0I2Q2VWRHlMRFdZc3Q5c1JXUGQ5bVRqRk1XTEswaVF0TmN2MDFhRDFCX0FXWndlYVRDTVlhX243QWxYZW9wRFlFdGRyV2RXRFhzOA?oc=5).

@@ -1,14 +1,14 @@
 ---
 title: "Dubai Holding's Microsoft Deal Shows AI Is Moving From Pilot To Operating System"
 description: "Dubai Holding says it will embed AI across core operations with Microsoft support, signalling a bigger shift from experiments to enterprise-wide deployment."
-category: "Technology"
-author: "Dubai Times Technology Desk"
+category: "Business"
+author: "Andrew Ross Sorkin"
 date: 2026-05-19
 publishedTime: "01:10 GST"
 watchLine: "Watch whether Dubai Holding names concrete use cases, productivity gains and governance rules over the next two quarters."
 image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1400&q=80"
 imageAlt: "Professional using a laptop with digital workflow dashboards in the background"
-tags: ["Dubai", "Dubai Holding", "Microsoft", "AI"]
+tags: ["Business", "Dubai Time"]
 draft: false
 ---
 
@@ -67,5 +67,3 @@ It is becoming a management choice with consequences. Dubai Holding is effective
 If they do, the partnership may become a template for how Dubai's largest companies modernise.
 
 If they do not, it will join a long list of announcements that sounded bigger than the working reality underneath them.
-
-Source: [Dubai Holding](https://www.dubaiholding.com/en/media-hub/press-releases/dubai-holding-to-deliver-first-enterprise-scale-ai-deployment-of-its-kind-in-the-middle-east-and-africa-supported-by-microsoft)

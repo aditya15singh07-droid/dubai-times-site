@@ -1,14 +1,14 @@
 ---
 title: "UAE’s ABAI and SignSplit Science announce strategic partnership on AI, blockchain & research data protection: What UAE Readers Should Watch"
 description: "UAE’s ABAI and SignSplit Science announce strategic partnership on AI, blockchain & research data protection shows how quickly AI, digital services and data rules are entering everyday UAE decisions."
-category: "Technology"
-author: "Dubai Time Technology Desk"
+category: "Crypto"
+author: "David Yaffe-Bellany"
 date: 2026-05-20
 publishedTime: "08:48 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Business editors reviewing a developing story in a modern office."
-tags: ["Technology", "Latest", "ZAWYA", "Dubai Time"]
+tags: ["Crypto", "Dubai Time"]
 draft: false
 ---
 
@@ -22,7 +22,7 @@ That is why this update deserves a little patience.
 
 ## What Happened
 
-According to ZAWYA, the latest development centres on uae’s abai and signsplit science announce strategic partnership on ai, blockchain & research data protection.
+the latest development centres on uae’s abai and signsplit science announce strategic partnership on ai, blockchain & research data protection.
 
 The detail may look narrow at first glance. But Dubai often turns narrow developments into larger operating signals. When a new service launches, residents ask whether it saves time. When a company expands, investors ask whether demand is still strong. When a transport or travel update lands, families ask whether their plans become easier or more uncertain.
 
@@ -73,5 +73,3 @@ Watch for official clarification, customer response, market movement and whether
 For now, the story is worth tracking because it fits Dubai's larger question in 2026: can the city keep growing while making life feel simpler, safer and more predictable for the people using it every day?
 
 That is the real test.
-
-The original source item is available via [ZAWYA](https://news.google.com/rss/articles/CBMigAJBVV95cUxOQ1RZWlZKeDJDOWFnOWxjdHRKQmh4SEFRNnQyd1Z2WmdCVHhwRlRDRkIxY2hZSEVWTnFadldISkRtczJ2ZnJHWG1Id2dLeWJjQXhRVWRCdlFoOE5nQU5NQWYyT2swTUctZVNZaVRoZFRmX3podWRSWU1sQmhNYVd1dnNGbTZhdE44aGp0bjZUaVhNdG1MQlFuVE1xVm51amhvY1poS3YzSjJEXzBuYjMtcy1VdE5VVFQ1bmozVXotbGppTEtXM3hIdE1WZENjT0VwTFA5OGZkVnhSeUN0a1lMV2otZ0VkRGZHT0VGZzZ3azRuRk1lUkZmRzVkSnRzVGVS?oc=5).

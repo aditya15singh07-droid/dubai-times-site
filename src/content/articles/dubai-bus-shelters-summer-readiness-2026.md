@@ -1,14 +1,14 @@
 ---
 title: "Dubai's Bus Shelters Are A Small Summer Story With A Big Public Impact"
 description: "RTA's summer checks on 895 air-conditioned bus shelters show how comfort can decide whether people actually trust public transport."
-category: "Travel"
-author: "Dubai Time Travel Desk"
+category: "Sport"
+author: "Noma Nazish"
 date: 2026-05-18
 publishedTime: "12:31 GST"
 watchLine: "Watch whether shelter maintenance improves rider confidence during the hottest months of the year."
 image: "https://images.pexels.com/photos/10574771/pexels-photo-10574771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "A group of commuters waiting at an urban bus stop."
-tags: ["Dubai", "RTA", "Buses", "Summer", "Public Transport"]
+tags: ["Sport", "Dubai Time"]
 draft: false
 pexelsId: "10574771"
 ---

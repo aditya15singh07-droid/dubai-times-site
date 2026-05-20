@@ -1,14 +1,14 @@
 ---
 title: "Dubai South's New Healthcare Logistics Bet Shows Cold-Chain Capacity Is Becoming Strategic"
 description: "Hellmann Calipar Healthcare Logistics has opened a new Dubai South distribution facility, adding specialised storage and compliance capacity for sensitive medical products."
-category: "Business"
-author: "Dubai Times Business Desk"
+category: "Health"
+author: "Dr. Sanjay Gupta"
 date: 2026-05-19
 publishedTime: "09:50 GST"
 watchLine: "Watch whether specialised healthcare logistics becomes a bigger competitive edge for Dubai South's regional supply chain pitch."
 image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1400&q=80"
 imageAlt: "Warehouse aisle with pallets and supply chain equipment"
-tags: ["Dubai", "Healthcare", "Logistics", "Dubai South"]
+tags: ["Health", "Dubai Time"]
 draft: false
 ---
 
@@ -65,5 +65,3 @@ It also gives Dubai South a more defensible story in a crowded logistics market.
 That is the standard the new facility will now have to live up to. If it performs well, it strengthens the case for Dubai as a healthcare logistics bridge between Asia, the Gulf and Africa. If it struggles, the market will quickly expose the gap between infrastructure claims and operational reality.
 
 That is precisely why specialised logistics capacity is becoming a strategic test, not just a warehouse metric.
-
-Source: [Dubai South](https://www.dubaisouth.ae/en/newsroom/dubai-south-welcomes-new-distribution-facility-by-hellmann-calipar-healthcare-logistics-at-the-logistics-district)

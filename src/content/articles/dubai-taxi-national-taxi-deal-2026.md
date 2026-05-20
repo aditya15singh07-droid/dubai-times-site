@@ -1,13 +1,13 @@
 ---
 title: "Dubai Taxi's National Taxi Deal Is Really A UAE Scale Story"
 description: "Dubai Taxi Company's planned acquisition of National Taxi is formally a corporate deal, but the bigger issue is how mobility platforms are consolidating across emirates."
-category: "Business"
-author: "Dubai Times Desk"
+category: "Travel"
+author: "Peter Greenberg"
 date: 2026-05-13
 watchLine: "Watch the regulatory approvals, integration pace and whether service quality improves as DTC expands beyond its Dubai core."
 image: "https://images.pexels.com/photos/4430911/pexels-photo-4430911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Passengers moving through a modern transport interchange during the morning rush."
-tags: ["Dubai", "Taxi", "Business", "Mobility"]
+tags: ["Travel", "Dubai Time"]
 draft: false
 ---
 
@@ -34,5 +34,3 @@ There is a wider UAE story underneath this. As cities across the Emirates grow a
 For Indian readers, the comparison is familiar. Transport networks only become real in daily life when they are dependable during the unglamorous hours and in the non-premium use cases. The airport photo-op is easy. The 6.30 am booking in summer heat is harder. DTC's challenge after this acquisition will be to prove that bigger means steadier, not just richer. If it can do that, the company could become a serious UAE-wide mobility institution rather than merely a Dubai success story.
 
 The next steps are clear: regulatory approvals in Dubai and Abu Dhabi, financing discipline, brand management and operational integration. But the truest measure will be much simpler. Do riders get faster, more predictable service? Do drivers experience smoother systems? Does a multi-emirate network feel coherent rather than stitched together? If the answer becomes yes, then the National Taxi deal will mark more than a corporate milestone. It will show that the UAE mobility market is entering a new phase where scale, technology and urban growth are beginning to move together.
-
-Source: [Dubai Taxi Company](https://www.dubaitaxi.ae/en/post/dubai-taxi-company-to-acquire-national-taxi)

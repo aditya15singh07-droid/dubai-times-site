@@ -1,13 +1,13 @@
 ---
 title: "The UAE’s Return To In-Person Higher Education Is About More Than Attendance"
 description: "MOHESR has resumed in-person learning from 11 May, and the move matters because universities lose something important when disruption keeps students away too long."
-category: "UAE"
-author: "Dubai Time UAE Desk"
+category: "Middle East"
+author: "Kashmir Hill"
 date: 2026-05-18
 watchLine: "Watch whether universities settle quickly into normal academic calendars and whether practical courses recover lost momentum."
 image: "https://images.pexels.com/photos/8197505/pexels-photo-8197505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Students of various backgrounds attentively listening in a university lecture hall."
-tags: ["UAE", "Education", "Universities", "Students"]
+tags: ["Middle East", "Dubai Time"]
 draft: false
 pexelsId: "8197505"
 ---
@@ -101,5 +101,3 @@ It is also about belonging to a serious learning environment.
 Students across the UAE are now walking back into that environment.
 
 That should help the rest of the academic year breathe a little easier.
-
-Source: [Ministry of Higher Education and Scientific Research](https://mohesr.gov.ae/En/MediaCenter/News/Pages/MOHESR-announces-the-resumption-of-in-person-learning.aspx)

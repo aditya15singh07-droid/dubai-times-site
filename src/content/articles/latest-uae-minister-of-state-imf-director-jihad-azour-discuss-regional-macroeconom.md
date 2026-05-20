@@ -1,14 +1,14 @@
 ---
 title: "UAE Minister of State, IMF Director Jihad Azour discuss regional macroeconomic stability in Dubai: What UAE Readers Should Watch"
 description: "UAE Minister of State, IMF Director Jihad Azour discuss regional macroeconomic stability in Dubai signals another turn in how capital, customers and confidence are moving across the UAE."
-category: "Business"
-author: "Dubai Time Business Desk"
+category: "International"
+author: "Yaroslav Trofimov"
 date: 2026-05-19
 publishedTime: "17:13 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/3184431/pexels-photo-3184431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Executives checking a project plan in a meeting room."
-tags: ["Business", "Latest", "Economy Middle East", "Dubai Time"]
+tags: ["International", "Dubai Time"]
 draft: false
 ---
 
@@ -22,7 +22,7 @@ That is why this update deserves a little patience.
 
 ## What Happened
 
-According to Economy Middle East, the latest development centres on uae minister of state, imf director jihad azour discuss regional macroeconomic stability in dubai.
+the latest development centres on uae minister of state, imf director jihad azour discuss regional macroeconomic stability in dubai.
 
 The detail may look narrow at first glance. But Dubai often turns narrow developments into larger operating signals. When a new service launches, residents ask whether it saves time. When a company expands, investors ask whether demand is still strong. When a transport or travel update lands, families ask whether their plans become easier or more uncertain.
 
@@ -73,5 +73,3 @@ Watch for official clarification, customer response, market movement and whether
 For now, the story is worth tracking because it fits Dubai's larger question in 2026: can the city keep growing while making life feel simpler, safer and more predictable for the people using it every day?
 
 That is the real test.
-
-The original source item is available via [Economy Middle East](https://news.google.com/rss/articles/CBMizAFBVV95cUxOUklvZnVLczJLSDBlN2FwN2QybzlHeW5iZVVYX1hmbXBsdExWbXdfbUdkSk5MeFliNGVuMXhyc2tCNzlEMldlLXBtOFNOU3ZJRkw5YzdvekFjNUVoU1lDVEUxeHgtWkdLbmtWUFlVYVdiQlh2MHpRQWFfc2tUYlpmbGRwZUJoUXV3c1FtcUxnajBDMWNLcmJBRFFsVFhMbnk4ZFJtR21ZVENCVkFkem5xbWlPN0JHczhILWNUb3M3UUR3MFBKamktWEplWjU?oc=5).

@@ -2,12 +2,12 @@
 title: "UAE Industrial Push Gains Scale As Make It In The Emirates Closes Record Edition"
 description: "Make it in the Emirates 2026 drew more visitors, more agreements, and a sharper industrial message for investors watching the UAE's non-oil economy."
 category: "Business"
-author: "Dubai Time Business Desk"
+author: "Andrew Ross Sorkin"
 date: 2026-05-17
 watchLine: "Watch whether offtake agreements and industrial funds become factories, jobs, supply contracts and exportable products."
 image: "https://images.pexels.com/photos/7413996/pexels-photo-7413996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Startup brainstorming with charts, colorful sticky notes, and planning strategies for success."
-tags: ["UAE", "Industry", "Investment"]
+tags: ["Business", "Dubai Time"]
 draft: false
 pexelsId: "7413996"
 ---
@@ -71,7 +71,5 @@ For workers, industrial growth can create a different kind of career path. Not e
 Food security adds another layer. When countries can produce more of what they need, they become less exposed to outside shocks. That does not mean shutting the door on trade. It means having more options when global supply chains misbehave.
 
 Investors will also watch power, land, labour and regulation. A factory is a long commitment. The easier those basics become, the more believable the industrial story will feel.
-
-Source: WAM via Aletihad.
 
 The next six months will show whether the policy mood reaches actual factories and supply chains.

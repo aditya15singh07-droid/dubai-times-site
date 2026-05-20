@@ -2,12 +2,12 @@
 title: "Sphere Abu Dhabi Is A Tourism Bet, But Also A Confidence Signal"
 description: "Abu Dhabi's decision to bring Sphere to Yas Island is a cultural and tourism play, but it also reflects the emirate's long-term confidence in large-scale destination building."
 category: "Travel"
-author: "Dubai Times Desk"
+author: "Peter Greenberg"
 date: 2026-05-14
 watchLine: "Watch how Abu Dhabi integrates the project into its broader tourism ecosystem and whether the venue helps lengthen visitor stays once construction is complete."
 image: "https://images.pexels.com/photos/31703898/pexels-photo-31703898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "A lively entertainment crowd scene representing large-scale destination tourism."
-tags: ["Abu Dhabi", "Travel", "Tourism", "Entertainment"]
+tags: ["Travel", "Dubai Time"]
 draft: false
 ---
 
@@ -34,5 +34,3 @@ There is also a capital-markets and investor-readability angle here. Large desti
 For Indian readers, that is a useful lens. The UAE's visitor economy is evolving from shopping-and-stopover strength into something more diversified and experience-led. That evolution benefits travellers who want more reasons to stay longer and businesses that service longer stays. Sphere Abu Dhabi fits that shift. It is not just an architectural trophy. It is a bid to deepen the region's entertainment economy.
 
 What to watch now is how Abu Dhabi folds this project into its wider tourism planning over the next few years. If the venue becomes a strong anchor within a well-connected Yas Island itinerary, the US$1.7 billion bet may look well judged. If it lands as a striking object without repeat pull, the economics will be harder to defend. For now, the bigger takeaway is this: Abu Dhabi is still building with a very long horizon, and it remains willing to spend heavily to shape what that future could look like.
-
-Source: [Abu Dhabi Media Office](https://www.mediaoffice.abudhabi/en/tourism/sphere-abu-dhabi-to-open-on-yas-island-in-landmark-project/)

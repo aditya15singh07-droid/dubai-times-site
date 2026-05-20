@@ -2,12 +2,12 @@
 title: "Dubai’s Property Story Is Moving From Towers To Tech"
 description: "The arrival of PropTech Connect Middle East in DIFC says something larger about where Dubai wants the next phase of its real estate ecosystem to go."
 category: "Real Estate"
-author: "Dubai Time Real Estate Desk"
+author: "Natalie Wong"
 date: 2026-05-18
 watchLine: "Watch whether Dubai Land Department converts proptech attention into licensing, pilots, investment and wider adoption by developers and brokers."
 image: "https://images.pexels.com/photos/15478136/pexels-photo-15478136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Modern skyscrapers stand tall against a clear blue sky in a vibrant cityscape, showcasing urban architecture."
-tags: ["Dubai", "Real Estate", "PropTech", "DIFC"]
+tags: ["Real Estate", "Dubai Time"]
 draft: false
 pexelsId: "15478136"
 ---
@@ -103,5 +103,3 @@ That is what makes this development worth watching.
 The city seems to understand that the next property race will not be won only by who builds faster or sells higher. It will also be won by who makes a complex market easier to trust and easier to use.
 
 For Dubai, that may be the more durable advantage.
-
-Source: [Government of Dubai Media Office](https://www.mediaoffice.ae/en/news/2026/may/14-05/proptech-connect-middle-east)

@@ -1,13 +1,13 @@
 ---
 title: "Dubai Opens Another Trade Centre Bridge, With A Bigger Promise Than Concrete"
 description: "A new 500-metre bridge near the World Trade Centre aims to cut a short trip from eight minutes to two, but the deeper question is how fast Dubai can stay ahead of traffic."
-category: "Dubai"
-author: "Dubai Time Dubai Desk"
+category: "International"
+author: "Yaroslav Trofimov"
 date: 2026-05-18
 watchLine: "Watch whether the full six-bridge package meaningfully eases peak-hour pressure around Sheikh Zayed Road and Al Mustaqbal Street."
 image: "https://images.pexels.com/photos/37089595/pexels-photo-37089595.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "View of the Binondo-Intramuros Bridge in Manila, Philippines, with modern architecture backdrop."
-tags: ["Dubai", "RTA", "Roads", "Traffic"]
+tags: ["International", "Dubai Time"]
 draft: false
 pexelsId: "37089595"
 ---
@@ -99,5 +99,3 @@ For now, the most important detail may be the simplest one. A short trip that us
 In a city like Dubai, that is not a minor engineering note.
 
 It is a quality-of-life claim.
-
-Source: [Government of Dubai Media Office](https://www.mediaoffice.ae/en/news/2026/may/09-05/rta-opens-a-new-500-metre-bridge)

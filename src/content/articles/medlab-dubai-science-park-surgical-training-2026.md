@@ -1,14 +1,14 @@
 ---
 title: "MedLab's New Dubai Facility Suggests Health Infrastructure Is Getting More Specialised"
 description: "A new surgical training hub at Dubai Science Park points to the kind of niche medical capability Dubai wants to build around education, healthcare and life sciences."
-category: "Lifestyle"
-author: "Dubai Times Health Desk"
+category: "Health"
+author: "Dr. Sanjay Gupta"
 date: 2026-05-18
 publishedTime: "02:50 GST"
 watchLine: "Watch whether the centre attracts more regional clinicians and deeper partnerships with hospitals and medical device companies."
 image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1400&q=80"
 imageAlt: "Medical training room with surgical lights and equipment"
-tags: ["Dubai", "Health", "Medical Education", "Science Park"]
+tags: ["Health", "Dubai Time"]
 draft: false
 ---
 
@@ -59,5 +59,3 @@ For residents, that could mean access to a more skilled medical community. For t
 That is what makes this launch worth watching.
 
 It is not glamorous like a hospital opening or a major care announcement. But it may prove more durable if it helps shape the professionals who do the actual work.
-
-Source: [Government of Dubai Media Office](https://mediaoffice.ae/en/news/2026/may/14-05/medlab-strengthens-middle-east-healthcare-sector-with-new-surgical-training-hub)

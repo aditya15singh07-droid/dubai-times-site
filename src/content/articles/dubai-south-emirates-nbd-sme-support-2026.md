@@ -2,13 +2,13 @@
 title: "Dubai South And Emirates NBD Want SMEs To Spend Less Time Fighting Banking Friction"
 description: "A new Dubai South-Emirates NBD deal aims to streamline account opening and banking access for SMEs, targeting one of the most annoying bottlenecks in business setup."
 category: "Business"
-author: "Dubai Times Business Desk"
+author: "Andrew Ross Sorkin"
 date: 2026-05-19
 publishedTime: "09:40 GST"
 watchLine: "Watch whether the partnership actually cuts onboarding delays for new companies inside Dubai South."
 image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=1400&q=80"
 imageAlt: "Business owner reviewing financial documents at a desk"
-tags: ["Dubai", "Dubai South", "SME", "Banking"]
+tags: ["Business", "Dubai Time"]
 draft: false
 ---
 
@@ -69,5 +69,3 @@ Big companies make statements. SMEs create density. And density is what eventual
 If Dubai South can make that density easier to build, the agreement will have done more than help a few founders open accounts faster. It will have addressed one of the unglamorous but decisive pieces of business confidence.
 
 That would be a better legacy than another generic business-friendly slogan. Founders usually remember the systems that saved them time, not the ones that merely promised support in polished language.
-
-Source: [Dubai South](https://www.dubaisouth.ae/en/newsroom/dubai-south-signs-mou-with-emirates-nbd-to-support-business-community)

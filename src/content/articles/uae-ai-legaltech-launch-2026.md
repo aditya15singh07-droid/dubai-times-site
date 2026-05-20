@@ -1,13 +1,13 @@
 ---
 title: "A UAE LegalTech Launch Shows AI Is Moving Into Regulated, Messy Work"
 description: "Legaline's launch in the UAE suggests AI is moving beyond demos and into the layered, multilingual, regulation-heavy work that defines real business operations."
-category: "Technology"
-author: "Dubai Times Desk"
+category: "Business"
+author: "Andrew Ross Sorkin"
 date: 2026-05-06
 watchLine: "Watch whether lawyers and SME clients actually adopt the platform and whether trust in its jurisdiction-specific AI proves durable."
 image: "https://images.pexels.com/photos/5480781/pexels-photo-5480781.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Server infrastructure and data systems used to power enterprise software tools."
-tags: ["UAE", "AI", "LegalTech", "Technology"]
+tags: ["Business", "Dubai Time"]
 draft: false
 ---
 
@@ -34,5 +34,3 @@ The UAE is an unusually interesting place for products like this because it comb
 For Indian and regional business communities, that matters. Much of the entrepreneurial value of the UAE comes from how quickly companies can set up and start operating. But speed on the front end often collides with legal and regulatory questions on the back end. A useful legaltech layer could therefore strengthen one of the country's core competitive advantages.
 
 The next signal to watch is not media interest. It is usage. Do licensed lawyers sign up? Do SME clients find the auction-and-execution model intuitive? Does the jurisdiction-specific research layer save real hours? If adoption takes hold, this launch will look like a sign that AI in the UAE is entering a more mature phase, one where the technology is judged not by novelty but by whether it can survive inside messy, regulated work.
-
-Source: [Gulf Business](https://gulfbusiness.com/en/2026/legal/uae-launches-first-ai-native-legaltech-platform/)

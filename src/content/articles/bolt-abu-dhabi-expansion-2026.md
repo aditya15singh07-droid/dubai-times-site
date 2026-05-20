@@ -1,13 +1,13 @@
 ---
 title: "Bolt's Abu Dhabi Move Shows App Mobility Is Becoming A Multi-City Habit"
 description: "Bolt's entry into Abu Dhabi through its Dubai Taxi Company partnership is a small market move with larger implications for how residents now expect urban transport to work."
-category: "Travel"
-author: "Dubai Times Desk"
+category: "Sport"
+author: "Noma Nazish"
 date: 2026-05-18
 watchLine: "Watch whether app-based mobility adoption deepens in Abu Dhabi and whether cross-city expansion starts to change rider expectations across the UAE."
 image: "https://images.pexels.com/photos/8554428/pexels-photo-8554428.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Commuters walking through a metro-style station while checking travel plans on their phones."
-tags: ["UAE", "Travel", "Ride Hailing", "Technology"]
+tags: ["Sport", "Dubai Time"]
 draft: false
 ---
 
@@ -34,5 +34,3 @@ There is also a policy angle worth noticing. As mobility options multiply across
 For a UAE audience with strong ties to India, the lesson is familiar. Digital transport platforms change behaviour very quickly once scale arrives. They alter how people think about time, safety, family logistics and late-night movement. Abu Dhabi may not mirror Dubai exactly, but the direction is similar. As the service ecosystem matures, residents begin to treat on-demand mobility not as an upgrade, but as part of normal city function.
 
 The question now is whether Bolt can become part of that normal function in Abu Dhabi. If ridership builds steadily, if drivers find the economics workable and if app reliability holds up in the capital's daily rhythm, this expansion will look like more than a commercial rollout. It will look like another step toward a UAE where urban movement feels more connected, less city-bound and more confidently digital. That would be good news not only for one platform, but for anyone who wants travel between the country's major centres to feel simpler and less stressful.
-
-Source: [Dubai Taxi Company](https://www.dubaitaxi.ae/en/post/bolt-expands-into-the-uae-capital)

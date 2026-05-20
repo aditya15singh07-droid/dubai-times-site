@@ -1,14 +1,14 @@
 ---
 title: "EDS unveils ‘Green Advertising’ in Dubai, pioneering sustainable outdoor media across the UAE: What UAE Readers Should Watch"
 description: "EDS unveils ‘Green Advertising’ in Dubai, pioneering sustainable outdoor media across the UAE could affect residents directly, from public services and safety to daily planning across the Emirates."
-category: "UAE"
-author: "Dubai Time UAE Desk"
+category: "Middle East"
+author: "Kashmir Hill"
 date: 2026-05-19
 publishedTime: "16:11 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/3760067/pexels-photo-3760067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Modern urban towers photographed in soft daylight."
-tags: ["UAE", "Latest", "Gulf News", "Dubai Time"]
+tags: ["Middle East", "Dubai Time"]
 draft: false
 ---
 
@@ -22,7 +22,7 @@ That is why this update deserves a little patience.
 
 ## What Happened
 
-According to Gulf News, the latest development centres on eds unveils ‘green advertising’ in dubai, pioneering sustainable outdoor media across the uae.
+the latest development centres on eds unveils ‘green advertising’ in dubai, pioneering sustainable outdoor media across the uae.
 
 The detail may look narrow at first glance. But Dubai often turns narrow developments into larger operating signals. When a new service launches, residents ask whether it saves time. When a company expands, investors ask whether demand is still strong. When a transport or travel update lands, families ask whether their plans become easier or more uncertain.
 
@@ -73,5 +73,3 @@ Watch for official clarification, customer response, market movement and whether
 For now, the story is worth tracking because it fits Dubai's larger question in 2026: can the city keep growing while making life feel simpler, safer and more predictable for the people using it every day?
 
 That is the real test.
-
-The original source item is available via [Gulf News](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTFN2QnFteFF1bDNWTzZpX21iR0RRbzlXTS1BQ0dVVHZEUEFKOW41bnZqbEZTbklHNnA2dE5jNTR0RHJhNThLWTFrTHYyVUhKSHJGamJlRXNKVWx5X1l3Sjg3WTBHYjY4UGlNa3hyZWZHOXhUQkVEaTJnZnJuYkhlZlhnYklLZ1JJWm1MdXQ5R3g5VzdEdUhuMW10dE1odXhkbHJ5X2pYXzg3dV90OW92dVE5cjZMVFJkUmpSbksyR2UzanJMekgtTVVRaEVmblREOUR0cXdHaUtBQ281d0VxdQ?oc=5).

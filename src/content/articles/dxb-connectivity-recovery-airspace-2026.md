@@ -2,12 +2,12 @@
 title: "DXB Stayed Open Through Disruption. That Matters To More Than Travellers"
 description: "Dubai Airports says DXB kept moving through a difficult regional period, and the deeper significance lies in what that continuity means for trade, transit and confidence."
 category: "Travel"
-author: "Dubai Time Travel Desk"
+author: "Peter Greenberg"
 date: 2026-05-18
 watchLine: "Watch whether route recovery restores transfer traffic quickly and whether summer demand exposes any new capacity bottlenecks."
 image: "https://images.pexels.com/photos/36346327/pexels-photo-36346327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "A fast-moving train at Holmes Chapel Station in England, capturing travel and motion."
-tags: ["Dubai", "DXB", "Travel", "Aviation"]
+tags: ["Travel", "Dubai Time"]
 draft: false
 pexelsId: "36346327"
 ---
@@ -85,5 +85,3 @@ Because in an aviation hub, resilience is not judged by whether turbulence exist
 DXB appears to have done that.
 
 Now it has to prove that continuity can become momentum again.
-
-Source: [Government of Dubai Media Office](https://prod.mediaoffice.ae/en/news/2026/may/04-05/dubai-international-dxb)

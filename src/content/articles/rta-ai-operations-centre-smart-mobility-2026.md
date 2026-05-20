@@ -1,14 +1,14 @@
 ---
 title: "RTA's AI Operations Centre Shows Where Smart Mobility Really Begins"
 description: "RTA's Technology Operation Control Centre is not just a back-room upgrade. It is the digital plumbing that keeps Dubai's transport services reliable."
-category: "Technology"
-author: "Dubai Time Technology Desk"
+category: "Sport"
+author: "Noma Nazish"
 date: 2026-05-18
 publishedTime: "12:38 GST"
 watchLine: "Watch whether AI improves response time, service continuity and everyday reliability across Dubai's transport network."
 image: "https://images.pexels.com/photos/27075258/pexels-photo-27075258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Digital financial and operational charts displayed on office screens."
-tags: ["Dubai", "RTA", "AI", "Smart Mobility", "Technology"]
+tags: ["Sport", "Dubai Time"]
 draft: false
 pexelsId: "27075258"
 ---

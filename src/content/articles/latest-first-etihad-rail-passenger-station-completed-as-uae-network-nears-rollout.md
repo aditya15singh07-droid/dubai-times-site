@@ -2,13 +2,13 @@
 title: "First Etihad Rail passenger station completed as UAE network nears rollout: What UAE Readers Should Watch"
 description: "First Etihad Rail passenger station completed as UAE network nears rollout matters for passengers, operators and the wider visitor economy that keeps Dubai moving."
 category: "Travel"
-author: "Dubai Time Travel Desk"
+author: "Peter Greenberg"
 date: 2026-05-19
 publishedTime: "15:43 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/1181396/pexels-photo-1181396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "A group discussing strategy in a clean corporate office."
-tags: ["Travel", "Latest", "Gulf News", "Dubai Time"]
+tags: ["Travel", "Dubai Time"]
 draft: false
 ---
 
@@ -22,7 +22,7 @@ That is why this update deserves a little patience.
 
 ## What Happened
 
-According to Gulf News, the latest development centres on first etihad rail passenger station completed as uae network nears rollout.
+the latest development centres on first etihad rail passenger station completed as uae network nears rollout.
 
 The detail may look narrow at first glance. But Dubai often turns narrow developments into larger operating signals. When a new service launches, residents ask whether it saves time. When a company expands, investors ask whether demand is still strong. When a transport or travel update lands, families ask whether their plans become easier or more uncertain.
 
@@ -73,5 +73,3 @@ Watch for official clarification, customer response, market movement and whether
 For now, the story is worth tracking because it fits Dubai's larger question in 2026: can the city keep growing while making life feel simpler, safer and more predictable for the people using it every day?
 
 That is the real test.
-
-The original source item is available via [Gulf News](https://news.google.com/rss/articles/CBMivgFBVV95cUxNelktMzNMaV9YVm91V3hTN1dhYURkQXpQNFE1Y1VlTFoxcjEwcFFqNHBLUmJBUy02VmVaVnc1OWt1V28wSWp6c3psbnllWFhPdkFIMDR6SHQ0Q2dWZGc5ZXh1TEk5VWZpVzZnQ1VpWjJ5emhMNnJLSHk3LXExb21fY1VpRmpKUHJrdEMydzVtM0hscmlNaHh0X1VVQWhMR0dFMTNCMFBEZzFaVmRtYWdVc0tyRjlhOUdVT18tM2Z30gHQAUFVX3lxTE1CR092R2IwWU9nYjdrRzVzZFV4Z2VyMFRRamg5SlJhM0hnMUlxenBXeDRJVWg5Vk5ha2dmYWE0bjdraUdtOTI4VDdGU0dpN1V1T0I3MnBZdGdLOVlsYXVfVmlTRkw4Ui0yN0hGSldKMWhTc3R5T2NiWU9GVmNCOG0tZnBLM0ZZLUFXT3RfNkRiTDgtRjNtb2hkcFpQbl91WXZCRy1vajY0dFIzU1BqenNBTVF1NksxeHRScy1oWHVfZnRacExacWdyY2g3aWlPMXU?oc=5).

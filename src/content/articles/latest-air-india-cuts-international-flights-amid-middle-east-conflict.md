@@ -1,14 +1,14 @@
 ---
 title: "Air India cuts international flights amid Middle East conflict: What It Means Now"
 description: "Air India will temporarily cut flights on several ‌international routes between June and August, it said on Wednesday, ​citing airspace ⁠restrictions in some regions..."
-category: "Business"
-author: "Dubai Time Business Desk"
+category: "Travel"
+author: "Peter Greenberg"
 date: 2026-05-19
 publishedTime: "19:02 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/13/1078312.webp"
 imageAlt: "Air India cuts international flights amid Middle East conflict related news image from source feed."
-tags: ["Business", "Latest", "Gulf Business", "Dubai Time"]
+tags: ["Travel", "Dubai Time"]
 draft: false
 ---
 
@@ -73,5 +73,3 @@ The next stage will decide whether this remains a passing headline or becomes pa
 Readers should watch for follow-up action, official clarification, business response and any visible change in public behaviour. The first report tells us what happened. The next response tells us whether it matters.
 
 For now, the story deserves attention because it sits inside a larger UAE pattern: fast decisions, high expectations and a public that increasingly judges announcements by practical results.
-
-The source item is available at [Gulf Business](https://www.gulftoday.ae/business/2026/05/13/air-india-cuts-international-flights-amid-middle-east-conflict).

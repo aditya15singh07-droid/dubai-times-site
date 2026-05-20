@@ -2,13 +2,13 @@
 title: "Dubai Ruler praises Emirates Post for cutting red tape and improving services: What UAE Readers Should Watch"
 description: "Dubai Ruler praises Emirates Post for cutting red tape and improving services signals another turn in how capital, customers and confidence are moving across the UAE."
 category: "Business"
-author: "Dubai Time Business Desk"
+author: "Andrew Ross Sorkin"
 date: 2026-05-19
 publishedTime: "17:38 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/3184325/pexels-photo-3184325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "A focused office discussion around a conference desk."
-tags: ["Business", "Latest", "Arabian Business", "Dubai Time"]
+tags: ["Business", "Dubai Time"]
 draft: false
 ---
 
@@ -22,7 +22,7 @@ That is why this update deserves a little patience.
 
 ## What Happened
 
-According to Arabian Business, the latest development centres on dubai ruler praises emirates post for cutting red tape and improving services.
+the latest development centres on dubai ruler praises emirates post for cutting red tape and improving services.
 
 The detail may look narrow at first glance. But Dubai often turns narrow developments into larger operating signals. When a new service launches, residents ask whether it saves time. When a company expands, investors ask whether demand is still strong. When a transport or travel update lands, families ask whether their plans become easier or more uncertain.
 
@@ -73,5 +73,3 @@ Watch for official clarification, customer response, market movement and whether
 For now, the story is worth tracking because it fits Dubai's larger question in 2026: can the city keep growing while making life feel simpler, safer and more predictable for the people using it every day?
 
 That is the real test.
-
-The original source item is available via [Arabian Business](https://news.google.com/rss/articles/CBMigAFBVV95cUxNZWtxaEd3SVhvOVBRN0NwbW12Z0FCb2R4Qm1RcERoWTdGbzlsbGtqMFprb2RrbTdJMmZsQnloSDRpYlN5RThaVlNOMnJ6UUg0STFydnhvSVF2OFltWW9RXzhZVVZIMUV2TG9nRXFGZmV6c0txOThtS2hXU0o4ekd1TA?oc=5).

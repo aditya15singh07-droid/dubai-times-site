@@ -1,13 +1,13 @@
 ---
 title: "Dubai’s Work From Park Plan Sounds Trendy, But It Is Really About Urban Pressure"
 description: "The new Work from Park initiative is pitched as a flexible work idea, but it also reveals how Dubai wants its public spaces to do more jobs."
-category: "Lifestyle"
-author: "Dubai Time Lifestyle Desk"
+category: "Middle East"
+author: "Kashmir Hill"
 date: 2026-05-18
 watchLine: "Watch whether the Al Barsha Pond Park pilot gets real daily use from freelancers and SMEs, not just social media attention."
 image: "https://images.pexels.com/photos/4560092/pexels-photo-4560092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Upset young African American male freelancer clutching head with hands after failure in project while working remotely in park"
-tags: ["Dubai", "Lifestyle", "Parks", "Remote Work"]
+tags: ["Middle East", "Dubai Time"]
 draft: false
 pexelsId: "4560092"
 ---
@@ -95,5 +95,3 @@ That is worth watching because the future of cities will not be decided only by 
 This one starts with a park bench, a laptop and a better question than it first appears.
 
 What if a public park could help you breathe and work in the same hour?
-
-Source: [Government of Dubai Media Office](https://www.mediaoffice.ae/en/news/2026/april/19-04/dubai-municipality-launches-the-first-of-its-kind-work-from-park-initiative)

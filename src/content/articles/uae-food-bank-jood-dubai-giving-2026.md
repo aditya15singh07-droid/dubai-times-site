@@ -1,14 +1,14 @@
 ---
 title: "The UAE Food Bank And JOOD Deal Shows Dubai Wants Giving To Be Easier And Smarter"
 description: "A new partnership between the UAE Food Bank and JOOD aims to digitise contributions, reduce food waste and strengthen year-round humanitarian support in Dubai."
-category: "Dubai"
-author: "Dubai Times City Desk"
+category: "Lifestyle"
+author: "Natalie Wong"
 date: 2026-05-18
 publishedTime: "03:20 GST"
 watchLine: "Watch whether the JOOD platform increases recurring donations and helps the Food Bank scale impact beyond Ramadan peaks."
 image: "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?auto=format&fit=crop&w=1400&q=80"
 imageAlt: "Volunteers sorting food donations in a community setting"
-tags: ["Dubai", "UAE Food Bank", "JOOD", "Community"]
+tags: ["Lifestyle", "Dubai Time"]
 draft: false
 ---
 
@@ -65,5 +65,3 @@ It may also make philanthropy easier for younger residents who are comfortable s
 Big cities can become transactional very quickly. A partnership like this is a reminder that the social health of a city is also measured by how well it redirects abundance toward need, with dignity and discipline.
 
 If this system works as intended, the result will not only be more money collected. It will be a smarter civic habit.
-
-Source: [Government of Dubai Media Office](https://mediaoffice.ae/en/news/2026/may/17-05/uae-food-bank--and-jood-sign-strategic-partnership)

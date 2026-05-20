@@ -2,12 +2,12 @@
 title: "Emirates Has Restored 96% Of Its Network. The Stronger Signal Is Trust"
 description: "Emirates says it has brought back 96% of its global network, and the real significance lies in how quickly Dubai’s flagship carrier is rebuilding confidence."
 category: "Travel"
-author: "Dubai Time Travel Desk"
+author: "Peter Greenberg"
 date: 2026-05-18
 watchLine: "Watch whether the airline can push beyond 75% of pre-disruption capacity without weakening reliability or fares discipline."
 image: "https://images.pexels.com/photos/8554428/pexels-photo-8554428.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Two smiling professionals walking together in a subway station, capturing the essence of daily commuting."
-tags: ["Dubai", "Emirates", "Travel", "Airlines"]
+tags: ["Travel", "Dubai Time"]
 draft: false
 pexelsId: "8554428"
 ---
@@ -93,5 +93,3 @@ Emirates clearly wants to own that answer again.
 The numbers suggest it is close.
 
 The market will decide whether close is enough, or whether the airline can turn operational recovery into renewed emotional trust.
-
-Source: [Government of Dubai Media Office](https://www.mediaoffice.ae/en/news/2026/may/04-05/emirates-is-reconnecting-the-world-through-dubai-with)

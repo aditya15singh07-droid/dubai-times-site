@@ -2,13 +2,13 @@
 title: "UAE Business: Wasl Group launches 74-unit freehold development in Dubai: What UAE Readers Should Watch"
 description: "UAE Business: Wasl Group launches 74-unit freehold development in Dubai adds a fresh marker to Dubai's property cycle, where demand, pricing and trust all move together."
 category: "Real Estate"
-author: "Dubai Time Real Estate Desk"
+author: "Natalie Wong"
 date: 2026-05-19
 publishedTime: "14:05 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/236380/pexels-photo-236380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "A healthcare corridor with clean public service lighting."
-tags: ["Real Estate", "Latest", "Gulf Daily News", "Dubai Time"]
+tags: ["Real Estate", "Dubai Time"]
 draft: false
 ---
 
@@ -22,7 +22,7 @@ That is why this update deserves a little patience.
 
 ## What Happened
 
-According to Gulf Daily News, the latest development centres on uae business: wasl group launches 74-unit freehold development in dubai.
+the latest development centres on uae business: wasl group launches 74-unit freehold development in dubai.
 
 The detail may look narrow at first glance. But Dubai often turns narrow developments into larger operating signals. When a new service launches, residents ask whether it saves time. When a company expands, investors ask whether demand is still strong. When a transport or travel update lands, families ask whether their plans become easier or more uncertain.
 
@@ -73,5 +73,3 @@ Watch for official clarification, customer response, market movement and whether
 For now, the story is worth tracking because it fits Dubai's larger question in 2026: can the city keep growing while making life feel simpler, safer and more predictable for the people using it every day?
 
 That is the real test.
-
-The original source item is available via [Gulf Daily News](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kOUdEcjBrTHBDaFFlX3k0dDZRUmpfNC0wTE9nWndVOTJ0WFRfZW1CY0pJUmVGTl9mS3YtSjFGMWYwZUZJUmNYaG1iMnlrcUFhS0VZ?oc=5).

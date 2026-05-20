@@ -2,13 +2,13 @@
 title: "Etihad Rail passenger train: What the UAE’s new journey looks like from inside: What UAE Readers Should Watch"
 description: "Etihad Rail passenger train: What the UAE’s new journey looks like from inside matters for passengers, operators and the wider visitor economy that keeps Dubai moving."
 category: "Travel"
-author: "Dubai Time Travel Desk"
+author: "Peter Greenberg"
 date: 2026-05-20
 publishedTime: "06:00 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/8867631/pexels-photo-8867631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Digital public service screens used in a smart city setting."
-tags: ["Travel", "Latest", "Khaleej Times", "Dubai Time"]
+tags: ["Travel", "Dubai Time"]
 draft: false
 ---
 
@@ -22,7 +22,7 @@ That is why this update deserves a little patience.
 
 ## What Happened
 
-According to Khaleej Times, the latest development centres on etihad rail passenger train: what the uae’s new journey looks like from inside.
+the latest development centres on etihad rail passenger train: what the uae’s new journey looks like from inside.
 
 The detail may look narrow at first glance. But Dubai often turns narrow developments into larger operating signals. When a new service launches, residents ask whether it saves time. When a company expands, investors ask whether demand is still strong. When a transport or travel update lands, families ask whether their plans become easier or more uncertain.
 
@@ -73,5 +73,3 @@ Watch for official clarification, customer response, market movement and whether
 For now, the story is worth tracking because it fits Dubai's larger question in 2026: can the city keep growing while making life feel simpler, safer and more predictable for the people using it every day?
 
 That is the real test.
-
-The original source item is available via [Khaleej Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxPVlpqcXFhdVAtUEQ5cGVweEdDRFdzaHJYdi1HRmw2UEJXN2RKUnNNMF9BbTdYZm01U1huQTFyZXhwT0pWbzBkSVhCNTRSUWpjZXVwODNadWVBYTd4ODcyc1R0aFZLWDl6TGZ1NWM1ckdtTEljSlFVTlh4LURNWmQ2N3F3aUFsbGpMV2gwMS1iMHFwNmRHS2fSAZYBQVVfeXFMT1ZaanFxYXVQLVBEOXBlcHhHQ0RXc2hyWHYtR0ZsNlBCVzdkSlJzTTBfQW03WGZtNVNYbkExcmV4cE9KVm8wZElYQjU0UlFqY2V1cDgzWnVlQWE3eDg3MnNUdGhWS1g5ekxmdTVjNXJHbUxJY0pRVU5YeC1ETVpkNjdxd2lBbGxqTFdoMDEtYjBxcDZkR0tn?oc=5).

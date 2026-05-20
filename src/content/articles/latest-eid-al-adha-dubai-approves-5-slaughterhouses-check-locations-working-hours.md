@@ -1,14 +1,14 @@
 ---
 title: "Eid Al Adha: Dubai approves 5 slaughterhouses; check locations, working hours: What UAE Readers Should Watch"
 description: "Eid Al Adha: Dubai approves 5 slaughterhouses; check locations, working hours could affect residents directly, from public services and safety to daily planning across the Emirates."
-category: "UAE"
-author: "Dubai Time UAE Desk"
+category: "Lifestyle"
+author: "Natalie Wong"
 date: 2026-05-19
 publishedTime: "17:32 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 imageAlt: "Team members studying a presentation on a laptop."
-tags: ["UAE", "Latest", "Khaleej Times", "Dubai Time"]
+tags: ["Lifestyle", "Dubai Time"]
 draft: false
 ---
 
@@ -22,7 +22,7 @@ That is why this update deserves a little patience.
 
 ## What Happened
 
-According to Khaleej Times, the latest development centres on eid al adha: dubai approves 5 slaughterhouses; check locations, working hours.
+the latest development centres on eid al adha: dubai approves 5 slaughterhouses; check locations, working hours.
 
 The detail may look narrow at first glance. But Dubai often turns narrow developments into larger operating signals. When a new service launches, residents ask whether it saves time. When a company expands, investors ask whether demand is still strong. When a transport or travel update lands, families ask whether their plans become easier or more uncertain.
 
@@ -73,5 +73,3 @@ Watch for official clarification, customer response, market movement and whether
 For now, the story is worth tracking because it fits Dubai's larger question in 2026: can the city keep growing while making life feel simpler, safer and more predictable for the people using it every day?
 
 That is the real test.
-
-The original source item is available via [Khaleej Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMkt2ekRJSjN5dXFfTW5IbWhEWktOM2pVQVI1dE1feERaM2VYWGt0ZWVuUHVnT2JPYTlIb1RLVmVXdHFVd1JhM1lhV2VsNXpjLUdyaDhtT1EyUm1VV3B1R285Skw0QlI4dU92RWFiVU1CTENrbHNZeVJhdktQNWlDZXlzNEZ1NVY40gGIAUFVX3lxTE8yS3Z6RElKM3l1cV9NbkhtaERaS04zalVBUjV0TV94RFozZVhYa3RlZW5QdWdPYk9hOUhvVEtWZVd0cVV3UmEzWWFXZWw1emMtR3JoOG1PUTJSbVVXcHVHbzlKTDRCUjh1T3ZFYWJVTUJMQ2tsc1l5UmF2S1A1aUNleXM0RnU1Vjg?oc=5).

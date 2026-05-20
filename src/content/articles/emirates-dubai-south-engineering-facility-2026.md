@@ -1,14 +1,14 @@
 ---
 title: "Emirates' New Dubai South Engineering Hub Is Really A Bet On Aviation Depth"
 description: "Emirates has broken ground on a US$5.1 billion engineering complex at Dubai South, pushing the city's aviation story deeper into maintenance, repair and technical capability."
-category: "Business"
-author: "Dubai Times Aviation Desk"
+category: "Middle East"
+author: "Kashmir Hill"
 date: 2026-05-19
 publishedTime: "01:20 GST"
 watchLine: "Watch whether the project pulls more aviation suppliers, training activity and MRO partnerships into Dubai before the first facilities open."
 image: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=1400&q=80"
 imageAlt: "Large passenger aircraft on the ground near airport engineering infrastructure"
-tags: ["Dubai", "Emirates", "Dubai South", "Aviation"]
+tags: ["Middle East", "Dubai Time"]
 draft: false
 ---
 
@@ -69,5 +69,3 @@ Cities that want to lead in aviation cannot rely forever on runways and lounges 
 If the project delivers as promised, the city will not only move more aircraft through its skies.
 
 It will handle more of the work that keeps those aircraft flying in the first place.
-
-Source: [Emirates Media Centre](https://www.emirates.com/media-centre/emirates-breaks-ground-on-us-51-billion-ultra-modern-engineering-facility-at-dubai-south/)

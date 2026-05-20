@@ -1,14 +1,14 @@
 ---
 title: "DEWA's CleanTech Hackathon Shows Dubai Wants Climate Innovation To Feel Applied"
 description: "DEWA's Sustainability and Innovation Centre is hosting its fourth CleanTech Hackathon, using a practical competition format to push new sustainability solutions."
-category: "Technology"
-author: "Dubai Times Technology Desk"
+category: "Business"
+author: "Andrew Ross Sorkin"
 date: 2026-05-18
 publishedTime: "02:30 GST"
 watchLine: "Watch whether the hackathon produces pilot-ready solutions that DEWA or partners actually test after the event."
 image: "https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?auto=format&fit=crop&w=1400&q=80"
 imageAlt: "Solar panels and clean energy infrastructure under a blue sky"
-tags: ["Dubai", "DEWA", "CleanTech", "Innovation"]
+tags: ["Business", "Dubai Time"]
 draft: false
 ---
 
@@ -65,5 +65,3 @@ Those questions will decide whether this was a meaningful platform or another in
 For now, the setup is promising. A utility with scale, a sustainability centre with visible purpose, and a competition focused on applied problems is a better mix than most cities manage. If DEWA follows through, the CleanTech Hackathon could become a quiet but important part of how Dubai builds practical climate capability.
 
 And that is what the city needs more of. Not only ambition, but mechanisms that help ambition land on the ground.
-
-Source: [DEWA](https://www.dewa.gov.ae/en/about-us/media-publications/latest-news/2026/4/dewas-sustainability-and-innovation)
