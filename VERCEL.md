@@ -23,7 +23,7 @@ Production Branch: master
 Vercel will provide a public domain like:
 
 ```text
-https://dubai-times-site.vercel.app
+https://dubai-time.com
 ```
 
 ## Custom Domain

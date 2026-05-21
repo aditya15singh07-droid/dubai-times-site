@@ -2,7 +2,7 @@ import type { APIRoute } from "astro";
 import { getCollection } from "astro:content";
 import { categories, categoryPath } from "../data/articles";
 
-const siteUrl = "https://dubai-times-site.vercel.app";
+const siteUrl = "https://dubai-time.com";
 
 const escapeXml = (value: string) =>
   value
