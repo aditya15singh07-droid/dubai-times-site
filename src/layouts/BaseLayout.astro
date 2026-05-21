@@ -4,11 +4,13 @@ import { categories, categoryPath } from "../data/articles";
 type Props = {
   title?: string;
   description?: string;
+  robots?: string;
 };
 
 const {
   title = "Dubai Time",
   description = "Dubai Time tracks the UAE clock, emirates weather, alerts, and the stories shaping Dubai and the wider UAE.",
+  robots = "index, follow",
 } = Astro.props;
 
 const primaryLinks = [
@@ -34,7 +36,7 @@ const desktopLinks = [
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
-    <meta name="robots" content="noindex, nofollow, noarchive, nosnippet" />
+    <meta name="robots" content={robots} />
     <meta name="description" content={description} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
