@@ -1,0 +1,39 @@
+Dubai Time Fresh News Audit Report
+
+Date: 2026-05-21
+Published: 10
+Rejected: 0
+Average audit score: 9.1/10
+
+Published articles:
+- Travel: Etihad Rail’s First Passenger Cities Could Change How UAE Families Plan Travel | Score 9.1/10 | fresh-etihad-rail-first-cities-passenger-travel-2026
+- Crypto: Crypto.com’s UAE Payment Licence Moves Digital Assets Closer To Real Spending | Score 9/10 | fresh-crypto-com-uae-payment-licence-trust-2026
+- Business: The UAE’s AED 1 Billion Space Push Is Really About Industrial Confidence | Score 9.2/10 | fresh-uae-space-investment-industrial-confidence-2026
+- Real Estate: Dubai Holding And ADIB’s Home Finance Move Puts Affordability Back In Focus | Score 9/10 | fresh-dubai-holding-adib-home-financing-real-estate-2026
+- Lifestyle: Dubai’s May Event Calendar Shows How The City Keeps Residents Moving | Score 9.1/10 | fresh-dubai-may-events-resident-rhythm-2026
+- Sport: PFL MENA’s Dubai Card Turns Combat Sport Into A Regional Audience Test | Score 8.9/10 | fresh-pfl-mena-dubai-coca-cola-arena-2026
+- Entertainment: Dubai’s May Shows Prove Live Entertainment Has To Beat The Sofa | Score 9/10 | fresh-dubai-live-shows-may-attention-economy-2026
+- International: The UAE’s Safe-Haven Image Is Being Tested By A Harder Region | Score 9.2/10 | fresh-uae-safe-haven-image-tested-regional-war-2026
+- Health: The UAE’s AI Health Policy Will Be Judged In Clinics, Not Cabinet Rooms | Score 9.3/10 | fresh-uae-ai-health-policy-patient-trust-2026
+- Middle East: The UAE’s Agentic AI Plan Raises The Bar For Government Service Delivery | Score 9.2/10 | fresh-uae-agentic-ai-government-services-2026
+
+Audit basis:
+- Clarity and readability
+- Factual integrity against fetched source material
+- Engagement and hook
+- Structure and scannability
+- Grammar and style
+- Usefulness for UAE/Dubai readers
+- Originality and impact
+
+Source material:
+- Travel: Enterprise AM, May 20, 2026 - https://enterpriseam.com/uae/2026/05/20/this-morning-uae-earmarks-aed-1-bn-investment-for-space-sector-is-a-gcc-uk-trade-agreement-coming-our-way-today/
+- Crypto: Times of India, May 2026 - https://timesofindia.indiatimes.com/world/middle-east/uae-central-bank-grants-first-crypto-payment-licence-to-crypto-com/articleshow/131036754.cms
+- Business: Enterprise AM, May 20, 2026 - https://enterpriseam.com/uae/2026/05/20/this-morning-uae-earmarks-aed-1-bn-investment-for-space-sector-is-a-gcc-uk-trade-agreement-coming-our-way-today/
+- Real Estate: Real Estate Market Times, May 19, 2026 - https://www.remtimes.com/
+- Lifestyle: Dubai.news, May 2026 - https://dubai.news/entertainment/dubai-events-may-2026/
+- Sport: PFL / event listing, May 2026 - https://en.wikipedia.org/wiki/PFL_MENA_9
+- Entertainment: What’s On Dubai, May 2026 - https://whatson.ae/2026/05/the-best-shows-concerts-and-performances-in-dubai-this-may-2026/
+- International: Associated Press, May 19, 2026 - https://apnews.com/article/emirates-us-iran-war-israel-business-economy-46a13b69b3e8a8863183b28de97c4fab
+- Health: Dubai Media Office, May 18, 2026 - https://www.mediaoffice.ae/en/news/2026/may/18-05/mohammed-bin-rashid-chairs-uae-cabinet-meeting
+- Middle East: Dubai Media Office, May 18, 2026 - https://www.mediaoffice.ae/en/news/2026/may/18-05/mohammed-bin-rashid-chairs-uae-cabinet-meeting
