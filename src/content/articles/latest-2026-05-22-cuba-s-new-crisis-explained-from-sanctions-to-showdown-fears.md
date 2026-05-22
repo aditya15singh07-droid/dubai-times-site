@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-22
 publishedTime: "12:08 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/3182773/pexels-photo-3182773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A business team planning work on laptops and notebooks."
+image: "https://images.pexels.com/photos/34842262/pexels-photo-34842262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Entertainment visual for Cuba’s new crisis explained: From sanctions to showdown fears"
 tags: ["Entertainment", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "3182773"
+pexelsId: "34842262"
 ---
 
 Entertainment news now carries a harder question. Can a live show or cultural event still pull people away from their phones and sofas?

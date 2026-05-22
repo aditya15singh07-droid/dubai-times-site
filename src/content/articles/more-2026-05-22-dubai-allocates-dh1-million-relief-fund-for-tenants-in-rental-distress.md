@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-22
 publishedTime: "14:40 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/15627310/pexels-photo-15627310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Waterfront dining and hospitality space in a modern city."
+image: "https://images.pexels.com/photos/34130500/pexels-photo-34130500.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Real Estate visual for Dubai allocates Dh1 million relief fund for tenants in rental distress"
 tags: ["Real Estate", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "15627310"
+pexelsId: "34130500"
 ---
 
 Property news in Dubai always lands at the dining table. Tenants, buyers and brokers all read the same headline with very different worries.

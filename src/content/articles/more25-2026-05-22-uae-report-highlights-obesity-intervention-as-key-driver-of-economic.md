@@ -6,11 +6,11 @@ author: "Ishaan Vora"
 date: 2026-05-22
 publishedTime: "19:08 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/257904/pexels-photo-257904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "An art gallery wall prepared for visitors."
+image: "https://images.pexels.com/photos/378570/pexels-photo-378570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Health visual for UAE report highlights obesity intervention as key driver of economic growth, social development by 2031"
 tags: ["Health", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "257904"
+pexelsId: "378570"
 ---
 
 Health stories become important when they leave the conference room and enter a clinic, a pharmacy or a family WhatsApp group.

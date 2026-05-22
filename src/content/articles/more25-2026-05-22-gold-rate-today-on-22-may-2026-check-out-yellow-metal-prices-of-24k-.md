@@ -6,11 +6,11 @@ author: "Anika Menon"
 date: 2026-05-22
 publishedTime: "19:12 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/358220/pexels-photo-358220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "An aircraft wing above clouds during travel."
+image: "https://images.pexels.com/photos/2449452/pexels-photo-2449452.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Middle East visual for Gold Rate Today On 22 May, 2026: Check Out Yellow Metal Prices of 24K, 22K, 18K Prices In UAE, Dubai, Abu Dhabi, Qatar, Saudi Arabia & Oman"
 tags: ["Middle East", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "358220"
+pexelsId: "2449452"
 ---
 
 Regional news is rarely distant for Dubai. It shapes confidence, trade, travel and the quiet calculations people make every day.

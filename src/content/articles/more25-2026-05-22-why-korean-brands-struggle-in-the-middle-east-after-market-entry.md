@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-22
 publishedTime: "19:36 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/8867631/pexels-photo-8867631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Digital service screens used for public technology operations."
+image: "https://images.pexels.com/photos/1763075/pexels-photo-1763075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Business visual for Why Korean Brands Struggle in the Middle East After Market Entry"
 tags: ["Business", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "8867631"
+pexelsId: "1763075"
 ---
 
 Business news looks clean on paper. In real life, it decides whether founders hire, investors wait and small firms take the next risk.

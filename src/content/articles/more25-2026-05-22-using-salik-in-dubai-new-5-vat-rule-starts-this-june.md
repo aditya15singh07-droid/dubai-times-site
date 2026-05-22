@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-22
 publishedTime: "18:32 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/4575053/pexels-photo-4575053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Officials seated for a formal international meeting."
+image: "https://images.pexels.com/photos/257904/pexels-photo-257904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Lifestyle visual for Using Salik in Dubai? New 5% VAT rule starts this June"
 tags: ["Lifestyle", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "4575053"
+pexelsId: "257904"
 ---
 
 Lifestyle stories can look soft from a distance. Then they start changing weekend plans, household budgets and how a city feels after work.

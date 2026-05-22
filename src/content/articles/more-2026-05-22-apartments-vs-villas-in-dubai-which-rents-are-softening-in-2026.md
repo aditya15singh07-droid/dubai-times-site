@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-22
 publishedTime: "14:44 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/7937364/pexels-photo-7937364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Residential towers and city real estate from street level."
+image: "https://images.pexels.com/photos/29348617/pexels-photo-29348617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Real Estate visual for Apartments vs villas in Dubai: Which rents are softening in 2026?"
 tags: ["Real Estate", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "7937364"
+pexelsId: "29348617"
 ---
 
 Property news in Dubai always lands at the dining table. Tenants, buyers and brokers all read the same headline with very different worries.

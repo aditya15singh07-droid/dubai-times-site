@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-22
 publishedTime: "14:28 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/5445453/pexels-photo-5445453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A family discussing plans at home in warm evening light."
+image: "https://images.pexels.com/photos/32991337/pexels-photo-32991337.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Business visual for Dubai Islamic Bank donates Dh10 million to Al Jalila Foundation"
 tags: ["Business", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "5445453"
+pexelsId: "32991337"
 ---
 
 Business news looks clean on paper. In real life, it decides whether founders hire, investors wait and small firms take the next risk.

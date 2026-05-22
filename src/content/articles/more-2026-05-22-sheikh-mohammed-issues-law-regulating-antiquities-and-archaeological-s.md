@@ -6,11 +6,11 @@ author: "Ishaan Vora"
 date: 2026-05-22
 publishedTime: "15:40 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/7648472/pexels-photo-7648472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Airport passengers moving through a modern terminal."
+image: "https://images.pexels.com/photos/7937364/pexels-photo-7937364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Health visual for Sheikh Mohammed issues law regulating antiquities and archaeological sites in Dubai"
 tags: ["Health", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "7648472"
+pexelsId: "7937364"
 ---
 
 Health stories become important when they leave the conference room and enter a clinic, a pharmacy or a family WhatsApp group.

@@ -6,11 +6,11 @@ author: "Ishaan Vora"
 date: 2026-05-22
 publishedTime: "12:52 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/3856433/pexels-photo-3856433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Shipping containers and logistics equipment at a commercial port."
+image: "https://images.pexels.com/photos/33998346/pexels-photo-33998346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Health visual for How Counsel Clinic Is Closing the Mental Health Gap in Dubai"
 tags: ["Health", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "3856433"
+pexelsId: "33998346"
 ---
 
 Health stories become important when they leave the conference room and enter a clinic, a pharmacy or a family WhatsApp group.

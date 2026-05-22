@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-22
 publishedTime: "14:56 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/3760067/pexels-photo-3760067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Modern urban towers photographed in soft daylight."
+image: "https://images.pexels.com/photos/325185/pexels-photo-325185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Lifestyle visual for From the skies to the kitchen: How a former cabin crew member built one of Dubai's favourite Korean cafés"
 tags: ["Lifestyle", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "3760067"
+pexelsId: "325185"
 ---
 
 Lifestyle stories can look soft from a distance. Then they start changing weekend plans, household budgets and how a city feels after work.

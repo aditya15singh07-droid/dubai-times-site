@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-22
 publishedTime: "19:32 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/3856433/pexels-photo-3856433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Shipping containers and logistics equipment at a commercial port."
+image: "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Business visual for Dubai's image as a financial hub faces its biggest test yet"
 tags: ["Business", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "3856433"
+pexelsId: "3184291"
 ---
 
 Business news looks clean on paper. In real life, it decides whether founders hire, investors wait and small firms take the next risk.

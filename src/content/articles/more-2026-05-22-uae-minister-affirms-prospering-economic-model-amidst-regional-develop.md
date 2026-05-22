@@ -7,7 +7,7 @@ date: 2026-05-22
 publishedTime: "15:48 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/5445453/pexels-photo-5445453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A family discussing plans at home in warm evening light."
+imageAlt: "Middle East visual for UAE minister affirms prospering economic model amidst regional developments"
 tags: ["Middle East", "Latest", "Dubai Time", "UAE"]
 draft: false
 pexelsId: "5445453"

@@ -6,11 +6,11 @@ author: "Ishaan Vora"
 date: 2026-05-22
 publishedTime: "12:44 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Professionals discussing market updates around a conference table."
+image: "https://images.pexels.com/photos/20640898/pexels-photo-20640898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Health visual for From Fujairah to Abu Dhabi: How citizens can benefit from new healthcare system"
 tags: ["Health", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "3184465"
+pexelsId: "20640898"
 ---
 
 Health stories become important when they leave the conference room and enter a clinic, a pharmacy or a family WhatsApp group.

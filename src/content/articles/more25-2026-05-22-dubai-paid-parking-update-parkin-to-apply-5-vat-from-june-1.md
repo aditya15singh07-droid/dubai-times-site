@@ -6,11 +6,11 @@ author: "Ishaan Vora"
 date: 2026-05-22
 publishedTime: "19:04 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/236380/pexels-photo-236380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A healthcare corridor with clean public service lighting."
+image: "https://images.pexels.com/photos/863988/pexels-photo-863988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Health visual for Dubai paid parking update: Parkin to apply 5% VAT from June 1"
 tags: ["Health", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "236380"
+pexelsId: "863988"
 ---
 
 Health stories become important when they leave the conference room and enter a clinic, a pharmacy or a family WhatsApp group.

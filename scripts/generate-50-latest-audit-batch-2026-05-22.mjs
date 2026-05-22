@@ -36,7 +36,7 @@ const reportersByCategory = {
   "Middle East": "Anika Menon",
 };
 
-const imagePool = [
+let imagePool = [
   ["https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940", "Business editors reviewing a developing UAE story in a modern office.", "3184291"],
   ["https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940", "Professionals discussing market updates around a conference table.", "3184465"],
   ["https://images.pexels.com/photos/7413916/pexels-photo-7413916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940", "Engineers reviewing industrial operations inside a modern facility.", "7413916"],
@@ -58,6 +58,22 @@ const imagePool = [
   ["https://images.pexels.com/photos/358220/pexels-photo-358220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940", "An aircraft wing above clouds during travel.", "358220"],
   ["https://images.pexels.com/photos/1105766/pexels-photo-1105766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940", "A city road running between modern buildings.", "1105766"],
 ];
+
+async function expandImagePoolFromExistingArticles() {
+  const files = await fs.readdir(articleDir);
+  const seen = new Set(imagePool.map((image) => image[2]));
+
+  for (const file of files.filter((name) => name.endsWith(".md"))) {
+    const text = await fs.readFile(path.join(articleDir, file), "utf8");
+    const image = text.match(/^image:\s*"?(.+?)"?\s*$/m)?.[1] || "";
+    const pexelsId = text.match(/^pexelsId:\s*"?(.+?)"?\s*$/m)?.[1] || image.match(/photos\/(\d+)/)?.[1] || "";
+    const imageAlt = text.match(/^imageAlt:\s*"?(.+?)"?\s*$/m)?.[1] || "Dubai Time article visual.";
+
+    if (!image.includes("images.pexels.com") || !pexelsId || seen.has(pexelsId)) continue;
+    seen.add(pexelsId);
+    imagePool.push([image, imageAlt, pexelsId]);
+  }
+}
 
 const categoryHints = {
   Travel: /flight|airline|airport|travel|tourism|hotel|resort|passenger|visa|metro|rail|transport|cruise|emirates|etihad|flydubai/i,
@@ -345,6 +361,7 @@ function publishedTime(index) {
 
 async function writeBatch() {
   await cleanPreviousBatch();
+  await expandImagePoolFromExistingArticles();
   const { slugs, titles } = await existingArticleData();
   const candidates = await parseFeeds();
   const published = [];

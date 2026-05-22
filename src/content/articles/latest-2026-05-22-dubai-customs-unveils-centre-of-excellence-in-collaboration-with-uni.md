@@ -6,11 +6,11 @@ author: "Tara Khanna"
 date: 2026-05-22
 publishedTime: "12:28 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/257904/pexels-photo-257904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "An art gallery wall prepared for visitors."
+image: "https://images.pexels.com/photos/34659828/pexels-photo-34659828.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "International visual for Dubai Customs unveils Centre of Excellence in collaboration with University of Dubai"
 tags: ["International", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "257904"
+pexelsId: "34659828"
 ---
 
 International news reaches the UAE faster than many people expect. It arrives through markets, flights, trade lanes and boardroom decisions.

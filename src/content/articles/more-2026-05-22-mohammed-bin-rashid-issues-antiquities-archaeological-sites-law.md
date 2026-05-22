@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-22
 publishedTime: "14:32 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/4575053/pexels-photo-4575053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Officials seated for a formal international meeting."
+image: "https://images.pexels.com/photos/10574771/pexels-photo-10574771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Business visual for Mohammed bin Rashid issues antiquities, archaeological sites law"
 tags: ["Business", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "4575053"
+pexelsId: "10574771"
 ---
 
 Business news looks clean on paper. In real life, it decides whether founders hire, investors wait and small firms take the next risk.

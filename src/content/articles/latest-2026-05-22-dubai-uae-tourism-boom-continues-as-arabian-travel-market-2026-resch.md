@@ -6,11 +6,11 @@ author: "Tara Khanna"
 date: 2026-05-22
 publishedTime: "12:24 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/236380/pexels-photo-236380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A healthcare corridor with clean public service lighting."
+image: "https://images.pexels.com/photos/8205092/pexels-photo-8205092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "International visual for Dubai, UAE Tourism Boom Continues as Arabian Travel Market 2026 Reschedules to August and Prepares for Record Global Participation!"
 tags: ["International", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "236380"
+pexelsId: "8205092"
 ---
 
 International news reaches the UAE faster than many people expect. It arrives through markets, flights, trade lanes and boardroom decisions.

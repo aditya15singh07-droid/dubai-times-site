@@ -22,10 +22,13 @@ const topStories = restArticles.slice(0, 4);
 const justIn = articles.slice(0, 7);
 const latest = restArticles.slice(4, 16);
 const opinionRail = articles.filter((article) => ["Business", "Crypto", "Real Estate"].includes(article.data.category)).slice(0, 5);
+const featuredArticleIds = new Set([...justIn, ...latest].map((article) => article.id));
 const categoryBlocks = categories
   .map((category) => ({
     category,
-    articles: articles.filter((article) => article.data.category === category).slice(0, 3),
+    articles: articles
+      .filter((article) => article.data.category === category && !featuredArticleIds.has(article.id))
+      .slice(0, 3),
   }))
   .filter((block) => block.articles.length);
 

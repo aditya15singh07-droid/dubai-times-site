@@ -6,11 +6,11 @@ author: "Anika Menon"
 date: 2026-05-22
 publishedTime: "19:16 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/1105766/pexels-photo-1105766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A city road running between modern buildings."
+image: "https://images.pexels.com/photos/3184300/pexels-photo-3184300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Middle East visual for Eid Al Adha Escapes: From UAE staycations to spectacular global getaways"
 tags: ["Middle East", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "1105766"
+pexelsId: "3184300"
 ---
 
 Regional news is rarely distant for Dubai. It shapes confidence, trade, travel and the quiet calculations people make every day.

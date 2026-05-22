@@ -6,11 +6,11 @@ author: "Anika Menon"
 date: 2026-05-22
 publishedTime: "15:52 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/4575053/pexels-photo-4575053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Officials seated for a formal international meeting."
+image: "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Middle East visual for 5% VAT to be applied on parking fees in Dubai: What drivers need to know"
 tags: ["Middle East", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "4575053"
+pexelsId: "6770610"
 ---
 
 Regional news is rarely distant for Dubai. It shapes confidence, trade, travel and the quiet calculations people make every day.

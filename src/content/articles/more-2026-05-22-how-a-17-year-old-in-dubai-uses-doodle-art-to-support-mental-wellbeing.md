@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-22
 publishedTime: "14:48 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/3182773/pexels-photo-3182773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A business team planning work on laptops and notebooks."
+image: "https://images.pexels.com/photos/5480781/pexels-photo-5480781.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Lifestyle visual for How a 17-year-old in Dubai uses doodle art to support mental wellbeing"
 tags: ["Lifestyle", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "3182773"
+pexelsId: "5480781"
 ---
 
 Lifestyle stories can look soft from a distance. Then they start changing weekend plans, household budgets and how a city feels after work.

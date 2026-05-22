@@ -6,11 +6,11 @@ author: "Tara Khanna"
 date: 2026-05-22
 publishedTime: "15:28 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/7413916/pexels-photo-7413916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Engineers reviewing industrial operations inside a modern facility."
+image: "https://images.pexels.com/photos/1181396/pexels-photo-1181396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "International visual for Dubai unveils $408.4 million stimulus package to boost businesses and economy"
 tags: ["International", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "7413916"
+pexelsId: "1181396"
 ---
 
 International news reaches the UAE faster than many people expect. It arrives through markets, flights, trade lanes and boardroom decisions.

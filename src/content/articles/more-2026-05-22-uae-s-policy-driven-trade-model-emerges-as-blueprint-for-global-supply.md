@@ -6,11 +6,11 @@ author: "Anika Menon"
 date: 2026-05-22
 publishedTime: "15:56 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/5480781/pexels-photo-5480781.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Financial charts and market data on a computer screen."
+image: "https://images.pexels.com/photos/3184431/pexels-photo-3184431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Middle East visual for UAE’s policy-driven trade model emerges as blueprint for global supply chain resilience"
 tags: ["Middle East", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "5480781"
+pexelsId: "3184431"
 ---
 
 Regional news is rarely distant for Dubai. It shapes confidence, trade, travel and the quiet calculations people make every day.

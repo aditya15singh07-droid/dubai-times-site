@@ -6,11 +6,11 @@ author: "Tara Khanna"
 date: 2026-05-22
 publishedTime: "12:36 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/1105766/pexels-photo-1105766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A city road running between modern buildings."
+image: "https://images.pexels.com/photos/33353719/pexels-photo-33353719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "International visual for Dubai, Abu Dhabi, Fujairah, and Strait of Hormuz Expand UAE Tourism and Energy Security Through ADNOC West-East Pipeline Project"
 tags: ["International", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "1105766"
+pexelsId: "33353719"
 ---
 
 International news reaches the UAE faster than many people expect. It arrives through markets, flights, trade lanes and boardroom decisions.

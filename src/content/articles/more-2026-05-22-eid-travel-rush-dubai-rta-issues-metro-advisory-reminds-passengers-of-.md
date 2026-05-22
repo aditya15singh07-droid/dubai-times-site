@@ -6,11 +6,11 @@ author: "Tara Khanna"
 date: 2026-05-22
 publishedTime: "15:32 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/3856433/pexels-photo-3856433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Shipping containers and logistics equipment at a commercial port."
+image: "https://images.pexels.com/photos/1109541/pexels-photo-1109541.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "International visual for Eid travel rush: Dubai RTA issues Metro advisory, reminds passengers of luggage rules"
 tags: ["International", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "3856433"
+pexelsId: "1109541"
 ---
 
 International news reaches the UAE faster than many people expect. It arrives through markets, flights, trade lanes and boardroom decisions.

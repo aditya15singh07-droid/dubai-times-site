@@ -6,11 +6,11 @@ author: "Tara Khanna"
 date: 2026-05-22
 publishedTime: "18:56 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/3760067/pexels-photo-3760067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Modern urban towers photographed in soft daylight."
+image: "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "International visual for 8 Ways Travellers Can Stay Safe From Ebola, MERS & Flu Viruses During Eid & Hajj"
 tags: ["International", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "3760067"
+pexelsId: "3183197"
 ---
 
 International news reaches the UAE faster than many people expect. It arrives through markets, flights, trade lanes and boardroom decisions.

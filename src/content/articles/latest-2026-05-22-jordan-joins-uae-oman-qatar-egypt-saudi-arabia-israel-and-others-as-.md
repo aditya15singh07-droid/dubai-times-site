@@ -6,11 +6,11 @@ author: "Tara Khanna"
 date: 2026-05-22
 publishedTime: "12:32 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/358220/pexels-photo-358220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "An aircraft wing above clouds during travel."
+image: "https://images.pexels.com/photos/34345411/pexels-photo-34345411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "International visual for Jordan Joins UAE, Oman, Qatar, Egypt, Saudi Arabia, Israel and Others as Strait of Hormuz and Red Sea Security Crisis Forces Cruise Lines to Cancel Gulf and Suez Canal Voyages Hammering Middle East Tourism Amid Escalating Geopolitical Threats"
 tags: ["International", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "358220"
+pexelsId: "34345411"
 ---
 
 International news reaches the UAE faster than many people expect. It arrives through markets, flights, trade lanes and boardroom decisions.

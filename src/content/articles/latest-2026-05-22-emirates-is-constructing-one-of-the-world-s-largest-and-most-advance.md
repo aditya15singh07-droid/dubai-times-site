@@ -6,11 +6,11 @@ author: "Tara Khanna"
 date: 2026-05-22
 publishedTime: "12:20 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/373912/pexels-photo-373912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A commercial aircraft at an airport gate."
+image: "https://images.pexels.com/photos/27075258/pexels-photo-27075258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "International visual for Emirates is constructing one of the world’s largest and most advanced facilities in Dubai"
 tags: ["International", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "373912"
+pexelsId: "27075258"
 ---
 
 International news reaches the UAE faster than many people expect. It arrives through markets, flights, trade lanes and boardroom decisions.

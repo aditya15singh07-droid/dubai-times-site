@@ -6,11 +6,11 @@ author: "Naina Batra"
 date: 2026-05-22
 publishedTime: "11:52 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/4575053/pexels-photo-4575053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Officials seated for a formal international meeting."
+image: "https://images.pexels.com/photos/37089595/pexels-photo-37089595.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Sport visual for Middle East Tourism and Global Aviation Industry Brace for Major Travel Disruptions as Strait of Hormuz Tensions Intensify in 2026"
 tags: ["Sport", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "4575053"
+pexelsId: "37089595"
 ---
 
 Sport in the UAE is no longer only about the scoreboard. It is also about families, tourism, sponsors and the next generation of fans.

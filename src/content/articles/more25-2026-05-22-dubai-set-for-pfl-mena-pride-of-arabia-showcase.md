@@ -7,7 +7,7 @@ date: 2026-05-22
 publishedTime: "18:48 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/3182773/pexels-photo-3182773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A business team planning work on laptops and notebooks."
+imageAlt: "Entertainment visual for Dubai set for ‘PFL Mena: Pride of Arabia’ showcase"
 tags: ["Entertainment", "Latest", "Dubai Time", "UAE"]
 draft: false
 pexelsId: "3182773"
