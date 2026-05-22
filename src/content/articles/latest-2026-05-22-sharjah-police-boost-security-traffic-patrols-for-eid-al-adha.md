@@ -1,5 +1,5 @@
 ---
-title: "Sharjah Police boost security, traffic patrols for Eid Al Adha: What UAE Readers Should Watch"
+title: "Sharjah Police boost security, traffic patrols for Eid Al Adha"
 description: "Sharjah Police boost security, traffic patrols for Eid Al Adha fits a regional moment where diplomacy, trade and public confidence move together."
 category: "Middle East"
 author: "Anika Menon"
@@ -19,7 +19,7 @@ The latest development centres on sharjah police boost security, traffic patrols
 
 That may sound like one more headline in a busy UAE news cycle. But the useful question is simpler. Who feels this first, and what changes for them by tomorrow morning?
 
-&lt;a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxNcThIV2k1SjBvRUhYbm0zNlMwSXhBS3dSaEZKZW5wa1ktLWl3VmhWYUFqVWJ5YXAyay1RVXJ2Y01HTm5sTWl4SzlxUXhOdThXbFhzdHpVSnRuaU91SVJBeHdaRXd5cldMQXoxTW1oTnBQM3M4VjViczBvNnY3bTFwQ0RDMjYzUk1mZGcxX01xR21qWVFBcDlQQkcwSmx2aV9HQm1ucWtLYk5QUjdvOVEw0gGvAUFVX3lxTE1xOEhXaTVKMG9FSFhubTM2UzBJeEFLd1JoRkplbnBrWS0taXdWaFZhQWpVYnlhcDJrLVFVcnZjTUdObmxNaXhLOXFReE51OFdsWHN0elVKdG5pT3VJUkF4d1pFd3lyV0xBejFNbWhOcFAzczhWNWJzMG82djdtMXBDREMyNjNSTWZkZzFfTXFHbWpZUUFwOVBCRzBKbHZpX0dCbW5xa0tiTlBSN285UTA?oc=5" target="_blank"&gt;Sharjah Police boost security, traffic patrols for Eid Al Adha&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Gulf News&lt;/font&gt;
+Sharjah Police boost security, traffic patrols for Eid Al Adha fits a regional moment where diplomacy, trade and public confidence move together.
 
 For residents, the answer usually appears in small details. A journey becomes easier. A bill changes. A public service becomes faster. A business owner sees fresh demand or another layer of cost. A parent gets one more thing to plan around.
 

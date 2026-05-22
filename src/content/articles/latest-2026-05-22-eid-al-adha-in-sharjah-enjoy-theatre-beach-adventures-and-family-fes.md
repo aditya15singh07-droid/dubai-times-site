@@ -1,5 +1,5 @@
 ---
-title: "Eid Al Adha in Sharjah: Enjoy theatre, beach adventures and family festivities: What UAE Readers Should Watch"
+title: "Eid Al Adha in Sharjah: Enjoy theatre, beach adventures and family festivities"
 description: "Eid Al Adha in Sharjah: Enjoy theatre, beach adventures and family festivities adds a fresh marker to Dubai's property cycle, where pricing, trust and end-user demand meet."
 category: "Real Estate"
 author: "Zoya Malhotra"
@@ -19,7 +19,7 @@ The latest development centres on eid al adha in sharjah: enjoy theatre, beach a
 
 That may sound like one more headline in a busy UAE news cycle. But the useful question is simpler. Who feels this first, and what changes for them by tomorrow morning?
 
-&lt;a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQd3owbEtZN1ROakhKTHd5dXN5WWxwQTNsNEZKZGowN2swTy1veVVBUzhjczZ6bWpPWDVJTVJFa2lubzZGWElRRWVLVHZMS3Q0TG5XUmlMZWxQd3lwSFJFajV3dEEweFFmT3hxMGFlakJUMVNhNEc3ME9qTEFoc09GTHR1V21pVFN0X0Z1TVFrRmhqRWNvc3A0T3liN2E5WktkQWlpd1dUczVkQ2ZFVXJVMU9HMGNNYkZDZ202Rg?oc=5" target="_blank"&gt;Eid Al Adha in Sharjah: Enjoy theatre, beach adventures and family festivities&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Gulf Business&lt;/font&gt;
+Eid Al Adha in Sharjah: Enjoy theatre, beach adventures and family festivities adds a fresh marker to Dubai's property cycle, where pricing, trust and end-user demand meet.
 
 For residents, the answer usually appears in small details. A journey becomes easier. A bill changes. A public service becomes faster. A business owner sees fresh demand or another layer of cost. A parent gets one more thing to plan around.
 

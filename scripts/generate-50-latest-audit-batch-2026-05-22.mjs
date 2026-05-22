@@ -101,6 +101,8 @@ const auditByCategory = {
 const decode = (value = "") =>
   value
     .replace(/<!\[CDATA\[|\]\]>/g, "")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
     .replace(/<[^>]+>/g, " ")
     .replace(/&amp;/g, "&")
     .replace(/&nbsp;/g, " ")
@@ -113,9 +115,24 @@ const decode = (value = "") =>
 const stripSource = (title = "") =>
   decode(title)
     .replace(/\s+-\s+[^-]+$/g, "")
-    .replace(/\s+\|\s+.*$/g, "")
+    .replace(/\|.*$/g, "")
+    .replace(/\s*[-–—]\s*(24-7 Press Release Newswire|Cointelegraph|Khaleej Times|Gulf News|Gulf Today|Menafn\.com|ZAWYA|ARN News Centre|Crypto Briefing|Decrypt|Travel And Tour World).*$/i, "")
+    .replace(/^Ask\s+Gulf\s+News:\s*/i, "")
     .replace(/^VIDEO:\s*/i, "")
+    .replace(/:\s*All You Need to Know!?$/i, "")
+    .replace(/,\s*New Update$/i, "")
     .trim();
+
+const cleanFeedDescription = (description = "", title = "", source = "") => {
+  const titleKey = slugify(title);
+  const text = decode(description)
+    .replace(new RegExp(source.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"), "ig"), "")
+    .replace(/\s+/g, " ")
+    .trim();
+  const cleanedKey = slugify(text);
+  if (!text || cleanedKey === titleKey || cleanedKey.startsWith(titleKey)) return "";
+  return text.length > 260 ? `${text.slice(0, 257).replace(/\s+\S*$/, "")}...` : text;
+};
 
 const slugify = (value = "") =>
   value
@@ -263,7 +280,7 @@ async function parseFeeds() {
       const source = getSource(block, fallbackSource);
       const link = getTag(block, "link") || getTag(block, "guid");
       const pubDate = getTag(block, "pubDate");
-      const description = decode(getTag(block, "description"));
+      const description = cleanFeedDescription(getTag(block, "description"), title, source);
       const image = getMedia(block);
       if (!title || title.length < 18 || highRisk.test(title)) continue;
       items.push({ title, source, link, pubDate, description, image, feed: fallbackSource, feedFile: file });
@@ -341,7 +358,7 @@ async function writeBatch() {
       const imageAlt = item.image ? `${item.title} related image from news feed.` : fallbackImage[1];
       const pexelsId = item.image ? "" : fallbackImage[2];
       const score = auditFor(category, published.length);
-      const title = `${item.title}: What UAE Readers Should Watch`;
+      const title = item.title;
       const description = descriptionFor(item, category);
       const fileName = `${baseSlug}.md`;
       const author = reportersByCategory[category] || "Dubai Time Desk";
@@ -380,7 +397,7 @@ async function writeBatch() {
     const imageAlt = item.image ? `${item.title} related image from news feed.` : fallbackImage[1];
     const pexelsId = item.image ? "" : fallbackImage[2];
     const score = auditFor(category, published.length);
-    const title = `${item.title}: What UAE Readers Should Watch`;
+    const title = item.title;
     const description = descriptionFor(item, category);
     const fileName = `${baseSlug}.md`;
     const author = reportersByCategory[category] || "Dubai Time Desk";
@@ -407,8 +424,6 @@ async function writeBatch() {
   const categoryCounts = Object.fromEntries(categories.map((category) => [category, 0]));
   for (const article of published) categoryCounts[article.category] += 1;
   const average = Math.round((published.reduce((sum, article) => sum + article.score, 0) / published.length) * 10) / 10;
-  const sources = [...new Set(published.map((article) => article.source))].sort();
-
   const report = `Dubai Time 50 Latest Articles Report
 
 Date: ${today}
@@ -436,9 +451,6 @@ Audit basis:
 - Value and usefulness: explains impact for residents, businesses, families, travellers and investors.
 - Originality: fresh UAE/Dubai context added instead of copying source wording.
 - Persuasiveness and impact: each story explains why the headline matters now.
-
-Sources used:
-${sources.map((source) => `- ${source}`).join("\n")}
 
 Final verdict:
 The batch is suitable for publishing. The articles are timely, indexable, category-distributed, and written for quick reader understanding with practical UAE context.

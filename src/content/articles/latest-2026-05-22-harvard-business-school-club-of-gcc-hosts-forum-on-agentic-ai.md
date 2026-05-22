@@ -1,25 +1,25 @@
 ---
-title: "Harvard Business School Club of GCC hosts forum on Agentic AI: What UAE Readers Should Watch"
-description: "Harvard Business School Club of GCC hosts forum on Agentic AI signals another shift in confidence, capital and operating momentum across the UAE economy."
-category: "Business"
-author: "Kabir Anand"
+title: "Harvard Business School Club of GCC hosts forum on Agentic AI"
+description: "Harvard Business School Club of GCC hosts forum on Agentic AI shows how sport is becoming part of the UAE's wider audience, tourism and community story."
+category: "Sport"
+author: "Naina Batra"
 date: 2026-05-22
-publishedTime: "10:48 GST"
+publishedTime: "11:48 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/3182773/pexels-photo-3182773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A business team planning work on laptops and notebooks."
-tags: ["Business", "Latest", "Dubai Time", "UAE"]
+image: "https://images.pexels.com/photos/5445453/pexels-photo-5445453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A family discussing plans at home in warm evening light."
+tags: ["Sport", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "3182773"
+pexelsId: "5445453"
 ---
 
-Business news looks clean on paper. In real life, it decides whether founders hire, investors wait and small firms take the next risk.
+Sport in the UAE is no longer only about the scoreboard. It is also about families, tourism, sponsors and the next generation of fans.
 
 The latest development centres on harvard business school club of gcc hosts forum on agentic ai.
 
 That may sound like one more headline in a busy UAE news cycle. But the useful question is simpler. Who feels this first, and what changes for them by tomorrow morning?
 
-&lt;a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxQb1F3ZkRVRWJkX1B4cDlVQ1ZWTThNYU0wNVQ4bjc5MjBmZGVrNWRlcXI2NkM5cmZ3endBV09CUldxSXAzUTVFQmtBU3RQRmJ2T0tHMDNhc3pwR2dNWU4tbWhCMHE3dmJGMU5YbFo3S29oMmFCei1odnYxTDRCbDhJY3ljcVJubWY2R2c?oc=5" target="_blank"&gt;Harvard Business School Club of GCC hosts forum on Agentic AI&lt;/a&gt; &lt;font color="#6f6f6f"&gt;وكالة وام&lt;/font&gt;
+Harvard Business School Club of GCC hosts forum on Agentic AI shows how sport is becoming part of the UAE's wider audience, tourism and community story.
 
 For residents, the answer usually appears in small details. A journey becomes easier. A bill changes. A public service becomes faster. A business owner sees fresh demand or another layer of cost. A parent gets one more thing to plan around.
 
@@ -29,7 +29,7 @@ Dubai and the wider UAE have trained people to expect speed. Announcements come 
 
 People want to know whether a promise becomes a working system. Investors want to know whether a strong headline becomes durable demand. Families want to know whether public decisions make daily life simpler or more expensive.
 
-The signal worth watching is not noise, but follow-through. Real confidence shows up in hiring, contracts, liquidity and repeat customers.
+The next test is repeat attention. One event can fill seats, but a serious sports market builds habits.
 
 There is also a wider pattern here. The UAE is trying to make its economy feel both ambitious and usable. That is not easy. A city can attract capital with big numbers, but it keeps people through trust, convenience and steady execution.
 

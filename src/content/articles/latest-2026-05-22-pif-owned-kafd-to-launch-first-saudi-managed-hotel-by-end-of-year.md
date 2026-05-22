@@ -1,5 +1,5 @@
 ---
-title: "PIF-owned KAFD to launch first Saudi-managed hotel by end of year: What UAE Readers Should Watch"
+title: "PIF-owned KAFD to launch first Saudi-managed hotel by end of year"
 description: "PIF-owned KAFD to launch first Saudi-managed hotel by end of year matters for UAE passengers, tourism operators and families planning their next trip."
 category: "Travel"
 author: "Aarav Mehta"
@@ -19,7 +19,7 @@ The latest development centres on pif-owned kafd to launch first saudi-managed h
 
 That may sound like one more headline in a busy UAE news cycle. But the useful question is simpler. Who feels this first, and what changes for them by tomorrow morning?
 
-&lt;a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOb2ttVXdaMk9OR1RjS0lOcFJmbU5iTExHTDgwWk5uZzlPMFlsZEpIY1U5aHdCN3YwSDdacEVUSXd5ZWNlZk9ES0tBRHpsQVNiTjFLeTdjam1feDB2YmVkcmlDNmttanlDdjBZXzhSMldLV25tdjAwZjdxX1g1bWxwc1B4SndUcUoxcnpCUF9XNGtsckVwRURlNDM2dFlTN05QZ1dDU3RYUjE2YnFFLXRNMw?oc=5" target="_blank"&gt;PIF-owned KAFD to launch first Saudi-managed hotel by end of year&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Gulf Business&lt;/font&gt;
+PIF-owned KAFD to launch first Saudi-managed hotel by end of year matters for UAE passengers, tourism operators and families planning their next trip.
 
 For residents, the answer usually appears in small details. A journey becomes easier. A bill changes. A public service becomes faster. A business owner sees fresh demand or another layer of cost. A parent gets one more thing to plan around.
 

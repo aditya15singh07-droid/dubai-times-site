@@ -1,5 +1,5 @@
 ---
-title: "Sudanese community in UAE to host 'Sudan Festival' on May 23: What UAE Readers Should Watch"
+title: "Sudanese community in UAE to host 'Sudan Festival' on May 23"
 description: "Sudanese community in UAE to host 'Sudan Festival' on May 23 underlines how live culture and entertainment are competing for attention in Dubai."
 category: "Entertainment"
 author: "Vihaan Rao"
@@ -19,7 +19,7 @@ The latest development centres on sudanese community in uae to host 'sudan festi
 
 That may sound like one more headline in a busy UAE news cycle. But the useful question is simpler. Who feels this first, and what changes for them by tomorrow morning?
 
-&lt;a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxQb1Q1ZW44anZMMkpWXzVyUHNleGg1SjdWd01hV1ZhVXFJLW5TaXhBQk9PMXlTc2h0a2RTUklzWThmUGxudUI2bG5OSC1PUzJ0ay1FV29DdjBfNHRDTWJOckVkaE5HMEE5R1RoLWVCNVZNQnM5RVdEeHdpbkMyd2MzYlFBX2s2dlpCR1hXaA?oc=5" target="_blank"&gt;Sudanese community in UAE to host 'Sudan Festival' on May 23&lt;/a&gt; &lt;font color="#6f6f6f"&gt;وكالة وام&lt;/font&gt;
+Sudanese community in UAE to host 'Sudan Festival' on May 23 underlines how live culture and entertainment are competing for attention in Dubai.
 
 For residents, the answer usually appears in small details. A journey becomes easier. A bill changes. A public service becomes faster. A business owner sees fresh demand or another layer of cost. A parent gets one more thing to plan around.
 

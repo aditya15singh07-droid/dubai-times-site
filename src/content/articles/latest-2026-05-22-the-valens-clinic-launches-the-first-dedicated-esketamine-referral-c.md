@@ -1,5 +1,5 @@
 ---
-title: "The Valens Clinic Launches the First Dedicated Esketamine Referral Center in the Middle East: What UAE Readers Should Watch"
+title: "The Valens Clinic Launches the First Dedicated Esketamine Referral Center in the Middle East"
 description: "The Valens Clinic Launches the First Dedicated Esketamine Referral Center in the Middle East matters because health news becomes real only when patients and families feel the difference."
 category: "Health"
 author: "Ishaan Vora"
@@ -19,7 +19,7 @@ The latest development centres on the valens clinic launches the first dedicated
 
 That may sound like one more headline in a busy UAE news cycle. But the useful question is simpler. Who feels this first, and what changes for them by tomorrow morning?
 
-&lt;a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNNVBZQ3QzUC1ZLW5ZVnR4LVk2cVhLLXhkdVNRUEVwVm1CcHpUVE1USXRQTWJYc3B1a2owd0RfU3hycWthSlFDNW8wTXRvOW0wTXF6dmNpZl9USm1BVC1VM0dUdnlpM05fV3RsRHc3MEZTSkhURnIyWG9DbVR3RWE3U0xiRzdQTVA0SUNyM3A3LUN5TEk2QzVkUW4waDc3VVM4NEVkM2JYVkZ4cWZleEpqbk81Vjd3TG0zeWc?oc=5" target="_blank"&gt;The Valens Clinic Launches the First Dedicated Esketamine Referral Center in the Middle East&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Dubai Week&lt;/font&gt;
+The Valens Clinic Launches the First Dedicated Esketamine Referral Center in the Middle East matters because health news becomes real only when patients and families feel the difference.
 
 For residents, the answer usually appears in small details. A journey becomes easier. A bill changes. A public service becomes faster. A business owner sees fresh demand or another layer of cost. A parent gets one more thing to plan around.
 

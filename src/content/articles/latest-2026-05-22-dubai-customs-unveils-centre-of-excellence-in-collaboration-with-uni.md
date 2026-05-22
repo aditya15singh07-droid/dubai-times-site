@@ -1,16 +1,16 @@
 ---
-title: "Dubai Customs unveils Centre of Excellence in collaboration with University of Dubai: What UAE Readers Should Watch"
+title: "Dubai Customs unveils Centre of Excellence in collaboration with University of Dubai"
 description: "Dubai Customs unveils Centre of Excellence in collaboration with University of Dubai carries local relevance because global shifts quickly reach UAE trade, travel and confidence."
 category: "International"
 author: "Tara Khanna"
 date: 2026-05-22
-publishedTime: "12:24 GST"
+publishedTime: "12:28 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/236380/pexels-photo-236380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A healthcare corridor with clean public service lighting."
+image: "https://images.pexels.com/photos/257904/pexels-photo-257904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "An art gallery wall prepared for visitors."
 tags: ["International", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "236380"
+pexelsId: "257904"
 ---
 
 International news reaches the UAE faster than many people expect. It arrives through markets, flights, trade lanes and boardroom decisions.
@@ -19,7 +19,7 @@ The latest development centres on dubai customs unveils centre of excellence in 
 
 That may sound like one more headline in a busy UAE news cycle. But the useful question is simpler. Who feels this first, and what changes for them by tomorrow morning?
 
-&lt;a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxQSHJRaVhXZUQySk5LTlZGU0o2bGNWY2N6VFdEbVpHU3RaZDRHUGVyXzAwTVIwazd3YkVkU3NJQ0NlV0x3Z1hBOE9KMll4bWF4V2k2ay1DN3cyZkJtVUt4NEp6ckhtMzkxRlROR2M3ZlNkMlFRNkRiTTRqOXB3YWthOEkxTQ?oc=5" target="_blank"&gt;Dubai Customs unveils Centre of Excellence in collaboration with University of Dubai&lt;/a&gt; &lt;font color="#6f6f6f"&gt;وكالة وام&lt;/font&gt;
+Dubai Customs unveils Centre of Excellence in collaboration with University of Dubai carries local relevance because global shifts quickly reach UAE trade, travel and confidence.
 
 For residents, the answer usually appears in small details. A journey becomes easier. A bill changes. A public service becomes faster. A business owner sees fresh demand or another layer of cost. A parent gets one more thing to plan around.
 

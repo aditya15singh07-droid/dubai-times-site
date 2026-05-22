@@ -1,5 +1,5 @@
 ---
-title: "Next chapter of SME lending in the UAE: Partnership, resilience, and innovation: What UAE Readers Should Watch"
+title: "Next chapter of SME lending in the UAE: Partnership, resilience, and innovation"
 description: "Next chapter of SME lending in the UAE: Partnership, resilience, and innovation fits a regional moment where diplomacy, trade and public confidence move together."
 category: "Middle East"
 author: "Anika Menon"
@@ -19,7 +19,7 @@ The latest development centres on next chapter of sme lending in the uae: partne
 
 That may sound like one more headline in a busy UAE news cycle. But the useful question is simpler. Who feels this first, and what changes for them by tomorrow morning?
 
-&lt;a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZFRLUkdJZ2xNYjlSOGdEMjYxSTNidmxWWFk4QUNCbHItM3lnaEcxa3kyYVU2MWd2NnRCUjBlbHNwcUhvakhtWHFwZ04wLTliT0JSRDZwbnEzRG1IajFWNzBlZ2JodUVIRXlUbl9HNlRQZ0txRWF5NFM1ell5V3FNX3AxZ1QtWHdQV1VsTDZQYng1ZUxURU5DM1RuVjVySTkyYzJvdFRPd2ZiUkJNM2JiWWdZWHc2T1kwSWVOZkVrZjQySi1jQV84X2QwTldBNExTeVhlQ2h2cDTSAdgBQVVfeXFMUGRUS1JHSWdsTWI5UjhnRDI2MUkzYnZsVlhZOEFDQmxyLTN5Z2hHMWt5MmFVNjFndjZ0QlIwZWxzcHFIb2pIbVhxcGdOMC05Yk9CUkQ2cG5xM0RtSGoxVjcwZWdiaHVFSEV5VG5fRzZUUGdLcUVheTRTNXpZeVdxTV9wMWdULVh3UFdVbEw2UGJ4NWVMVEVOQzNUblY1ckk5MmMyb3RUT3dmYlJCTTNiYllnWVh3Nk9ZMEllTmZFa2Y0MkotY0FfOF9kME5XQTRMU3lYZUNodnA0?oc=5" target="_blank"&gt;Next chapter of SME lending in the UAE: Partnership, resilience, and innovation&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Gulf News&lt;/font&gt;
+Next chapter of SME lending in the UAE: Partnership, resilience, and innovation fits a regional moment where diplomacy, trade and public confidence move together.
 
 For residents, the answer usually appears in small details. A journey becomes easier. A bill changes. A public service becomes faster. A business owner sees fresh demand or another layer of cost. A parent gets one more thing to plan around.
 

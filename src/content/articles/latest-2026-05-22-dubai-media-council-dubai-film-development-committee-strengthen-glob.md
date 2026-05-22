@@ -1,5 +1,5 @@
 ---
-title: "Dubai Media Council, Dubai Film Development Committee strengthen global film industry ties with filming of latest Jack Ryan feature in Dubai: What UAE Readers Should Watch"
+title: "Dubai Media Council, Dubai Film Development Committee strengthen global film industry ties with filming of latest Jack Ryan feature in Dubai"
 description: "Dubai Media Council, Dubai Film Development Committee strengthen global film industry ties with filming of latest... underlines how live culture and entertainment are competing for attention in Dubai."
 category: "Entertainment"
 author: "Vihaan Rao"
@@ -19,7 +19,7 @@ The latest development centres on dubai media council, dubai film development co
 
 That may sound like one more headline in a busy UAE news cycle. But the useful question is simpler. Who feels this first, and what changes for them by tomorrow morning?
 
-&lt;a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPdEFqNGJqWEpRNGdqc1liNkhZS2Q0VTdJZHVuM1ZsYXJiZlV3TzE2SkFhb2l2WWw1RVozRTRYSk5MTjBTQW9IMGhMZUxURmVMcW9EYy16ZGl2WC12QUxsUFhOS2xHcW5Tc0E5b1ZUNWZQdmlueFJWZ1dBcHJVSnlfUGx1bFBCczg?oc=5" target="_blank"&gt;Dubai Media Council, Dubai Film Development Committee strengthen global film industry ties with filming of latest Jack Ryan feature in Dubai&lt;/a&gt; &lt;font color="#6f6f6f"&gt;وكالة وام&lt;/font&gt;
+Dubai Media Council, Dubai Film Development Committee strengthen global film industry ties with filming of latest... underlines how live culture and entertainment are competing for attention in Dubai.
 
 For residents, the answer usually appears in small details. A journey becomes easier. A bill changes. A public service becomes faster. A business owner sees fresh demand or another layer of cost. A parent gets one more thing to plan around.
 

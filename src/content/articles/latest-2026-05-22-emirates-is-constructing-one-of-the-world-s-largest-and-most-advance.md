@@ -1,5 +1,5 @@
 ---
-title: "Emirates is constructing one of the world’s largest and most advanced facilities in Dubai: What UAE Readers Should Watch"
+title: "Emirates is constructing one of the world’s largest and most advanced facilities in Dubai"
 description: "Emirates is constructing one of the world’s largest and most advanced facilities in Dubai carries local relevance because global shifts quickly reach UAE trade, travel and confidence."
 category: "International"
 author: "Tara Khanna"
@@ -19,7 +19,7 @@ The latest development centres on emirates is constructing one of the world’s 
 
 That may sound like one more headline in a busy UAE news cycle. But the useful question is simpler. Who feels this first, and what changes for them by tomorrow morning?
 
-&lt;a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxON1VycmJXNTZ0MUpySDJUVGNJUXhwSkItZC1zZEFUOVBkTEVmbGc4azVReUtTcmhkcW15NWE0dU9tSWpnUGRUemd4NjZVQVNJc05SN29UZ0Vjc2h0WG1SWUFpSnNuYU00R0xPSGhLVWFrTUdHNUozeDd3dlBDVUVIUDl2dmVSN0JIeE9QMmZNOV9taVR6ZGtzc0U5UnJZOVVkOVZia0xtMTZmZGthaUJvWGlQTE9OZlNMMFVhOElYZG0?oc=5" target="_blank"&gt;Emirates is constructing one of the world’s largest and most advanced facilities in Dubai&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Tornos News&lt;/font&gt;
+Emirates is constructing one of the world’s largest and most advanced facilities in Dubai carries local relevance because global shifts quickly reach UAE trade, travel and confidence.
 
 For residents, the answer usually appears in small details. A journey becomes easier. A bill changes. A public service becomes faster. A business owner sees fresh demand or another layer of cost. A parent gets one more thing to plan around.
 

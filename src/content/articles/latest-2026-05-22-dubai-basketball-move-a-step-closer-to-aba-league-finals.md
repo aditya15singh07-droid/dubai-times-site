@@ -1,5 +1,5 @@
 ---
-title: "Dubai Basketball move a step closer to ABA League Finals: What UAE Readers Should Watch"
+title: "Dubai Basketball move a step closer to ABA League Finals"
 description: "Dubai Basketball move a step closer to ABA League Finals shows how sport is becoming part of the UAE's wider audience, tourism and community story."
 category: "Sport"
 author: "Naina Batra"
@@ -19,7 +19,7 @@ The latest development centres on dubai basketball move a step closer to aba lea
 
 That may sound like one more headline in a busy UAE news cycle. But the useful question is simpler. Who feels this first, and what changes for them by tomorrow morning?
 
-&lt;a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxONDZYaHVVSWV4a2lVV01vOTBkMGE0WXVPSGZCeWl6YVh2bWEzbFVXVV8wWjNmdVFwX2ppT1B3RXEyVG1sRVI5Y1hUcFBiQWxYV0ltdHZQdGRmdHJrbGpRd0I5amthZGM5SjUxcFZLRGxnVlc4cGlJSVotQTJsVzE3LVNtT2hNa2hCQ2FiUkNmdFpibnBpTnZ6WFdnN3VxLU5LTHNxTXpMREHSAbABQVVfeXFMTnJWR3ROY3k0ZzFVTUM3eTNlOEJfdGlLeTktLWNVa3lxVGRIb0FNUVFIdEZqVlB5Qlpmc2VsZG8wcGR3REVYQzJYRnNqSmpVM2lhdVFEX09pNnZwOTZxYUZsQ2Q0Um41RmZiemNxRzhQUFdabnBFOVcwNkxaT0M3cE51Y1Q4SzNiZjRBc05fTW1scVhBQmY1QW1oaXdWbkNYaFdraG9sa1BoeEwtbUhpU2w?oc=5" target="_blank"&gt;Dubai Basketball move a step closer to ABA League Finals&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Khaleej Times&lt;/font&gt;
+Dubai Basketball move a step closer to ABA League Finals shows how sport is becoming part of the UAE's wider audience, tourism and community story.
 
 For residents, the answer usually appears in small details. A journey becomes easier. A bill changes. A public service becomes faster. A business owner sees fresh demand or another layer of cost. A parent gets one more thing to plan around.
 

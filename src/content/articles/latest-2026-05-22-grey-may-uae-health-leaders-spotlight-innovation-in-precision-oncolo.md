@@ -1,5 +1,5 @@
 ---
-title: "Grey May: UAE health leaders spotlight innovation in precision oncology: What UAE Readers Should Watch"
+title: "Grey May: UAE health leaders spotlight innovation in precision oncology"
 description: "Grey May: UAE health leaders spotlight innovation in precision oncology matters because health news becomes real only when patients and families feel the difference."
 category: "Health"
 author: "Ishaan Vora"
@@ -19,7 +19,7 @@ The latest development centres on grey may: uae health leaders spotlight innovat
 
 That may sound like one more headline in a busy UAE news cycle. But the useful question is simpler. Who feels this first, and what changes for them by tomorrow morning?
 
-&lt;a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeDlxN1lDaEFjam91YVpXVHp5STFBemRGT0RWZFdqa3lhYmg0SUZPU0kxTE9Ua19ubkFPWWFBSHk5MUlVZnhfTnFST2JWR1FZT1ZPbzRZRExQQmRybXdzQkhjbjMzbUNiNE1jU2FYS0RNRlEzdGlHem5jb1RYVDJ4MGt0Szl0dWtkSnZPcWdNdG9ISFNNM29KaDFiNDdFTkR4WDR5Z3pkcEphN3Q5Nko2MXJkU19vMlVPUGl2ampMbFNsSEVHYmZFRHVyTy1Vb0h3blNJN3ZNQUI?oc=5" target="_blank"&gt;Grey May: UAE health leaders spotlight innovation in precision oncology&lt;/a&gt; &lt;font color="#6f6f6f"&gt;ZAWYA&lt;/font&gt;
+Grey May: UAE health leaders spotlight innovation in precision oncology matters because health news becomes real only when patients and families feel the difference.
 
 For residents, the answer usually appears in small details. A journey becomes easier. A bill changes. A public service becomes faster. A business owner sees fresh demand or another layer of cost. A parent gets one more thing to plan around.
 

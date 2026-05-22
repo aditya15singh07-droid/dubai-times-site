@@ -1,5 +1,5 @@
 ---
-title: "Emirates Drug Establishment visits national pharmaceutical manufacturers, explores growth plans: What UAE Readers Should Watch"
+title: "Emirates Drug Establishment visits national pharmaceutical manufacturers, explores growth plans"
 description: "Emirates Drug Establishment visits national pharmaceutical manufacturers, explores growth plans matters because health news becomes real only when patients and families feel the difference."
 category: "Health"
 author: "Ishaan Vora"
@@ -19,7 +19,7 @@ The latest development centres on emirates drug establishment visits national ph
 
 That may sound like one more headline in a busy UAE news cycle. But the useful question is simpler. Who feels this first, and what changes for them by tomorrow morning?
 
-&lt;a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdHhvai1Gd2FEaUNNRXRGWGNINVBnR3ZmOTExa1E0cHNlS0p3Q3N3OFNrYWg4U1g2bHU1M0ZfSHhfT3RfalN3S2Y0dm5wVUFLdzVrOEg2ek1yT2FRRnVjdzFCdEtGNUp3WWc4eGlZUHZmdDZkYngzTTBKbzlJNXZ2MWkxWUdzMl9a?oc=5" target="_blank"&gt;Emirates Drug Establishment visits national pharmaceutical manufacturers, explores growth plans&lt;/a&gt; &lt;font color="#6f6f6f"&gt;وكالة وام&lt;/font&gt;
+Emirates Drug Establishment visits national pharmaceutical manufacturers, explores growth plans matters because health news becomes real only when patients and families feel the difference.
 
 For residents, the answer usually appears in small details. A journey becomes easier. A bill changes. A public service becomes faster. A business owner sees fresh demand or another layer of cost. A parent gets one more thing to plan around.
 

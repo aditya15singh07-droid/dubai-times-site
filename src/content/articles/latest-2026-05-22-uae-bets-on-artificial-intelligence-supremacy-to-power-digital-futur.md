@@ -1,5 +1,5 @@
 ---
-title: "UAE bets on Artificial Intelligence supremacy to power digital future: What UAE Readers Should Watch"
+title: "UAE bets on Artificial Intelligence supremacy to power digital future"
 description: "UAE bets on Artificial Intelligence supremacy to power digital future captures how UAE residents are spending time, money and attention in a faster city rhythm."
 category: "Lifestyle"
 author: "Rian Kapoor"
@@ -19,7 +19,7 @@ The latest development centres on uae bets on artificial intelligence supremacy 
 
 That may sound like one more headline in a busy UAE news cycle. But the useful question is simpler. Who feels this first, and what changes for them by tomorrow morning?
 
-&lt;a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVFZmeXFWNGdDck1kMXo5UmhNNFJ0MGhza3N3SUJqOF95c1RSNVduYmEyaXdUNm93ZlItaGVreEpraEtSLVRCbEVxcXB6THFSNkJieDVnSGRRMElhaGd2d3A0U3YydEFObDlFTFJFUFBaZVhXZU41OVpHajVQUWNQN3lJZ0dMNzdlRGhSVGxLS2M3LUxhaHpLWVpmd0VKUGlQRjhyNnBUOVZaT0RUVmd6MVlaZVpxWkx4UXFUX2pRTGJXSVXSAcsBQVVfeXFMT0pTRC1hbVQxQnM3VUx6eUFTb0sxZXUwWDZRYmlQbk1sUXlXTFdsaU9NZUZIYl8zMjItWUJZNklQRnJSYUcxVXJ1RmM5RWkyMnJUV01NNVRyNjVqQm91U0RYRVh1cHBRRjVZWVRHOGFZeDlEZzVYbElMajNDMExIc3R1dm9uc1hfOTZ2cHlKQVVOODdDZjh6WUhvdWJENDV1bzZGSG9vVlM1ZkZtaVd5Vm94cWZtN3NzbTRRd1U3Tm9iUXFXdFFkMVoydjg?oc=5" target="_blank"&gt;UAE bets on Artificial Intelligence supremacy to power digital future&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Khaleej Times&lt;/font&gt;
+UAE bets on Artificial Intelligence supremacy to power digital future captures how UAE residents are spending time, money and attention in a faster city rhythm.
 
 For residents, the answer usually appears in small details. A journey becomes easier. A bill changes. A public service becomes faster. A business owner sees fresh demand or another layer of cost. A parent gets one more thing to plan around.
 

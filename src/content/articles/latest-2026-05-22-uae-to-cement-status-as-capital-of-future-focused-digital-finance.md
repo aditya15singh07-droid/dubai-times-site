@@ -1,5 +1,5 @@
 ---
-title: "UAE to cement status as capital of future-focused digital finance: What UAE Readers Should Watch"
+title: "UAE to cement status as capital of future-focused digital finance"
 description: "UAE to cement status as capital of future-focused digital finance fits a regional moment where diplomacy, trade and public confidence move together."
 category: "Middle East"
 author: "Anika Menon"
@@ -19,7 +19,7 @@ The latest development centres on uae to cement status as capital of future-focu
 
 That may sound like one more headline in a busy UAE news cycle. But the useful question is simpler. Who feels this first, and what changes for them by tomorrow morning?
 
-&lt;a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPR2pQQkZGb0daZWNNYXAxaWhqc19Rby1DSzJfY1hVVkg5Nld0ME5DQ3pweU91djJLSDBqaTkweEVpTURDTnVleTAtMjZndU9GMTNyM0lnMUhMR0hIa2FreWh5d1d3dmt6d0tPWTJQRkhiRF9KXzcyd2o0S1RDYWUxQkFUdzJILU5kWkVMTi1KNkViMUd3NUtZZHB3bFZuWEcxMnZESlJoWEliLTdPOWM0?oc=5" target="_blank"&gt;UAE to cement status as capital of future-focused digital finance&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Gulf Today&lt;/font&gt;
+UAE to cement status as capital of future-focused digital finance fits a regional moment where diplomacy, trade and public confidence move together.
 
 For residents, the answer usually appears in small details. A journey becomes easier. A bill changes. A public service becomes faster. A business owner sees fresh demand or another layer of cost. A parent gets one more thing to plan around.
 

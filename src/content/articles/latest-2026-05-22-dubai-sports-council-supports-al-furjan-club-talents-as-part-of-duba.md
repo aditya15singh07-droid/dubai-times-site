@@ -1,5 +1,5 @@
 ---
-title: "Dubai Sports Council supports “Al Furjan Club” talents as part of Dubai Sports Sector Strategic Plan 2033: What UAE Readers Should Watch"
+title: "Dubai Sports Council supports “Al Furjan Club” talents as part of Dubai Sports Sector Strategic Plan 2033"
 description: "Dubai Sports Council supports “Al Furjan Club” talents as part of Dubai Sports Sector Strategic Plan 2033 captures how UAE residents are spending time, money and attention in a faster city rhythm."
 category: "Lifestyle"
 author: "Rian Kapoor"
@@ -19,7 +19,7 @@ The latest development centres on dubai sports council supports “al furjan clu
 
 That may sound like one more headline in a busy UAE news cycle. But the useful question is simpler. Who feels this first, and what changes for them by tomorrow morning?
 
-&lt;a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxNVll5RE9GSXZLZjVSSlhhcU5POWp2UHM0QWp3eGxIU2pKckdIT2ZKLXcyWXdVVEJDTmc1Sk01c0lDRG1GQnlGb1liYXNlWHRRZVFGUGtvcTdYYkdkU0I2VjIweG1MXy15MnZKVDgwVER2enYyM19VMHozaHpGZHNEcmI4M3pCMkZ5dk9CUnJKaTQycnZrUnNEcw?oc=5" target="_blank"&gt;Dubai Sports Council supports “Al Furjan Club” talents as part of Dubai Sports Sector Strategic Plan 2033&lt;/a&gt; &lt;font color="#6f6f6f"&gt;albawaba.com&lt;/font&gt;
+Dubai Sports Council supports “Al Furjan Club” talents as part of Dubai Sports Sector Strategic Plan 2033 captures how UAE residents are spending time, money and attention in a faster city rhythm.
 
 For residents, the answer usually appears in small details. A journey becomes easier. A bill changes. A public service becomes faster. A business owner sees fresh demand or another layer of cost. A parent gets one more thing to plan around.
 

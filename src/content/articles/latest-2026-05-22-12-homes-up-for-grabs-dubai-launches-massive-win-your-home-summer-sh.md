@@ -1,5 +1,5 @@
 ---
-title: "12 homes up for grabs: Dubai launches massive 'Win Your Home' summer shopping raffle: What UAE Readers Should Watch"
+title: "12 homes up for grabs: Dubai launches massive 'Win Your Home' summer shopping raffle"
 description: "12 homes up for grabs: Dubai launches massive 'Win Your Home' summer shopping raffle adds a fresh marker to Dubai's property cycle, where pricing, trust and end-user demand meet."
 category: "Real Estate"
 author: "Zoya Malhotra"
@@ -19,7 +19,7 @@ The latest development centres on 12 homes up for grabs: dubai launches massive 
 
 That may sound like one more headline in a busy UAE news cycle. But the useful question is simpler. Who feels this first, and what changes for them by tomorrow morning?
 
-&lt;a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxNRHdTU3R4anBUMmthbGJJM3hkSHNLS0hYUmJXRkUzejJTMkdaTUxJWXpnd2tsWFhTMDluZmFwNHo2eldFTmJiWGdCRTFCQjlpZUVvMEd4ckp1U05CMjZLdE9vZDFmRElEOHNuc2tubzJiajVsZWVXYVhyOHVkWUlyMlpacnphYlYwSHZoUXlOWHZ5SXFvNmJIWi0wX0JmbEhmOHFqZ0VnS2pweGJOOTFqOFhDWGVYM2NHX1J5Tk5OcVJmQzg1NlVNTUhB0gHKAUFVX3lxTE1Ed1NTdHhqcFQya2FsYkkzeGRIc0tLSFhSYldGRTN6MlMyR1pNTElZemd3a2xYWFMwOW5mYXA0ejZ6V0VOYmJYZ0JFMUJCOWllRW8wR3hySnVTTkIyNkt0T29kMWZESUQ4c25za25vMmJqNWxlZVdhWHI4dWRZSXIyWlpyemFiVjBIdmhReU5YdnlJcW82YkhaLTBfQmZsSGY4cWpnRWdLanB4Yk45MWo4WENYZVgzY0dfUnlOTk5xUmZDODU2VU1NSEE?oc=5" target="_blank"&gt;12 homes up for grabs: Dubai launches massive 'Win Your Home' summer shopping raffle&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Gulf News&lt;/font&gt;
+12 homes up for grabs: Dubai launches massive 'Win Your Home' summer shopping raffle adds a fresh marker to Dubai's property cycle, where pricing, trust and end-user demand meet.
 
 For residents, the answer usually appears in small details. A journey becomes easier. A bill changes. A public service becomes faster. A business owner sees fresh demand or another layer of cost. A parent gets one more thing to plan around.
 

@@ -1,5 +1,5 @@
 ---
-title: "Cuba’s new crisis explained: From sanctions to showdown fears: What UAE Readers Should Watch"
+title: "Cuba’s new crisis explained: From sanctions to showdown fears"
 description: "Cuba’s new crisis explained: From sanctions to showdown fears underlines how live culture and entertainment are competing for attention in Dubai."
 category: "Entertainment"
 author: "Vihaan Rao"
@@ -19,7 +19,7 @@ The latest development centres on cuba’s new crisis explained: from sanctions 
 
 That may sound like one more headline in a busy UAE news cycle. But the useful question is simpler. Who feels this first, and what changes for them by tomorrow morning?
 
-&lt;a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOTzNVS2JTTzE3aVFfaVl4SjdTWWw5dUgwLUlBZHNpNmo3a2M2TXZXZV9BbW83SnRVOUoxNENKeGptVVYyNk9IREZXRDNHUnFRZ09XZlVBb012MndVWWpEQWJQNVRfS181LUE2LWlFV1Y3M3Q0eFBKalBucTBIVGc0ZzhVT3F4MnhWQXFEbjF4WnV2RXNoNkkxYjVWaDlwcV83Vmg1MnpOMlU1b0o4YTdyUldnSHlxbEs4ZnRHNVp30gG-AUFVX3lxTE5PM1VLYlNPMTdpUV9pWXhKN1NZbDl1SDAtSUFkc2k2ajdrYzZNdldlX0FtbzdKdFU5SjE0Q0p4am1VVjI2T0hERldEM0dScVFnT1dmVUFvTXYyd1VZakRBYlA1VF9LXzUtQTYtaUVXVjczdDR4UEpqUG5xMEhUZzRnOFVPcXgyeFZBcURuMXhadXZFc2g2STFiNVZoOXBxXzdWaDUyek4yVTVvSjhhN3JSV2dIeXFsSzhmdEc1Wnc?oc=5" target="_blank"&gt;Cuba’s new crisis explained: From sanctions to showdown fears&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Gulf News&lt;/font&gt;
+Cuba’s new crisis explained: From sanctions to showdown fears underlines how live culture and entertainment are competing for attention in Dubai.
 
 For residents, the answer usually appears in small details. A journey becomes easier. A bill changes. A public service becomes faster. A business owner sees fresh demand or another layer of cost. A parent gets one more thing to plan around.
 

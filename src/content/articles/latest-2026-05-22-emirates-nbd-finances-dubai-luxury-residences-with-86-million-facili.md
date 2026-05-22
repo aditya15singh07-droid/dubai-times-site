@@ -1,5 +1,5 @@
 ---
-title: "Emirates NBD Finances Dubai Luxury Residences With €86 Million Facility: What UAE Readers Should Watch"
+title: "Emirates NBD Finances Dubai Luxury Residences With €86 Million Facility"
 description: "Emirates NBD Finances Dubai Luxury Residences With €86 Million Facility adds a fresh marker to Dubai's property cycle, where pricing, trust and end-user demand meet."
 category: "Real Estate"
 author: "Zoya Malhotra"
@@ -19,7 +19,7 @@ The latest development centres on emirates nbd finances dubai luxury residences 
 
 That may sound like one more headline in a busy UAE news cycle. But the useful question is simpler. Who feels this first, and what changes for them by tomorrow morning?
 
-&lt;a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxQYkk2Wmo2QTFyTFZaamFReU5CeUxaQXplM0ZmZWd1ZkwyWE8xbUNaZlJZbk41UFRQaFlyUUF3a3lNSGF3X0FEaGZReHlCQTJaVmgtTV8zQmVhTFVKazNxZm9qZXBzRk5BbGwyZ1ppbm5qM08yRmZ2SUZBc19XdW9ZWkM0c1o0ZHhYR0RUTG15UU1uaEY2TVNxZTJidHBhay1pS3RuXzRHNV8yT1RpNXhQU25qVU8?oc=5" target="_blank"&gt;Emirates NBD Finances Dubai Luxury Residences With €86 Million Facility&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Rus Tourism News&lt;/font&gt;
+Emirates NBD Finances Dubai Luxury Residences With €86 Million Facility adds a fresh marker to Dubai's property cycle, where pricing, trust and end-user demand meet.
 
 For residents, the answer usually appears in small details. A journey becomes easier. A bill changes. A public service becomes faster. A business owner sees fresh demand or another layer of cost. A parent gets one more thing to plan around.
 

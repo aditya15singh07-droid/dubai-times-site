@@ -1,5 +1,5 @@
 ---
-title: "Sheikh Hamdan approves Dhs1.5bn boost: These key Dubai sectors will get major incentives: What UAE Readers Should Watch"
+title: "Sheikh Hamdan approves Dhs1.5bn boost: These key Dubai sectors will get major incentives"
 description: "Sheikh Hamdan approves Dhs1.5bn boost: These key Dubai sectors will get major incentives adds a fresh marker to Dubai's property cycle, where pricing, trust and end-user demand meet."
 category: "Real Estate"
 author: "Zoya Malhotra"
@@ -19,7 +19,7 @@ The latest development centres on sheikh hamdan approves dhs1.5bn boost: these k
 
 That may sound like one more headline in a busy UAE news cycle. But the useful question is simpler. Who feels this first, and what changes for them by tomorrow morning?
 
-&lt;a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxObFJrc3pWdmh4NXdvbXhSMlNYM3h1Y2FxS2tOaHVFQ3RYLXVjUDZVU2c4b3EtOEYxT3JLanhnQ2J6cExjazhCT1JvZnF5ejd5QmZYcWVpcHdYc0k4T0N5QW4tZ3NRQWtMY0RRY3pvUy1tQWRNOWIzZzJCQm5KMnZIemZuVDZoQXduREhwWUpzMTh1Vi1kdFBpQTFsWTM4akpjWjY0RkNzWU16SkVHWkxlNmxQbHU?oc=5" target="_blank"&gt;Sheikh Hamdan approves Dhs1.5bn boost: These key Dubai sectors will get major incentives&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Gulf Business&lt;/font&gt;
+Sheikh Hamdan approves Dhs1.5bn boost: These key Dubai sectors will get major incentives adds a fresh marker to Dubai's property cycle, where pricing, trust and end-user demand meet.
 
 For residents, the answer usually appears in small details. A journey becomes easier. A bill changes. A public service becomes faster. A business owner sees fresh demand or another layer of cost. A parent gets one more thing to plan around.
 

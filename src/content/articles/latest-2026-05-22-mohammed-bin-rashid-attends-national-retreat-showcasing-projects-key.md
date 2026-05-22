@@ -1,5 +1,5 @@
 ---
-title: "Mohammed bin Rashid attends national retreat showcasing projects, key features of next phase of UAE Government’s Agentic AI project: What UAE Readers Should Watch"
+title: "Mohammed bin Rashid attends national retreat showcasing projects, key features of next phase of UAE Government’s Agentic AI project"
 description: "Mohammed bin Rashid attends national retreat showcasing projects, key features of next phase of UAE Government’s... underlines how live culture and entertainment are competing for attention in Dubai."
 category: "Entertainment"
 author: "Vihaan Rao"
@@ -19,7 +19,7 @@ The latest development centres on mohammed bin rashid attends national retreat s
 
 That may sound like one more headline in a busy UAE news cycle. But the useful question is simpler. Who feels this first, and what changes for them by tomorrow morning?
 
-&lt;a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxPR2lCV0dka1IwV2NTUlRLZXlaREFYeVNEaWxMNm5WWFVSZlM5bTFmRFhrdURLQmd3X3R0TktCbG9NV0wyMkxFYkF5dHpSczhYamxYS3JHRzRuNnN1RmoyLVk5YWNIU0UyZ2lYRU1KazB2SExaaDIwVlVHSVd1NHZlY1BQNXZRcklWOGc?oc=5" target="_blank"&gt;Mohammed bin Rashid attends national retreat showcasing projects, key features of next phase of UAE Government’s Agentic AI project&lt;/a&gt; &lt;font color="#6f6f6f"&gt;وكالة وام&lt;/font&gt;
+Mohammed bin Rashid attends national retreat showcasing projects, key features of next phase of UAE Government’s... underlines how live culture and entertainment are competing for attention in Dubai.
 
 For residents, the answer usually appears in small details. A journey becomes easier. A bill changes. A public service becomes faster. A business owner sees fresh demand or another layer of cost. A parent gets one more thing to plan around.
 

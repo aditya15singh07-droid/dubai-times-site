@@ -1,5 +1,5 @@
 ---
-title: "Flight Disruptions Sweep Gulf Hubs as 441 Delayed, 37 Canceled: What UAE Readers Should Watch"
+title: "Flight Disruptions Sweep Gulf Hubs as 441 Delayed, 37 Canceled"
 description: "Flight Disruptions Sweep Gulf Hubs as 441 Delayed, 37 Canceled matters for UAE passengers, tourism operators and families planning their next trip."
 category: "Travel"
 author: "Aarav Mehta"
@@ -19,7 +19,7 @@ The latest development centres on flight disruptions sweep gulf hubs as 441 dela
 
 That may sound like one more headline in a busy UAE news cycle. But the useful question is simpler. Who feels this first, and what changes for them by tomorrow morning?
 
-&lt;a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxNcC10cF8tVDFHZDJZRjJISkZpZG5fT3dJU2t4WGJ6aENWdGlKb1lVa1Y2NTJ4NGVHbm5aZ1RsMWRoYUZOZUJRREI0Y1NtbExqNHBpTXFEY0lRbi01VWlrZG1IVllZS0lPTDN6ZWNWUElJMXh6a3JMTkZ2QV9tckptYlllVTRHUnNhbEpGTWNlY1pBcUtP?oc=5" target="_blank"&gt;Flight Disruptions Sweep Gulf Hubs as 441 Delayed, 37 Canceled&lt;/a&gt; &lt;font color="#6f6f6f"&gt;thetraveler.org&lt;/font&gt;
+Flight Disruptions Sweep Gulf Hubs as 441 Delayed, 37 Canceled matters for UAE passengers, tourism operators and families planning their next trip.
 
 For residents, the answer usually appears in small details. A journey becomes easier. A bill changes. A public service becomes faster. A business owner sees fresh demand or another layer of cost. A parent gets one more thing to plan around.
 

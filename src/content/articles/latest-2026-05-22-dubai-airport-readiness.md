@@ -1,5 +1,5 @@
 ---
-title: "Dubai airport readiness: What UAE Readers Should Watch"
+title: "Dubai airport readiness"
 description: "Dubai airport readiness matters for UAE passengers, tourism operators and families planning their next trip."
 category: "Travel"
 author: "Aarav Mehta"
@@ -19,7 +19,7 @@ The latest development centres on dubai airport readiness.
 
 That may sound like one more headline in a busy UAE news cycle. But the useful question is simpler. Who feels this first, and what changes for them by tomorrow morning?
 
-&lt;a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxOTWVBM0tMT2dQRTdVN0phSVA5QWZydS1Va2NweDRJNkMzMkpjdVk1U1BWWjJFNGQxUXBJR1p5TnZOSnJCekRKQUc4TGYxRS1KRlJESXYtR1BCV3NHd1A2THlQdVllSlVrM2UxUFE2a2lVenJFbktYWXpHN2ZjUWs2X2Jn?oc=5" target="_blank"&gt;Dubai airport readiness&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Travel And Tour World&lt;/font&gt;
+Dubai airport readiness matters for UAE passengers, tourism operators and families planning their next trip.
 
 For residents, the answer usually appears in small details. A journey becomes easier. A bill changes. A public service becomes faster. A business owner sees fresh demand or another layer of cost. A parent gets one more thing to plan around.
 

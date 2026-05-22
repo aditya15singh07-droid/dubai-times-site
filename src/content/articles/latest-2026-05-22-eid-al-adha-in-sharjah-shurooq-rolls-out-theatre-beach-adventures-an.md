@@ -1,5 +1,5 @@
 ---
-title: "Eid Al Adha in Sharjah: Shurooq rolls out theatre, beach adventures and family festivities: What UAE Readers Should Watch"
+title: "Eid Al Adha in Sharjah: Shurooq rolls out theatre, beach adventures and family festivities"
 description: "Eid Al Adha in Sharjah: Shurooq rolls out theatre, beach adventures and family festivities underlines how live culture and entertainment are competing for attention in Dubai."
 category: "Entertainment"
 author: "Vihaan Rao"
@@ -19,7 +19,7 @@ The latest development centres on eid al adha in sharjah: shurooq rolls out thea
 
 That may sound like one more headline in a busy UAE news cycle. But the useful question is simpler. Who feels this first, and what changes for them by tomorrow morning?
 
-&lt;a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT0dZSVdTcjh0NlIybTM5b2tjbVpWbjFVM0RiTHM2QTlXakkyU0t5cHV3VVZ1Njd0R1V0eTBiQjI2cGpkZGFIakhtZDNqTmJYQnFqSkpLeTdjMXo3ejNCN2hkVlVmd3JaY1dJTXdVV0FGZjBFQWQyd1JpekxfR0JOLUdwUTEtUHE5WGN0OWJ4T3U3UGNvTklqQlBpYVppWFBDdVhiQ0RScUtYbmFOUThuWnFuZVJCUTMtNXN3?oc=5" target="_blank"&gt;Eid Al Adha in Sharjah: Shurooq rolls out theatre, beach adventures and family festivities&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Gulf Business&lt;/font&gt;
+Eid Al Adha in Sharjah: Shurooq rolls out theatre, beach adventures and family festivities underlines how live culture and entertainment are competing for attention in Dubai.
 
 For residents, the answer usually appears in small details. A journey becomes easier. A bill changes. A public service becomes faster. A business owner sees fresh demand or another layer of cost. A parent gets one more thing to plan around.
 

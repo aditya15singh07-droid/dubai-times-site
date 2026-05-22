@@ -1,5 +1,5 @@
 ---
-title: "Xsolla, Dubai Films and Games Commission create strategic partnership to connect Dubai-based developers to global markets: What UAE Readers Should Watch"
+title: "Xsolla, Dubai Films and Games Commission create strategic partnership to connect Dubai-based developers to global markets"
 description: "Xsolla, Dubai Films and Games Commission create strategic partnership to connect Dubai-based developers to global... adds a fresh marker to Dubai's property cycle, where pricing, trust and end-user demand meet."
 category: "Real Estate"
 author: "Zoya Malhotra"
@@ -19,7 +19,7 @@ The latest development centres on xsolla, dubai films and games commission creat
 
 That may sound like one more headline in a busy UAE news cycle. But the useful question is simpler. Who feels this first, and what changes for them by tomorrow morning?
 
-&lt;a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxNZGZaUUcwWkR3TEk3ZTZqX3ZVQzNCZXdfeEpwSFBpWVpzSW9xUlBGeEpnVzM3d0tYMUNRVE1jaWpMMHVQajUxSE9jTU9vb0VEVDAtMnZIbnNFUnhFY1ZyeWtaN1luRUhab1dHZ1BRUEM4cFgyLVNUVXVvV2w3NnR3X3FjWE5wTXI1SS04Sw?oc=5" target="_blank"&gt;Xsolla, Dubai Films and Games Commission create strategic partnership to connect Dubai-based developers to global markets&lt;/a&gt; &lt;font color="#6f6f6f"&gt;وكالة وام&lt;/font&gt;
+Xsolla, Dubai Films and Games Commission create strategic partnership to connect Dubai-based developers to global... adds a fresh marker to Dubai's property cycle, where pricing, trust and end-user demand meet.
 
 For residents, the answer usually appears in small details. A journey becomes easier. A bill changes. A public service becomes faster. A business owner sees fresh demand or another layer of cost. A parent gets one more thing to plan around.
 

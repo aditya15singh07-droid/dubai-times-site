@@ -1,5 +1,5 @@
 ---
-title: "Dubai Police showcases futuristic security tech at ISNR 2026: What UAE Readers Should Watch"
+title: "Dubai Police showcases futuristic security tech at ISNR 2026"
 description: "Dubai Police showcases futuristic security tech at ISNR 2026 shows how sport is becoming part of the UAE's wider audience, tourism and community story."
 category: "Sport"
 author: "Naina Batra"
@@ -19,7 +19,7 @@ The latest development centres on dubai police showcases futuristic security tec
 
 That may sound like one more headline in a busy UAE news cycle. But the useful question is simpler. Who feels this first, and what changes for them by tomorrow morning?
 
-&lt;a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxPY1F1SUdreFFLTEJuQzRrWmhnSUxqSC1ZcWFqY2cwR0Vnc1cwNmdLTXZXZTM5dGpnNXJxeEF6UnBKMHE5TkJ4dTl1Y2wybFRuZmM4WnJqemdUdEdLMzVrb3NnX3lwa3p1aVpRNFBiQTJxS3dtTG9LZzYyeUxmazFHSjhzYWRGazRnaEJCbjBVcVZoUnkxV1RaSGlEVEIxZVN2QUdXNFFuNXRTZlYtUnfSAa4BQVVfeXFMT2NRdUlHa3hRS0xCbkM0a1poZ0lMakgtWXFhamNnMEdFZ3NXMDZnS012V2UzOXRqZzVycXhBelJwSjBxOU5CeHU5dWNsMmxUbmZjOFpyanpnVHRHSzM1a29zZ195cGt6dWlaUTRQYkEycUt3bUxvS2c2MnlMZmsxR0o4c2FkRms0Z2hCQm4wVXFWaFJ5MVdUWkhpRFRCMWVTdkFHVzRRbjV0U2ZWLVJ3?oc=5" target="_blank"&gt;Dubai Police showcases futuristic security tech at ISNR 2026&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Gulf News&lt;/font&gt;
+Dubai Police showcases futuristic security tech at ISNR 2026 shows how sport is becoming part of the UAE's wider audience, tourism and community story.
 
 For residents, the answer usually appears in small details. A journey becomes easier. A bill changes. A public service becomes faster. A business owner sees fresh demand or another layer of cost. A parent gets one more thing to plan around.
 

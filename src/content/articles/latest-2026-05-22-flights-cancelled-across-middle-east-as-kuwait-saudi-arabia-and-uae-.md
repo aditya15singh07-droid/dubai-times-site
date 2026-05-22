@@ -1,5 +1,5 @@
 ---
-title: "Flights Cancelled across Middle East as Kuwait, Saudi Arabia and UAE Delay 441 and Cancel 37 Flights, Disrupting Akasa Air, Saudia, Airblue, Kuwait Airways, Air Arabia and others in Jeddah, Riyadh, Kuwait City, Dubai and Sharjah, New Update: What UAE Readers Should Watch"
+title: "Flights Cancelled across Middle East as Kuwait, Saudi Arabia and UAE Delay 441 and Cancel 37 Flights, Disrupting Akasa Air, Saudia, Airblue, Kuwait Airways, Air Arabia and others in Jeddah, Riyadh, Kuwait City, Dubai and Sharjah"
 description: "Flights Cancelled across Middle East as Kuwait, Saudi Arabia and UAE Delay 441 and Cancel 37 Flights, Disrupting... matters for UAE passengers, tourism operators and families planning their next trip."
 category: "Travel"
 author: "Aarav Mehta"
@@ -15,11 +15,11 @@ pexelsId: "3856433"
 
 A travel update is never only about a route or a terminal. It is about the family checking fares, the hotel waiting for bookings and the worker planning a smoother commute.
 
-The latest development centres on flights cancelled across middle east as kuwait, saudi arabia and uae delay 441 and cancel 37 flights, disrupting akasa air, saudia, airblue, kuwait airways, air arabia and others in jeddah, riyadh, kuwait city, dubai and sharjah, new update.
+The latest development centres on flights cancelled across middle east as kuwait, saudi arabia and uae delay 441 and cancel 37 flights, disrupting akasa air, saudia, airblue, kuwait airways, air arabia and others in jeddah, riyadh, kuwait city, dubai and sharjah.
 
 That may sound like one more headline in a busy UAE news cycle. But the useful question is simpler. Who feels this first, and what changes for them by tomorrow morning?
 
-&lt;a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE1mLWo4UWxqWUVmdHFaWklOQTNVQmp3YUFUQjEwQzQ0d2YzM3lKR2UxeFhRcC1RRFkwRmN5Z2NhbHdPSG1DSFF0X1V1VmNiMF85a2luRE1GZDJuelBKOFJuYmZpakNxWThVWWpyczV3?oc=5" target="_blank"&gt;Flights Cancelled across Middle East as Kuwait, Saudi Arabia and UAE Delay 441 and Cancel 37 Flights, Disrupting Akasa Air, Saudia, Airblue, Kuwait Airways, Air Arabia and others in Jeddah, Riyadh, Kuwait City, Dubai and Sharjah, New Update&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Travel And Tour World&lt;/font&gt;
+Flights Cancelled across Middle East as Kuwait, Saudi Arabia and UAE Delay 441 and Cancel 37 Flights, Disrupting... matters for UAE passengers, tourism operators and families planning their next trip.
 
 For residents, the answer usually appears in small details. A journey becomes easier. A bill changes. A public service becomes faster. A business owner sees fresh demand or another layer of cost. A parent gets one more thing to plan around.
 

@@ -1,5 +1,5 @@
 ---
-title: "EFG Hermes, DFM host investor day to reinforce confidence in Dubai markets: What UAE Readers Should Watch"
+title: "EFG Hermes, DFM host investor day to reinforce confidence in Dubai markets"
 description: "EFG Hermes, DFM host investor day to reinforce confidence in Dubai markets fits a regional moment where diplomacy, trade and public confidence move together."
 category: "Middle East"
 author: "Anika Menon"
@@ -19,7 +19,7 @@ The latest development centres on efg hermes, dfm host investor day to reinforce
 
 That may sound like one more headline in a busy UAE news cycle. But the useful question is simpler. Who feels this first, and what changes for them by tomorrow morning?
 
-&lt;a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUXhBOGcwZ2g0YmMyZmMxZlkzNFN1T1QxVV9aVzY1aTRYVC1LcFBWM3VaUTdJTDRLc29fLXFuQVo1b1dURjVjMnJBTkdhcTE5ZDhCV0pOZFYzeUExLXZiYjI2M0NJZkVYUW4zbzZUNU9Edm11ejZlYUtsMGFQLWk0WE1YLWtRNVpBNDczVk9qZXVmd3pYeWczc1V5aHNwYWU5emducnlXbk84ZTJDRFM1V01BNm1mRG5MNFlDNWJvbkR3Ukt3dmdCUVhCZEVaSzJwSkZ30gHTAUFVX3lxTE9ReEE4ZzBnaDRiYzJmYzFmWTM0U3VPVDFVX1pXNjVpNFhULUtwUFYzdVpRN0lMNEtzb18tcW5BWjVvV1RGNWMyckFOR2FxMTlkOEJXSk5kVjN5QTEtdmJiMjYzQ0lmRVhRbjNvNlQ1T0R2bXV6NmVhS2wwYVAtaTRYTVgta1E1WkE0NzNWT2pldWZ3elh5ZzNzVXloc3BhZTl6Z25yeVduTzhlMkNEUzVXTUE2bWZEbkw0WUM1Ym9uRHdSS3d2Z0JRWEJkRVpLMnBKRnc?oc=5" target="_blank"&gt;EFG Hermes, DFM host investor day to reinforce confidence in Dubai markets&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Gulf News&lt;/font&gt;
+EFG Hermes, DFM host investor day to reinforce confidence in Dubai markets fits a regional moment where diplomacy, trade and public confidence move together.
 
 For residents, the answer usually appears in small details. A journey becomes easier. A bill changes. A public service becomes faster. A business owner sees fresh demand or another layer of cost. A parent gets one more thing to plan around.
 

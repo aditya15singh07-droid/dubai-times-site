@@ -1,5 +1,5 @@
 ---
-title: "Dubai Customs Unveils Center of Excellence in Collaboration with University of Dubai: What UAE Readers Should Watch"
+title: "Dubai Customs Unveils Center of Excellence in Collaboration with University of Dubai"
 description: "Dubai Customs Unveils Center of Excellence in Collaboration with University of Dubai captures how UAE residents are spending time, money and attention in a faster city rhythm."
 category: "Lifestyle"
 author: "Rian Kapoor"
@@ -19,7 +19,7 @@ The latest development centres on dubai customs unveils center of excellence in 
 
 That may sound like one more headline in a busy UAE news cycle. But the useful question is simpler. Who feels this first, and what changes for them by tomorrow morning?
 
-&lt;a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxPS2JYTWs1ME55TXdfZ0hndHVMdjdNUmRkUG9vN0hRNnEtRGFWall5WEJlNlJUX3RfcU40NGdna1BYZ3NRQkRKQmJFVU5TcmZBVlFTLUtqZmhtdVcyVHFrT2dUMzZqcXNxZHFiSTEzMVF5Y25PVlRudzVWdTNZWlZidUVGeVdnaXdPVzAzeQ?oc=5" target="_blank"&gt;Dubai Customs Unveils Center of Excellence in Collaboration with University of Dubai&lt;/a&gt; &lt;font color="#6f6f6f"&gt;albawaba.com&lt;/font&gt;
+Dubai Customs Unveils Center of Excellence in Collaboration with University of Dubai captures how UAE residents are spending time, money and attention in a faster city rhythm.
 
 For residents, the answer usually appears in small details. A journey becomes easier. A bill changes. A public service becomes faster. A business owner sees fresh demand or another layer of cost. A parent gets one more thing to plan around.
 

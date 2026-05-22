@@ -1,5 +1,5 @@
 ---
-title: "From Fujairah to Abu Dhabi: How citizens can benefit from new healthcare system: What UAE Readers Should Watch"
+title: "From Fujairah to Abu Dhabi: How citizens can benefit from new healthcare system"
 description: "From Fujairah to Abu Dhabi: How citizens can benefit from new healthcare system matters because health news becomes real only when patients and families feel the difference."
 category: "Health"
 author: "Ishaan Vora"
@@ -19,7 +19,7 @@ The latest development centres on from fujairah to abu dhabi: how citizens can b
 
 That may sound like one more headline in a busy UAE news cycle. But the useful question is simpler. Who feels this first, and what changes for them by tomorrow morning?
 
-&lt;a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOUl94YnBXQzkwaEM1d1JwdEZ3cUtrRDNvcDN6czFraVNVVUhpVXVDNkx3OXllYWlmczR5Zk1wTXRPTTZyeTViTnU3WlcwajI4aF8tU1ZuQzVSVWlWeHlXbWNaMFlTc1Y3aEN1dF93ajhVQXRfWU9zN0gxVmQ3T001ZUhxMEdKY1RyVzVpUERESVJudnhpNGV6SHNzSEpObXN5aHpyQkMwdkx1RVNCLThRZ9IBuAFBVV95cUxObjQ2UVF3UXVKSFdTRGhNNDJjVXlfLUNlR213b0M0TnRxSGloMTB0eUhzSDA5aEhLQ05zdVVheWZvNE9fajRtU3FzUjBLQU5KbURxbC1Ea2xPS20xN1BCNmRYOGNMNGo1eDFTX3g2bE1YUjFTMGw2ZlY5S3FNZHVaV05SQmF4YlI4Q3NHSmNyd3hXRWF0dGJJR2FKU0hYQUl6eldxUGQtN2JDZkVSM2FLVVZJZjE1WXBX?oc=5" target="_blank"&gt;From Fujairah to Abu Dhabi: How citizens can benefit from new healthcare system&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Khaleej Times&lt;/font&gt;
+From Fujairah to Abu Dhabi: How citizens can benefit from new healthcare system matters because health news becomes real only when patients and families feel the difference.
 
 For residents, the answer usually appears in small details. A journey becomes easier. A bill changes. A public service becomes faster. A business owner sees fresh demand or another layer of cost. A parent gets one more thing to plan around.
 
