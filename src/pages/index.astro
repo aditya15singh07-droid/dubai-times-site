@@ -2,6 +2,7 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import { categories, categoryPath } from "../data/articles";
+import { seoTopics, topicPath } from "../data/topics";
 import { optimizedImage } from "../lib/images";
 
 const articleTimestamp = (article) => {
@@ -132,6 +133,11 @@ const homepageJsonLd = [
         ))}
       </div>
     </div>
+  </section>
+
+  <section class="topic-strip" aria-label="Popular Dubai Time searches">
+    <span>Trending Guides</span>
+    {seoTopics.map((topic) => <a href={topicPath(topic.slug)}>{topic.title}</a>)}
   </section>
 
   <section class="section homepage-grid" id="news">
@@ -436,6 +442,45 @@ const homepageJsonLd = [
 
   .market-window:hover .market-track {
     animation-play-state: paused;
+  }
+
+  .topic-strip {
+    align-items: center;
+    background: #fff;
+    border-bottom: 1px solid var(--line);
+    border-top: 1px solid var(--line);
+    display: flex;
+    gap: 12px;
+    overflow-x: auto;
+    padding: 12px max(24px, calc((100vw - 1180px) / 2 + 24px));
+    white-space: nowrap;
+  }
+
+  .topic-strip span {
+    background: #111214;
+    color: #fff;
+    flex: 0 0 auto;
+    font-size: 0.72rem;
+    font-weight: 950;
+    letter-spacing: 0.06em;
+    padding: 8px 10px;
+    text-transform: uppercase;
+  }
+
+  .topic-strip a {
+    border: 1px solid var(--line);
+    color: #25272d;
+    flex: 0 0 auto;
+    font-size: 0.75rem;
+    font-weight: 950;
+    letter-spacing: 0.04em;
+    padding: 8px 10px;
+    text-transform: uppercase;
+  }
+
+  .topic-strip a:hover {
+    border-color: var(--accent);
+    color: var(--accent);
   }
 
   .market-group {

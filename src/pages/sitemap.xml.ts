@@ -1,6 +1,7 @@
 import type { APIRoute } from "astro";
 import { getCollection } from "astro:content";
 import { categories, categoryPath } from "../data/articles";
+import { seoTopics, topicPath } from "../data/topics";
 
 const siteUrl = "https://dubai-time.com";
 
@@ -27,6 +28,13 @@ export const GET: APIRoute = async () => {
       changefreq: "daily",
       priority: "0.8",
     })),
+    ...seoTopics.map((topic) => ({
+      loc: topicPath(topic.slug),
+      lastmod: now,
+      changefreq: "daily",
+      priority: "0.85",
+    })),
+    { loc: "/rss.xml", lastmod: now, changefreq: "hourly", priority: "0.5" },
     ...articles.map((article) => ({
       loc: `/articles/${article.id}`,
       lastmod: toIsoDate(article.data.date),

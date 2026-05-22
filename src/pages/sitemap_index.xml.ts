@@ -10,6 +10,10 @@ export const GET: APIRoute = () => {
     <loc>${siteUrl}/sitemap.xml</loc>
     <lastmod>${lastmod}</lastmod>
   </sitemap>
+  <sitemap>
+    <loc>${siteUrl}/news-sitemap.xml</loc>
+    <lastmod>${lastmod}</lastmod>
+  </sitemap>
 </sitemapindex>
 `;
 

@@ -1,5 +1,6 @@
 ---
 import { categories, categoryPath } from "../data/articles";
+import { seoTopics, topicPath } from "../data/topics";
 
 type Props = {
   title?: string;
@@ -86,6 +87,7 @@ const desktopLinks = [
     <meta name="robots" content={robots} />
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalUrl} />
+    <link rel="alternate" type="application/rss+xml" title="Dubai Time RSS" href={`${siteUrl}/rss.xml`} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content={type} />
@@ -157,6 +159,9 @@ const desktopLinks = [
         <strong>Dubai Time</strong>
         <p>UAE time, emirates weather, alerts, and independent news context.</p>
       </div>
+      <nav class="footer-topics" aria-label="Topic hubs">
+        {seoTopics.map((topic) => <a href={topicPath(topic.slug)}>{topic.title}</a>)}
+      </nav>
       <p class="footer-note">Built as the first foundation for the Dubai Time publishing system.</p>
     </footer>
     <script is:inline>
@@ -389,6 +394,26 @@ const desktopLinks = [
     text-align: right;
   }
 
+  .footer-topics {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 16px;
+    justify-content: center;
+    max-width: 430px;
+  }
+
+  .footer-topics a {
+    color: rgba(255, 255, 255, 0.72);
+    font-size: 0.72rem;
+    font-weight: 900;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+
+  .footer-topics a:hover {
+    color: #fff;
+  }
+
   @media (max-width: 760px) {
     .topline {
       align-items: flex-start;
@@ -559,6 +584,10 @@ const desktopLinks = [
 
     .footer-note {
       text-align: left;
+    }
+
+    .footer-topics {
+      justify-content: flex-start;
     }
   }
 

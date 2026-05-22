@@ -19,17 +19,45 @@ const articleTimestamp = (entry) => {
 };
 
 const { category } = Astro.props;
+const canonical = `https://dubai-time.com/category/${categoryPath(category)}`;
 const articles = await getCollection("articles", ({ data }) => !data.draft);
 const categoryArticles = articles
   .filter((article) => article.data.category.toLowerCase() === category.toLowerCase())
   .sort((a, b) => articleTimestamp(b) - articleTimestamp(a));
 
 const [leadArticle, ...restArticles] = categoryArticles;
+const categoryJsonLd = [
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: `${category} News`,
+    url: canonical,
+    description: `Latest ${category} coverage from Dubai Time with UAE-first context and live updates.`,
+    isPartOf: {
+      "@type": "WebSite",
+      name: "Dubai Time",
+      url: "https://dubai-time.com",
+    },
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    name: `${category} latest stories`,
+    itemListElement: categoryArticles.slice(0, 12).map((article, index) => ({
+      "@type": "ListItem",
+      position: index + 1,
+      url: `https://dubai-time.com/articles/${article.id}`,
+      name: article.data.title,
+    })),
+  },
+];
 ---
 
 <BaseLayout
   title={`${category} News | Dubai Time`}
-  description={`Latest ${category} coverage from Dubai Time.`}
+  description={`Latest ${category} coverage from Dubai Time with UAE-first context, live updates and reader-friendly explainers.`}
+  canonical={canonical}
+  structuredData={categoryJsonLd}
 >
   <section class="section category-page">
     <header class="category-header">
