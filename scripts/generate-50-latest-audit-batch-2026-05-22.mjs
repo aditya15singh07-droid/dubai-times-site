@@ -3,11 +3,12 @@ import path from "node:path";
 
 const root = process.cwd();
 const articleDir = path.join(root, "src/content/articles");
-const reportPath = path.join(root, "reports/publishing-report-2026-05-22-50-latest-audit.txt");
+const reportPath = path.join(root, process.env.REPORT_PATH || "reports/publishing-report-2026-05-22-50-latest-audit.txt");
 const feedDir = "/tmp/dubai-time-latest-2026-05-22";
 const today = "2026-05-22";
-const targetCount = 50;
-const perCategoryTarget = 5;
+const targetCount = Number(process.env.TARGET_COUNT || 50);
+const batchPrefix = process.env.BATCH_PREFIX || "latest-2026-05-22";
+const startHour = Number(process.env.START_HOUR || 10);
 const categories = [
   "Travel",
   "Crypto",
@@ -20,6 +21,7 @@ const categories = [
   "Health",
   "Middle East",
 ];
+const perCategoryTarget = Number(process.env.PER_CATEGORY_TARGET || Math.floor(targetCount / categories.length) || 1);
 
 const reportersByCategory = {
   Travel: "Aarav Mehta",
@@ -170,9 +172,10 @@ async function existingArticleData() {
 
 async function cleanPreviousBatch() {
   const files = await fs.readdir(articleDir);
+  const escapedPrefix = batchPrefix.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
   await Promise.all(
     files
-      .filter((file) => /^latest-2026-05-22-.*\.md$/.test(file))
+      .filter((file) => new RegExp(`^${escapedPrefix}-.*\\.md$`).test(file))
       .map((file) => fs.unlink(path.join(articleDir, file))),
   );
   await fs.rm(reportPath, { force: true });
@@ -319,7 +322,7 @@ function topicKey(title) {
 
 function publishedTime(index) {
   const minutesFromStart = index * 4;
-  const hour = 10 + Math.floor(minutesFromStart / 60);
+  const hour = startHour + Math.floor(minutesFromStart / 60);
   const minute = minutesFromStart % 60;
   return `${String(hour).padStart(2, "0")}:${String(minute).padStart(2, "0")} GST`;
 }
@@ -340,7 +343,7 @@ async function writeBatch() {
       if (usedItems.has(item.title)) continue;
       if (!categoryHintsFor(item).includes(category)) continue;
 
-      const baseSlug = slugify(`latest-2026-05-22-${item.title}`);
+      const baseSlug = slugify(`${batchPrefix}-${item.title}`);
       const titleKey = slugify(item.title);
       const key = topicKey(item.title);
       if (slugs.has(baseSlug) || titles.has(titleKey)) {
@@ -387,7 +390,7 @@ async function writeBatch() {
     if (published.length >= targetCount) break;
     if (usedItems.has(item.title)) continue;
     const category = categoryHintsFor(item)[0] || "Business";
-    const baseSlug = slugify(`latest-2026-05-22-${item.title}`);
+    const baseSlug = slugify(`${batchPrefix}-${item.title}`);
     const titleKey = slugify(item.title);
     const key = topicKey(item.title);
     if (slugs.has(baseSlug) || titles.has(titleKey) || (usedTopics.get(key) || 0) >= 1) continue;
@@ -424,7 +427,7 @@ async function writeBatch() {
   const categoryCounts = Object.fromEntries(categories.map((category) => [category, 0]));
   for (const article of published) categoryCounts[article.category] += 1;
   const average = Math.round((published.reduce((sum, article) => sum + article.score, 0) / published.length) * 10) / 10;
-  const report = `Dubai Time 50 Latest Articles Report
+  const report = `Dubai Time ${targetCount} Latest Articles Report
 
 Date: ${today}
 Published: ${published.length}
