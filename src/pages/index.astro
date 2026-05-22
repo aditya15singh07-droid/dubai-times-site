@@ -4,6 +4,7 @@ import { getCollection } from "astro:content";
 import { categories, categoryPath } from "../data/articles";
 import { seoTopics, topicPath } from "../data/topics";
 import { optimizedImage } from "../lib/images";
+import { articlePath, articleUrl, articleUrlMap } from "../lib/articleUrls";
 
 const articleTimestamp = (article) => {
   const [hour = "00", minute = "00"] = String(article.data.publishedTime || "").match(/\d{2}/g) || [];
@@ -14,6 +15,7 @@ const articleTimestamp = (article) => {
 
 const articles = (await getCollection("articles", ({ data }) => !data.draft))
   .sort((a, b) => articleTimestamp(b) - articleTimestamp(a));
+const articleUrls = articleUrlMap(articles);
 
 const [leadArticle, ...restArticles] = articles;
 const topStories = restArticles.slice(0, 4);
@@ -66,7 +68,7 @@ const homepageJsonLd = [
     itemListElement: justIn.map((article, index) => ({
       "@type": "ListItem",
       position: index + 1,
-      url: `https://dubai-time.com/articles/${article.id}`,
+      url: articleUrl(article, articleUrls),
       name: article.data.title,
     })),
   },
@@ -142,12 +144,12 @@ const homepageJsonLd = [
 
   <section class="section homepage-grid" id="news">
     <article class="lead-story">
-      <a href={`/articles/${leadArticle.id}`} aria-label={leadArticle.data.title}>
+      <a href={articlePath(leadArticle, articleUrls)} aria-label={leadArticle.data.title}>
         <img src={optimizedImage(leadArticle.data.image)} alt={leadArticle.data.imageAlt} />
       </a>
       <div>
         <p class="eyebrow">{leadArticle.data.category}</p>
-        <h2><a href={`/articles/${leadArticle.id}`}>{leadArticle.data.title}</a></h2>
+        <h2><a href={articlePath(leadArticle, articleUrls)}>{leadArticle.data.title}</a></h2>
         <p>{leadArticle.data.description}</p>
         <div class="story-meta">
           <span>{leadArticle.data.author}</span>
@@ -163,7 +165,7 @@ const homepageJsonLd = [
         <strong>What matters now</strong>
       </div>
       {topStories.map((article, index) => (
-        <a href={`/articles/${article.id}`} class="top-link">
+        <a href={articlePath(article, articleUrls)} class="top-link">
           <span>{String(index + 1).padStart(2, "0")}</span>
           <div>
             <small>{article.data.category} · {article.data.publishedTime}</small>
@@ -182,7 +184,7 @@ const homepageJsonLd = [
     </div>
     <div class="just-in-grid">
       {justIn.map((article) => (
-        <a href={`/articles/${article.id}`}>
+        <a href={articlePath(article, articleUrls)}>
           <span>{article.data.category}</span>
           <strong>{article.data.title}</strong>
           <small>{article.data.publishedTime} · {estimateRead(article)} min read</small>
@@ -200,12 +202,12 @@ const homepageJsonLd = [
       <div class="latest-list">
         {latest.map((article) => (
           <article class="story-row">
-            <a href={`/articles/${article.id}`}>
+            <a href={articlePath(article, articleUrls)}>
               <img src={optimizedImage(article.data.image)} alt={article.data.imageAlt} loading="lazy" />
             </a>
             <div>
               <p class="eyebrow">{article.data.category}</p>
-              <h3><a href={`/articles/${article.id}`}>{article.data.title}</a></h3>
+              <h3><a href={articlePath(article, articleUrls)}>{article.data.title}</a></h3>
               <p>{article.data.description}</p>
               <small>{article.data.publishedTime} · {estimateRead(article)} min read</small>
             </div>
@@ -218,7 +220,7 @@ const homepageJsonLd = [
       <p class="eyebrow">Founder Lens</p>
       <h2>Reads for operators and investors</h2>
       {opinionRail.map((article) => (
-        <a href={`/articles/${article.id}`}>
+        <a href={articlePath(article, articleUrls)}>
           <span>{article.data.category}</span>
           <strong>{article.data.title}</strong>
         </a>
@@ -236,7 +238,7 @@ const homepageJsonLd = [
         <section>
           <a class="category-name" href={`/category/${categoryPath(block.category)}`}>{block.category}</a>
           {block.articles.map((article) => (
-            <a class="mini-card" href={`/articles/${article.id}`}>
+            <a class="mini-card" href={articlePath(article, articleUrls)}>
               <img src={optimizedImage(article.data.image)} alt={article.data.imageAlt} loading="lazy" />
               <strong>{article.data.title}</strong>
               <small>{article.data.publishedTime}</small>

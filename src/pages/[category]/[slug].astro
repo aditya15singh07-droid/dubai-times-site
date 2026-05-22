@@ -3,12 +3,12 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import { getCollection, render } from "astro:content";
 import { optimizedImage } from "../../lib/images";
 import { categoryPath } from "../../data/articles";
-import { articlePath, articleUrl, articleUrlMap } from "../../lib/articleUrls";
+import { articlePath, articleUrl, articleUrlMap, buildArticleUrlEntries } from "../../lib/articleUrls";
 
 export async function getStaticPaths() {
   const articles = await getCollection("articles", ({ data }) => !data.draft);
-  return articles.map((article) => ({
-    params: { slug: article.id },
+  return buildArticleUrlEntries(articles).map(({ article, category, slug }) => ({
+    params: { category, slug },
     props: { article },
   }));
 }
@@ -99,7 +99,6 @@ const breadcrumbJsonLd = {
   title={`${article.data.title} | Dubai Time`}
   description={article.data.description}
   canonical={canonicalUrl}
-  robots="noindex, follow"
   type="article"
   structuredData={[articleJsonLd, breadcrumbJsonLd]}
 >

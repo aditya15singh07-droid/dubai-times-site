@@ -3,6 +3,7 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import { seoTopics, topicPath } from "../../data/topics";
 import { optimizedImage } from "../../lib/images";
+import { articlePath, articleUrl, articleUrlMap } from "../../lib/articleUrls";
 
 export async function getStaticPaths() {
   return seoTopics.map((topic) => ({
@@ -21,6 +22,7 @@ const articleTimestamp = (entry) => {
 const { topic } = Astro.props;
 const allArticles = (await getCollection("articles", ({ data }) => !data.draft))
   .sort((a, b) => articleTimestamp(b) - articleTimestamp(a));
+const articleUrls = articleUrlMap(allArticles);
 
 const topicWords = topic.keywords.map((keyword) => keyword.toLowerCase());
 const topicArticles = allArticles
@@ -58,7 +60,7 @@ const pageJsonLd = [
     itemListElement: articles.slice(0, 12).map((article, index) => ({
       "@type": "ListItem",
       position: index + 1,
-      url: `https://dubai-time.com/articles/${article.id}`,
+      url: articleUrl(article, articleUrls),
       name: article.data.title,
     })),
   },
@@ -83,12 +85,12 @@ const pageJsonLd = [
 
     {leadArticle && (
       <article class="topic-lead">
-        <a href={`/articles/${leadArticle.id}`}>
+        <a href={articlePath(leadArticle, articleUrls)}>
           <img src={optimizedImage(leadArticle.data.image)} alt={leadArticle.data.imageAlt} />
         </a>
         <div>
           <p class="eyebrow">{leadArticle.data.category}</p>
-          <h2><a href={`/articles/${leadArticle.id}`}>{leadArticle.data.title}</a></h2>
+          <h2><a href={articlePath(leadArticle, articleUrls)}>{leadArticle.data.title}</a></h2>
           <p>{leadArticle.data.description}</p>
           <small>{leadArticle.data.publishedTime}</small>
         </div>
@@ -97,7 +99,7 @@ const pageJsonLd = [
 
     <div class="topic-grid">
       {restArticles.map((article) => (
-        <a href={`/articles/${article.id}`} class="topic-card">
+        <a href={articlePath(article, articleUrls)} class="topic-card">
           <img src={optimizedImage(article.data.image)} alt={article.data.imageAlt} loading="lazy" />
           <span>{article.data.category}</span>
           <strong>{article.data.title}</strong>

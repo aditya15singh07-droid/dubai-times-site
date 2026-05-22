@@ -98,7 +98,7 @@ import { categories, reportersByCategory } from "../data/articles";
         '<button class="generate-button" type="submit">Generate Article File</button>',
         '</form>',
         '<section class="admin-output" aria-label="Generated article output">',
-        '<div class="output-card"><p class="eyebrow">Article Link</p><code data-link>/articles/your-slug</code><small>Use this URL after the article file is committed and deployed.</small></div>',
+        '<div class="output-card"><p class="eyebrow">Article Link</p><code data-link>/category/news-name</code><small>Use this URL after the article file is committed and deployed.</small></div>',
         '<div class="output-card output-file"><p class="eyebrow">Markdown File</p><textarea data-output rows="24" readonly placeholder="Your generated markdown will appear here."></textarea></div>',
         '</section>',
         '</div>',
@@ -121,6 +121,7 @@ import { categories, reportersByCategory } from "../data/articles";
         const data = new FormData(form);
         const title = data.get("title");
         const slug = slugify(title);
+        const categorySlug = slugify(data.get("category"));
         const today = new Intl.DateTimeFormat("en-CA", {
           timeZone: "Asia/Dubai",
           year: "numeric",
@@ -159,7 +160,7 @@ import { categories, reportersByCategory } from "../data/articles";
         ].join("\n");
 
         if (output) output.value = markdown;
-        if (link) link.textContent = `/articles/${slug}`;
+        if (link) link.textContent = `/${categorySlug}/${slug}`;
       });
     };
 

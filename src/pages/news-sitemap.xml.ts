@@ -1,5 +1,6 @@
 import type { APIRoute } from "astro";
 import { getCollection } from "astro:content";
+import { articleUrl, articleUrlMap } from "../lib/articleUrls";
 
 const siteUrl = "https://dubai-time.com";
 const publicationName = "Dubai Time";
@@ -25,6 +26,7 @@ export const GET: APIRoute = async () => {
     .filter((article) => articleTimestamp(article) >= cutoff)
     .sort((a, b) => articleTimestamp(b) - articleTimestamp(a))
     .slice(0, 1000);
+  const articleUrls = articleUrlMap(articles);
 
   const body = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
@@ -32,7 +34,7 @@ export const GET: APIRoute = async () => {
 ${articles
   .map(
     (article) => `  <url>
-    <loc>${escapeXml(`${siteUrl}/articles/${article.id}`)}</loc>
+    <loc>${escapeXml(articleUrl(article, articleUrls))}</loc>
     <news:news>
       <news:publication>
         <news:name>${escapeXml(publicationName)}</news:name>

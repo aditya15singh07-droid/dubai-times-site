@@ -2,6 +2,7 @@ import type { APIRoute } from "astro";
 import { getCollection } from "astro:content";
 import { categories, categoryPath } from "../data/articles";
 import { seoTopics, topicPath } from "../data/topics";
+import { articlePath, articleUrlMap } from "../lib/articleUrls";
 
 const siteUrl = "https://dubai-time.com";
 
@@ -17,6 +18,7 @@ const toIsoDate = (date: Date) => date.toISOString().slice(0, 10);
 
 export const GET: APIRoute = async () => {
   const articles = await getCollection("articles", ({ data }) => !data.draft);
+  const articleUrls = articleUrlMap(articles);
   const now = toIsoDate(new Date());
 
   const urls = [
@@ -36,7 +38,7 @@ export const GET: APIRoute = async () => {
     })),
     { loc: "/rss.xml", lastmod: now, changefreq: "hourly", priority: "0.5" },
     ...articles.map((article) => ({
-      loc: `/articles/${article.id}`,
+      loc: articlePath(article, articleUrls),
       lastmod: toIsoDate(article.data.date),
       changefreq: "weekly",
       priority: "0.7",

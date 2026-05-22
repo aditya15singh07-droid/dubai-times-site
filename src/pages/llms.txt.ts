@@ -1,6 +1,7 @@
 import type { APIRoute } from "astro";
 import { getCollection } from "astro:content";
 import { categories, categoryPath } from "../data/articles";
+import { articleUrl, articleUrlMap } from "../lib/articleUrls";
 
 const siteUrl = "https://dubai-time.com";
 
@@ -15,6 +16,7 @@ export const GET: APIRoute = async () => {
   const articles = (await getCollection("articles", ({ data }) => !data.draft))
     .sort((a, b) => articleTimestamp(b) - articleTimestamp(a))
     .slice(0, 40);
+  const articleUrls = articleUrlMap(articles);
 
   const body = `# Dubai Time
 
@@ -36,7 +38,7 @@ Dubai Time is a UAE-first publication focused on live Dubai time, seven-emirate 
 ${categories.map((category) => `- ${category}: ${siteUrl}/category/${categoryPath(category)}`).join("\n")}
 
 ## Latest Public Articles
-${articles.map((article) => `- ${article.data.title}: ${siteUrl}/articles/${article.id}`).join("\n")}
+${articles.map((article) => `- ${article.data.title}: ${articleUrl(article, articleUrls)}`).join("\n")}
 
 ## AI And Search Guidance
 - Public pages may be crawled and summarized when attribution links back to the original Dubai Time URL.

@@ -1,0 +1,38 @@
+Dubai Time 5 Latest Articles Report
+
+Date: 2026-05-22
+Published: 5
+Rejected/Skipped as duplicates: 44
+Average audit score: 9.1/10
+
+Category split:
+- Travel: 1
+- Crypto: 1
+- Business: 1
+- Real Estate: 1
+- Lifestyle: 1
+
+Published articles:
+1. Travel | 9/10 | Dubai World Trade Centre event
+   https://dubai-time.com/travel/dubai-world-trade-centre-event
+2. Crypto | 9/10 | Kraken Secures Dubai VARA Authorization for UAE Crypto Expansion
+   https://dubai-time.com/crypto/kraken-secures-dubai-vara-authorization-for-uae-crypto-expansion
+3. Business | 9.3/10 | UAE’s flexible, diversified economy proves resilient amid regional turmoil, says minister
+   https://dubai-time.com/business/uae-s-flexible-diversified-economy-proves-resilient-amid-regional-turmoil-says-minister
+4. Real Estate | 9/10 | Emirates NBD and CPI Property Group strike financing for ultra-luxury residential portfolio in Dubai
+   https://dubai-time.com/real-estate/emirates-nbd-and-cpi-property-group-strike-financing-for-ultra-luxury-residential-portfolio
+5. Lifestyle | 9/10 | Using Salik in Dubai? New 5% VAT rule starts June 1
+   https://dubai-time.com/lifestyle/using-salik-in-dubai-new-5-vat-rule-starts-june-1
+
+Audit basis:
+- Clarity and readability: short paragraphs, simple English and direct framing.
+- Accuracy and factual integrity: each article is based on a latest feed item and avoids unsupported extra claims.
+- Engagement and hook: every article opens with a reader-facing human angle.
+- Structure and organization: clean paragraphs, no generic section headings inside articles.
+- Grammar and style: professional Dubai Time tone with active voice.
+- Value and usefulness: explains impact for residents, businesses, families, travellers and investors.
+- Originality: fresh UAE/Dubai context added instead of copying source wording.
+- Persuasiveness and impact: each story explains why the headline matters now.
+
+Final verdict:
+The batch is suitable for publishing. The articles are timely, indexable, category-distributed, and written for quick reader understanding with practical UAE context.

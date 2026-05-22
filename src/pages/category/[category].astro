@@ -3,6 +3,7 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 import { categories, categoryPath } from "../../data/articles";
 import { optimizedImage } from "../../lib/images";
+import { articlePath, articleUrl, articleUrlMap } from "../../lib/articleUrls";
 
 export async function getStaticPaths() {
   return categories.map((category) => ({
@@ -21,6 +22,7 @@ const articleTimestamp = (entry) => {
 const { category } = Astro.props;
 const canonical = `https://dubai-time.com/category/${categoryPath(category)}`;
 const articles = await getCollection("articles", ({ data }) => !data.draft);
+const articleUrls = articleUrlMap(articles);
 const categoryArticles = articles
   .filter((article) => article.data.category.toLowerCase() === category.toLowerCase())
   .sort((a, b) => articleTimestamp(b) - articleTimestamp(a));
@@ -46,7 +48,7 @@ const categoryJsonLd = [
     itemListElement: categoryArticles.slice(0, 12).map((article, index) => ({
       "@type": "ListItem",
       position: index + 1,
-      url: `https://dubai-time.com/articles/${article.id}`,
+      url: articleUrl(article, articleUrls),
       name: article.data.title,
     })),
   },
@@ -68,12 +70,12 @@ const categoryJsonLd = [
 
     {leadArticle ? (
       <article class="category-lead">
-        <a href={`/articles/${leadArticle.id}`}>
+        <a href={articlePath(leadArticle, articleUrls)}>
           <img src={optimizedImage(leadArticle.data.image)} alt={leadArticle.data.imageAlt} />
         </a>
         <div>
           <p class="eyebrow">{leadArticle.data.category}</p>
-          <h2><a href={`/articles/${leadArticle.id}`}>{leadArticle.data.title}</a></h2>
+          <h2><a href={articlePath(leadArticle, articleUrls)}>{leadArticle.data.title}</a></h2>
           <p>{leadArticle.data.description}</p>
           <small>{leadArticle.data.publishedTime}</small>
         </div>
@@ -85,12 +87,12 @@ const categoryJsonLd = [
     <div class="listing">
       {restArticles.map((article) => (
         <article class="row">
-          <a href={`/articles/${article.id}`}>
+          <a href={articlePath(article, articleUrls)}>
             <img src={optimizedImage(article.data.image)} alt={article.data.imageAlt} loading="lazy" />
           </a>
           <div>
             <p class="eyebrow">{article.data.category}</p>
-            <h2><a href={`/articles/${article.id}`}>{article.data.title}</a></h2>
+            <h2><a href={articlePath(article, articleUrls)}>{article.data.title}</a></h2>
             <p>{article.data.description}</p>
             <small>{article.data.publishedTime}</small>
           </div>

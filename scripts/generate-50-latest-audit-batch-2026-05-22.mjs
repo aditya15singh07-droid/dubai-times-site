@@ -116,6 +116,7 @@ const decode = (value = "") =>
 
 const stripSource = (title = "") =>
   decode(title)
+    .replace(/^(ZAWYA|MENAFN|Gulf News|Khaleej Times|Arabian Business|Travel And Tour World|Arab News|The National):\s*/i, "")
     .replace(/\s+-\s+[^-]+$/g, "")
     .replace(/\|.*$/g, "")
     .replace(/\s*[-–—]\s*(24-7 Press Release Newswire|Cointelegraph|Khaleej Times|Gulf News|Gulf Today|Menafn\.com|ZAWYA|ARN News Centre|Crypto Briefing|Decrypt|Travel And Tour World).*$/i, "")
@@ -145,6 +146,21 @@ const slugify = (value = "") =>
     .slice(0, 86);
 
 const yaml = (value = "") => `"${String(value).replaceAll("\\", "\\\\").replaceAll('"', '\\"')}"`;
+
+const cleanUrlSlug = (value = "") =>
+  value
+    .toLowerCase()
+    .replace(/&amp;/g, "and")
+    .replace(/&#039;|&apos;/g, "")
+    .replace(/&quot;/g, "")
+    .replace(/['"]/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-|-$/g, "")
+    .slice(0, 92)
+    .replace(/^-|-$/g, "");
+
+const publicArticleUrl = (article) =>
+  `https://dubai-time.com/${slugify(article.category)}/${cleanUrlSlug(article.title)}`;
 
 const getTag = (block, tag) =>
   decode(block.match(new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`, "i"))?.[1] || "");
@@ -339,6 +355,7 @@ async function writeBatch() {
 
   for (const category of categories) {
     for (const item of candidates) {
+      if (published.length >= targetCount) break;
       if (published.filter((article) => article.category === category).length >= perCategoryTarget) break;
       if (usedItems.has(item.title)) continue;
       if (!categoryHintsFor(item).includes(category)) continue;
@@ -384,6 +401,7 @@ async function writeBatch() {
         score,
       });
     }
+    if (published.length >= targetCount) break;
   }
 
   for (const item of candidates) {
@@ -442,7 +460,7 @@ ${Object.entries(categoryCounts)
 
 Published articles:
 ${published
-  .map((article, index) => `${index + 1}. ${article.category} | ${article.score}/10 | ${article.title}\n   ${`https://dubai-time.com/articles/${article.slug}`}`)
+  .map((article, index) => `${index + 1}. ${article.category} | ${article.score}/10 | ${article.title}\n   ${publicArticleUrl(article)}`)
   .join("\n")}
 
 Audit basis:

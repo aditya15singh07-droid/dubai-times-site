@@ -1,5 +1,6 @@
 import type { APIRoute } from "astro";
 import { getCollection } from "astro:content";
+import { articleUrl, articleUrlMap } from "../lib/articleUrls";
 
 const siteUrl = "https://dubai-time.com";
 
@@ -22,6 +23,7 @@ export const GET: APIRoute = async () => {
   const articles = (await getCollection("articles", ({ data }) => !data.draft))
     .sort((a, b) => articleTimestamp(b) - articleTimestamp(a))
     .slice(0, 80);
+  const articleUrls = articleUrlMap(articles);
 
   const body = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
@@ -34,7 +36,7 @@ export const GET: APIRoute = async () => {
     <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
 ${articles
   .map((article) => {
-    const url = `${siteUrl}/articles/${article.id}`;
+    const url = articleUrl(article, articleUrls);
     return `    <item>
       <title>${escapeXml(article.data.title)}</title>
       <link>${escapeXml(url)}</link>
