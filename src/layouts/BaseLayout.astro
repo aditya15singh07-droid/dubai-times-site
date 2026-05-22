@@ -5,13 +5,51 @@ type Props = {
   title?: string;
   description?: string;
   robots?: string;
+  canonical?: string;
+  type?: string;
+  structuredData?: Record<string, unknown> | Record<string, unknown>[];
 };
 
 const {
   title = "Dubai Time",
   description = "Dubai Time tracks the UAE clock, emirates weather, alerts, and the stories shaping Dubai and the wider UAE.",
   robots = "index, follow",
+  canonical,
+  type = "website",
+  structuredData,
 } = Astro.props;
+
+const siteUrl = "https://dubai-time.com";
+const canonicalUrl = canonical || new URL(Astro.url.pathname, siteUrl).toString();
+const baseStructuredData = [
+  {
+    "@context": "https://schema.org",
+    "@type": "NewsMediaOrganization",
+    name: "Dubai Time",
+    url: siteUrl,
+    logo: `${siteUrl}/favicon.svg`,
+    description:
+      "Dubai Time publishes live UAE time, seven-emirate weather, market context, and UAE-focused business and lifestyle news.",
+    sameAs: [siteUrl],
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    name: "Dubai Time",
+    url: siteUrl,
+    potentialAction: {
+      "@type": "SearchAction",
+      target: `${siteUrl}/?q={search_term_string}`,
+      "query-input": "required name=search_term_string",
+    },
+  },
+];
+const pageStructuredData = structuredData
+  ? Array.isArray(structuredData)
+    ? structuredData
+    : [structuredData]
+  : [];
+const jsonLd = JSON.stringify([...baseStructuredData, ...pageStructuredData]).replaceAll("</script", "<\\/script");
 
 const primaryLinks = [
   { href: "/", label: "Time" },
@@ -47,9 +85,16 @@ const desktopLinks = [
     <meta name="generator" content={Astro.generator} />
     <meta name="robots" content={robots} />
     <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalUrl} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content={type} />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:site_name" content="Dubai Time" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <script type="application/ld+json" set:html={jsonLd}></script>
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="icon" href="/favicon.ico" />
     <title>{title}</title>

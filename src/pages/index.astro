@@ -46,11 +46,37 @@ const marketItems = [
   { symbol: "BTC-USD", label: "Bitcoin", unit: "BTC/USD", value: "77,443" },
   { symbol: "NQ=F", label: "Nasdaq", unit: "Futures", value: "29,076.5" },
 ];
+
+const homepageJsonLd = [
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    name: "Dubai Time",
+    url: "https://dubai-time.com/",
+    description:
+      "Live Dubai time, UAE weather, markets, and business news for readers tracking the Emirates.",
+    about: ["Dubai time", "UAE weather", "Dubai business news", "UAE markets"],
+    inLanguage: "en",
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    name: "Latest Dubai Time stories",
+    itemListElement: justIn.map((article, index) => ({
+      "@type": "ListItem",
+      position: index + 1,
+      url: `https://dubai-time.com/articles/${article.id}`,
+      name: article.data.title,
+    })),
+  },
+];
 ---
 
 <BaseLayout
   title="Dubai Time | UAE Business, Markets, Weather And Leadership News"
   description="Dubai Time is a UAE-first business and city news publication with live time, markets, weather and sharp context on Dubai."
+  canonical="https://dubai-time.com/"
+  structuredData={homepageJsonLd}
 >
   <section class="section masthead">
     <aside class="live-panel" id="weather" aria-label="Live UAE dashboard">

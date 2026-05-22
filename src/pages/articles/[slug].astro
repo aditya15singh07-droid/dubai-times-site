@@ -21,6 +21,7 @@ const articleTimestamp = (entry) => {
 
 const { article } = Astro.props;
 const { Content } = await render(article);
+const siteUrl = "https://dubai-time.com";
 const allArticles = (await getCollection("articles", ({ data }) => !data.draft))
   .sort((a, b) => articleTimestamp(b) - articleTimestamp(a));
 
@@ -34,9 +35,47 @@ const fallbackRelated = allArticles
   .filter((entry) => entry.id !== article.id && !relatedArticles.some((related) => related.id === entry.id))
   .slice(0, 3 - relatedArticles.length);
 const recommendedArticles = [...relatedArticles, ...fallbackRelated];
+const canonicalUrl = `${siteUrl}/articles/${article.id}`;
+const articleJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  mainEntityOfPage: {
+    "@type": "WebPage",
+    "@id": canonicalUrl,
+  },
+  headline: article.data.title,
+  description: article.data.description,
+  image: [new URL(optimizedImage(article.data.image), siteUrl).toString()],
+  datePublished: article.data.date.toISOString(),
+  dateModified: article.data.date.toISOString(),
+  author: {
+    "@type": "Person",
+    name: article.data.author,
+  },
+  publisher: {
+    "@type": "NewsMediaOrganization",
+    name: "Dubai Time",
+    logo: {
+      "@type": "ImageObject",
+      url: `${siteUrl}/favicon.svg`,
+    },
+  },
+  articleSection: article.data.category,
+  keywords: article.data.tags.join(", "),
+  wordCount: article.body.split(/\s+/).filter(Boolean).length,
+  timeRequired: `PT${readingMinutes}M`,
+  inLanguage: "en",
+  isAccessibleForFree: true,
+};
 ---
 
-<BaseLayout title={`${article.data.title} | Dubai Time`} description={article.data.description}>
+<BaseLayout
+  title={`${article.data.title} | Dubai Time`}
+  description={article.data.description}
+  canonical={canonicalUrl}
+  type="article"
+  structuredData={articleJsonLd}
+>
   <div class="reading-progress" aria-hidden="true"><span data-reading-progress></span></div>
 
   <article class="article-shell">

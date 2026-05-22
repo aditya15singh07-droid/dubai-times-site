@@ -3,3 +3,7 @@ Allow: /
 Disallow: /admin
 
 Sitemap: https://dubai-time.com/sitemap.xml
+Sitemap: https://dubai-time.com/sitemap_index.xml
+
+# AI/search context file
+# https://dubai-time.com/llms.txt
