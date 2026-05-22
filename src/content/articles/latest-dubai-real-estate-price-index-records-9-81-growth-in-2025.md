@@ -1,13 +1,13 @@
 ---
-title: "Dubai Real Estate Price Index records 9.81% growth in 2025: What UAE Readers Should Watch"
-description: "Dubai Real Estate Price Index records 9.81% growth in 2025 adds a fresh marker to Dubai's property cycle, where demand, pricing and trust all move together."
+title: "What Price Index Records 9 81 Growth in 2025 Reveals About Dubai Property’s Next Serious Test"
+description: "What Price Index Records 9 81 Growth in 2025 Reveals About Dubai Property’s Next Serious Test looks at what changes on the ground for buyers, tenants, developers and families trying to read Dubai property clearly."
 category: "Real Estate"
 author: "Armaan Gill"
 date: 2026-05-20
 publishedTime: "03:57 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/5445453/pexels-photo-5445453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A family discussing plans at home in warm evening light."
+imageAlt: "Real Estate visual for What Price Index Records 9 81 Growth in 2025 Reveals About Dubai Property’s Next Serious Test"
 tags: ["Real Estate", "Dubai Time"]
 draft: false
 ---

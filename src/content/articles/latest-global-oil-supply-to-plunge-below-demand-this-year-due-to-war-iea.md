@@ -1,13 +1,13 @@
 ---
-title: "Global oil supply to plunge below demand this year due to war: IEA: What It Means Now"
-description: "Global oil supply will fall short of total demand ​this year as the Iran war wreaks havoc on Middle East oil production and drains inventories at an unprecedented..."
+title: "Why Global Oil Supply to Plunge Below Demand This Year Deserves A Closer Dubai Time Read"
+description: "Why Global Oil Supply to Plunge Below Demand This Year Deserves A Closer Dubai Time Read looks at what changes on the ground for UAE readers, exporters, travellers and investors exposed to global shifts."
 category: "International"
 author: "Tara Khanna"
 date: 2026-05-19
 publishedTime: "18:41 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/13/1078494.webp"
-imageAlt: "Global oil supply to plunge below demand this year due to war: IEA related news image from source feed."
+imageAlt: "International visual for Why Global Oil Supply to Plunge Below Demand This Year Deserves A Closer Dubai Time Read"
 tags: ["International", "Dubai Time"]
 draft: false
 ---

@@ -1,13 +1,13 @@
 ---
-title: "Emirates breaks ground on $5.1b engineering facility at Dubai South: What It Means Now"
-description: "Emirates has broken ground on its new $5.1 billion engineering complex at Dubai South, slated to become the world’s most modern and advanced maintenance, repairs and..."
+title: "What Emirates Breaks Ground on 5 1b Engineering Facility Says About Dubai’s Push From Speed To Trust"
+description: "What Emirates Breaks Ground on 5 1b Engineering Facility Says About Dubai’s Push From Speed To Trust looks at what changes on the ground for UAE readers, exporters, travellers and investors exposed to global shifts."
 category: "International"
 author: "Tara Khanna"
 date: 2026-05-19
 publishedTime: "13:14 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/18/1079790.webp"
-imageAlt: "Emirates breaks ground on $5.1b engineering facility at Dubai South related news image from source feed."
+imageAlt: "International visual for What Emirates Breaks Ground on 5 1b Engineering Facility Says About Dubai’s Push From Speed To Trust"
 tags: ["International", "Dubai Time"]
 draft: false
 ---

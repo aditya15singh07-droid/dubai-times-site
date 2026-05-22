@@ -1,13 +1,13 @@
 ---
-title: "Strait of Hormuz disruption could push oil market recovery into 2027, says Aramco CEO: What It Means Now"
-description: "Disruption to oil exports ‌via the Strait of Hormuz is threatening to delay the market's return to normal until 2027, Saudi ​Aramco CEO Amin ⁠Nasser warned on..."
+title: "Why Strait of Hormuz Disruption Could Push Oil Market Recovery Deserves A Closer Dubai Time Read"
+description: "Why Strait of Hormuz Disruption Could Push Oil Market Recovery Deserves A Closer Dubai Time Read looks at what changes on the ground for operators, investors and small firms reading the UAE economy beyond the headline numbers."
 category: "Business"
 author: "Vihaan Rao"
 date: 2026-05-19
 publishedTime: "23:54 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/11/1077778.webp"
-imageAlt: "Strait of Hormuz disruption could push oil market recovery into 2027, says Aramco CEO related news image from source feed."
+imageAlt: "Business visual for Why Strait of Hormuz Disruption Could Push Oil Market Recovery Deserves A Closer Dubai Time Read"
 tags: ["Business", "Dubai Time"]
 draft: false
 ---

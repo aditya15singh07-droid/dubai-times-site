@@ -1,13 +1,13 @@
 ---
-title: "Dubai memories from 1965: A Pakistani tailor family’s five-generation journey from Murshid Bazaar to Dubai Hills: What UAE Readers Should Watch"
-description: "Dubai memories from 1965: A Pakistani tailor family’s five-generation journey from Murshid Bazaar to Dubai Hills captures the softer side of city growth, where culture, families and spending habits meet."
+title: "What Dubai Memories from 1965 a Pakistani Tailor Family Says About Dubai’s Push From Speed To Trust"
+description: "What Dubai Memories from 1965 a Pakistani Tailor Family Says About Dubai’s Push From Speed To Trust looks at what changes on the ground for residents, retailers and families tracking how daily life is changing in the Emirates."
 category: "Lifestyle"
 author: "Aarav Mehta"
 date: 2026-05-20
 publishedTime: "07:00 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/7413916/pexels-photo-7413916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Engineers reviewing industrial operations in a modern facility."
+imageAlt: "Lifestyle visual for What Dubai Memories from 1965 a Pakistani Tailor Family Says About Dubai’s Push From Speed To Trust"
 tags: ["Lifestyle", "Dubai Time"]
 draft: false
 ---

@@ -1,13 +1,13 @@
 ---
-title: "VIDEO: Hamdan visits Jebel Ali Port, says it is at the heart of UAE&#039;s continuing success story: What It Means Now"
-description: "Sheikh Hamdan Bin Mohammed bin Rashid Al Maktoum, Crown Prince of Dubai, Deputy Prime Minister, Minister of Defence and Chairman of The Executive Council of Dubai, on..."
+title: "Why Video Hamdan Visits Jebel Ali Port Says It Matters Across The Gulf Now"
+description: "Why Video Hamdan Visits Jebel Ali Port Says It Matters Across The Gulf Now looks at what changes on the ground for residents, businesses and policy watchers reading the Gulf’s next move."
 category: "Middle East"
 author: "Reyansh Suri"
 date: 2026-05-19
 publishedTime: "17:52 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/14/1078640.webp"
-imageAlt: "VIDEO: Hamdan visits Jebel Ali Port, says it is at the heart of UAE&#039;s continuing success story related news image from source feed."
+imageAlt: "Middle East visual for Why Video Hamdan Visits Jebel Ali Port Says It Matters Across The Gulf Now"
 tags: ["Middle East", "Dubai Time"]
 draft: false
 ---

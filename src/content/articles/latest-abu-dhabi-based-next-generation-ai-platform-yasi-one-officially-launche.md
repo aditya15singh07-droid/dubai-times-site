@@ -1,13 +1,13 @@
 ---
-title: "Abu Dhabi-based next-generation AI platform Yasi One officially launched: What It Means Now"
-description: "Gulf Today, Staff ReporterAbu Dhabi: A significant step forward in artificial intelligence (AI) was announced recently with the official launch of Yasi One, a..."
+title: "What Abu Dhabi Based Next Generation AI Platform Yasi Says About Dubai’s Push From Speed To Trust"
+description: "What Abu Dhabi Based Next Generation AI Platform Yasi Says About Dubai’s Push From Speed To Trust looks at what changes on the ground for residents, businesses and policy watchers reading the Gulf’s next move."
 category: "Middle East"
 author: "Mira Sethi"
 date: 2026-05-19
 publishedTime: "22:26 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/11/1077852.webp"
-imageAlt: "Abu Dhabi-based next-generation AI platform Yasi One officially launched related news image from source feed."
+imageAlt: "Middle East visual for What Abu Dhabi Based Next Generation AI Platform Yasi Says About Dubai’s Push From Speed To Trust"
 tags: ["Middle East", "Dubai Time"]
 draft: false
 ---

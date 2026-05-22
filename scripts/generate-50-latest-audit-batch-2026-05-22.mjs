@@ -221,6 +221,130 @@ function categoryHintsFor(item) {
   return matches.length ? matches : ["Business"];
 }
 
+const titleCaseSmallWords = new Set(["a", "an", "and", "as", "at", "but", "by", "for", "from", "in", "into", "of", "on", "or", "the", "to", "with"]);
+
+function titleCase(value = "") {
+  return value
+    .toLowerCase()
+    .split(/\s+/)
+    .map((word, index) => {
+      if (index > 0 && titleCaseSmallWords.has(word)) return word;
+      return word.charAt(0).toUpperCase() + word.slice(1);
+    })
+    .join(" ")
+    .replace(/\bUae\b/g, "UAE")
+    .replace(/\bAi\b/g, "AI")
+    .replace(/\bVat\b/g, "VAT")
+    .replace(/\bVara\b/g, "VARA")
+    .replace(/\bRta\b/g, "RTA")
+    .replace(/\bUsd\b/g, "USD")
+    .replace(/\bBtc\b/g, "BTC")
+    .replace(/\bUs\b/g, "US");
+}
+
+function keywordSubject(value = "") {
+  const lower = value.toLowerCase();
+  if (/salik/.test(lower) && /vat|toll|gate/.test(lower)) return "Salik's 5% VAT Shift";
+  if (/parking|parkin/.test(lower) && /vat|fee/.test(lower)) return "Dubai Parking's VAT Shift";
+  if (/kraken/.test(lower) && /vara|license|approval|regulator/.test(lower)) return "Kraken's VARA Approval";
+  if (/pepeto|dogecoin|bnb/.test(lower)) return "Speculative Crypto Tokens";
+  if (/dubai world trade centre|world trade centre/.test(lower)) return "Dubai World Trade Centre's Event Calendar";
+  if (/airport readiness|airports? to handle|hajj travel|peak travel|eid.*travel|flight disruption|flights? cancelled/.test(lower)) {
+    return "Dubai's Peak Travel Rush";
+  }
+  if (/emirates nbd|luxury residential|property group|financing.*portfolio/.test(lower)) {
+    return "Dubai's Luxury Property Financing";
+  }
+  if (/flexible.*diversified economy|prospering economic model|economic model/.test(lower)) {
+    return "The UAE's Diversified Economy";
+  }
+  if (/korean brands/.test(lower)) return "Korean Brands' Middle East Challenge";
+  if (/financial hub/.test(lower)) return "Dubai's Financial Hub Image";
+  if (/obesity|healthcare system|health leaders|clinic|mental health/.test(lower)) return "The UAE's Health Trust Test";
+  if (/labour accommodation|salaries|worker/.test(lower)) return "UAE Worker Welfare Rules";
+  if (/eid.*sharjah|weekend events|culinary|lifestyle events|primark|mall/.test(lower)) return "Dubai's Weekend Spending Shift";
+  if (/basketball|pfl|football|sports council|furjan/.test(lower)) return "Dubai's Growing Sports Audience";
+  if (/antiquities|archaeological|culture|artist|festival|film|musical|concert/.test(lower)) return "Dubai's Culture Economy";
+  if (/gold rate|commodities|oil|stock|market/.test(lower)) return "Gulf Market Volatility";
+  if (/strait of hormuz|iran|regional|oman trade|supply chain/.test(lower)) return "Gulf Trade Resilience";
+  return "";
+}
+
+function cleanTitleSubject(value = "") {
+  return value
+    .replace(/^(Dubai|UAE|Middle East|Crypto|Business|Travel)\s+(news|update):\s*/i, "")
+    .replace(/^(Dubai|UAE)\s+(business|travel|real estate|crypto|health|sport|entertainment)\s+/i, "")
+    .replace(/\bupdate\b/gi, "")
+    .replace(/^New\s+/i, "")
+    .replace(/^Latest\s+/i, "")
+    .replace(/^Local Report Highlights\s+/i, "")
+    .replace(/\ball you need to know\b/gi, "")
+    .replace(/\b5\s+vat\b/gi, "5% VAT")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function editorialSubject(item, category) {
+  const raw = `${item.feed} ${item.source} ${item.title} ${item.description}`;
+  const keyword = keywordSubject(raw);
+  if (keyword) return keyword;
+  const cleaned = cleanTitleSubject(item.title);
+  const words = cleaned.split(/\s+/).filter(Boolean);
+  const shortened = words.slice(0, category === "International" || category === "Middle East" ? 7 : 8).join(" ");
+  return titleCase(shortened || "This Dubai Shift");
+}
+
+function editorialTitleFor(item, category) {
+  const subject = editorialSubject(item, category);
+  const lower = `${item.title} ${item.description} ${item.feed}`.toLowerCase();
+
+  if (/salik|parking|toll|metro|rta|commute|road/.test(lower)) {
+    return `What ${subject} Means For The Daily Cost Of Moving Around Dubai`;
+  }
+  if (/kraken|vara|crypto|bitcoin|blockchain|token|bnb|pepeto|digital asset|web3/.test(lower)) {
+    return `Why ${subject} Matters To Dubai's Trust-First Crypto Push`;
+  }
+  if (/property|real estate|residential|villa|tenant|rent|landlord|developer|housing|home/.test(lower)) {
+    return `What ${subject} Reveals About Dubai Property's Next Serious Test`;
+  }
+  if (/obesity|clinic|health|hospital|medical|pharma|patient|disease|wellbeing|mental/.test(lower)) {
+    return `Why ${subject} Is Becoming A Daily Trust Test For UAE Healthcare`;
+  }
+  if (/ai|artificial intelligence|digital|technology|platform|app|data|cyber|e-invoicing/.test(lower)) {
+    return `What ${subject} Says About Dubai's Push From Speed To Trust`;
+  }
+  if (/gold|oil|market|bank|finance|economy|investment|business|trade|sebi|fund|capital/.test(lower)) {
+    return `What ${subject} Signals About UAE Business Confidence Now`;
+  }
+  if (/airport|flight|airline|emirates airline|etihad airways|flydubai|hajj|eid|tourism|travel/.test(lower)) {
+    return `Why ${subject} Is Really A Test Of Dubai's Travel Discipline`;
+  }
+  if (/sport|basketball|football|club|cup|pfl|athlete|league/.test(lower)) {
+    return `Why ${subject} Is Bigger Than One Result For Dubai Sport`;
+  }
+  if (/concert|artist|music|film|cinema|festival|entertainment|theatre|chicago|primark|mall|food|restaurant/.test(lower)) {
+    return `What ${subject} Says About Dubai's Weekend Attention Economy`;
+  }
+  if (/iran|hormuz|saudi|oman|qatar|regional|middle east|security|diplomacy/.test(lower)) {
+    return `Why ${subject} Matters To The UAE's Stability Story`;
+  }
+
+  const templates = {
+    Travel: `Why ${subject} Is Really About Trust In UAE Travel`,
+    Crypto: `Why ${subject} Matters To Dubai's Regulated Crypto Future`,
+    Business: `What ${subject} Signals About The UAE Economy Now`,
+    "Real Estate": `What ${subject} Reveals About Dubai Property Demand`,
+    Lifestyle: `What ${subject} Says About Everyday Life In The UAE`,
+    Sport: `Why ${subject} Matters Beyond The Scoreboard`,
+    Entertainment: `What ${subject} Means For Dubai's Live Culture Push`,
+    International: `Why ${subject} Matters To UAE Readers Now`,
+    Health: `What ${subject} Means For Patients And Families In The UAE`,
+    "Middle East": `Why ${subject} Matters Across The Gulf Now`,
+  };
+
+  return templates[category] || `Why ${subject} Matters To Dubai Readers Now`;
+}
+
 function descriptionFor(item, category) {
   const subject = item.title.length > 118 ? `${item.title.slice(0, 115).replace(/\s+\S*$/, "")}...` : item.title;
   const lines = {
@@ -379,8 +503,10 @@ async function writeBatch() {
 
       const baseSlug = slugify(`${batchPrefix}-${item.title}`);
       const titleKey = slugify(item.title);
+      const title = editorialTitleFor(item, category);
+      const generatedTitleKey = slugify(title);
       const key = topicKey(item.title);
-      if (slugs.has(baseSlug) || titles.has(titleKey)) {
+      if (slugs.has(baseSlug) || titles.has(titleKey) || titles.has(generatedTitleKey)) {
         skipped.push({ title: item.title, reason: "duplicate", source: item.source });
         continue;
       }
@@ -392,14 +518,14 @@ async function writeBatch() {
       const fallbackImage = imagePool.find((image) => !usedPexels.has(image[2])) || imagePool[published.length % imagePool.length];
       usedPexels.add(fallbackImage[2]);
       const image = item.image || fallbackImage[0];
-      const imageAlt = item.image ? `${item.title} related image from news feed.` : fallbackImage[1];
+      const imageAlt = item.image ? `${title} related image from news feed.` : fallbackImage[1];
       const pexelsId = item.image ? "" : fallbackImage[2];
       const score = auditFor(category, published.length);
-      const title = item.title;
-      const description = descriptionFor(item, category);
+      const articleItem = { ...item, title };
+      const description = descriptionFor(articleItem, category);
       const fileName = `${baseSlug}.md`;
       const author = reportersByCategory[category] || "Dubai Time Desk";
-      const body = bodyFor(item, category);
+      const body = bodyFor(articleItem, category);
       const tags = [category, "Latest", "Dubai Time", "UAE"];
 
       const frontmatter = `---\ntitle: ${yaml(title)}\ndescription: ${yaml(description)}\ncategory: ${yaml(category)}\nauthor: ${yaml(author)}\ndate: ${today}\npublishedTime: ${yaml(publishedTime(published.length))}\nwatchLine: ${yaml("Watch the official follow-up, public response and practical impact.")}\nimage: ${yaml(image)}\nimageAlt: ${yaml(imageAlt)}\ntags: [${tags.map(yaml).join(", ")}]\ndraft: false${pexelsId ? `\npexelsId: ${yaml(pexelsId)}` : ""}\n---\n\n`;
@@ -407,6 +533,7 @@ async function writeBatch() {
       await fs.writeFile(path.join(articleDir, fileName), `${frontmatter}${body}\n`, "utf8");
       slugs.add(baseSlug);
       titles.add(titleKey);
+      titles.add(generatedTitleKey);
       usedItems.add(item.title);
       usedTopics.set(key, (usedTopics.get(key) || 0) + 1);
       published.push({
@@ -427,19 +554,21 @@ async function writeBatch() {
     const category = categoryHintsFor(item)[0] || "Business";
     const baseSlug = slugify(`${batchPrefix}-${item.title}`);
     const titleKey = slugify(item.title);
+    const title = editorialTitleFor(item, category);
+    const generatedTitleKey = slugify(title);
     const key = topicKey(item.title);
-    if (slugs.has(baseSlug) || titles.has(titleKey) || (usedTopics.get(key) || 0) >= 1) continue;
+    if (slugs.has(baseSlug) || titles.has(titleKey) || titles.has(generatedTitleKey) || (usedTopics.get(key) || 0) >= 1) continue;
     const fallbackImage = imagePool.find((image) => !usedPexels.has(image[2])) || imagePool[published.length % imagePool.length];
     usedPexels.add(fallbackImage[2]);
     const image = item.image || fallbackImage[0];
-    const imageAlt = item.image ? `${item.title} related image from news feed.` : fallbackImage[1];
+    const imageAlt = item.image ? `${title} related image from news feed.` : fallbackImage[1];
     const pexelsId = item.image ? "" : fallbackImage[2];
     const score = auditFor(category, published.length);
-    const title = item.title;
-    const description = descriptionFor(item, category);
+    const articleItem = { ...item, title };
+    const description = descriptionFor(articleItem, category);
     const fileName = `${baseSlug}.md`;
     const author = reportersByCategory[category] || "Dubai Time Desk";
-    const body = bodyFor(item, category);
+    const body = bodyFor(articleItem, category);
     const tags = [category, "Latest", "Dubai Time", "UAE"];
 
     const frontmatter = `---\ntitle: ${yaml(title)}\ndescription: ${yaml(description)}\ncategory: ${yaml(category)}\nauthor: ${yaml(author)}\ndate: ${today}\npublishedTime: ${yaml(publishedTime(published.length))}\nwatchLine: ${yaml("Watch the official follow-up, public response and practical impact.")}\nimage: ${yaml(image)}\nimageAlt: ${yaml(imageAlt)}\ntags: [${tags.map(yaml).join(", ")}]\ndraft: false${pexelsId ? `\npexelsId: ${yaml(pexelsId)}` : ""}\n---\n\n`;
@@ -447,6 +576,7 @@ async function writeBatch() {
     await fs.writeFile(path.join(articleDir, fileName), `${frontmatter}${body}\n`, "utf8");
     slugs.add(baseSlug);
     titles.add(titleKey);
+    titles.add(generatedTitleKey);
     usedItems.add(item.title);
     usedTopics.set(key, (usedTopics.get(key) || 0) + 1);
     published.push({

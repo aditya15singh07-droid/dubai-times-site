@@ -1,13 +1,13 @@
 ---
-title: "World markets feel the strain as US-Iran war grinds on: What It Means Now"
-description: "From a rout in Asian currencies to the closure of a low budget US airline, the dragging Middle East conflict is starting to bite across the globe and test the..."
+title: "Why World Markets Feel the Strain as US Iran War Deserves A Closer Dubai Time Read"
+description: "Why World Markets Feel the Strain as US Iran War Deserves A Closer Dubai Time Read looks at what changes on the ground for passengers, hotels, airlines and families planning movement across the UAE."
 category: "Travel"
 author: "Mira Sethi"
 date: 2026-05-19
 publishedTime: "22:19 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/12/1077930.webp"
-imageAlt: "World markets feel the strain as US-Iran war grinds on related news image from source feed."
+imageAlt: "Travel visual for Why World Markets Feel the Strain as US Iran War Deserves A Closer Dubai Time Read"
 tags: ["Travel", "Dubai Time"]
 draft: false
 ---

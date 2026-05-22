@@ -1,13 +1,13 @@
 ---
-title: "Abu Dhabi’s Phoenix Group launches 18MW AI Data Center project in France: What It Means Now"
-description: "Phoenix Group PLC (ADX: PHX), an IHC portfolio company and global digital infrastructure operator headquartered in Abu Dhabi, has announced a strategic partnership..."
+title: "What Abu Dhabi S Phoenix Group Launches 18mw AI Says About Dubai’s Push From Speed To Trust"
+description: "What Abu Dhabi S Phoenix Group Launches 18mw AI Says About Dubai’s Push From Speed To Trust looks at what changes on the ground for UAE readers, exporters, travellers and investors exposed to global shifts."
 category: "International"
 author: "Kabir Anand"
 date: 2026-05-19
 publishedTime: "20:30 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/13/1078236.webp"
-imageAlt: "Abu Dhabi’s Phoenix Group launches 18MW AI Data Center project in France related news image from source feed."
+imageAlt: "International visual for What Abu Dhabi S Phoenix Group Launches 18mw AI Says About Dubai’s Push From Speed To Trust"
 tags: ["International", "Dubai Time"]
 draft: false
 ---

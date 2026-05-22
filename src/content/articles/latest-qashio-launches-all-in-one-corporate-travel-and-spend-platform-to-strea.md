@@ -1,13 +1,13 @@
 ---
-title: "Qashio launches all-in-one corporate travel and spend platform to streamline business travel expenses: What It Means Now"
-description: "Qashio, the MENA region’s leading spend management solution, has announced the launch of Qashio Corporate Travel, a new platform that allows employees to issue and..."
+title: "What Qashio Launches All in One Corporate Travel and Says About Dubai’s Push From Speed To Trust"
+description: "What Qashio Launches All in One Corporate Travel and Says About Dubai’s Push From Speed To Trust looks at what changes on the ground for passengers, hotels, airlines and families planning movement across the UAE."
 category: "Travel"
 author: "Ishaan Vora"
 date: 2026-05-19
 publishedTime: "17:06 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/14/1078601.webp"
-imageAlt: "Qashio launches all-in-one corporate travel and spend platform to streamline business travel expenses related news image from source feed."
+imageAlt: "Travel visual for What Qashio Launches All in One Corporate Travel and Says About Dubai’s Push From Speed To Trust"
 tags: ["Travel", "Dubai Time"]
 draft: false
 ---

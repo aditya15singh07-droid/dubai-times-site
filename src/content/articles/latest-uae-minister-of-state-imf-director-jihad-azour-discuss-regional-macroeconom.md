@@ -1,13 +1,13 @@
 ---
-title: "UAE Minister of State, IMF Director Jihad Azour discuss regional macroeconomic stability in Dubai: What UAE Readers Should Watch"
-description: "UAE Minister of State, IMF Director Jihad Azour discuss regional macroeconomic stability in Dubai signals another turn in how capital, customers and confidence are moving across the UAE."
+title: "Why UAE Minister of State Imf Director Jihad Azour Discuss Deserves A Closer Dubai Time Read"
+description: "Why UAE Minister of State Imf Director Jihad Azour Discuss Deserves A Closer Dubai Time Read looks at what changes on the ground for UAE readers, exporters, travellers and investors exposed to global shifts."
 category: "International"
 author: "Zoya Malhotra"
 date: 2026-05-19
 publishedTime: "17:13 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/3184431/pexels-photo-3184431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Executives checking a project plan in a meeting room."
+imageAlt: "International visual for Why UAE Minister of State Imf Director Jihad Azour Discuss Deserves A Closer Dubai Time Read"
 tags: ["International", "Dubai Time"]
 draft: false
 ---

@@ -1,13 +1,13 @@
 ---
-title: "AD Ports Group signs agreement to buy MBS Logistics for Dhs300 million: What It Means Now"
-description: "AD Ports Group on Monday announced that it has signed an agreement to acquire MBS Logistics, a Germany-based global integrated logistics services provider, for an..."
+title: "Why Ad Ports Group Signs Agreement to Buy Mbs Matters To UAE Readers Now"
+description: "Why Ad Ports Group Signs Agreement to Buy Mbs Matters To UAE Readers Now looks at what changes on the ground for UAE readers, exporters, travellers and investors exposed to global shifts."
 category: "International"
 author: "Kabir Anand"
 date: 2026-05-19
 publishedTime: "13:07 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/18/1079792.webp"
-imageAlt: "AD Ports Group signs agreement to buy MBS Logistics for Dhs300 million related news image from source feed."
+imageAlt: "International visual for Why Ad Ports Group Signs Agreement to Buy Mbs Matters To UAE Readers Now"
 tags: ["International", "Dubai Time"]
 draft: false
 ---

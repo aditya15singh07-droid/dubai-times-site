@@ -1,13 +1,13 @@
 ---
-title: "Rotana Ras Al Khaimah – The Mangroves to open soon, establishing Ras Al Khaimah’s premier events destination: What It Means Now"
-description: "The much-anticipated Rotana Ras Al Khaimah – The Mangroves is on track to open its doors soon, marking a significant addition to the emirate's hospitality..."
+title: "What Rotana Ras Al Khaimah the Mangroves to Open Says About Dubai’s Push From Speed To Trust"
+description: "What Rotana Ras Al Khaimah the Mangroves to Open Says About Dubai’s Push From Speed To Trust looks at what changes on the ground for patients, families, doctors and employers who feel health decisions in real life."
 category: "Health"
 author: "Tara Khanna"
 date: 2026-05-19
 publishedTime: "19:09 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/13/1078301.webp"
-imageAlt: "Rotana Ras Al Khaimah – The Mangroves to open soon, establishing Ras Al Khaimah’s premier events destination related news image from source feed."
+imageAlt: "Health visual for What Rotana Ras Al Khaimah the Mangroves to Open Says About Dubai’s Push From Speed To Trust"
 tags: ["Health", "Dubai Time"]
 draft: false
 ---

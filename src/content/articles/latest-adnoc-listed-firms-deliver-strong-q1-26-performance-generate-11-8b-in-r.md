@@ -1,13 +1,13 @@
 ---
-title: "Adnoc listed firms deliver strong Q1 ’26 performance, generate $11.8b in revenue: What It Means Now"
-description: "Adnoc’s listed companies reported a resilient set of financial and operational results in the first quarter of 2026, reflecting the strength of the Group’s integrated..."
+title: "What Adnoc Listed Firms Deliver Strong Q1 26 Performance Signals About UAE Business Confidence Now"
+description: "What Adnoc Listed Firms Deliver Strong Q1 26 Performance Signals About UAE Business Confidence Now looks at what changes on the ground for operators, investors and small firms reading the UAE economy beyond the headline numbers."
 category: "Business"
 author: "Naina Batra"
 date: 2026-05-19
 publishedTime: "14:49 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/18/1079656.webp"
-imageAlt: "Adnoc listed firms deliver strong Q1 ’26 performance, generate $11.8b in revenue related news image from source feed."
+imageAlt: "Business visual for What Adnoc Listed Firms Deliver Strong Q1 26 Performance Signals About UAE Business Confidence Now"
 tags: ["Business", "Dubai Time"]
 draft: false
 ---

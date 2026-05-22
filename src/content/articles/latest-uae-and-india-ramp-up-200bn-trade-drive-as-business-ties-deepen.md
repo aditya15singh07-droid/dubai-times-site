@@ -1,13 +1,13 @@
 ---
-title: "UAE and India ramp up $200bn trade drive as business ties deepen: What UAE Readers Should Watch"
-description: "UAE and India ramp up $200bn trade drive as business ties deepen signals another turn in how capital, customers and confidence are moving across the UAE."
+title: "What UAE and India Ramp Up 200bn Trade Drive Signals About UAE Business Confidence Now"
+description: "What UAE and India Ramp Up 200bn Trade Drive Signals About UAE Business Confidence Now looks at what changes on the ground for UAE readers, exporters, travellers and investors exposed to global shifts."
 category: "International"
 author: "Naina Batra"
 date: 2026-05-19
 publishedTime: "17:02 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/3184639/pexels-photo-3184639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A professional presentation with charts and working notes."
+imageAlt: "International visual for What UAE and India Ramp Up 200bn Trade Drive Signals About UAE Business Confidence Now"
 tags: ["International", "Dubai Time"]
 draft: false
 ---

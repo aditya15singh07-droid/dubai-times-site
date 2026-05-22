@@ -1,13 +1,13 @@
 ---
-title: "Dubai Metro tunnels undergo major maintenance and rehabilitation works: What UAE Readers Should Watch"
-description: "Dubai Metro tunnels undergo major maintenance and rehabilitation works matters for passengers, operators and the wider visitor economy that keeps Dubai moving."
+title: "What Dubai Metro Tunnels Undergo Major Maintenance and Rehabilitation Means For The Daily Cost Of Moving Around Dubai"
+description: "What Dubai Metro Tunnels Undergo Major Maintenance and Rehabilitation Means For The Daily Cost Of Moving Around Dubai looks at what changes on the ground for passengers, hotels, airlines and families planning movement across the UAE."
 category: "Travel"
 author: "Tara Khanna"
 date: 2026-05-19
 publishedTime: "14:45 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/373912/pexels-photo-373912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A commercial aircraft at an airport gate."
+imageAlt: "Travel visual for What Dubai Metro Tunnels Undergo Major Maintenance and Rehabilitation Means For The Daily Cost Of Moving Around Dubai"
 tags: ["Travel", "Dubai Time"]
 draft: false
 ---

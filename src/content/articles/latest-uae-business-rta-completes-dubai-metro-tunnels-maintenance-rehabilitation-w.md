@@ -1,13 +1,13 @@
 ---
-title: "UAE Business: RTA completes Dubai Metro tunnels maintenance, rehabilitation works: What UAE Readers Should Watch"
-description: "UAE Business: RTA completes Dubai Metro tunnels maintenance, rehabilitation works matters for passengers, operators and the wider visitor economy that keeps Dubai moving."
+title: "What RTA Completes Dubai Metro Tunnels Maintenance Rehabilitation W Means For The Daily Cost Of Moving Around Dubai"
+description: "What RTA Completes Dubai Metro Tunnels Maintenance Rehabilitation W Means For The Daily Cost Of Moving Around Dubai looks at what changes on the ground for passengers, hotels, airlines and families planning movement across the UAE."
 category: "Travel"
 author: "Zoya Malhotra"
 date: 2026-05-19
 publishedTime: "15:33 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/2449452/pexels-photo-2449452.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A modern skyline under clear city light."
+imageAlt: "Travel visual for What RTA Completes Dubai Metro Tunnels Maintenance Rehabilitation W Means For The Daily Cost Of Moving Around Dubai"
 tags: ["Travel", "Dubai Time"]
 draft: false
 ---

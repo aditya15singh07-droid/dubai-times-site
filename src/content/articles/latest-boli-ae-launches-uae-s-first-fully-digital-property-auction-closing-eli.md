@@ -1,13 +1,13 @@
 ---
-title: "Boli.ae launches UAE’s first fully digital property auction, closing elite City Walk asset within 7 days: What It Means Now"
-description: "Boli.ae, the UAE’s digital property auction platform, has announced the successful completion of its inaugural digital real estate auction, marking a major shift in..."
+title: "What Boli Ae Launches UAE S First Fully Digital Reveals About Dubai Property’s Next Serious Test"
+description: "What Boli Ae Launches UAE S First Fully Digital Reveals About Dubai Property’s Next Serious Test looks at what changes on the ground for buyers, tenants, developers and families trying to read Dubai property clearly."
 category: "Real Estate"
 author: "Samaira Qureshi"
 date: 2026-05-19
 publishedTime: "22:12 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/12/1077946.webp"
-imageAlt: "Boli.ae launches UAE’s first fully digital property auction, closing elite City Walk asset within 7 days related news image from source feed."
+imageAlt: "Real Estate visual for What Boli Ae Launches UAE S First Fully Digital Reveals About Dubai Property’s Next Serious Test"
 tags: ["Real Estate", "Dubai Time"]
 draft: false
 ---

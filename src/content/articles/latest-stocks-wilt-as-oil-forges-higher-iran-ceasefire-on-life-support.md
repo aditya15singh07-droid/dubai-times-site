@@ -1,13 +1,13 @@
 ---
-title: "Stocks wilt as oil forges higher; Iran ceasefire ‘on life support’: What It Means Now"
-description: "Oil gained for a third day on Tuesday ‌and the dollar rose as hopes faded for a deal to get ships moving through the Strait of Hormuz, ​while a red-hot rally in chip..."
+title: "Why Stocks Wilt as Oil Forges Higher Iran Ceasefire on Deserves A Closer Dubai Time Read"
+description: "Why Stocks Wilt as Oil Forges Higher Iran Ceasefire on Deserves A Closer Dubai Time Read looks at what changes on the ground for UAE readers, exporters, travellers and investors exposed to global shifts."
 category: "International"
 author: "Anika Menon"
 date: 2026-05-19
 publishedTime: "20:37 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/12/1078095.webp"
-imageAlt: "Stocks wilt as oil forges higher; Iran ceasefire ‘on life support’ related news image from source feed."
+imageAlt: "International visual for Why Stocks Wilt as Oil Forges Higher Iran Ceasefire on Deserves A Closer Dubai Time Read"
 tags: ["International", "Dubai Time"]
 draft: false
 ---

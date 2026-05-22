@@ -1,13 +1,13 @@
 ---
-title: "Air India cuts international flights amid Middle East conflict: What It Means Now"
-description: "Air India will temporarily cut flights on several ‌international routes between June and August, it said on Wednesday, ​citing airspace ⁠restrictions in some regions..."
+title: "What Air India Cuts International Flights Amid Middle East Says About Dubai’s Push From Speed To Trust"
+description: "What Air India Cuts International Flights Amid Middle East Says About Dubai’s Push From Speed To Trust looks at what changes on the ground for passengers, hotels, airlines and families planning movement across the UAE."
 category: "Travel"
 author: "Reyansh Suri"
 date: 2026-05-19
 publishedTime: "19:02 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/13/1078312.webp"
-imageAlt: "Air India cuts international flights amid Middle East conflict related news image from source feed."
+imageAlt: "Travel visual for What Air India Cuts International Flights Amid Middle East Says About Dubai’s Push From Speed To Trust"
 tags: ["Travel", "Dubai Time"]
 draft: false
 ---

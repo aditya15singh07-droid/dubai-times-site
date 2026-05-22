@@ -1,13 +1,13 @@
 ---
-title: "Passport services for Indian expats in UAE: Alhind reveals 16 centres: What UAE Readers Should Watch"
-description: "Passport services for Indian expats in UAE: Alhind reveals 16 centres could affect residents directly, from public services and safety to daily planning across the Emirates."
+title: "What Passport Services for Indian Expats in UAE Alhind Says About Dubai’s Push From Speed To Trust"
+description: "What Passport Services for Indian Expats in UAE Alhind Says About Dubai’s Push From Speed To Trust looks at what changes on the ground for clubs, fans, sponsors and families following the UAE’s growing sports economy."
 category: "Sport"
 author: "Ishaan Vora"
 date: 2026-05-19
 publishedTime: "14:56 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/325185/pexels-photo-325185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "High-rise buildings and city architecture."
+imageAlt: "Sport visual for What Passport Services for Indian Expats in UAE Alhind Says About Dubai’s Push From Speed To Trust"
 tags: ["Sport", "Dubai Time"]
 draft: false
 ---

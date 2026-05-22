@@ -1,13 +1,13 @@
 ---
-title: "Darwinbox named a leader in Gartner Magic Quadrant for talent acquisition suites: What It Means Now"
-description: "Darwinbox is rated No. 1 in both AI and ATS capabilities among all evaluated vendors by Gartner, validating its leadership in AI-led, enterprise-grade..."
+title: "Why Darwinbox Named a Leader in Gartner Magic Quadrant Matters Across The Gulf Now"
+description: "Why Darwinbox Named a Leader in Gartner Magic Quadrant Matters Across The Gulf Now looks at what changes on the ground for residents, businesses and policy watchers reading the Gulf’s next move."
 category: "Middle East"
 author: "Mira Sethi"
 date: 2026-05-19
 publishedTime: "18:20 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/14/1078574.webp"
-imageAlt: "Darwinbox named a leader in Gartner Magic Quadrant for talent acquisition suites related news image from source feed."
+imageAlt: "Middle East visual for Why Darwinbox Named a Leader in Gartner Magic Quadrant Matters Across The Gulf Now"
 tags: ["Middle East", "Dubai Time"]
 draft: false
 ---

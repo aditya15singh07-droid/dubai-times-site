@@ -1,13 +1,13 @@
 ---
-title: "Air India clocks record annual loss above $2 billion, shareholder&#039;s results show: What It Means Now"
-description: "​Air India Group ⁠recorded a record loss of more than $2 billion for its ‌2025-26 fiscal year, according to shareholder ‌Singapore Airlines' annual report, as India's..."
+title: "What Air India Clocks Record Annual Loss Above 2 Says About Dubai’s Push From Speed To Trust"
+description: "What Air India Clocks Record Annual Loss Above 2 Says About Dubai’s Push From Speed To Trust looks at what changes on the ground for passengers, hotels, airlines and families planning movement across the UAE."
 category: "Travel"
 author: "Anika Menon"
 date: 2026-05-19
 publishedTime: "17:59 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/14/1078739.webp"
-imageAlt: "Air India clocks record annual loss above $2 billion, shareholder&#039;s results show related news image from source feed."
+imageAlt: "Travel visual for What Air India Clocks Record Annual Loss Above 2 Says About Dubai’s Push From Speed To Trust"
 tags: ["Travel", "Dubai Time"]
 draft: false
 ---

@@ -1,13 +1,13 @@
 ---
-title: "EDS unveils ‘Green Advertising’ in Dubai, pioneering sustainable outdoor media across the UAE: What UAE Readers Should Watch"
-description: "EDS unveils ‘Green Advertising’ in Dubai, pioneering sustainable outdoor media across the UAE could affect residents directly, from public services and safety to daily planning across the Emirates."
+title: "What Eds Unveils Green Advertising in Dubai Pioneering Sustainable Says About Dubai’s Push From Speed To Trust"
+description: "What Eds Unveils Green Advertising in Dubai Pioneering Sustainable Says About Dubai’s Push From Speed To Trust looks at what changes on the ground for residents, businesses and policy watchers reading the Gulf’s next move."
 category: "Middle East"
 author: "Zoya Malhotra"
 date: 2026-05-19
 publishedTime: "16:11 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/3760067/pexels-photo-3760067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Modern urban towers photographed in soft daylight."
+imageAlt: "Middle East visual for What Eds Unveils Green Advertising in Dubai Pioneering Sustainable Says About Dubai’s Push From Speed To Trust"
 tags: ["Middle East", "Dubai Time"]
 draft: false
 ---

@@ -1,13 +1,13 @@
 ---
-title: "Middlesex University&#039;s owner Al Masar Al Shamil Education reports strong Q1 2026 results with revenue up 22%: What It Means Now"
-description: "The Company, chaired by Dr. Shamsheer Vayalil, reported a 29.1% year-on-year increase in net profit to Dhs 61.7 million (SAR 63.0 million).Al Masar Al Shamil..."
+title: "What Middlesex University 039 S Owner Al Masar Al Signals About UAE Business Confidence Now"
+description: "What Middlesex University 039 S Owner Al Masar Al Signals About UAE Business Confidence Now looks at what changes on the ground for operators, investors and small firms reading the UAE economy beyond the headline numbers."
 category: "Business"
 author: "Kabir Anand"
 date: 2026-05-19
 publishedTime: "21:58 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/12/1078052.webp"
-imageAlt: "Middlesex University&#039;s owner Al Masar Al Shamil Education reports strong Q1 2026 results with revenue up 22% related news image from source feed."
+imageAlt: "Business visual for What Middlesex University 039 S Owner Al Masar Al Signals About UAE Business Confidence Now"
 tags: ["Business", "Dubai Time"]
 draft: false
 ---

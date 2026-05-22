@@ -1,13 +1,13 @@
 ---
-title: "Abu Dhabi Crown Prince Sheikh Khaled hails Adnoc for resilience in maintaining safe operations: What It Means Now"
-description: "His Highness Sheikh Khaled Bin Mohamed Bin Zayed Al Nahyan, Crown Prince of Abu Dhabi and Chairman of the Abu Dhabi Executive Council, has chaired a meeting of the..."
+title: "What Abu Dhabi Crown Prince Sheikh Khaled Hails Adnoc Says About Dubai’s Push From Speed To Trust"
+description: "What Abu Dhabi Crown Prince Sheikh Khaled Hails Adnoc Says About Dubai’s Push From Speed To Trust looks at what changes on the ground for operators, investors and small firms reading the UAE economy beyond the headline numbers."
 category: "Business"
 author: "Kabir Anand"
 date: 2026-05-19
 publishedTime: "16:38 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/15/1079072.webp"
-imageAlt: "Abu Dhabi Crown Prince Sheikh Khaled hails Adnoc for resilience in maintaining safe operations related news image from source feed."
+imageAlt: "Business visual for What Abu Dhabi Crown Prince Sheikh Khaled Hails Adnoc Says About Dubai’s Push From Speed To Trust"
 tags: ["Business", "Dubai Time"]
 draft: false
 ---

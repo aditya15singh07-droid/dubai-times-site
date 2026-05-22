@@ -1,13 +1,13 @@
 ---
-title: "Ambassador Theon Ali discusses Antigua’s landslide election and the future of UAE relations: What It Means Now"
-description: "When the ballots were counted in St. John’s last week, the result was clear. The Antigua and Barbuda Labour Party secured a commanding landslide victory, and Prime..."
+title: "Why Ambassador Theon Ali Discusses Antigua S Landslide Election Matters Across The Gulf Now"
+description: "Why Ambassador Theon Ali Discusses Antigua S Landslide Election Matters Across The Gulf Now looks at what changes on the ground for residents, businesses and policy watchers reading the Gulf’s next move."
 category: "Middle East"
 author: "Armaan Gill"
 date: 2026-05-19
 publishedTime: "21:05 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/12/1077949.webp"
-imageAlt: "Ambassador Theon Ali discusses Antigua’s landslide election and the future of UAE relations related news image from source feed."
+imageAlt: "Middle East visual for Why Ambassador Theon Ali Discusses Antigua S Landslide Election Matters Across The Gulf Now"
 tags: ["Middle East", "Dubai Time"]
 draft: false
 ---

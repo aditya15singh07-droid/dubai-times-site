@@ -1,13 +1,13 @@
 ---
-title: "Gulf HNWIs are taking a more structured view of legacy: What It Means Now"
-description: "A more global next generation is pushing Gulf families to rethink how wealth is held. When markets become unstable, people usually start by checking their portfolios,..."
+title: "Why Gulf Hnwis Are Taking a More Structured View Matters To UAE Readers Now"
+description: "Why Gulf Hnwis Are Taking a More Structured View Matters To UAE Readers Now looks at what changes on the ground for UAE readers, exporters, travellers and investors exposed to global shifts."
 category: "International"
 author: "Vihaan Rao"
 date: 2026-05-19
 publishedTime: "17:13 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/14/1078599.webp"
-imageAlt: "Gulf HNWIs are taking a more structured view of legacy related news image from source feed."
+imageAlt: "International visual for Why Gulf Hnwis Are Taking a More Structured View Matters To UAE Readers Now"
 tags: ["International", "Dubai Time"]
 draft: false
 ---

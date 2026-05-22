@@ -1,13 +1,13 @@
 ---
-title: "Asian stocks sink, oil rises on US-Iran deadlock: What It Means Now"
-description: "Most Asian shares were lower in morning trade on Monday, extending slides in global markets, as the impasse in the Middle East drove oil prices more than two percent..."
+title: "What Gulf Market Volatility Signals About UAE Business Confidence Now"
+description: "What Gulf Market Volatility Signals About UAE Business Confidence Now looks at what changes on the ground for UAE readers, exporters, travellers and investors exposed to global shifts."
 category: "International"
 author: "Myra D Souza"
 date: 2026-05-19
 publishedTime: "14:42 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/18/1079657.webp"
-imageAlt: "Asian stocks sink, oil rises on US-Iran deadlock related news image from source feed."
+imageAlt: "International visual for What Gulf Market Volatility Signals About UAE Business Confidence Now"
 tags: ["International", "Dubai Time"]
 draft: false
 ---

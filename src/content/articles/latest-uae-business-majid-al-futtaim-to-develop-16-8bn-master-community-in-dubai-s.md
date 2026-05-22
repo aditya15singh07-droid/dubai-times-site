@@ -1,13 +1,13 @@
 ---
-title: "UAE Business: Majid Al Futtaim to develop $16.8bn master community in Dubai South: What UAE Readers Should Watch"
-description: "UAE Business: Majid Al Futtaim to develop $16.8bn master community in Dubai South adds a fresh marker to Dubai's property cycle, where demand, pricing and trust all move together."
+title: "What Majid Al Futtaim to Develop 16 8bn Master Says About Dubai’s Push From Speed To Trust"
+description: "What Majid Al Futtaim to Develop 16 8bn Master Says About Dubai’s Push From Speed To Trust looks at what changes on the ground for buyers, tenants, developers and families trying to read Dubai property clearly."
 category: "Real Estate"
 author: "Armaan Gill"
 date: 2026-05-19
 publishedTime: "13:39 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
 image: "https://images.pexels.com/photos/257904/pexels-photo-257904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "An art gallery wall prepared for visitors."
+imageAlt: "Real Estate visual for What Majid Al Futtaim to Develop 16 8bn Master Says About Dubai’s Push From Speed To Trust"
 tags: ["Real Estate", "Dubai Time"]
 draft: false
 ---

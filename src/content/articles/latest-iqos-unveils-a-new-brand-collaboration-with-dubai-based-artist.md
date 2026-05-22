@@ -1,13 +1,13 @@
 ---
-title: "IQOS Unveils a New Brand Collaboration with Dubai Based Artist: What It Means Now"
-description: "Dubai: IQOS Boutique has unveiled a new immersive art installation in collaboration with Dubai-based French artist Charlotte de Belle, marking the launch of the IQOS..."
+title: "Why Iqos Unveils a New Brand Collaboration with Dubai Based Deserves A Closer Dubai Time Read"
+description: "Why Iqos Unveils a New Brand Collaboration with Dubai Based Deserves A Closer Dubai Time Read looks at what changes on the ground for artists, venues, visitors and residents watching Dubai’s attention economy."
 category: "Entertainment"
 author: "Naina Batra"
 date: 2026-05-19
 publishedTime: "18:27 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/14/1078562.webp"
-imageAlt: "IQOS Unveils a New Brand Collaboration with Dubai Based Artist related news image from source feed."
+imageAlt: "Entertainment visual for Why Iqos Unveils a New Brand Collaboration with Dubai Based Deserves A Closer Dubai Time Read"
 tags: ["Entertainment", "Dubai Time"]
 draft: false
 ---

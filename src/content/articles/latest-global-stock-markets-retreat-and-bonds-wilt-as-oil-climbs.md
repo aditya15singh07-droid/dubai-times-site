@@ -1,13 +1,13 @@
 ---
-title: "Global stock markets retreat and bonds wilt as oil climbs: What It Means Now"
-description: "Global share markets slipped on Monday as fresh drone attacks in the Gulf pushed oil prices and bond yields higher, stoking inflation ‌worries in a week when the tech..."
+title: "Why Global Stock Markets Retreat and Bonds Wilt as Oil Deserves A Closer Dubai Time Read"
+description: "Why Global Stock Markets Retreat and Bonds Wilt as Oil Deserves A Closer Dubai Time Read looks at what changes on the ground for UAE readers, exporters, travellers and investors exposed to global shifts."
 category: "International"
 author: "Samaira Qureshi"
 date: 2026-05-19
 publishedTime: "13:00 GST"
 watchLine: "Watch the next official update, market response and public impact."
 image: "https://www.gulftoday.ae/gulftoday/uploads/images/2026/05/18/1079794.webp"
-imageAlt: "Global stock markets retreat and bonds wilt as oil climbs related news image from source feed."
+imageAlt: "International visual for Why Global Stock Markets Retreat and Bonds Wilt as Oil Deserves A Closer Dubai Time Read"
 tags: ["International", "Dubai Time"]
 draft: false
 ---
