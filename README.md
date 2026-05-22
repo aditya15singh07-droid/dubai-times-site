@@ -66,6 +66,21 @@ Node.js version: 26
 
 The private `dubai-times-engine` repo should write generated articles and images into this website repo.
 
+Before any upload or automation run, follow the standing editorial rules in:
+
+```text
+docs/editorial-standards.md
+```
+
+Important publishing defaults:
+
+- Rewrite every source headline into an original Dubai Time headline.
+- Public URLs should use only category plus rewritten news title.
+- Do not publish source outlet names, source author names, or expert names as article authors.
+- Use random Dubai Time-style author names.
+- Apply the relevant category lens silently while keeping the article factual and original.
+- Audit before publishing and include audit details in the email report.
+
 Publishing paths:
 
 ```text
