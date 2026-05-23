@@ -4,11 +4,12 @@ import path from "node:path";
 const root = process.cwd();
 const articleDir = path.join(root, "src/content/articles");
 const reportPath = path.join(root, process.env.REPORT_PATH || "reports/publishing-report-2026-05-22-50-latest-audit.txt");
-const feedDir = "/tmp/dubai-time-latest-2026-05-22";
-const today = "2026-05-22";
+const feedDir = process.env.FEED_DIR || "/tmp/dubai-time-latest-2026-05-22";
+const today = process.env.PUBLISH_DATE || "2026-05-22";
 const targetCount = Number(process.env.TARGET_COUNT || 50);
 const batchPrefix = process.env.BATCH_PREFIX || "latest-2026-05-22";
 const startHour = Number(process.env.START_HOUR || 10);
+const regionScope = process.env.REGION_SCOPE || "UAE";
 const categories = [
   "Travel",
   "Crypto",
@@ -363,18 +364,32 @@ function descriptionFor(item, category) {
 }
 
 function bodyFor(item, category) {
-  const opening = {
-    Travel: "A travel update is never only about a route or a terminal. It is about the family checking fares, the hotel waiting for bookings and the worker planning a smoother commute.",
-    Crypto: "Crypto headlines often sound like a world of charts and jargon. The real story begins when ordinary investors ask whether the system is safer, clearer and useful.",
-    Business: "Business news looks clean on paper. In real life, it decides whether founders hire, investors wait and small firms take the next risk.",
-    "Real Estate": "Property news in Dubai always lands at the dining table. Tenants, buyers and brokers all read the same headline with very different worries.",
-    Lifestyle: "Lifestyle stories can look soft from a distance. Then they start changing weekend plans, household budgets and how a city feels after work.",
-    Sport: "Sport in the UAE is no longer only about the scoreboard. It is also about families, tourism, sponsors and the next generation of fans.",
-    Entertainment: "Entertainment news now carries a harder question. Can a live show or cultural event still pull people away from their phones and sofas?",
-    International: "International news reaches the UAE faster than many people expect. It arrives through markets, flights, trade lanes and boardroom decisions.",
-    Health: "Health stories become important when they leave the conference room and enter a clinic, a pharmacy or a family WhatsApp group.",
-    "Middle East": "Regional news is rarely distant for Dubai. It shapes confidence, trade, travel and the quiet calculations people make every day.",
-  }[category];
+  const regional = regionScope.toLowerCase().includes("middle");
+  const opening = regional
+    ? {
+        Travel: "A Middle East travel update is never only about a route or a terminal. It is about families checking fares, hotels waiting for bookings and workers planning smoother movement across borders.",
+        Crypto: "Crypto headlines across the Middle East often sound like a world of charts and jargon. The real story begins when ordinary investors ask whether the system is safer, clearer and useful.",
+        Business: "Business news across the region looks clean on paper. In real life, it decides whether founders hire, investors wait and small firms take the next risk.",
+        "Real Estate": "Property news across the Gulf always lands at the dining table. Tenants, buyers and brokers all read the same headline with very different worries.",
+        Lifestyle: "Lifestyle stories can look soft from a distance. Then they start changing weekend plans, household budgets and how a fast-growing city feels after work.",
+        Sport: "Sport in the Middle East is no longer only about the scoreboard. It is also about families, tourism, sponsors and the next generation of fans.",
+        Entertainment: "Entertainment news now carries a harder regional question. Can a live show or cultural event still pull people away from their phones and sofas?",
+        International: "International news reaches Middle East readers faster than many people expect. It arrives through markets, flights, trade lanes and boardroom decisions.",
+        Health: "Health stories become important when they leave the conference room and enter a clinic, a pharmacy or a family WhatsApp group.",
+        "Middle East": "Regional news is rarely distant for people living and working across the Gulf. It shapes confidence, trade, travel and the quiet calculations families make every day.",
+      }[category]
+    : {
+        Travel: "A travel update is never only about a route or a terminal. It is about the family checking fares, the hotel waiting for bookings and the worker planning a smoother commute.",
+        Crypto: "Crypto headlines often sound like a world of charts and jargon. The real story begins when ordinary investors ask whether the system is safer, clearer and useful.",
+        Business: "Business news looks clean on paper. In real life, it decides whether founders hire, investors wait and small firms take the next risk.",
+        "Real Estate": "Property news in Dubai always lands at the dining table. Tenants, buyers and brokers all read the same headline with very different worries.",
+        Lifestyle: "Lifestyle stories can look soft from a distance. Then they start changing weekend plans, household budgets and how a city feels after work.",
+        Sport: "Sport in the UAE is no longer only about the scoreboard. It is also about families, tourism, sponsors and the next generation of fans.",
+        Entertainment: "Entertainment news now carries a harder question. Can a live show or cultural event still pull people away from their phones and sofas?",
+        International: "International news reaches the UAE faster than many people expect. It arrives through markets, flights, trade lanes and boardroom decisions.",
+        Health: "Health stories become important when they leave the conference room and enter a clinic, a pharmacy or a family WhatsApp group.",
+        "Middle East": "Regional news is rarely distant for Dubai. It shapes confidence, trade, travel and the quiet calculations people make every day.",
+      }[category];
 
   const lens = {
     Travel: "The practical way to read this is through movement. If the update saves time, reduces confusion or makes travel feel reliable, people will notice quickly.",
@@ -403,13 +418,13 @@ For residents, the answer usually appears in small details. A journey becomes ea
 
 That is why this story deserves more than a quick glance.
 
-Dubai and the wider UAE have trained people to expect speed. Announcements come quickly. New services appear quickly. Markets react quickly. But speed alone is no longer enough. The next layer is reliability.
+${regional ? "Cities across the Middle East have trained people to expect speed. Announcements come quickly. New services appear quickly. Markets react quickly. But speed alone is no longer enough. The next layer is reliability." : "Dubai and the wider UAE have trained people to expect speed. Announcements come quickly. New services appear quickly. Markets react quickly. But speed alone is no longer enough. The next layer is reliability."}
 
 People want to know whether a promise becomes a working system. Investors want to know whether a strong headline becomes durable demand. Families want to know whether public decisions make daily life simpler or more expensive.
 
 ${lens}
 
-There is also a wider pattern here. The UAE is trying to make its economy feel both ambitious and usable. That is not easy. A city can attract capital with big numbers, but it keeps people through trust, convenience and steady execution.
+There is also a wider pattern here. ${regional ? "The Middle East is trying to make growth feel both ambitious and usable. That is not easy. A country can attract attention with big numbers, but it keeps people through trust, convenience and steady execution." : "The UAE is trying to make its economy feel both ambitious and usable. That is not easy. A city can attract capital with big numbers, but it keeps people through trust, convenience and steady execution."}
 
 This is where ordinary readers should pay attention.
 
@@ -419,7 +434,7 @@ Good policy and good business both have the same final test. They must make life
 
 The next few days will show whether this remains a headline or becomes part of a larger shift. Look for official follow-up, customer response, market movement and practical changes on the ground.
 
-For now, the story is worth tracking because it fits the UAE's larger 2026 question: can growth stay fast while everyday life becomes clearer, safer and easier to manage?`;
+For now, the story is worth tracking because it fits ${regional ? "the region's larger 2026 question" : "the UAE's larger 2026 question"}: can growth stay fast while everyday life becomes clearer, safer and easier to manage?`;
 }
 
 function auditFor(category, index) {
