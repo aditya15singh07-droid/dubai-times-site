@@ -117,6 +117,7 @@ function titleCase(text) {
 }
 
 function determineCategory(file, currentCategory) {
+  if (currentCategory && currentCategory !== "Middle East") return currentCategory;
   const lower = file.toLowerCase();
   if (/(crypto|bitcoin|dogecoin|fintech|digital-asset|kraken|revolut|b2c2|blockchain)/.test(lower)) return "Crypto";
   if (/(property|real-estate|villas|homeownership|damac|marquee|century-21|residential|asset-management)/.test(lower)) return "Real Estate";

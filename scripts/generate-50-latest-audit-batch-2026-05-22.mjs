@@ -193,14 +193,18 @@ const getMedia = (block) =>
 async function existingArticleData() {
   const files = await fs.readdir(articleDir);
   const slugs = new Set();
+  const rawSourceSlugs = new Set();
   const titles = new Set();
   for (const file of files.filter((name) => name.endsWith(".md"))) {
-    slugs.add(file.replace(/\.md$/, ""));
+    const articleSlug = file.replace(/\.md$/, "");
+    slugs.add(articleSlug);
+    const rawSlug = articleSlug.replace(/^(latest|cleanurl-test|more25|category-batch|middle-east|middle-east-more)-\d{4}-\d{2}-\d{2}-/, "");
+    rawSourceSlugs.add(rawSlug);
     const text = await fs.readFile(path.join(articleDir, file), "utf8");
     const title = text.match(/^title:\s*"?(.+?)"?\s*$/m)?.[1] || "";
     titles.add(slugify(title.replace(/:\s*(What It Means Now|What UAE Readers Should Watch).*$/i, "")));
   }
-  return { slugs, titles };
+  return { slugs, rawSourceSlugs, titles };
 }
 
 async function cleanPreviousBatch() {
@@ -501,7 +505,7 @@ function publishedTime(index) {
 async function writeBatch() {
   await cleanPreviousBatch();
   await expandImagePoolFromExistingArticles();
-  const { slugs, titles } = await existingArticleData();
+  const { slugs, rawSourceSlugs, titles } = await existingArticleData();
   const candidates = await parseFeeds();
   const published = [];
   const skipped = [];
@@ -517,11 +521,12 @@ async function writeBatch() {
       if (!categoryHintsFor(item).includes(category)) continue;
 
       const baseSlug = slugify(`${batchPrefix}-${item.title}`);
+      const rawSourceSlug = slugify(item.title);
       const titleKey = slugify(item.title);
       const title = editorialTitleFor(item, category);
       const generatedTitleKey = slugify(title);
       const key = topicKey(item.title);
-      if (slugs.has(baseSlug) || titles.has(titleKey) || titles.has(generatedTitleKey)) {
+      if (slugs.has(baseSlug) || rawSourceSlugs.has(rawSourceSlug) || titles.has(titleKey) || titles.has(generatedTitleKey)) {
         skipped.push({ title: item.title, reason: "duplicate", source: item.source });
         continue;
       }
@@ -547,6 +552,7 @@ async function writeBatch() {
 
       await fs.writeFile(path.join(articleDir, fileName), `${frontmatter}${body}\n`, "utf8");
       slugs.add(baseSlug);
+      rawSourceSlugs.add(rawSourceSlug);
       titles.add(titleKey);
       titles.add(generatedTitleKey);
       usedItems.add(item.title);
@@ -568,11 +574,20 @@ async function writeBatch() {
     if (usedItems.has(item.title)) continue;
     const category = categoryHintsFor(item)[0] || "Business";
     const baseSlug = slugify(`${batchPrefix}-${item.title}`);
+    const rawSourceSlug = slugify(item.title);
     const titleKey = slugify(item.title);
     const title = editorialTitleFor(item, category);
     const generatedTitleKey = slugify(title);
     const key = topicKey(item.title);
-    if (slugs.has(baseSlug) || titles.has(titleKey) || titles.has(generatedTitleKey) || (usedTopics.get(key) || 0) >= 1) continue;
+    if (
+      slugs.has(baseSlug) ||
+      rawSourceSlugs.has(rawSourceSlug) ||
+      titles.has(titleKey) ||
+      titles.has(generatedTitleKey) ||
+      (usedTopics.get(key) || 0) >= 1
+    ) {
+      continue;
+    }
     const fallbackImage = imagePool.find((image) => !usedPexels.has(image[2])) || imagePool[published.length % imagePool.length];
     usedPexels.add(fallbackImage[2]);
     const image = item.image || fallbackImage[0];
@@ -590,6 +605,7 @@ async function writeBatch() {
 
     await fs.writeFile(path.join(articleDir, fileName), `${frontmatter}${body}\n`, "utf8");
     slugs.add(baseSlug);
+    rawSourceSlugs.add(rawSourceSlug);
     titles.add(titleKey);
     titles.add(generatedTitleKey);
     usedItems.add(item.title);
