@@ -6,11 +6,11 @@ author: "Kabir Sethi"
 date: 2026-05-23
 publishedTime: "21:24 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-more-2026-05-23-gcc-secures-free-trade-deal-of-5b-with-the-uk-md-93-/900/600"
-imageAlt: "Business visual for The Region Trade Opening: Puts Regional Deal-Making Back In Focus"
+image: "https://images.pexels.com/photos/8068817/pexels-photo-8068817.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Group of professionals in business attire discussing strategy indoors."
 tags: ["Business","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-more-2026-05-23-gcc-secures-free-trade-deal-of-5b-with-the-uk-md-93-"
+pexelsId: "8068817"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the region trade opening deserves a closer read across the Middle East today.
 

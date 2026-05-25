@@ -6,11 +6,11 @@ author: "Tara Khanna"
 date: 2026-05-22
 publishedTime: "18:56 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/more25-2026-05-22-8-ways-travellers-can-stay-safe-from-ebola-mers-flu-viruses-du/900/600"
-imageAlt: "International visual for What 8 Ways Travellers Can Stay Safe from Ebola Says About Dubai’s Push From Speed To Trust"
+image: "https://images.pexels.com/photos/8636598/pexels-photo-8636598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A young woman presents to colleagues in a modern team meeting setting."
 tags: ["International", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-more25-2026-05-22-8-ways-travellers-can-stay-safe-from-ebola-mers-flu-viruses-du"
+pexelsId: "8636598"
 ---
 
 International news reaches the UAE faster than many people expect. It arrives through markets, flights, trade lanes and boardroom decisions.

@@ -6,9 +6,9 @@ author: "Kabir Anand"
 date: 2026-05-21
 publishedTime: "14:21 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://picsum.photos/seed/fresh-uae-space-investment-industrial-confidence-2026-md-701-0/900/600"
-imageAlt: "Business visual for The UAE’s AED 1 Billion Space Push Is Really About Industrial Confidence"
-pexelsId: "dedupe-fresh-uae-space-investment-industrial-confidence-2026-md-701-0"
+image: "https://images.pexels.com/photos/6949938/pexels-photo-6949938.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Diverse group of professionals in a formal meeting setting with a speaker at the podium."
+pexelsId: "6949938"
 tags: ["Business", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---

@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-22
 publishedTime: "12:16 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-2026-05-22-mohammed-bin-rashid-attends-national-retreat-showcasing-projec/900/600"
-imageAlt: "Entertainment visual for What Mohammed Bin Rashid Attends National Retreat Showcasing Projects Says About Dubai’s Push From Speed To Trust"
+image: "https://images.pexels.com/photos/15325476/pexels-photo-15325476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A diverse audience in masks attentively watching a concert under blue lights."
 tags: ["Entertainment", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-latest-2026-05-22-mohammed-bin-rashid-attends-national-retreat-showcasing-projec"
+pexelsId: "15325476"
 ---
 
 Entertainment news now carries a harder question. Can a live show or cultural event still pull people away from their phones and sofas?

@@ -5,11 +5,11 @@ category: "Sport"
 author: "Armaan Gill"
 date: 2026-05-17
 watchLine: "Watch how many resident tasks become connected across identity, payment, transport, property and public-service platforms."
-image: "https://picsum.photos/seed/dubai-digital-services-residents-md-1052-0/900/600"
-imageAlt: "Sport visual for Digital Services Become Central To Daily Life For Dubai Residents"
+image: "https://images.pexels.com/photos/9544750/pexels-photo-9544750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Two soccer players and a goalie in action during an outdoor match at sunset."
 tags: ["Sport", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-dubai-digital-services-residents-md-1052-0"
+pexelsId: "9544750"
 ---
 
 The best city technology is the kind you stop noticing.

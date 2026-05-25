@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-22
 publishedTime: "14:52 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/more-2026-05-22-primark-opens-at-mall-of-the-emirates-we-came-here-from-school-s/900/600"
-imageAlt: "Lifestyle visual for Why Primark Opens at Mall of the Emirates We Came Deserves A Closer Dubai Time Read"
+image: "https://images.pexels.com/photos/9874552/pexels-photo-9874552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Cute east Asian siblings lying together with their baby sibling on a fluffy blue carpet."
 tags: ["Lifestyle", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-more-2026-05-22-primark-opens-at-mall-of-the-emirates-we-came-here-from-school-s"
+pexelsId: "9874552"
 ---
 
 Lifestyle stories can look soft from a distance. Then they start changing weekend plans, household budgets and how a city feels after work.

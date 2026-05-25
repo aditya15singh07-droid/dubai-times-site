@@ -6,11 +6,11 @@ author: "Tara Khanna"
 date: 2026-05-22
 publishedTime: "12:28 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-2026-05-22-dubai-customs-unveils-centre-of-excellence-in-collaboration-wi/900/600"
-imageAlt: "International visual for What Dubai Customs Unveils Centre of Excellence in Collaboration Says About Dubai’s Push From Speed To Trust"
+image: "https://images.pexels.com/photos/6949992/pexels-photo-6949992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Two businessmen in formal suits discussing at a conference table."
 tags: ["International", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-latest-2026-05-22-dubai-customs-unveils-centre-of-excellence-in-collaboration-wi"
+pexelsId: "6949992"
 ---
 
 International news reaches the UAE faster than many people expect. It arrives through markets, flights, trade lanes and boardroom decisions.

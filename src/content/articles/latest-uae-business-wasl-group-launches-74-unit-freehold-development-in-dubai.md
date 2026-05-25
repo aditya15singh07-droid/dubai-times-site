@@ -6,11 +6,11 @@ author: "Naina Batra"
 date: 2026-05-19
 publishedTime: "14:05 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-uae-business-wasl-group-launches-74-unit-freehold-development-in-dubai-md/900/600"
-imageAlt: "Real Estate visual for What Wasl Group Launches 74 Unit Freehold Development in Says About Dubai’s Push From Speed To Trust"
+image: "https://images.pexels.com/photos/36756966/pexels-photo-36756966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A stunning view of modern skyscrapers at twilight with reflective glass surfaces."
 tags: ["Real Estate", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-latest-uae-business-wasl-group-launches-74-unit-freehold-development-in-dubai-md"
+pexelsId: "36756966"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

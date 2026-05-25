@@ -4,11 +4,11 @@ description: "Kevin Warsh has taken charge of the US Federal Reserve as oil, Ira
 category: "International"
 author: "Aarav Mehta"
 date: 2026-05-24
-image: "https://picsum.photos/seed/why-kevin-warsh-s-first-fed-test-runs-through-the-gulf-md-95-0/900/600"
-imageAlt: "International visual for Why Kevin Warsh’s First Fed Test Runs Through the Gulf"
+image: "https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A diverse group of professionals engaged in a collaborative office meeting, sharing ideas and discussing projects."
 tags: ["Kevin Warsh", "US Federal Reserve", "UAE economy", "interest rates", "Iran war", "oil prices", "US Treasuries", "dirham peg", "Gulf markets"]
 draft: false
-pexelsId: "dedupe-why-kevin-warsh-s-first-fed-test-runs-through-the-gulf-md-95-0"
+pexelsId: "3184360"
 ---
 
 For a Dubai shop owner, a Mumbai investor, or a family planning a UAE mortgage, Washington can feel far away. This week, it is not.

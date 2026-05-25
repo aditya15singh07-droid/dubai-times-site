@@ -6,11 +6,11 @@ author: "Samaira Qureshi"
 date: 2026-05-20
 publishedTime: "08:48 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-uae-s-abai-and-signsplit-science-announce-strategic-partnership-on-ai-blo/900/600"
-imageAlt: "Crypto visual for Why UAE S Abai and Signsplit Science Announce Strategic Matters To Dubai’s Trust-First Crypto Push"
+image: "https://images.pexels.com/photos/5980599/pexels-photo-5980599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Close-up image of Bitcoin coins stacked on a laptop keyboard, symbolizing digital currency and blockchain technology."
 tags: ["Crypto", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-latest-uae-s-abai-and-signsplit-science-announce-strategic-partnership-on-ai-blo"
+pexelsId: "5980599"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

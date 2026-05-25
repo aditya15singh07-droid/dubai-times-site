@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-23
 publishedTime: "14:00 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-2026-05-23-bahrain-pushes-un-backed-action-for-hormuz-shipping-franc/900/600"
-imageAlt: "Middle East visual for The Hormuz Shipping Test: Puts Regional Resilience Back In Focus"
+image: "https://images.pexels.com/photos/11505497/pexels-photo-11505497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "City skyline with skyscrapers and trees during the day, showcasing urban architecture."
 tags: ["Middle East","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-2026-05-23-bahrain-pushes-un-backed-action-for-hormuz-shipping-franc"
+pexelsId: "11505497"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the hormuz shipping test deserves a closer read across the Middle East today.
 

@@ -6,9 +6,9 @@ author: "Kabir Anand"
 date: 2026-05-21
 publishedTime: "13:38 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://picsum.photos/seed/category-batch-2026-05-21-uae-boardroom-efficiency-2026-md-737-0/900/600"
-imageAlt: "Business visual for UAE Boardrooms Are Turning Efficiency Into A Growth Strategy"
-pexelsId: "dedupe-category-batch-2026-05-21-uae-boardroom-efficiency-2026-md-737-0"
+image: "https://images.pexels.com/photos/9034230/pexels-photo-9034230.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A diverse group of professionals engaged in a meeting around a boardroom table."
+pexelsId: "9034230"
 tags: ["Business", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

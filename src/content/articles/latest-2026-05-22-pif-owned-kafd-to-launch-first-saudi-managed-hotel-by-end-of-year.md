@@ -6,11 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-22
 publishedTime: "10:00 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-2026-05-22-pif-owned-kafd-to-launch-first-saudi-managed-hotel-by-end-of-y/900/600"
-imageAlt: "Travel visual for What Pif Owned Kafd to Launch First Saudi Managed Says About Dubai’s Push From Speed To Trust"
+image: "https://images.pexels.com/photos/1058959/pexels-photo-1058959.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Brown leather bag with passport in an airport setting, ideal for travel and fashion themes."
 tags: ["Travel", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-latest-2026-05-22-pif-owned-kafd-to-launch-first-saudi-managed-hotel-by-end-of-y"
+pexelsId: "1058959"
 ---
 
 A travel update is never only about a route or a terminal. It is about the family checking fares, the hotel waiting for bookings and the worker planning a smoother commute.

@@ -6,11 +6,11 @@ author: "Ishaan Vora"
 date: 2026-05-17
 publishedTime: "21:05 GST"
 watchLine: "Watch whether agentic AI reduces routine service friction while keeping human accountability clear."
-image: "https://picsum.photos/seed/uae-agentic-ai-government-services-2026-md-1032-0/900/600"
-imageAlt: "Middle East visual for UAE's Agentic AI Push Tries To Make Government Services Faster And Smarter"
+image: "https://images.pexels.com/photos/18201085/pexels-photo-18201085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Stunning aerial view of Auckland skyline at sunrise with fog enveloping the city."
 tags: ["Middle East", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-uae-agentic-ai-government-services-2026-md-1032-0"
+pexelsId: "18201085"
 ---
 
 AI becomes useful when it stops showing off and starts doing boring work properly.

@@ -5,11 +5,11 @@ category: "Sport"
 author: "Myra D Souza"
 date: 2026-05-18
 watchLine: "Watch whether RTA rolls the model out quickly and whether bus-to-metro transfers become visibly smoother for daily riders."
-image: "https://picsum.photos/seed/mall-of-the-emirates-smart-bus-station-2026-md-1016-0/900/600"
-imageAlt: "Sport visual for Dubai’s First Smart Bus Station Tries To Make Waiting Less Wasteful"
+image: "https://images.pexels.com/photos/17955127/pexels-photo-17955127.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Players in action during a soccer match on a sunny day, highlighting teamwork and sportsmanship."
 tags: ["Sport", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-mall-of-the-emirates-smart-bus-station-2026-md-1016-0"
+pexelsId: "17955127"
 ---
 
 Anyone who depends on buses knows the worst part is not always the ride.

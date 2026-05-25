@@ -5,11 +5,11 @@ category: "Middle East"
 author: "Aarav Mehta"
 date: 2026-05-18
 watchLine: "Watch whether the Al Barsha Pond Park pilot gets real daily use from freelancers and SMEs, not just social media attention."
-image: "https://picsum.photos/seed/work-from-park-al-barsha-pond-dubai-2026-md-1022-0/900/600"
-imageAlt: "Middle East visual for Dubai’s Work From Park Plan Sounds Trendy, But It Is Really About Urban Pressure"
+image: "https://images.pexels.com/photos/687450/pexels-photo-687450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Stunning view of Shanghai skyline at dusk with the iconic Oriental Pearl Tower prominently featured."
 tags: ["Middle East", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-work-from-park-al-barsha-pond-dubai-2026-md-1022-0"
+pexelsId: "687450"
 ---
 
 For years, Dubai treated parks and work as separate parts of life.

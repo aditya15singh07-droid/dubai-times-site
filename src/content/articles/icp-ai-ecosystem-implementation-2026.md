@@ -5,11 +5,11 @@ category: "Business"
 author: "Kabir Anand"
 date: 2026-05-18
 watchLine: "Watch which ICP services become genuinely faster and whether automation stays transparent in identity, customs and border processes."
-image: "https://picsum.photos/seed/icp-ai-ecosystem-implementation-2026-md-1012-0/900/600"
-imageAlt: "Business visual for ICP’s New AI Push Could Change How The UAE State Actually Works"
+image: "https://images.pexels.com/photos/1181304/pexels-photo-1181304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A multicultural team brainstorming and collaborating during a business meeting."
 tags: ["Business", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-icp-ai-ecosystem-implementation-2026-md-1012-0"
+pexelsId: "1181304"
 ---
 
 Government technology announcements usually promise efficiency.

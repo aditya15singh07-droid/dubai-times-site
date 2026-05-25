@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-22
 publishedTime: "14:36 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/more-2026-05-22-banke-capital-and-samana-developers-join-hands-for-samana-busine/900/600"
-imageAlt: "Real Estate visual for What Banke Capital and Samana Developers Join Hands for Reveals About Dubai Property’s Next Serious Test"
+image: "https://images.pexels.com/photos/34437871/pexels-photo-34437871.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Aerial view of Buenos Aires skyline showcasing urban architecture and cityscape."
 tags: ["Real Estate", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-more-2026-05-22-banke-capital-and-samana-developers-join-hands-for-samana-busine"
+pexelsId: "34437871"
 ---
 
 Property news in Dubai always lands at the dining table. Tenants, buyers and brokers all read the same headline with very different worries.

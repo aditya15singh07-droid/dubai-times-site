@@ -6,11 +6,11 @@ author: "Myra D Souza"
 date: 2026-05-20
 publishedTime: "00:00 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-century-21-launches-uae-headquarters-in-dubai-as-property-transactions-hi/900/600"
-imageAlt: "Real Estate visual for What Century 21 Launches UAE Headquarters in Dubai as Reveals About Dubai Property’s Next Serious Test"
+image: "https://images.pexels.com/photos/33927045/pexels-photo-33927045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Geometric facade of The Broad in Los Angeles showcases contemporary architectural style."
 tags: ["Real Estate", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-latest-century-21-launches-uae-headquarters-in-dubai-as-property-transactions-hi"
+pexelsId: "33927045"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

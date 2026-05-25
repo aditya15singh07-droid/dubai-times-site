@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-22
 publishedTime: "18:52 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/more25-2026-05-22-how-dubai-gave-this-83-year-old-pakistani-artist-a-second-chan/900/600"
-imageAlt: "Entertainment visual for Why How Dubai Gave This 83 Year Old Pakistani Artist Deserves A Closer Dubai Time Read"
+image: "https://images.pexels.com/photos/13146328/pexels-photo-13146328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A lively indoor concert featuring colorful laser lights over a large crowd enjoying music."
 tags: ["Entertainment", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-more25-2026-05-22-how-dubai-gave-this-83-year-old-pakistani-artist-a-second-chan"
+pexelsId: "13146328"
 ---
 
 Entertainment news now carries a harder question. Can a live show or cultural event still pull people away from their phones and sofas?

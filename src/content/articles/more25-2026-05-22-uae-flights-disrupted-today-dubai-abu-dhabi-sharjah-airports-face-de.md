@@ -6,11 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-22
 publishedTime: "18:00 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/more25-2026-05-22-uae-flights-disrupted-today-dubai-abu-dhabi-sharjah-airports-f/900/600"
-imageAlt: "Travel visual for What UAE Flights Disrupted Today Dubai Abu Dhabi Sharjah Says About Dubai’s Push From Speed To Trust"
+image: "https://images.pexels.com/photos/6544051/pexels-photo-6544051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Crowded scene inside Hong Kong International Airport terminal with travelers and signage."
 tags: ["Travel", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-more25-2026-05-22-uae-flights-disrupted-today-dubai-abu-dhabi-sharjah-airports-f"
+pexelsId: "6544051"
 ---
 
 A travel update is never only about a route or a terminal. It is about the family checking fares, the hotel waiting for bookings and the worker planning a smoother commute.

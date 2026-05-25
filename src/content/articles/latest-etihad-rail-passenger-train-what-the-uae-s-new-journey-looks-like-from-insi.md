@@ -6,11 +6,11 @@ author: "Mira Sethi"
 date: 2026-05-20
 publishedTime: "06:00 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-etihad-rail-passenger-train-what-the-uae-s-new-journey-looks-like-from-in/900/600"
-imageAlt: "Travel visual for What Etihad Rail Passenger Train What the UAE S Says About Dubai’s Push From Speed To Trust"
+image: "https://images.pexels.com/photos/36823738/pexels-photo-36823738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "View from inside an airport terminal overlooking the runway under a bright blue sky."
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-latest-etihad-rail-passenger-train-what-the-uae-s-new-journey-looks-like-from-in"
+pexelsId: "36823738"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

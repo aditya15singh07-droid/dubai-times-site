@@ -6,11 +6,11 @@ author: "Arjun Malhotra"
 date: 2026-05-23
 publishedTime: "15:28 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-2026-05-23-gulf-trade-deal-set-to-boost-salmon-exports-md-224-0/900/600"
-imageAlt: "Business visual for Gulf Trade Deal Set to Boost Salmon Exports: Shows How Gulf Capital Is Moving Now"
+image: "https://images.pexels.com/photos/7698818/pexels-photo-7698818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A group of stressed business professionals in an office setting, overwhelmed by work."
 tags: ["Business","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-2026-05-23-gulf-trade-deal-set-to-boost-salmon-exports-md-224-0"
+pexelsId: "7698818"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why gulf trade deal set to boost salmon exports deserves a closer read across the Middle East today.
 

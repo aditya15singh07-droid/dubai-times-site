@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-22
 publishedTime: "14:28 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/more-2026-05-22-dubai-islamic-bank-donates-dh10-million-to-al-jalila-foundation-/900/600"
-imageAlt: "Business visual for What Dubai Islamic Bank Donates Dh10 Million to Al Says About Dubai’s Push From Speed To Trust"
+image: "https://images.pexels.com/photos/6950050/pexels-photo-6950050.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A diverse group of professionals engaged in a business meeting in a modern conference room."
 tags: ["Business", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-more-2026-05-22-dubai-islamic-bank-donates-dh10-million-to-al-jalila-foundation-"
+pexelsId: "6950050"
 ---
 
 Business news looks clean on paper. In real life, it decides whether founders hire, investors wait and small firms take the next risk.

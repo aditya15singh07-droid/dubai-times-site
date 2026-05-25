@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-23
 publishedTime: "03:10 GST"
 watchLine: "Watch whether Abu Dhabi turns this first sale into a broader market for secure, sovereignty-friendly AI infrastructure."
-image: "https://picsum.photos/seed/abu-dhabi-cryptographic-ai-export-2026-md-447-0/900/600"
-imageAlt: "Business visual for Abu Dhabi's First Cryptographic AI Export Is Really A Trust Story For Global Data"
+image: "https://images.pexels.com/photos/7433851/pexels-photo-7433851.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Colleagues discussing documents in a corporate office meeting."
 tags: ["Business", "Abu Dhabi", "AI", "Cybersecurity", "TII"]
 draft: false
-pexelsId: "dedupe-abu-dhabi-cryptographic-ai-export-2026-md-447-0"
+pexelsId: "7433851"
 ---
 
 The next big AI fight may not be about who builds the smartest model.

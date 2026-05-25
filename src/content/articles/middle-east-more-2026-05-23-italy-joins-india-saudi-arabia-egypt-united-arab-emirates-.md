@@ -6,11 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-23
 publishedTime: "21:32 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-more-2026-05-23-italy-joins-india-saudi-arabia-egypt-united-arab-emi/900/600"
-imageAlt: "Travel visual for Italy Joins India Saudi Arabia Egypt United Arab: Shows How Regional Journeys Are Changing"
+image: "https://images.pexels.com/photos/16562841/pexels-photo-16562841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A modern jet airplane docked at an airport terminal gate, ready for boarding on a cloudy day."
 tags: ["Travel","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-more-2026-05-23-italy-joins-india-saudi-arabia-egypt-united-arab-emi"
+pexelsId: "16562841"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why italy joins india saudi arabia egypt united arab deserves a closer read across the Middle East today.
 

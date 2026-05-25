@@ -6,11 +6,11 @@ author: "Naina Batra"
 date: 2026-05-22
 publishedTime: "11:44 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-2026-05-22-dubai-basketball-move-a-step-closer-to-aba-league-finals-md-63/900/600"
-imageAlt: "Sport visual for What Dubai’s Growing Sports Audience Says About Dubai’s Push From Speed To Trust"
+image: "https://images.pexels.com/photos/9405210/pexels-photo-9405210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A soccer player takes a decisive penalty kick aiming to score against the goalkeeper."
 tags: ["Sport", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-latest-2026-05-22-dubai-basketball-move-a-step-closer-to-aba-league-finals-md-63"
+pexelsId: "9405210"
 ---
 
 Sport in the UAE is no longer only about the scoreboard. It is also about families, tourism, sponsors and the next generation of fans.

@@ -6,11 +6,11 @@ author: "Armaan Gill"
 date: 2026-05-19
 publishedTime: "19:02 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-uae-and-india-reaffirm-push-for-200-billlion-trade-target-at-dubai-forum-/900/600"
-imageAlt: "International visual for What UAE and India Reaffirm Push for 200 Billlion Says About Dubai’s Push From Speed To Trust"
+image: "https://images.pexels.com/photos/16938565/pexels-photo-16938565.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "People standing together outdoors with Chilean and Peruvian flags in Tacna, Peru."
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-latest-uae-and-india-reaffirm-push-for-200-billlion-trade-target-at-dubai-forum-"
+pexelsId: "16938565"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

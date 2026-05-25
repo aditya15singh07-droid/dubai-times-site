@@ -6,11 +6,11 @@ author: "Ishaan Vora"
 date: 2026-05-23
 publishedTime: "02:55 GST"
 watchLine: "Watch how quickly the network moves from announcement to clinical use and whether outcomes data is shared."
-image: "https://picsum.photos/seed/abu-dhabi-surgical-ai-network-2026-md-449-0/900/600"
-imageAlt: "Health visual for Why Abu Dhabi's Surgical AI Network Matters For Patients, Surgeons And Health Costs"
+image: "https://images.pexels.com/photos/6129154/pexels-photo-6129154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Doctors and nurse discussing medical charts in hospital setting."
 tags: ["Health", "Abu Dhabi", "Artificial Intelligence", "Surgery", "Johnson & Johnson"]
 draft: false
-pexelsId: "dedupe-abu-dhabi-surgical-ai-network-2026-md-449-0"
+pexelsId: "6129154"
 ---
 
 Most people do not care whether a surgery is digitally connected.

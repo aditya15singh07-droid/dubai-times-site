@@ -6,11 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-22
 publishedTime: "19:28 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/more25-2026-05-22-dubai-travel-update-salik-to-add-5-vat-on-tolls-from-june-1-md/900/600"
-imageAlt: "Travel visual for Why Salik to Add 5% VAT on Tolls from June Deserves A Closer Dubai Time Read"
+image: "https://images.pexels.com/photos/3885497/pexels-photo-3885497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Stylish woman pulls suitcase at airport, ready for travel."
 tags: ["Travel", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-more25-2026-05-22-dubai-travel-update-salik-to-add-5-vat-on-tolls-from-june-1-md"
+pexelsId: "3885497"
 ---
 
 A travel update is never only about a route or a terminal. It is about the family checking fares, the hotel waiting for bookings and the worker planning a smoother commute.

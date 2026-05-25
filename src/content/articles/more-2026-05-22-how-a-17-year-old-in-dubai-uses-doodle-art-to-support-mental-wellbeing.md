@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-22
 publishedTime: "14:48 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/more-2026-05-22-how-a-17-year-old-in-dubai-uses-doodle-art-to-support-mental-wel/900/600"
-imageAlt: "Lifestyle visual for Why How a 17 Year Old in Dubai Uses Is Becoming A Daily Trust Test For UAE Healthcare"
+image: "https://images.pexels.com/photos/27873528/pexels-photo-27873528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A joyful young family spending quality time together in a sunny outdoor park setting."
 tags: ["Lifestyle", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-more-2026-05-22-how-a-17-year-old-in-dubai-uses-doodle-art-to-support-mental-wel"
+pexelsId: "27873528"
 ---
 
 Lifestyle stories can look soft from a distance. Then they start changing weekend plans, household budgets and how a city feels after work.

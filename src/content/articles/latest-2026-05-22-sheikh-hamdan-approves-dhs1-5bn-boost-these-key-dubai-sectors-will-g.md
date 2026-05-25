@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-22
 publishedTime: "11:12 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-2026-05-22-sheikh-hamdan-approves-dhs1-5bn-boost-these-key-dubai-sectors-/900/600"
-imageAlt: "Real Estate visual for What Sheikh Hamdan Approves Dhs1 5bn Boost These Key Says About Dubai’s Push From Speed To Trust"
+image: "https://images.pexels.com/photos/29585685/pexels-photo-29585685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Captivating dawn view of the Manhattan skyline silhouetted against the morning sky."
 tags: ["Real Estate", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-latest-2026-05-22-sheikh-hamdan-approves-dhs1-5bn-boost-these-key-dubai-sectors-"
+pexelsId: "29585685"
 ---
 
 Property news in Dubai always lands at the dining table. Tenants, buyers and brokers all read the same headline with very different worries.

@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-22
 publishedTime: "19:24 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/more25-2026-05-22-new-5-vat-to-be-added-to-salik-gates-in-dubai-from-june-md-483/900/600"
-imageAlt: "Business visual for Why 5% VAT to Be Added to Salik Gates in Deserves A Closer Dubai Time Read"
+image: "https://images.pexels.com/photos/5673481/pexels-photo-5673481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "From above of multiracial colleagues in formal outfit working with papers laptop and tablet at table"
 tags: ["Business", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-more25-2026-05-22-new-5-vat-to-be-added-to-salik-gates-in-dubai-from-june-md-483"
+pexelsId: "5673481"
 ---
 
 Business news looks clean on paper. In real life, it decides whether founders hire, investors wait and small firms take the next risk.

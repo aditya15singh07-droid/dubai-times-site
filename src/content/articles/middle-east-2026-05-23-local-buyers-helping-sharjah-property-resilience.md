@@ -6,11 +6,11 @@ author: "Reyan Shah"
 date: 2026-05-23
 publishedTime: "10:24 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-2026-05-23-local-buyers-helping-sharjah-property-resilience-md-392-0/900/600"
-imageAlt: "Real Estate visual for The Gulf Property Demand Shift: Shows Where Gulf Property Demand Is Heading"
+image: "https://images.pexels.com/photos/1227807/pexels-photo-1227807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A stunning low-angle view of London's skyscrapers at sunset with warm lighting."
 tags: ["Real Estate","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-2026-05-23-local-buyers-helping-sharjah-property-resilience-md-392-0"
+pexelsId: "1227807"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the gulf property demand shift deserves a closer read across the Middle East today.
 

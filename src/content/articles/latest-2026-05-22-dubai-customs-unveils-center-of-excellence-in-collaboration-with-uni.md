@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-22
 publishedTime: "11:36 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-2026-05-22-dubai-customs-unveils-center-of-excellence-in-collaboration-wi/900/600"
-imageAlt: "Lifestyle visual for What Dubai Customs Unveils Center of Excellence in Collaboration Says About Dubai’s Push From Speed To Trust"
+image: "https://images.pexels.com/photos/14349700/pexels-photo-14349700.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Smiling family embracing in the sunshine at a tropical beach setting."
 tags: ["Lifestyle", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-latest-2026-05-22-dubai-customs-unveils-center-of-excellence-in-collaboration-wi"
+pexelsId: "14349700"
 ---
 
 Lifestyle stories can look soft from a distance. Then they start changing weekend plans, household budgets and how a city feels after work.

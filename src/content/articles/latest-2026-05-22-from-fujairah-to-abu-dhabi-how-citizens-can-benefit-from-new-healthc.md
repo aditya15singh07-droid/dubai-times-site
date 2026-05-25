@@ -6,11 +6,11 @@ author: "Ishaan Vora"
 date: 2026-05-22
 publishedTime: "12:44 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-2026-05-22-from-fujairah-to-abu-dhabi-how-citizens-can-benefit-from-new-h/900/600"
-imageAlt: "Health visual for Why From Fujairah to Abu Dhabi How Citizens Can Is Becoming A Daily Trust Test For UAE Healthcare"
+image: "https://images.pexels.com/photos/4173249/pexels-photo-4173249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Crop ethnic female doctor in medical uniform with stethoscope and notebook talking on cellphone while standing in clinic corridor"
 tags: ["Health", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-latest-2026-05-22-from-fujairah-to-abu-dhabi-how-citizens-can-benefit-from-new-h"
+pexelsId: "4173249"
 ---
 
 Health stories become important when they leave the conference room and enter a clinic, a pharmacy or a family WhatsApp group.

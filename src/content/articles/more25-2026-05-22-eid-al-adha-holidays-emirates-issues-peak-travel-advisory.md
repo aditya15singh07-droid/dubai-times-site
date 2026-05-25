@@ -6,11 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-22
 publishedTime: "19:20 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/more25-2026-05-22-eid-al-adha-holidays-emirates-issues-peak-travel-advisory-md-4/900/600"
-imageAlt: "Travel visual for Why Eid Al Adha Holidays Emirates Issues Peak Travel Advisory Deserves A Closer Dubai Time Read"
+image: "https://images.pexels.com/photos/19246011/pexels-photo-19246011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Silhouette of a woman sitting in an airport terminal lounge, with view of control tower."
 tags: ["Travel", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-more25-2026-05-22-eid-al-adha-holidays-emirates-issues-peak-travel-advisory-md-4"
+pexelsId: "19246011"
 ---
 
 A travel update is never only about a route or a terminal. It is about the family checking fares, the hotel waiting for bookings and the worker planning a smoother commute.

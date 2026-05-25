@@ -5,11 +5,11 @@ category: "Middle East"
 author: "Rian Kapoor"
 date: 2026-05-18
 watchLine: "Watch whether DIFC moves from branding to enforceable frameworks, deployable tools and real hiring growth across finance and compliance."
-image: "https://picsum.photos/seed/difc-ai-native-financial-centre-2026-md-994-0/900/600"
-imageAlt: "Middle East visual for DIFC Wants To Be AI Native. The Important Word Is Not AI, But Native"
+image: "https://images.pexels.com/photos/35557555/pexels-photo-35557555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Nighttime cityscape with illuminated skyscrapers reflecting on water, showcasing urban vibrance."
 tags: ["Middle East", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-difc-ai-native-financial-centre-2026-md-994-0"
+pexelsId: "35557555"
 ---
 
 Plenty of institutions say they are using artificial intelligence.

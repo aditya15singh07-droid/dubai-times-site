@@ -5,11 +5,11 @@ category: "Middle East"
 author: "Myra D Souza"
 date: 2026-05-17
 watchLine: "Watch whether the UAE maintains firm deterrence messaging while preserving normal economic, aviation and logistics activity."
-image: "https://picsum.photos/seed/uae-security-posture-regional-tensions-2026-md-1072-0/900/600"
-imageAlt: "Middle East visual for UAE Security Message Hardens As Regional Tensions Test Gulf Stability"
+image: "https://images.pexels.com/photos/27740534/pexels-photo-27740534.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Explore the majestic Hong Kong skyline with its iconic skyscrapers and vibrant harbor."
 tags: ["Middle East", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-uae-security-posture-regional-tensions-2026-md-1072-0"
+pexelsId: "27740534"
 ---
 
 Security news in the Gulf is never only about defence.

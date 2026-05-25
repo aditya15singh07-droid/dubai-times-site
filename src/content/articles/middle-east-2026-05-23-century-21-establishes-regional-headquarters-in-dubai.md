@@ -6,11 +6,11 @@ author: "Arjun Malhotra"
 date: 2026-05-23
 publishedTime: "11:36 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-2026-05-23-century-21-establishes-regional-headquarters-in-dubai-md-/900/600"
-imageAlt: "Real Estate visual for Century 21 Establishes Regional Headquarters in Dubai: Shows Where Gulf Property Demand Is Heading"
+image: "https://images.pexels.com/photos/10742619/pexels-photo-10742619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Captivating view of Doha skyline from the Corniche, featuring modern architecture under a clear blue sky."
 tags: ["Real Estate","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-2026-05-23-century-21-establishes-regional-headquarters-in-dubai-md-"
+pexelsId: "10742619"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why century 21 establishes regional headquarters in dubai deserves a closer read across the Middle East today.
 

@@ -6,11 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-22
 publishedTime: "10:08 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-2026-05-22-arabian-travel-market-rescheduled-in-dubai-amid-iran-conflict-/900/600"
-imageAlt: "Travel visual for What Gulf Market Volatility Says About Dubai’s Push From Speed To Trust"
+image: "https://images.pexels.com/photos/3885587/pexels-photo-3885587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Full length of stylish woman in elegant outfit carrying baggage and surfing smartphone while standing near glass wall of airport"
 tags: ["Travel", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-latest-2026-05-22-arabian-travel-market-rescheduled-in-dubai-amid-iran-conflict-"
+pexelsId: "3885587"
 ---
 
 A travel update is never only about a route or a terminal. It is about the family checking fares, the hotel waiting for bookings and the worker planning a smoother commute.

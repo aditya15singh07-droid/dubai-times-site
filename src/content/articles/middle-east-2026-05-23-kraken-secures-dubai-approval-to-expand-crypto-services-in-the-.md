@@ -6,11 +6,11 @@ author: "Nikhil Verma"
 date: 2026-05-23
 publishedTime: "09:52 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-2026-05-23-kraken-secures-dubai-approval-to-expand-crypto-services-i/900/600"
-imageAlt: "Crypto visual for The Gulf Crypto Trust Test: Puts Digital Finance Trust Back On The Table In Dubai, Update 2"
+image: "https://images.pexels.com/photos/8369695/pexels-photo-8369695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Pile of shiny gold and silver cryptocurrency coins on a wooden table."
 tags: ["Crypto","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-2026-05-23-kraken-secures-dubai-approval-to-expand-crypto-services-i"
+pexelsId: "8369695"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the gulf crypto trust test deserves a closer read across the Middle East today.
 

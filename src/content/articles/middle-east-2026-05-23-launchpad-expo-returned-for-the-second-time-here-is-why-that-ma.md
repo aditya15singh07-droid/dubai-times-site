@@ -6,11 +6,11 @@ author: "Ishaan Roy"
 date: 2026-05-23
 publishedTime: "12:12 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-2026-05-23-launchpad-expo-returned-for-the-second-time-here-is-why-t/900/600"
-imageAlt: "Middle East visual for Launchpad Expo Returned for the Second Time Here: Puts Regional Resilience Back In Focus"
+image: "https://images.pexels.com/photos/30980144/pexels-photo-30980144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "City skyline featuring modern skyscrapers under a clear blue sky."
 tags: ["Middle East","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-2026-05-23-launchpad-expo-returned-for-the-second-time-here-is-why-t"
+pexelsId: "30980144"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why launchpad expo returned for the second time here deserves a closer read across the Middle East today.
 

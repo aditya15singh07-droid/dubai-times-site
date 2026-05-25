@@ -6,11 +6,11 @@ author: "Reyan Shah"
 date: 2026-05-23
 publishedTime: "14:52 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-2026-05-23-travel-alert-by-european-union-middle-east-countries-like/900/600"
-imageAlt: "Travel visual for The Gulf Travel Confidence Test: Shows How Regional Journeys Are Changing"
+image: "https://images.pexels.com/photos/13716228/pexels-photo-13716228.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Contemporary airport terminal featuring striking glass facade under a cloudy sky."
 tags: ["Travel","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-2026-05-23-travel-alert-by-european-union-middle-east-countries-like"
+pexelsId: "13716228"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the gulf travel confidence test deserves a closer read across the Middle East today.
 

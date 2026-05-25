@@ -6,11 +6,11 @@ author: "Armaan Gill"
 date: 2026-05-20
 publishedTime: "03:57 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-dubai-real-estate-price-index-records-9-81-growth-in-2025-md-846-0/900/600"
-imageAlt: "Real Estate visual for What Price Index Records 9 81 Growth in 2025 Reveals About Dubai Property’s Next Serious Test"
+image: "https://images.pexels.com/photos/37013941/pexels-photo-37013941.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Stunning cityscape view of modern high-rise buildings reflecting in the water at twilight."
 tags: ["Real Estate", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-latest-dubai-real-estate-price-index-records-9-81-growth-in-2025-md-846-0"
+pexelsId: "37013941"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

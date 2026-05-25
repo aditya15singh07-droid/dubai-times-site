@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-23
 publishedTime: "11:12 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-2026-05-23-dubai-investments-pushes-ahead-with-dip-listing-md-368-0/900/600"
-imageAlt: "Business visual for Dubai Investments' Market Push: Tests The Gulf's Next Business Mood"
+image: "https://images.pexels.com/photos/6949476/pexels-photo-6949476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Business professionals in a board meeting in a modern conference room, engaging in discussion."
 tags: ["Business","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-2026-05-23-dubai-investments-pushes-ahead-with-dip-listing-md-368-0"
+pexelsId: "6949476"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why dubai investments' market push deserves a closer read across the Middle East today.
 

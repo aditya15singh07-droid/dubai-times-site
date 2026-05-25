@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-19
 publishedTime: "17:13 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-uae-minister-of-state-imf-director-jihad-azour-discuss-regional-macroecon/900/600"
-imageAlt: "International visual for Why UAE Minister of State Imf Director Jihad Azour Discuss Deserves A Closer Dubai Time Read"
+image: "https://images.pexels.com/photos/7868975/pexels-photo-7868975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A diverse group of professionals engaging in a collaborative office meeting, sharing ideas and working on a project."
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-latest-uae-minister-of-state-imf-director-jihad-azour-discuss-regional-macroecon"
+pexelsId: "7868975"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

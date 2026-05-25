@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-22
 publishedTime: "11:08 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-2026-05-22-12-homes-up-for-grabs-dubai-launches-massive-win-your-home-sum/900/600"
-imageAlt: "Real Estate visual for What 12 Homes Up for Grabs Dubai Launches Massive Reveals About Dubai Property’s Next Serious Test"
+image: "https://images.pexels.com/photos/35275359/pexels-photo-35275359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Stunning aerial view of Seattle skyline featuring Smith Tower and modern skyscrapers under a cloudy sky."
 tags: ["Real Estate", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-latest-2026-05-22-12-homes-up-for-grabs-dubai-launches-massive-win-your-home-sum"
+pexelsId: "35275359"
 ---
 
 Property news in Dubai always lands at the dining table. Tenants, buyers and brokers all read the same headline with very different worries.

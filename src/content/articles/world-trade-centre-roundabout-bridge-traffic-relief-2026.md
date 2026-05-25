@@ -5,11 +5,11 @@ category: "International"
 author: "Reyansh Suri"
 date: 2026-05-18
 watchLine: "Watch whether the full six-bridge package meaningfully eases peak-hour pressure around Sheikh Zayed Road and Al Mustaqbal Street."
-image: "https://picsum.photos/seed/world-trade-centre-roundabout-bridge-traffic-relief-2026-md-1024-0/900/600"
-imageAlt: "International visual for Dubai Opens Another Trade Centre Bridge, With A Bigger Promise Than Concrete"
+image: "https://images.pexels.com/photos/6950186/pexels-photo-6950186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Confident woman speaker at podium with EU flag, delivering a speech indoors."
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-world-trade-centre-roundabout-bridge-traffic-relief-2026-md-1024-0"
+pexelsId: "6950186"
 ---
 
 In Dubai, two saved minutes are never just two minutes.

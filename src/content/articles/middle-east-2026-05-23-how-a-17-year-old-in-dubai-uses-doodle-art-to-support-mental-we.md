@@ -6,11 +6,11 @@ author: "Zayan Mirza"
 date: 2026-05-23
 publishedTime: "11:52 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-2026-05-23-how-a-17-year-old-in-dubai-uses-doodle-art-to-support-men/900/600"
-imageAlt: "Entertainment visual for How A 17 Year Old in Dubai Uses: Shows How Gulf Audiences Are Spending Their Time"
+image: "https://images.pexels.com/photos/36606989/pexels-photo-36606989.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Vibrant scene of a lively crowd celebrating with red flares at night."
 tags: ["Entertainment","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-2026-05-23-how-a-17-year-old-in-dubai-uses-doodle-art-to-support-men"
+pexelsId: "36606989"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why how a 17 year old in dubai uses deserves a closer read across the Middle East today.
 

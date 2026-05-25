@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-22
 publishedTime: "18:28 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/more25-2026-05-22-meraki-developers-vertically-integrated-vision-to-join-dubai-s/900/600"
-imageAlt: "Real Estate visual for What Meraki Developers Vertically Integrated Vision to Join Dubai Reveals About Dubai Property’s Next Serious Test"
+image: "https://images.pexels.com/photos/30094233/pexels-photo-30094233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Aerial view of skyscrapers in Frankfurt's financial district."
 tags: ["Real Estate", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-more25-2026-05-22-meraki-developers-vertically-integrated-vision-to-join-dubai-s"
+pexelsId: "30094233"
 ---
 
 Property news in Dubai always lands at the dining table. Tenants, buyers and brokers all read the same headline with very different worries.

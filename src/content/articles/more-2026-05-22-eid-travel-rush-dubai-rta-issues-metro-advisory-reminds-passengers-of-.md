@@ -6,11 +6,11 @@ author: "Tara Khanna"
 date: 2026-05-22
 publishedTime: "15:32 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/more-2026-05-22-eid-travel-rush-dubai-rta-issues-metro-advisory-reminds-passenge/900/600"
-imageAlt: "International visual for What Dubai’s Peak Travel Rush Means For The Daily Cost Of Moving Around Dubai"
+image: "https://images.pexels.com/photos/3184634/pexels-photo-3184634.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Young professionals discussing work at a conference table with technology and documents."
 tags: ["International", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-more-2026-05-22-eid-travel-rush-dubai-rta-issues-metro-advisory-reminds-passenge"
+pexelsId: "3184634"
 ---
 
 International news reaches the UAE faster than many people expect. It arrives through markets, flights, trade lanes and boardroom decisions.

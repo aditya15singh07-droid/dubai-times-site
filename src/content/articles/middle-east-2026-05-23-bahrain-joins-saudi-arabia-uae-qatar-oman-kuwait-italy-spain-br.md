@@ -6,11 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-23
 publishedTime: "09:12 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-2026-05-23-bahrain-joins-saudi-arabia-uae-qatar-oman-kuwait-italy-sp/900/600"
-imageAlt: "Middle East visual for Bahrain Joins Saudi Arabia UAE Qatar Oman Kuwait: Shows Why Gulf Stability Still Matters"
+image: "https://images.pexels.com/photos/33719016/pexels-photo-33719016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Contemporary glass building facade reflecting cityscape with blue sky backdrop."
 tags: ["Middle East","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-2026-05-23-bahrain-joins-saudi-arabia-uae-qatar-oman-kuwait-italy-sp"
+pexelsId: "33719016"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why bahrain joins saudi arabia uae qatar oman kuwait deserves a closer read across the Middle East today.
 

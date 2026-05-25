@@ -6,9 +6,9 @@ author: "Anika Menon"
 date: 2026-05-21
 publishedTime: "13:14 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://picsum.photos/seed/category-batch-2026-05-21-regional-security-investor-confidence-2026-md-773-0/900/600"
-imageAlt: "Middle East visual for Regional Security Still Shapes Investor Confidence In Quiet Ways"
-pexelsId: "dedupe-category-batch-2026-05-21-regional-security-investor-confidence-2026-md-773-0"
+image: "https://images.pexels.com/photos/20847397/pexels-photo-20847397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Stunning view of New York City's skyline showcasing its iconic skyscrapers under a clear blue sky."
+pexelsId: "20847397"
 tags: ["Middle East", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

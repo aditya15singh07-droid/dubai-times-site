@@ -6,11 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-23
 publishedTime: "21:08 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-more-2026-05-23-how-etihad-and-uzbekistan-airways-are-aligning-loyal/900/600"
-imageAlt: "Travel visual for The Gulf Travel Confidence Test: Turns Into A Travel Test For The Gulf In The Region, Update 2"
+image: "https://images.pexels.com/photos/16936915/pexels-photo-16936915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Black and white image of travelers silhouetted against large airport windows, capturing urban travel ambiance."
 tags: ["Travel","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-more-2026-05-23-how-etihad-and-uzbekistan-airways-are-aligning-loyal"
+pexelsId: "16936915"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the gulf travel confidence test deserves a closer read across the Middle East today.
 

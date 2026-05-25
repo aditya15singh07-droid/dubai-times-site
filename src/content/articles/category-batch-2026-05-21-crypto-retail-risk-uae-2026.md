@@ -6,9 +6,9 @@ author: "Mira Sethi"
 date: 2026-05-21
 publishedTime: "13:29 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://picsum.photos/seed/category-batch-2026-05-21-crypto-retail-risk-uae-2026-md-747-0/900/600"
-imageAlt: "Crypto visual for Retail Crypto Risk In The UAE Is Now A Behaviour Story"
-pexelsId: "dedupe-category-batch-2026-05-21-crypto-retail-risk-uae-2026-md-747-0"
+image: "https://images.pexels.com/photos/8370332/pexels-photo-8370332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Hand writing cryptocurrency concepts on whiteboard in business meeting."
+pexelsId: "8370332"
 tags: ["Crypto", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

@@ -6,11 +6,11 @@ author: "Nikhil Verma"
 date: 2026-05-23
 publishedTime: "21:00 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-more-2026-05-23-now-the-pain-begins-md-105-0/900/600"
-imageAlt: "Travel visual for Now the Pain Begins: Turns Into A Travel Test For The Gulf"
+image: "https://images.pexels.com/photos/16108890/pexels-photo-16108890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "An adult male walking on an airport travelator, captured in a modern and well-lit terminal."
 tags: ["Travel","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-more-2026-05-23-now-the-pain-begins-md-105-0"
+pexelsId: "16108890"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why now the pain begins deserves a closer read across the Middle East today.
 

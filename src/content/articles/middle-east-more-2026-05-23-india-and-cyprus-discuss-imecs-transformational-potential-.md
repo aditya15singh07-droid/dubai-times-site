@@ -6,11 +6,11 @@ author: "Nikhil Verma"
 date: 2026-05-23
 publishedTime: "16:00 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-more-2026-05-23-india-and-cyprus-discuss-imecs-transformational-pote/900/600"
-imageAlt: "Business visual for India and Cyprus Discuss Imecs Transformational Potential: Puts Regional Deal-Making Back In Focus"
+image: "https://images.pexels.com/photos/7888760/pexels-photo-7888760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Engaged office team in business discussion around a laptop, fostering collaboration."
 tags: ["Business","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-more-2026-05-23-india-and-cyprus-discuss-imecs-transformational-pote"
+pexelsId: "7888760"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why india and cyprus discuss imecs transformational potential deserves a closer read across the Middle East today.
 

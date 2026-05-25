@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-22
 publishedTime: "15:16 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/more-2026-05-22-sonu-nigam-to-launch-world-tour-with-abu-dhabi-concert-this-augu/900/600"
-imageAlt: "Entertainment visual for Why Sonu Nigam to Launch World Tour with Abu Dhabi Deserves A Closer Dubai Time Read"
+image: "https://images.pexels.com/photos/761543/pexels-photo-761543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Dynamic concert scene with an energetic crowd at night in a London stadium."
 tags: ["Entertainment", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-more-2026-05-22-sonu-nigam-to-launch-world-tour-with-abu-dhabi-concert-this-augu"
+pexelsId: "761543"
 ---
 
 Entertainment news now carries a harder question. Can a live show or cultural event still pull people away from their phones and sofas?

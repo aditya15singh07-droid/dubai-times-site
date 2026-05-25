@@ -6,11 +6,11 @@ author: "Anika Menon"
 date: 2026-05-22
 publishedTime: "13:12 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-2026-05-22-when-is-a-company-considered-late-in-paying-salaries-in-the-ua/900/600"
-imageAlt: "Middle East visual for Why UAE Worker Welfare Rules Matters Across The Gulf Now"
+image: "https://images.pexels.com/photos/8552464/pexels-photo-8552464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Modern skyscrapers with glass facades reflecting the urban skyline on an overcast day."
 tags: ["Middle East", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-latest-2026-05-22-when-is-a-company-considered-late-in-paying-salaries-in-the-ua"
+pexelsId: "8552464"
 ---
 
 Regional news is rarely distant for Dubai. It shapes confidence, trade, travel and the quiet calculations people make every day.

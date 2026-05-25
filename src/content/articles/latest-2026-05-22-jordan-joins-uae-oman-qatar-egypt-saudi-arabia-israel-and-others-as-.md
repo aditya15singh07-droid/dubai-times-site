@@ -6,11 +6,11 @@ author: "Tara Khanna"
 date: 2026-05-22
 publishedTime: "12:32 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-2026-05-22-jordan-joins-uae-oman-qatar-egypt-saudi-arabia-israel-and-othe/900/600"
-imageAlt: "International visual for What Jordan Joins UAE Oman Qatar Egypt Saudi Arabia Says About Dubai’s Push From Speed To Trust"
+image: "https://images.pexels.com/photos/6949993/pexels-photo-6949993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Corporate handshake between diverse businessmen representing EU and US flags, symbolizing partnership and collaboration."
 tags: ["International", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-latest-2026-05-22-jordan-joins-uae-oman-qatar-egypt-saudi-arabia-israel-and-othe"
+pexelsId: "6949993"
 ---
 
 International news reaches the UAE faster than many people expect. It arrives through markets, flights, trade lanes and boardroom decisions.

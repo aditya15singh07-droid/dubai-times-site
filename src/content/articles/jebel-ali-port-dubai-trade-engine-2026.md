@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-17
 publishedTime: "20:45 GST"
 watchLine: "Watch how Jebel Ali's capacity, automation and logistics links support Dubai's next phase of trade-led growth."
-image: "https://picsum.photos/seed/jebel-ali-port-dubai-trade-engine-2026-md-1034-0/900/600"
-imageAlt: "International visual for Jebel Ali Port Shows Why Dubai's Trade Engine Still Matters"
+image: "https://images.pexels.com/photos/34817154/pexels-photo-34817154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A professional woman presenting a business diagram in a conference room."
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-jebel-ali-port-dubai-trade-engine-2026-md-1034-0"
+pexelsId: "34817154"
 ---
 
 Dubai's most important economic story is not always the one with the best photograph.

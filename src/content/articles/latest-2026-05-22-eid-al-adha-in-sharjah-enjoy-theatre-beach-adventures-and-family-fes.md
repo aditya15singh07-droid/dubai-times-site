@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-22
 publishedTime: "11:04 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-2026-05-22-eid-al-adha-in-sharjah-enjoy-theatre-beach-adventures-and-fami/900/600"
-imageAlt: "Real Estate visual for Why Eid Al Adha in Sharjah Enjoy Theatre Beach Adventures Deserves A Closer Dubai Time Read"
+image: "https://images.pexels.com/photos/27489601/pexels-photo-27489601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A stunning cityscape with lush greenery in the foreground under a partly cloudy sky."
 tags: ["Real Estate", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-latest-2026-05-22-eid-al-adha-in-sharjah-enjoy-theatre-beach-adventures-and-fami"
+pexelsId: "27489601"
 ---
 
 Property news in Dubai always lands at the dining table. Tenants, buyers and brokers all read the same headline with very different worries.

@@ -6,11 +6,11 @@ author: "Anika Menon"
 date: 2026-05-22
 publishedTime: "15:56 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/more-2026-05-22-uae-s-policy-driven-trade-model-emerges-as-blueprint-for-global-/900/600"
-imageAlt: "Middle East visual for What UAE S Policy Driven Trade Model Emerges as Says About Dubai’s Push From Speed To Trust"
+image: "https://images.pexels.com/photos/3945233/pexels-photo-3945233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Explore the vibrant Chengdu skyline at night showcasing urban architecture and city lights."
 tags: ["Middle East", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-more-2026-05-22-uae-s-policy-driven-trade-model-emerges-as-blueprint-for-global-"
+pexelsId: "3945233"
 ---
 
 Regional news is rarely distant for Dubai. It shapes confidence, trade, travel and the quiet calculations people make every day.

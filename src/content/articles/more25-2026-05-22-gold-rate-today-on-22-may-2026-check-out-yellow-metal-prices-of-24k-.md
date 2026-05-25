@@ -6,11 +6,11 @@ author: "Anika Menon"
 date: 2026-05-22
 publishedTime: "19:12 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/more25-2026-05-22-gold-rate-today-on-22-may-2026-check-out-yellow-metal-prices-o/900/600"
-imageAlt: "Middle East visual for Why Gold Rate Today on 22 May 2026 Check Out Deserves A Closer Dubai Time Read"
+image: "https://images.pexels.com/photos/17576579/pexels-photo-17576579.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Panoramic view of a modern skyline with prominent skyscrapers and lush greenery."
 tags: ["Middle East", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-more25-2026-05-22-gold-rate-today-on-22-may-2026-check-out-yellow-metal-prices-o"
+pexelsId: "17576579"
 ---
 
 Regional news is rarely distant for Dubai. It shapes confidence, trade, travel and the quiet calculations people make every day.

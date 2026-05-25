@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-22
 publishedTime: "18:24 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/more25-2026-05-22-how-uae-s-diversified-property-market-is-redefining-investment/900/600"
-imageAlt: "Real Estate visual for Why How UAE S Diversified Property Market Is Redefining Investment Deserves A Closer Dubai Time Read"
+image: "https://images.pexels.com/photos/31728474/pexels-photo-31728474.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "High-rise buildings and cranes against a mountain backdrop under a cloudy sky, showcasing urban growth."
 tags: ["Real Estate", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-more25-2026-05-22-how-uae-s-diversified-property-market-is-redefining-investment"
+pexelsId: "31728474"
 ---
 
 Property news in Dubai always lands at the dining table. Tenants, buyers and brokers all read the same headline with very different worries.

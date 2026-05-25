@@ -5,11 +5,11 @@ category: "Travel"
 author: "Devika Shah"
 date: 2026-05-18
 watchLine: "Watch whether bypass routes become permanent strategic priorities long after the current disruption fades."
-image: "https://picsum.photos/seed/hormuz-disruption-pipelines-rail-gulf-2026-md-1010-0/900/600"
-imageAlt: "Travel visual for The Gulf Is Learning To Move Around Hormuz, And That Could Change The Region"
+image: "https://images.pexels.com/photos/36863381/pexels-photo-36863381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "An EasyJet airplane taxiing on the runway at an airport with a scenic background."
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-hormuz-disruption-pipelines-rail-gulf-2026-md-1010-0"
+pexelsId: "36863381"
 ---
 
 The Strait of Hormuz has always looked narrow on the map.

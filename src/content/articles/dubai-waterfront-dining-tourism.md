@@ -5,11 +5,11 @@ category: "Travel"
 author: "Myra D Souza"
 date: 2026-05-17
 watchLine: "Watch which waterfront venues turn views into repeat business through service, value, identity and year-round programming."
-image: "https://picsum.photos/seed/dubai-waterfront-dining-tourism-md-1066-0/900/600"
-imageAlt: "Travel visual for Waterfront Dining Remains A Strong Pull For Dubai Visitors"
+image: "https://images.pexels.com/photos/28336303/pexels-photo-28336303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "An airplane takes off from an airport runway, soaring into the clear blue sky over the ocean."
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-dubai-waterfront-dining-tourism-md-1066-0"
+pexelsId: "28336303"
 ---
 
 A Dubai dinner with a view can become a travel memory faster than a museum ticket.

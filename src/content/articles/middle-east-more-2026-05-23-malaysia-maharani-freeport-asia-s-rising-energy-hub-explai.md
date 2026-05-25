@@ -6,11 +6,11 @@ author: "Dev Khanna"
 date: 2026-05-23
 publishedTime: "15:48 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-more-2026-05-23-malaysia-maharani-freeport-asia-s-rising-energy-hub-/900/600"
-imageAlt: "Business visual for Malaysia Maharani Freeport Asia Rising Energy Hub Explai: Puts Regional Deal-Making Back In Focus"
+image: "https://images.pexels.com/photos/7433850/pexels-photo-7433850.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Five business professionals engaged in a meeting in a modern office setting, discussing documents and ideas."
 tags: ["Business","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-more-2026-05-23-malaysia-maharani-freeport-asia-s-rising-energy-hub-"
+pexelsId: "7433850"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why malaysia maharani freeport asia rising energy hub explai deserves a closer read across the Middle East today.
 

@@ -6,11 +6,11 @@ author: "Ishaan Vora"
 date: 2026-05-22
 publishedTime: "12:48 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-2026-05-22-emirates-drug-establishment-visits-national-pharmaceutical-man/900/600"
-imageAlt: "Health visual for Why Emirates Drug Establishment Visits National Pharmaceutical Manufactu Is Becoming A Daily Trust Test For UAE Healthcare"
+image: "https://images.pexels.com/photos/6129651/pexels-photo-6129651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A doctor in a face mask talks to a patient in a hospital bed, providing care and consultation."
 tags: ["Health", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-latest-2026-05-22-emirates-drug-establishment-visits-national-pharmaceutical-man"
+pexelsId: "6129651"
 ---
 
 Health stories become important when they leave the conference room and enter a clinic, a pharmacy or a family WhatsApp group.

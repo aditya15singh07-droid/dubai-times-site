@@ -6,9 +6,9 @@ author: "Anika Menon"
 date: 2026-05-21
 publishedTime: "14:42 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://picsum.photos/seed/fresh-uae-agentic-ai-government-services-2026-md-687-0/900/600"
-imageAlt: "Middle East visual for The UAE’s Agentic AI Plan Raises The Bar For Government Service Delivery"
-pexelsId: "dedupe-fresh-uae-agentic-ai-government-services-2026-md-687-0"
+image: "https://images.pexels.com/photos/36802763/pexels-photo-36802763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "High-rise buildings against a dramatic cloudy sky in Bangkok, Thailand."
+pexelsId: "36802763"
 tags: ["Middle East", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---

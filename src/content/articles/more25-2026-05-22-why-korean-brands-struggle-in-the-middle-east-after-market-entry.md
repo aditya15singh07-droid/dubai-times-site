@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-22
 publishedTime: "19:36 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/more25-2026-05-22-why-korean-brands-struggle-in-the-middle-east-after-market-ent/900/600"
-imageAlt: "Business visual for What Korean Brands’ Middle East Challenge Signals About UAE Business Confidence Now"
+image: "https://images.pexels.com/photos/7433856/pexels-photo-7433856.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Business professionals engaged in a strategy meeting in a contemporary office. Daytime setting."
 tags: ["Business", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-more25-2026-05-22-why-korean-brands-struggle-in-the-middle-east-after-market-ent"
+pexelsId: "7433856"
 ---
 
 Business news looks clean on paper. In real life, it decides whether founders hire, investors wait and small firms take the next risk.

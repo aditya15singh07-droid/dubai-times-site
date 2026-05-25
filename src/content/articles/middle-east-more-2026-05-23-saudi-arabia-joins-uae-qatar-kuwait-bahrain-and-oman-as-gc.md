@@ -6,11 +6,11 @@ author: "Reyan Shah"
 date: 2026-05-23
 publishedTime: "15:08 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-more-2026-05-23-saudi-arabia-joins-uae-qatar-kuwait-bahrain-and-oman/900/600"
-imageAlt: "Travel visual for Saudi Arabia Joins UAE Qatar Kuwait Bahrain: Turns Into A Travel Test For The Gulf"
+image: "https://images.pexels.com/photos/392265/pexels-photo-392265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A bright, spacious airport terminal featuring expansive glass walls, escalators, and American flag."
 tags: ["Travel","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-more-2026-05-23-saudi-arabia-joins-uae-qatar-kuwait-bahrain-and-oman"
+pexelsId: "392265"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why saudi arabia joins uae qatar kuwait bahrain deserves a closer read across the Middle East today.
 

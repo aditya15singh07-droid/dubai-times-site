@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-23
 publishedTime: "13:20 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-2026-05-23-qatar-joins-uae-saudi-arabia-and-oman-in-showcasing-touri/900/600"
-imageAlt: "Travel visual for Qatar Joins UAE Saudi Arabia and Oman: Shows How Regional Journeys Are Changing"
+image: "https://images.pexels.com/photos/8242843/pexels-photo-8242843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Widebody aircraft parked at an airport gate during clear day with terminal building visible."
 tags: ["Travel","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-2026-05-23-qatar-joins-uae-saudi-arabia-and-oman-in-showcasing-touri"
+pexelsId: "8242843"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why qatar joins uae saudi arabia and oman deserves a closer read across the Middle East today.
 

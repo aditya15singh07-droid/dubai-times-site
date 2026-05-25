@@ -6,11 +6,11 @@ author: "Naina Batra"
 date: 2026-05-19
 publishedTime: "15:55 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-pam-golding-properties-expands-global-footprint-with-dubai-office-launch-/900/600"
-imageAlt: "International visual for What Pam Golding Properties Expands Global Footprint with Dubai Says About Dubai’s Push From Speed To Trust"
+image: "https://images.pexels.com/photos/6950214/pexels-photo-6950214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Diverse leaders at a conference podium with US flag in the background."
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-latest-pam-golding-properties-expands-global-footprint-with-dubai-office-launch-"
+pexelsId: "6950214"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

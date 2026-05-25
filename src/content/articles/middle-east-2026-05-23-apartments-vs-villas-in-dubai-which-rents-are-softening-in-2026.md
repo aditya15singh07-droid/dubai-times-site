@@ -6,11 +6,11 @@ author: "Nikhil Verma"
 date: 2026-05-23
 publishedTime: "11:08 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-2026-05-23-apartments-vs-villas-in-dubai-which-rents-are-softening-i/900/600"
-imageAlt: "Real Estate visual for The Gulf Property Demand Shift: Puts Homebuyers And Investors In The Same Frame"
+image: "https://images.pexels.com/photos/17741450/pexels-photo-17741450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A stunning aerial view of Warsaw, highlighting modern architecture and urban skyline."
 tags: ["Real Estate","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-2026-05-23-apartments-vs-villas-in-dubai-which-rents-are-softening-i"
+pexelsId: "17741450"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the gulf property demand shift deserves a closer read across the Middle East today.
 

@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-22
 publishedTime: "18:32 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/more25-2026-05-22-using-salik-in-dubai-new-5-vat-rule-starts-this-june-md-509-0/900/600"
-imageAlt: "Lifestyle visual for Why Using Salik in Dubai New 5% VAT Rule Starts Deserves A Closer Dubai Time Read"
+image: "https://images.pexels.com/photos/35759301/pexels-photo-35759301.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A family enjoying a tender moment together by a peaceful lake surrounded by lush greenery."
 tags: ["Lifestyle", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-more25-2026-05-22-using-salik-in-dubai-new-5-vat-rule-starts-this-june-md-509-0"
+pexelsId: "35759301"
 ---
 
 Lifestyle stories can look soft from a distance. Then they start changing weekend plans, household budgets and how a city feels after work.

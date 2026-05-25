@@ -6,11 +6,11 @@ author: "Ishaan Roy"
 date: 2026-05-23
 publishedTime: "15:44 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-more-2026-05-23-vara-clears-kraken-for-dubai-expansion-signals-regul/900/600"
-imageAlt: "Crypto visual for Kraken's Dubai Expansion: Shows Crypto's Gulf Reality Check"
+image: "https://images.pexels.com/photos/6771242/pexels-photo-6771242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Close-up of a laptop displaying stock market graphs with a paper on investing in cryptocurrency, indoors."
 tags: ["Crypto","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-more-2026-05-23-vara-clears-kraken-for-dubai-expansion-signals-regul"
+pexelsId: "6771242"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why kraken's dubai expansion deserves a closer read across the Middle East today.
 

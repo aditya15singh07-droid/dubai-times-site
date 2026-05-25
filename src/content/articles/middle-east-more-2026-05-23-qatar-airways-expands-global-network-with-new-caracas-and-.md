@@ -6,11 +6,11 @@ author: "Dev Khanna"
 date: 2026-05-23
 publishedTime: "20:44 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-more-2026-05-23-qatar-airways-expands-global-network-with-new-caraca/900/600"
-imageAlt: "Travel visual for The Gulf Travel Confidence Test: Turns Into A Travel Test For The Gulf In Qatar"
+image: "https://images.pexels.com/photos/16562841/pexels-photo-16562841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A modern jet airplane docked at an airport terminal gate, ready for boarding on a cloudy day."
 tags: ["Travel","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-more-2026-05-23-qatar-airways-expands-global-network-with-new-caraca"
+pexelsId: "16562841"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the gulf travel confidence test deserves a closer read across the Middle East today.
 

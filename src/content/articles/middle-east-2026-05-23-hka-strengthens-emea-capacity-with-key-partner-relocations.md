@@ -6,11 +6,11 @@ author: "Reyan Shah"
 date: 2026-05-23
 publishedTime: "11:28 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-2026-05-23-hka-strengthens-emea-capacity-with-key-partner-relocation/900/600"
-imageAlt: "Entertainment visual for Hka Strengthens Emea Capacity with Key Partner Relocations: Puts The Gulf's Attention Economy On Display"
+image: "https://images.pexels.com/photos/22604116/pexels-photo-22604116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Lively audience with raised arms and cheerful expressions at an outdoor music concert at night."
 tags: ["Entertainment","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-2026-05-23-hka-strengthens-emea-capacity-with-key-partner-relocation"
+pexelsId: "22604116"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why hka strengthens emea capacity with key partner relocations deserves a closer read across the Middle East today.
 

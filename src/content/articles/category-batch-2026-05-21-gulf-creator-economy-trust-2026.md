@@ -6,9 +6,9 @@ author: "Vihaan Rao"
 date: 2026-05-21
 publishedTime: "13:38 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://picsum.photos/seed/category-batch-2026-05-21-gulf-creator-economy-trust-2026-md-735-0/900/600"
-imageAlt: "Entertainment visual for The Gulf Creator Economy Is Learning The Value Of Trust"
-pexelsId: "dedupe-category-batch-2026-05-21-gulf-creator-economy-trust-2026-md-735-0"
+image: "https://images.pexels.com/photos/36027794/pexels-photo-36027794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A dense crowd of people gathered at a nighttime concert, illuminated by stage lights."
+pexelsId: "36027794"
 tags: ["Entertainment", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

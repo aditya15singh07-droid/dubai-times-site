@@ -6,9 +6,9 @@ author: "Aarav Mehta"
 date: 2026-05-21
 publishedTime: "13:08 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://picsum.photos/seed/category-batch-2026-05-21-uae-family-travel-planning-2026-md-785-0/900/600"
-imageAlt: "Travel visual for UAE Families Are Planning Trips With A Sharper Eye On Time And Cost"
-pexelsId: "dedupe-category-batch-2026-05-21-uae-family-travel-planning-2026-md-785-0"
+image: "https://images.pexels.com/photos/3885490/pexels-photo-3885490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Side view of full length young female traveler in trendy plaid brown coat and high boots with suitcase walking on pavement near modern building on city street in morning"
+pexelsId: "3885490"
 tags: ["Travel", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

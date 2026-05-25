@@ -6,11 +6,11 @@ author: "Tara Khanna"
 date: 2026-05-22
 publishedTime: "12:24 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-2026-05-22-dubai-uae-tourism-boom-continues-as-arabian-travel-market-2026/900/600"
-imageAlt: "International visual for Why Dubai UAE Tourism Boom Continues as Arabian Travel Market Deserves A Closer Dubai Time Read"
+image: "https://images.pexels.com/photos/6950206/pexels-photo-6950206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A diverse team in business attire at a podium with an American flag, showing unity and professionalism."
 tags: ["International", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-latest-2026-05-22-dubai-uae-tourism-boom-continues-as-arabian-travel-market-2026"
+pexelsId: "6950206"
 ---
 
 International news reaches the UAE faster than many people expect. It arrives through markets, flights, trade lanes and boardroom decisions.

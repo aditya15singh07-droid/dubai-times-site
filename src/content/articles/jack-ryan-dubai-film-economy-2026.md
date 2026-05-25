@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-23
 publishedTime: "01:55 GST"
 watchLine: "Watch whether this production leads to more repeat Hollywood work, deeper local crews and faster film permissions."
-image: "https://picsum.photos/seed/jack-ryan-dubai-film-economy-2026-md-457-0/900/600"
-imageAlt: "Entertainment visual for How A Jack Ryan Film Shoot Turned Into A Bigger Test Of Dubai's Creative Economy"
+image: "https://images.pexels.com/photos/34766314/pexels-photo-34766314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Diverse crowd at a night concert. Audience showing excitement and enthusiasm during live performance."
 tags: ["Entertainment", "Dubai", "Film", "Jack Ryan", "Creative Economy"]
 draft: false
-pexelsId: "dedupe-jack-ryan-dubai-film-economy-2026-md-457-0"
+pexelsId: "34766314"
 ---
 
 Cities love saying a movie was shot there.

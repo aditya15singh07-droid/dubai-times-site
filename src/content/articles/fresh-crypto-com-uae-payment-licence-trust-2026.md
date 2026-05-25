@@ -6,9 +6,9 @@ author: "Mira Sethi"
 date: 2026-05-21
 publishedTime: "14:18 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://picsum.photos/seed/fresh-crypto-com-uae-payment-licence-trust-2026-md-703-0/900/600"
-imageAlt: "Crypto visual for Crypto.com’s UAE Payment Licence Moves Digital Assets Closer To Real Spending"
-pexelsId: "dedupe-fresh-crypto-com-uae-payment-licence-trust-2026-md-703-0"
+image: "https://images.pexels.com/photos/1263324/pexels-photo-1263324.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Colorful display of Zcash, Litecoin, and Bitcoin coins on gradient background."
+pexelsId: "1263324"
 tags: ["Crypto", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---

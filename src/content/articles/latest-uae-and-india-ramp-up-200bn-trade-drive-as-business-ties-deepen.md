@@ -6,11 +6,11 @@ author: "Naina Batra"
 date: 2026-05-19
 publishedTime: "17:02 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-uae-and-india-ramp-up-200bn-trade-drive-as-business-ties-deepen-md-902-0/900/600"
-imageAlt: "International visual for What UAE and India Ramp Up 200bn Trade Drive Signals About UAE Business Confidence Now"
+image: "https://images.pexels.com/photos/7993894/pexels-photo-7993894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A diverse group of professionals working together in an office meeting room."
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-latest-uae-and-india-ramp-up-200bn-trade-drive-as-business-ties-deepen-md-902-0"
+pexelsId: "7993894"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

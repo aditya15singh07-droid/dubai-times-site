@@ -6,11 +6,11 @@ author: "Kian Oberoi"
 date: 2026-05-17
 publishedTime: "13:10 GST"
 watchLine: "Track MODA's first programming calendar, artist partnerships, education activity and repeat-visit appeal."
-image: "https://picsum.photos/seed/dubai-museum-of-digital-art-difc-2026-md-1042-0/900/600"
-imageAlt: "Entertainment visual for Dubai Launches Museum Of Digital Art As Culture And Technology Move Closer"
+image: "https://images.pexels.com/photos/14870726/pexels-photo-14870726.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Energetic live music performance at night with a lively crowd."
 tags: ["Entertainment", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-dubai-museum-of-digital-art-difc-2026-md-1042-0"
+pexelsId: "14870726"
 ---
 
 A museum in DIFC is never only about art.

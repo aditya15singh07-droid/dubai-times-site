@@ -222,10 +222,12 @@ const usedIds = new Set();
 let updated = 0;
 
 for (const [index, article] of articles.entries()) {
+  const currentImage = readFrontmatter(article.text, "image");
   const duplicate = article.key && usedKeys.has(article.key);
-  const missing = !readFrontmatter(article.text, "image");
+  const missing = !currentImage;
+  const generatedFallback = currentImage.includes("picsum.photos") || readFrontmatter(article.text, "pexelsId").startsWith("dedupe-");
 
-  if (!duplicate && !missing) {
+  if (!duplicate && !missing && !generatedFallback) {
     if (article.key) usedKeys.add(article.key);
     const existingId = readFrontmatter(article.text, "pexelsId") || pexelsIdFromImage(readFrontmatter(article.text, "image"));
     if (existingId) usedIds.add(existingId);

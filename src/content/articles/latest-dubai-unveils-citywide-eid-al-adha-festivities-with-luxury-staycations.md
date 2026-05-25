@@ -6,11 +6,11 @@ author: "Naina Batra"
 date: 2026-05-19
 publishedTime: "15:34 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-dubai-unveils-citywide-eid-al-adha-festivities-with-luxury-staycations-md/900/600"
-imageAlt: "Travel visual for What Dubai Unveils Citywide Eid Al Adha Festivities with Says About Dubai’s Push From Speed To Trust"
+image: "https://images.pexels.com/photos/1719490/pexels-photo-1719490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Bright arrivals sign with airplane symbol in an airport terminal."
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-latest-dubai-unveils-citywide-eid-al-adha-festivities-with-luxury-staycations-md"
+pexelsId: "1719490"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

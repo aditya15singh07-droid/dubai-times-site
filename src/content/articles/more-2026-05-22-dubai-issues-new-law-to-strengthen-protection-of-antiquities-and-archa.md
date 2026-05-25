@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-22
 publishedTime: "14:24 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/more-2026-05-22-dubai-issues-new-law-to-strengthen-protection-of-antiquities-and/900/600"
-imageAlt: "Business visual for Why Dubai Issues New Law to Strengthen Protection of Antiquities Deserves A Closer Dubai Time Read"
+image: "https://images.pexels.com/photos/8278914/pexels-photo-8278914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Two coworkers collaborating with documents in a stylish office environment."
 tags: ["Business", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-more-2026-05-22-dubai-issues-new-law-to-strengthen-protection-of-antiquities-and"
+pexelsId: "8278914"
 ---
 
 Business news looks clean on paper. In real life, it decides whether founders hire, investors wait and small firms take the next risk.

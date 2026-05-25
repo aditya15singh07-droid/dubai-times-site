@@ -6,11 +6,11 @@ author: "Armaan Gill"
 date: 2026-05-18
 publishedTime: "12:24 GST"
 watchLine: "Watch whether the upgrades move from individual centres into a consistent citywide accessibility experience."
-image: "https://picsum.photos/seed/rta-accessibility-upgrades-people-of-determination-2026-md-973-0/900/600"
-imageAlt: "Sport visual for Dubai's Accessibility Upgrades Are Really About Independence"
+image: "https://images.pexels.com/photos/29811412/pexels-photo-29811412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A soccer team huddles energetically before a game, showcasing unity and teamwork."
 tags: ["Sport", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-rta-accessibility-upgrades-people-of-determination-2026-md-973-0"
+pexelsId: "29811412"
 ---
 
 The true test of a city is not how tall it builds.

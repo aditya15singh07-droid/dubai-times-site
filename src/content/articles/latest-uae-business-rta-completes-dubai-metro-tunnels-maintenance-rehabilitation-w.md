@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-19
 publishedTime: "15:33 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-uae-business-rta-completes-dubai-metro-tunnels-maintenance-rehabilitation/900/600"
-imageAlt: "Travel visual for What RTA Completes Dubai Metro Tunnels Maintenance Rehabilitation W Means For The Daily Cost Of Moving Around Dubai"
+image: "https://images.pexels.com/photos/16453345/pexels-photo-16453345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "View of Suvarnabhumi Airport interior with moving walkway and signs for connecting flights."
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-latest-uae-business-rta-completes-dubai-metro-tunnels-maintenance-rehabilitation"
+pexelsId: "16453345"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

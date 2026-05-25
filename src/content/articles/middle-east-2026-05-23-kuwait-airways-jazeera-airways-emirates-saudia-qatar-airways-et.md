@@ -6,11 +6,11 @@ author: "Arjun Malhotra"
 date: 2026-05-23
 publishedTime: "09:04 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-2026-05-23-kuwait-airways-jazeera-airways-emirates-saudia-qatar-airw/900/600"
-imageAlt: "Travel visual for The Gulf Travel Confidence Test: Turns Into A Travel Test For The Gulf In Qatar"
+image: "https://images.pexels.com/photos/11845909/pexels-photo-11845909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Airplanes at a bustling airport with reflections of interiors in the window panes."
 tags: ["Travel","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-2026-05-23-kuwait-airways-jazeera-airways-emirates-saudia-qatar-airw"
+pexelsId: "11845909"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the gulf travel confidence test deserves a closer read across the Middle East today.
 

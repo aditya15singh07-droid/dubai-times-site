@@ -6,11 +6,11 @@ author: "Naina Batra"
 date: 2026-05-22
 publishedTime: "15:04 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/more-2026-05-22-uae-oman-trade-corridors-vital-for-transport-of-essential-cargo-/900/600"
-imageAlt: "Sport visual for Why UAE Oman Trade Corridors Vital for Transport of Essential Deserves A Closer Dubai Time Read"
+image: "https://images.pexels.com/photos/12783685/pexels-photo-12783685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Amateur soccer players compete on an urban field in Venezuela, showcasing teamwork and athleticism."
 tags: ["Sport", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-more-2026-05-22-uae-oman-trade-corridors-vital-for-transport-of-essential-cargo-"
+pexelsId: "12783685"
 ---
 
 Sport in the UAE is no longer only about the scoreboard. It is also about families, tourism, sponsors and the next generation of fans.

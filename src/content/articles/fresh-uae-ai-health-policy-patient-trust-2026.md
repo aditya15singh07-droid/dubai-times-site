@@ -6,9 +6,9 @@ author: "Ishaan Vora"
 date: 2026-05-21
 publishedTime: "14:39 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://picsum.photos/seed/fresh-uae-ai-health-policy-patient-trust-2026-md-689-0/900/600"
-imageAlt: "Health visual for The UAE’s AI Health Policy Will Be Judged In Clinics, Not Cabinet Rooms"
-pexelsId: "dedupe-fresh-uae-ai-health-policy-patient-trust-2026-md-689-0"
+image: "https://images.pexels.com/photos/4173250/pexels-photo-4173250.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Smiling ethnic female doctor in medical uniform with stethoscope and notebook talking on smartphone while standing in glass hospital corridor"
+pexelsId: "4173250"
 tags: ["Health", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---

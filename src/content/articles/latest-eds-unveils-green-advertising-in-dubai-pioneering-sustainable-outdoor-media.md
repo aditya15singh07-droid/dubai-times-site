@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-19
 publishedTime: "16:11 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-eds-unveils-green-advertising-in-dubai-pioneering-sustainable-outdoor-med/900/600"
-imageAlt: "Middle East visual for What Eds Unveils Green Advertising in Dubai Pioneering Sustainable Says About Dubai’s Push From Speed To Trust"
+image: "https://images.pexels.com/photos/28857560/pexels-photo-28857560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Modern city skyline reflected in water at twilight, showcasing skyscrapers."
 tags: ["Middle East", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-latest-eds-unveils-green-advertising-in-dubai-pioneering-sustainable-outdoor-med"
+pexelsId: "28857560"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

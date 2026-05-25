@@ -6,9 +6,9 @@ author: "Aarav Mehta"
 date: 2026-05-21
 publishedTime: "13:17 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://picsum.photos/seed/category-batch-2026-05-21-uae-weekend-escape-economy-2026-md-767-0/900/600"
-imageAlt: "Travel visual for Weekend Escapes Are Becoming A Serious UAE Travel Economy"
-pexelsId: "dedupe-category-batch-2026-05-21-uae-weekend-escape-economy-2026-md-767-0"
+image: "https://images.pexels.com/photos/3885524/pexels-photo-3885524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Full length of smiling female manager in stylish coat walking with suitcase and bag while traveling on business trip smiling away"
+pexelsId: "3885524"
 tags: ["Travel", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

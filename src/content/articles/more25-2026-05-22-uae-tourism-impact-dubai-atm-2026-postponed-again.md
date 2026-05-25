@@ -6,11 +6,11 @@ author: "Tara Khanna"
 date: 2026-05-22
 publishedTime: "19:00 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/more25-2026-05-22-uae-tourism-impact-dubai-atm-2026-postponed-again-md-495-0/900/600"
-imageAlt: "International visual for What UAE Tourism Impact Dubai Atm 2026 Postponed Again Says About Dubai’s Push From Speed To Trust"
+image: "https://images.pexels.com/photos/6950018/pexels-photo-6950018.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Business leaders signing a significant agreement in a conference room setting."
 tags: ["International", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-more25-2026-05-22-uae-tourism-impact-dubai-atm-2026-postponed-again-md-495-0"
+pexelsId: "6950018"
 ---
 
 International news reaches the UAE faster than many people expect. It arrives through markets, flights, trade lanes and boardroom decisions.

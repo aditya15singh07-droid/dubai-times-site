@@ -6,11 +6,11 @@ author: "Zayan Mirza"
 date: 2026-05-23
 publishedTime: "11:44 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-2026-05-23-from-riyadh-s-upgraded-london-flights-to-qatar-toy-festiv/900/600"
-imageAlt: "Travel visual for The Gulf Travel Confidence Test: Puts Passenger Confidence Back In Focus"
+image: "https://images.pexels.com/photos/30981181/pexels-photo-30981181.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Person walking with luggage on blue carpeted airport corridor, traveling"
 tags: ["Travel","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-2026-05-23-from-riyadh-s-upgraded-london-flights-to-qatar-toy-festiv"
+pexelsId: "30981181"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the gulf travel confidence test deserves a closer read across the Middle East today.
 

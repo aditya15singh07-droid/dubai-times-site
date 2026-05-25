@@ -5,11 +5,11 @@ category: "Sport"
 author: "Kian Oberoi"
 date: 2026-05-17
 watchLine: "Track absorption in emerging districts and whether handovers convert into healthy occupancy, rental depth and resale liquidity."
-image: "https://picsum.photos/seed/dubai-real-estate-confidence-2026-md-1058-0/900/600"
-imageAlt: "Sport visual for Dubai Real Estate Confidence Holds As New Districts Draw Buyers"
+image: "https://images.pexels.com/photos/3361471/pexels-photo-3361471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Energetic soccer game with players on a grassy field in India, showcasing teamwork and sportsmanship."
 tags: ["Sport", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-dubai-real-estate-confidence-2026-md-1058-0"
+pexelsId: "3361471"
 ---
 
 Confidence in property is easy to claim on a billboard.

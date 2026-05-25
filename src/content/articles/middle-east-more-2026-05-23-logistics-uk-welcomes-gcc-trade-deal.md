@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-23
 publishedTime: "16:12 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-more-2026-05-23-logistics-uk-welcomes-gcc-trade-deal-md-198-0/900/600"
-imageAlt: "Business visual for The Region Trade Opening: Puts Regional Deal-Making Back In Focus In The Region"
+image: "https://images.pexels.com/photos/9068394/pexels-photo-9068394.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Three office workers in grey suits focusing on tasks in a professional setting."
 tags: ["Business","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-more-2026-05-23-logistics-uk-welcomes-gcc-trade-deal-md-198-0"
+pexelsId: "9068394"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the region trade opening deserves a closer read across the Middle East today.
 

@@ -6,11 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-23
 publishedTime: "16:04 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-more-2026-05-23-uk-agrees-3-7bn-trade-deal-with-six-gulf-states-md-2/900/600"
-imageAlt: "Business visual for UK Agrees 3 7bn Trade Deal with Six: Tests The Gulf's Next Business Mood"
+image: "https://images.pexels.com/photos/5668492/pexels-photo-5668492.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Multiracial colleagues in formal clothes sitting at table with laptop and documents while discussing details of business plan"
 tags: ["Business","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-more-2026-05-23-uk-agrees-3-7bn-trade-deal-with-six-gulf-states-md-2"
+pexelsId: "5668492"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why uk agrees 3 7bn trade deal with six deserves a closer read across the Middle East today.
 

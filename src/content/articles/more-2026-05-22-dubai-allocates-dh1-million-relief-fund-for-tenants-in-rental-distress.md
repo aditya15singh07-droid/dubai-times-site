@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-22
 publishedTime: "14:40 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/more-2026-05-22-dubai-allocates-dh1-million-relief-fund-for-tenants-in-rental-di/900/600"
-imageAlt: "Real Estate visual for What Dubai Allocates Dh1 Million Relief Fund for Tenants Reveals About Dubai Property’s Next Serious Test"
+image: "https://images.pexels.com/photos/36338204/pexels-photo-36338204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Upward view of modern skyscrapers under clear sky showcasing urban architecture."
 tags: ["Real Estate", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-more-2026-05-22-dubai-allocates-dh1-million-relief-fund-for-tenants-in-rental-di"
+pexelsId: "36338204"
 ---
 
 Property news in Dubai always lands at the dining table. Tenants, buyers and brokers all read the same headline with very different worries.

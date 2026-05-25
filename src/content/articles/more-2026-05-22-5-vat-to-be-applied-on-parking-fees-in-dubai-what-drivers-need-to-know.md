@@ -6,11 +6,11 @@ author: "Anika Menon"
 date: 2026-05-22
 publishedTime: "15:52 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/more-2026-05-22-5-vat-to-be-applied-on-parking-fees-in-dubai-what-drivers-need-t/900/600"
-imageAlt: "Middle East visual for Why 5% VAT to Be Applied on Parking Fees in Deserves A Closer Dubai Time Read"
+image: "https://images.pexels.com/photos/18340309/pexels-photo-18340309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Aerial view of Singapore's urban skyline with modern architecture amidst greenery."
 tags: ["Middle East", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-more-2026-05-22-5-vat-to-be-applied-on-parking-fees-in-dubai-what-drivers-need-t"
+pexelsId: "18340309"
 ---
 
 Regional news is rarely distant for Dubai. It shapes confidence, trade, travel and the quiet calculations people make every day.

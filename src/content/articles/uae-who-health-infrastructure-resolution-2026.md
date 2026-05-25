@@ -6,11 +6,11 @@ author: "Tara Khanna"
 date: 2026-05-23
 publishedTime: "04:40 GST"
 watchLine: "Watch whether the resolution leads to concrete reporting mechanisms on health-system disruption and essential supply access."
-image: "https://picsum.photos/seed/uae-who-health-infrastructure-resolution-2026-md-436-0/900/600"
-imageAlt: "International visual for The UAE's WHO Resolution Push Turns Regional Conflict Into A Global Public Health Debate"
+image: "https://images.pexels.com/photos/8070723/pexels-photo-8070723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A diverse group discussing ideas in a modern office setting, using laptops and tablets."
 tags: ["International", "UAE", "WHO", "Public Health", "Global Supply Chains"]
 draft: false
-pexelsId: "dedupe-uae-who-health-infrastructure-resolution-2026-md-436-0"
+pexelsId: "8070723"
 ---
 
 Wars are often discussed through maps, missiles and diplomacy.

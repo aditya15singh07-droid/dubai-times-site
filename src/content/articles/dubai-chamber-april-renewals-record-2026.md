@@ -5,11 +5,11 @@ category: "Business"
 author: "Vihaan Rao"
 date: 2026-05-18
 watchLine: "Watch whether renewal confidence turns into new hiring, licensing and investment rather than only administrative continuity."
-image: "https://picsum.photos/seed/dubai-chamber-april-renewals-record-2026-md-996-0/900/600"
-imageAlt: "Business visual for More Than 30,000 Dubai Chamber Renewals In April. Confidence Is The Real Headline"
+image: "https://images.pexels.com/photos/7652049/pexels-photo-7652049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Diverse office team engaged in a collaborative meeting discussing business strategies."
 tags: ["Business", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-dubai-chamber-april-renewals-record-2026-md-996-0"
+pexelsId: "7652049"
 ---
 
 Business confidence is not always loud.

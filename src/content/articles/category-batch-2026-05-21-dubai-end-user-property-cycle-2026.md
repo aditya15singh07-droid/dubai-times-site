@@ -6,9 +6,9 @@ author: "Zoya Malhotra"
 date: 2026-05-21
 publishedTime: "13:53 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://picsum.photos/seed/category-batch-2026-05-21-dubai-end-user-property-cycle-2026-md-715-0/900/600"
-imageAlt: "Real Estate visual for End Users Are Becoming The Serious Test For Dubai Property"
-pexelsId: "dedupe-category-batch-2026-05-21-dubai-end-user-property-cycle-2026-md-715-0"
+image: "https://images.pexels.com/photos/17071359/pexels-photo-17071359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A stunning view of Warsaw's modern office buildings at sunset, showcasing city life and architecture."
+pexelsId: "17071359"
 tags: ["Real Estate", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

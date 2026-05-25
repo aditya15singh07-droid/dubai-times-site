@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-20
 publishedTime: "14:00 GST"
 watchLine: "Watch flight timings, hotel pricing and how families plan shorter, cooler city breaks."
-image: "https://picsum.photos/seed/test-travel-dubai-air-travel-heat-season-2026-md-830-0/900/600"
-imageAlt: "Travel visual for Dubai Travel In The Hot Season Is Becoming A Test Of Timing"
+image: "https://images.pexels.com/photos/33844248/pexels-photo-33844248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Passengers boarding a Ryanair plane on a sunny day at a Sicilian airport."
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-test-travel-dubai-air-travel-heat-season-2026-md-830-0"
+pexelsId: "33844248"
 ---
 
 Travel is not only about movement. It is about comfort, timing and trust.

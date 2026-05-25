@@ -6,9 +6,9 @@ author: "Naina Batra"
 date: 2026-05-21
 publishedTime: "13:23 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://picsum.photos/seed/category-batch-2026-05-21-uae-community-sport-health-2026-md-757-0/900/600"
-imageAlt: "Sport visual for Community Sport In The UAE Is Becoming A Public Health Story"
-pexelsId: "dedupe-category-batch-2026-05-21-uae-community-sport-health-2026-md-757-0"
+image: "https://images.pexels.com/photos/29811411/pexels-photo-29811411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A soccer team gathers in a huddle for motivation before a match, fostering teamwork and unity."
+pexelsId: "29811411"
 tags: ["Sport", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

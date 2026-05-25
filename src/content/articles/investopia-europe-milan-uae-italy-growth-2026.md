@@ -6,11 +6,11 @@ author: "Myra D Souza"
 date: 2026-05-17
 publishedTime: "21:50 GST"
 watchLine: "Watch whether the Milan dialogues turn into investment deals, company expansions and clearer UAE-Europe business corridors."
-image: "https://picsum.photos/seed/investopia-europe-milan-uae-italy-growth-2026-md-1028-0/900/600"
-imageAlt: "Real Estate visual for Investopia Europe Shows How The UAE Is Selling Its Growth Story In Milan"
+image: "https://images.pexels.com/photos/37415122/pexels-photo-37415122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A scenic cityscape featuring skyscrapers along a river with boats and greenery."
 tags: ["Real Estate", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-investopia-europe-milan-uae-italy-growth-2026-md-1028-0"
+pexelsId: "37415122"
 ---
 
 Investment summits can sound like polite rooms full of large words.

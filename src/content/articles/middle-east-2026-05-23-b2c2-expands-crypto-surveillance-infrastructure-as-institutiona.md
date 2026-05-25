@@ -6,11 +6,11 @@ author: "Zayan Mirza"
 date: 2026-05-23
 publishedTime: "09:48 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-2026-05-23-b2c2-expands-crypto-surveillance-infrastructure-as-instit/900/600"
-imageAlt: "Crypto visual for The Gulf Crypto Trust Test: Puts Digital Finance Trust Back On The Table"
+image: "https://images.pexels.com/photos/8919573/pexels-photo-8919573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Golden Bitcoins on a laptop keyboard with a stock market chart on the screen, symbolizing cryptocurrency trading."
 tags: ["Crypto","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-2026-05-23-b2c2-expands-crypto-surveillance-infrastructure-as-instit"
+pexelsId: "8919573"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the gulf crypto trust test deserves a closer read across the Middle East today.
 

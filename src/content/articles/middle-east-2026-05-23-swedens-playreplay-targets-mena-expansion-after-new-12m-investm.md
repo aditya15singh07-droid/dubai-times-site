@@ -6,11 +6,11 @@ author: "Kabir Sethi"
 date: 2026-05-23
 publishedTime: "15:36 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-2026-05-23-swedens-playreplay-targets-mena-expansion-after-new-12m-i/900/600"
-imageAlt: "Sport visual for Swedens Playreplay Targets MENA Expansion After New 12m: Turns A Match Calendar Into A Regional Signal"
+image: "https://images.pexels.com/photos/32266266/pexels-photo-32266266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Dynamic action shot of female soccer players competing outdoors on a sunny day."
 tags: ["Sport","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-2026-05-23-swedens-playreplay-targets-mena-expansion-after-new-12m-i"
+pexelsId: "32266266"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why swedens playreplay targets mena expansion after new 12m deserves a closer read across the Middle East today.
 

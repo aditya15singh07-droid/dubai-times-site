@@ -6,11 +6,11 @@ author: "Anika Menon"
 date: 2026-05-22
 publishedTime: "19:16 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/more25-2026-05-22-eid-al-adha-escapes-from-uae-staycations-to-spectacular-global/900/600"
-imageAlt: "Middle East visual for What Eid Al Adha Escapes from UAE Staycations to Says About Dubai’s Push From Speed To Trust"
+image: "https://images.pexels.com/photos/13192894/pexels-photo-13192894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Beautiful Hong Kong skyline featuring Victoria Harbour under a clear blue sky."
 tags: ["Middle East", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-more25-2026-05-22-eid-al-adha-escapes-from-uae-staycations-to-spectacular-global"
+pexelsId: "13192894"
 ---
 
 Regional news is rarely distant for Dubai. It shapes confidence, trade, travel and the quiet calculations people make every day.

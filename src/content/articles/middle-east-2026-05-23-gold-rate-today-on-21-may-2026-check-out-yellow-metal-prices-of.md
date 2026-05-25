@@ -6,11 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-23
 publishedTime: "13:16 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-2026-05-23-gold-rate-today-on-21-may-2026-check-out-yellow-metal-pri/900/600"
-imageAlt: "Middle East visual for Gold's Gulf Price Signal: Raises The Stakes Across A Nervous Region"
+image: "https://images.pexels.com/photos/19336072/pexels-photo-19336072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Explore the iconic skyline of Frankfurt featuring modern skyscrapers and historic landmarks over the Main River."
 tags: ["Middle East","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-2026-05-23-gold-rate-today-on-21-may-2026-check-out-yellow-metal-pri"
+pexelsId: "19336072"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why gold's gulf price signal deserves a closer read across the Middle East today.
 

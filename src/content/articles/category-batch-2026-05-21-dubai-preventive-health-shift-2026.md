@@ -6,9 +6,9 @@ author: "Ishaan Vora"
 date: 2026-05-21
 publishedTime: "13:59 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://picsum.photos/seed/category-batch-2026-05-21-dubai-preventive-health-shift-2026-md-707-0/900/600"
-imageAlt: "Health visual for Dubai’s Health Conversation Is Moving Toward Prevention"
-pexelsId: "dedupe-category-batch-2026-05-21-dubai-preventive-health-shift-2026-md-707-0"
+image: "https://images.pexels.com/photos/8413402/pexels-photo-8413402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Female doctor in a lab coat with stethoscope, pondering while looking out a window."
+pexelsId: "8413402"
 tags: ["Health", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

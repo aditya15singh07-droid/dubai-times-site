@@ -6,11 +6,11 @@ author: "Armaan Gill"
 date: 2026-05-20
 publishedTime: "14:14 GST"
 watchLine: "Watch hiring, receivables, renewals and whether small businesses keep expanding."
-image: "https://picsum.photos/seed/test-business-dubai-confidence-small-firms-2026-md-826-0/900/600"
-imageAlt: "Health visual for Dubai Business Confidence Now Depends On The Small Operator"
+image: "https://images.pexels.com/photos/8460122/pexels-photo-8460122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Doctor consults patient remotely using computer and face masks for safety."
 tags: ["Health", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-test-business-dubai-confidence-small-firms-2026-md-826-0"
+pexelsId: "8460122"
 ---
 
 A business boom is believable when it reaches the invoice level.

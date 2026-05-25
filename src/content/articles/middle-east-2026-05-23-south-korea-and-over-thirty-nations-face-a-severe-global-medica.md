@@ -6,11 +6,11 @@ author: "Zayan Mirza"
 date: 2026-05-23
 publishedTime: "14:32 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-2026-05-23-south-korea-and-over-thirty-nations-face-a-severe-global-/900/600"
-imageAlt: "Middle East visual for South Korea and Over Thirty Nations Face A: Shows Why Gulf Stability Still Matters"
+image: "https://images.pexels.com/photos/18834566/pexels-photo-18834566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A breathtaking cityscape with illuminated skyscrapers and vibrant urban lights during the night."
 tags: ["Middle East","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-2026-05-23-south-korea-and-over-thirty-nations-face-a-severe-global-"
+pexelsId: "18834566"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why south korea and over thirty nations face a deserves a closer read across the Middle East today.
 

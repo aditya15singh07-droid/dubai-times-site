@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-23
 publishedTime: "03:25 GST"
 watchLine: "Watch which of the 24 PPP projects move first and how quickly roads, schools and public assets reach delivery."
-image: "https://picsum.photos/seed/abu-dhabi-ppp-pipeline-city-building-2026-md-445-0/900/600"
-imageAlt: "Real Estate visual for Abu Dhabi's AED 55 Billion PPP Pipeline Is A City-Building Bet On Roads, Schools And Growth"
+image: "https://images.pexels.com/photos/35671085/pexels-photo-35671085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Monochrome cityscape of Hong Kong's skyline with waterfront view during the day."
 tags: ["Real Estate", "Abu Dhabi", "Infrastructure", "PPP", "Urban Development"]
 draft: false
-pexelsId: "dedupe-abu-dhabi-ppp-pipeline-city-building-2026-md-445-0"
+pexelsId: "35671085"
 ---
 
 Real estate is not only about apartments.

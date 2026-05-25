@@ -6,11 +6,11 @@ author: "Ishaan Roy"
 date: 2026-05-23
 publishedTime: "11:56 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-2026-05-23-the-week-according-to-yung-md-346-0/900/600"
-imageAlt: "Entertainment visual for The Week According to Yung: Shows How Gulf Audiences Are Spending Their Time"
+image: "https://images.pexels.com/photos/3696396/pexels-photo-3696396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Thrilled people raising hands in excitement and cheering during live concert in dark club"
 tags: ["Entertainment","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-2026-05-23-the-week-according-to-yung-md-346-0"
+pexelsId: "3696396"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the week according to yung deserves a closer read across the Middle East today.
 

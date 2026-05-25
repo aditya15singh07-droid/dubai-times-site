@@ -6,11 +6,11 @@ author: "Ishaan Vora"
 date: 2026-05-22
 publishedTime: "19:08 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/more25-2026-05-22-uae-report-highlights-obesity-intervention-as-key-driver-of-ec/900/600"
-imageAlt: "Health visual for Why UAE Report Highlights Obesity Intervention as Key Driver of Deserves A Closer Dubai Time Read"
+image: "https://images.pexels.com/photos/4309557/pexels-photo-4309557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A close-up image of a doctor in a white coat with a stethoscope and arms crossed."
 tags: ["Health", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-more25-2026-05-22-uae-report-highlights-obesity-intervention-as-key-driver-of-ec"
+pexelsId: "4309557"
 ---
 
 Health stories become important when they leave the conference room and enter a clinic, a pharmacy or a family WhatsApp group.

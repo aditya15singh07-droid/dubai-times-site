@@ -6,11 +6,11 @@ author: "Arjun Malhotra"
 date: 2026-05-23
 publishedTime: "17:00 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-more-2026-05-23-majid-al-futtaim-launches-mega-project-in-dubai-sout/900/600"
-imageAlt: "Real Estate visual for Majid Al Futtaim Launches Mega Project in Dubai: Shows Where Gulf Property Demand Is Heading"
+image: "https://images.pexels.com/photos/15255744/pexels-photo-15255744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Silhouetted skyscrapers set against a vibrant sunset, depicting modern cityscape."
 tags: ["Real Estate","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-more-2026-05-23-majid-al-futtaim-launches-mega-project-in-dubai-sout"
+pexelsId: "15255744"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why majid al futtaim launches mega project in dubai deserves a closer read across the Middle East today.
 

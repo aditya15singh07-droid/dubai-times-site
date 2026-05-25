@@ -6,9 +6,9 @@ author: "Zoya Malhotra"
 date: 2026-05-21
 publishedTime: "14:24 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://picsum.photos/seed/fresh-dubai-holding-adib-home-financing-real-estate-2026-md-699-0/900/600"
-imageAlt: "Real Estate visual for Dubai Holding And ADIB’s Home Finance Move Puts Affordability Back In Focus"
-pexelsId: "dedupe-fresh-dubai-holding-adib-home-financing-real-estate-2026-md-699-0"
+image: "https://images.pexels.com/photos/8825140/pexels-photo-8825140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Dramatic cityscape featuring Moscow's iconic skyscrapers with unique architecture."
+pexelsId: "8825140"
 tags: ["Real Estate", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---

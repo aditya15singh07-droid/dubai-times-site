@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-23
 publishedTime: "02:10 GST"
 watchLine: "Watch whether strong attendance turns into year-round buying, repeat visitors and wider support for UAE-based artists."
-image: "https://picsum.photos/seed/art-dubai-record-attendance-economy-2026-md-455-0/900/600"
-imageAlt: "Entertainment visual for Art Dubai's Record Crowd Says Culture Is Becoming A Real Part Of The City Economy"
+image: "https://images.pexels.com/photos/30497160/pexels-photo-30497160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Energetic crowd enjoying a live concert under bright stage lights in Guwahati, India."
 tags: ["Entertainment", "Dubai", "Art Dubai", "Culture", "Creative Economy"]
 draft: false
-pexelsId: "dedupe-art-dubai-record-attendance-economy-2026-md-455-0"
+pexelsId: "30497160"
 ---
 
 The most revealing detail about Art Dubai this year was not the guest list.

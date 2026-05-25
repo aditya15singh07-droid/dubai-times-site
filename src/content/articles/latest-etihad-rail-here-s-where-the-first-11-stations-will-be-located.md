@@ -6,11 +6,11 @@ author: "Mira Sethi"
 date: 2026-05-19
 publishedTime: "17:11 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-etihad-rail-here-s-where-the-first-11-stations-will-be-located-md-899-0/900/600"
-imageAlt: "Travel visual for What Etihad Rail Here S Where the First 11 Says About Dubai’s Push From Speed To Trust"
+image: "https://images.pexels.com/photos/1928072/pexels-photo-1928072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Close-up of an airplane wing during landing on a snowy runway, showcasing aviation dynamics."
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-latest-etihad-rail-here-s-where-the-first-11-stations-will-be-located-md-899-0"
+pexelsId: "1928072"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

@@ -6,11 +6,11 @@ author: "Zayan Mirza"
 date: 2026-05-23
 publishedTime: "20:56 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-more-2026-05-23-cebu-pacific-resumes-manila-to-dubai-flights-in-july/900/600"
-imageAlt: "Travel visual for The Gulf Travel Confidence Test: Turns Into A Travel Test For The Gulf In Dubai"
+image: "https://images.pexels.com/photos/30220728/pexels-photo-30220728.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Aerial view of Abeid Amani Karume International Airport in Zanzibar, showing parked airplanes and terminal."
 tags: ["Travel","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-more-2026-05-23-cebu-pacific-resumes-manila-to-dubai-flights-in-july"
+pexelsId: "30220728"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the gulf travel confidence test deserves a closer read across the Middle East today.
 

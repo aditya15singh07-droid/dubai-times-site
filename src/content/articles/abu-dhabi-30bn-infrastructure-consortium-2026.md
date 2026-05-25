@@ -5,11 +5,11 @@ category: "Business"
 author: "Vihaan Rao"
 date: 2026-05-14
 watchLine: "Watch how quickly the consortium raises capital and whether the first investments show real regional execution rather than only strategic positioning."
-image: "https://picsum.photos/seed/abu-dhabi-30bn-infrastructure-consortium-2026-md-1074-0/900/600"
-imageAlt: "Business visual for A $30 Billion Infrastructure Consortium Puts Abu Dhabi In A Bigger Capital Circuit"
+image: "https://images.pexels.com/photos/7964411/pexels-photo-7964411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Business professionals in a meeting room engaged in teamwork and strategic planning."
 tags: ["Business", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-abu-dhabi-30bn-infrastructure-consortium-2026-md-1074-0"
+pexelsId: "7964411"
 ---
 
 Some announcements are really about one project. Others are about where a city or country now sits in the global hierarchy of money. The new infrastructure partnership involving BlackRock's Global Infrastructure Partners, Abu Dhabi's L'imad, ADNOC and Singapore's Temasek belongs to the second category. The headline is large enough on its own, up to $30 billion aimed at the Gulf and Central Asia. But the deeper meaning is that Abu Dhabi is no longer just a destination for infrastructure capital. It is helping organise the capital itself.

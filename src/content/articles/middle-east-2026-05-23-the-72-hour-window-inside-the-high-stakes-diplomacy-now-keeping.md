@@ -6,11 +6,11 @@ author: "Nikhil Verma"
 date: 2026-05-23
 publishedTime: "15:32 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-2026-05-23-the-72-hour-window-inside-the-high-stakes-diplomacy-now-k/900/600"
-imageAlt: "Middle East visual for The 72 Hour Window Inside the High Stakes: Raises The Stakes Across A Nervous Region"
+image: "https://images.pexels.com/photos/5937696/pexels-photo-5937696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Panoramic view of a modern cityscape featuring skyscrapers and a lush green park in daylight."
 tags: ["Middle East","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-2026-05-23-the-72-hour-window-inside-the-high-stakes-diplomacy-now-k"
+pexelsId: "5937696"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the 72 hour window inside the high stakes deserves a closer read across the Middle East today.
 

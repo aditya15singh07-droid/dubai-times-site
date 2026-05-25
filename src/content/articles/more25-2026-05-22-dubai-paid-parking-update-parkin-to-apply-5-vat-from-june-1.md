@@ -6,11 +6,11 @@ author: "Ishaan Vora"
 date: 2026-05-22
 publishedTime: "19:04 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/more25-2026-05-22-dubai-paid-parking-update-parkin-to-apply-5-vat-from-june-1-md/900/600"
-imageAlt: "Health visual for Why Dubai Paid Parking Parkin to Apply 5% VAT from Deserves A Closer Dubai Time Read"
+image: "https://images.pexels.com/photos/5327584/pexels-photo-5327584.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A female doctor in a white coat using a stethoscope during a patient examination."
 tags: ["Health", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-more25-2026-05-22-dubai-paid-parking-update-parkin-to-apply-5-vat-from-june-1-md"
+pexelsId: "5327584"
 ---
 
 Health stories become important when they leave the conference room and enter a clinic, a pharmacy or a family WhatsApp group.

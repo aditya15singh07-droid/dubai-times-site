@@ -5,11 +5,11 @@ category: "International"
 author: "Zoya Malhotra"
 date: 2026-04-09
 watchLine: "Watch whether shipping firms, financiers and legal-service providers actually cluster around the platform in enough numbers to deepen Dubai's trade moat."
-image: "https://picsum.photos/seed/dmcc-maritime-centre-2026-md-1094-0/900/600"
-imageAlt: "International visual for DMCC's Maritime Centre Wants Dubai To Earn More From Trade Than Port Fees"
+image: "https://images.pexels.com/photos/5686111/pexels-photo-5686111.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Diverse team engaged in a collaborative meeting in a modern office setting, sharing ideas and working together."
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-dmcc-maritime-centre-2026-md-1094-0"
+pexelsId: "5686111"
 ---
 
 Dubai has spent decades proving that it can move goods. The harder question now is whether it can capture more of the money and influence that sit around those goods. Shipping today is not just cranes and berths. It is finance, insurance, legal structuring, wealth planning, risk management and capital. DMCC's new Maritime Centre makes sense only when seen through that wider lens. It is an attempt to ensure Dubai earns not just from movement, but from the ecosystems that organise movement.

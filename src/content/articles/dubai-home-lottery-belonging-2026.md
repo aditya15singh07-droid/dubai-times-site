@@ -5,11 +5,11 @@ category: "Real Estate"
 author: "Reyansh Suri"
 date: 2026-05-19
 watchLine: "Watch whether the campaign drives real middle-class engagement, retail footfall and a wider conversation about attainable home ownership in Dubai."
-image: "https://picsum.photos/seed/dubai-home-lottery-belonging-2026-md-963-0/900/600"
-imageAlt: "Real Estate visual for Dubai's New Home Lottery Is Also A Test Of Belonging"
+image: "https://images.pexels.com/photos/11776420/pexels-photo-11776420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Black and white photo of Moscow's skyline featuring Evolution Tower and other skyscrapers."
 tags: ["Real Estate", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-dubai-home-lottery-belonging-2026-md-963-0"
+pexelsId: "11776420"
 ---
 
 In Dubai, people often arrive first as shoppers, workers, tourists or tenants. Only later, if things go well, they start thinking like residents. That slow shift matters in a city built on movement. A person who feels temporary spends one way. A person who sees a future spends, saves and plans differently. So when Dubai launches a campaign that literally tells people they could shop their way into a home, it is not just running a promotion. It is making an emotional argument about belonging.

@@ -6,9 +6,9 @@ author: "Aarav Mehta"
 date: 2026-05-21
 publishedTime: "13:05 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://picsum.photos/seed/category-batch-2026-05-21-dubai-airport-summer-flow-2026-md-789-0/900/600"
-imageAlt: "Travel visual for Dubai Airport’s Next Test Is Not Capacity, It Is Calm Travel"
-pexelsId: "dedupe-category-batch-2026-05-21-dubai-airport-summer-flow-2026-md-789-0"
+image: "https://images.pexels.com/photos/3885601/pexels-photo-3885601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Smiling female manager in elegant wear checking schedule of flights in airport while standing with suitcase and coat looking up"
+pexelsId: "3885601"
 tags: ["Travel", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

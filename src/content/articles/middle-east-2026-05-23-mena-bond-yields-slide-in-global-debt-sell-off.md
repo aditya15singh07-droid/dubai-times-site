@@ -6,11 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-23
 publishedTime: "15:12 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-2026-05-23-mena-bond-yields-slide-in-global-debt-sell-off-md-240-0/900/600"
-imageAlt: "Business visual for MENA Bond Yields Slide in Global Debt Sell: Shows How Gulf Capital Is Moving Now"
+image: "https://images.pexels.com/photos/8101927/pexels-photo-8101927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Two women engaged in a business meeting, discussing plans and ideas."
 tags: ["Business","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-2026-05-23-mena-bond-yields-slide-in-global-debt-sell-off-md-240-0"
+pexelsId: "8101927"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why mena bond yields slide in global debt sell deserves a closer read across the Middle East today.
 

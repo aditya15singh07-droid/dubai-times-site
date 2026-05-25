@@ -6,11 +6,11 @@ author: "Dev Khanna"
 date: 2026-05-23
 publishedTime: "16:08 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-more-2026-05-23-flydubai-cyprus-airways-launch-interline-deal-md-200/900/600"
-imageAlt: "Business visual for The Gulf Travel Confidence Test: Puts Regional Deal-Making Back In Focus"
+image: "https://images.pexels.com/photos/13801642/pexels-photo-13801642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Two business professionals engage in lively conversation on an urban street, sharing insights."
 tags: ["Business","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-more-2026-05-23-flydubai-cyprus-airways-launch-interline-deal-md-200"
+pexelsId: "13801642"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the gulf travel confidence test deserves a closer read across the Middle East today.
 

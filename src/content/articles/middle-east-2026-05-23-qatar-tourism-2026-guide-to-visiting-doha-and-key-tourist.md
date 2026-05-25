@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-23
 publishedTime: "12:28 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-2026-05-23-qatar-tourism-2026-guide-to-visiting-doha-and-key-tourist/900/600"
-imageAlt: "Travel visual for Doha's Tourism Moment: Turns Into A Travel Test For The Gulf"
+image: "https://images.pexels.com/photos/33917243/pexels-photo-33917243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Multiple KLM aircraft at Amsterdam Schiphol Airport terminal with blue ground support equipment."
 tags: ["Travel","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-2026-05-23-qatar-tourism-2026-guide-to-visiting-doha-and-key-tourist"
+pexelsId: "33917243"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why doha's tourism moment deserves a closer read across the Middle East today.
 

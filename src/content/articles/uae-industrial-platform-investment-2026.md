@@ -5,11 +5,11 @@ category: "Business"
 author: "Kabir Anand"
 date: 2026-05-17
 watchLine: "Watch whether offtake agreements and industrial funds become factories, jobs, supply contracts and exportable products."
-image: "https://picsum.photos/seed/uae-industrial-platform-investment-2026-md-1070-0/900/600"
-imageAlt: "Business visual for UAE Industrial Push Gains Scale As Make It In The Emirates Closes Record Edition"
+image: "https://images.pexels.com/photos/4427962/pexels-photo-4427962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Two professionals in suits chatting over coffee during a lunch break at a café."
 tags: ["Business", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-uae-industrial-platform-investment-2026-md-1070-0"
+pexelsId: "4427962"
 ---
 
 Industrial policy becomes real only when machines run and people get hired.

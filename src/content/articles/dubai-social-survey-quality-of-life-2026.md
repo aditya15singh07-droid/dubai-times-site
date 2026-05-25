@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-17
 publishedTime: "22:05 GST"
 watchLine: "Watch how Dubai uses survey data to shape family policy, inclusion, financial wellbeing and digital services."
-image: "https://picsum.photos/seed/dubai-social-survey-quality-of-life-2026-md-1026-0/900/600"
-imageAlt: "Lifestyle visual for Dubai's Social Survey Shows Why Quality Of Life Is Becoming A Serious Policy Metric"
+image: "https://images.pexels.com/photos/35659788/pexels-photo-35659788.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Three children playing on a sunny beach with tall buildings in the background, capturing summer joy."
 tags: ["Lifestyle", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-dubai-social-survey-quality-of-life-2026-md-1026-0"
+pexelsId: "35659788"
 ---
 
 The best cities do not only count buildings. They count how people feel living inside them.

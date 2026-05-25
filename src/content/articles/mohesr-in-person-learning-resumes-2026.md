@@ -5,11 +5,11 @@ category: "Middle East"
 author: "Anika Menon"
 date: 2026-05-18
 watchLine: "Watch whether universities settle quickly into normal academic calendars and whether practical courses recover lost momentum."
-image: "https://picsum.photos/seed/mohesr-in-person-learning-resumes-2026-md-1018-0/900/600"
-imageAlt: "Middle East visual for The UAE’s Return To In-Person Higher Education Is About More Than Attendance"
+image: "https://images.pexels.com/photos/31846784/pexels-photo-31846784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Aerial view of modern skyscrapers in Warsaw, Poland showcasing urban architecture."
 tags: ["Middle East", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-mohesr-in-person-learning-resumes-2026-md-1018-0"
+pexelsId: "31846784"
 ---
 
 Students can adapt to online classes faster than institutions sometimes admit.

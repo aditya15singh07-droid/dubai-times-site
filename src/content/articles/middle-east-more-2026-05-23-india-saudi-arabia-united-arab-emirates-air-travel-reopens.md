@@ -6,11 +6,11 @@ author: "Ishaan Roy"
 date: 2026-05-23
 publishedTime: "15:04 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-more-2026-05-23-india-saudi-arabia-united-arab-emirates-air-travel-r/900/600"
-imageAlt: "Travel visual for The Gulf Travel Confidence Test: Shows How Regional Journeys Are Changing"
+image: "https://images.pexels.com/photos/3885535/pexels-photo-3885535.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Fashionable woman with luggage arrives at airport ready for travel."
 tags: ["Travel","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-more-2026-05-23-india-saudi-arabia-united-arab-emirates-air-travel-r"
+pexelsId: "3885535"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the gulf travel confidence test deserves a closer read across the Middle East today.
 

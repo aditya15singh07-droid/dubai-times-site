@@ -5,11 +5,11 @@ category: "Business"
 author: "Myra D Souza"
 date: 2026-05-17
 watchLine: "Follow whether fee relief and liquidity support show up in licensing activity, hotel performance, trade flows and hiring."
-image: "https://picsum.photos/seed/dubai-economic-incentives-liquidity-2026-md-1054-0/900/600"
-imageAlt: "Business visual for Dubai Incentives Put Liquidity And Business Confidence Back In Focus"
+image: "https://images.pexels.com/photos/8353815/pexels-photo-8353815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Three businessmen discussing financial documents in a modern office setting."
 tags: ["Business", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-dubai-economic-incentives-liquidity-2026-md-1054-0"
+pexelsId: "8353815"
 ---
 
 Business confidence often sounds grand in speeches. In real life, it is usually about cash flow.

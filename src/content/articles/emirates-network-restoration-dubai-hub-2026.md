@@ -5,11 +5,11 @@ category: "Travel"
 author: "Tara Khanna"
 date: 2026-05-18
 watchLine: "Watch whether the airline can push beyond 75% of pre-disruption capacity without weakening reliability or fares discipline."
-image: "https://picsum.photos/seed/emirates-network-restoration-dubai-hub-2026-md-1008-0/900/600"
-imageAlt: "Travel visual for Emirates Has Restored 96% Of Its Network. The Stronger Signal Is Trust"
+image: "https://images.pexels.com/photos/16236744/pexels-photo-16236744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A bustling airport scene with an airplane on the tarmac being prepared for departure."
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-emirates-network-restoration-dubai-hub-2026-md-1008-0"
+pexelsId: "16236744"
 ---
 
 Airline recoveries are usually measured in frequencies and fleet plans.

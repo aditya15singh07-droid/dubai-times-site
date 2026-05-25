@@ -6,9 +6,9 @@ author: "Zoya Malhotra"
 date: 2026-05-21
 publishedTime: "13:50 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://picsum.photos/seed/category-batch-2026-05-21-dubai-rent-buy-question-2026-md-719-0/900/600"
-imageAlt: "Real Estate visual for Dubai’s Rent Or Buy Question Is Becoming More Personal"
-pexelsId: "dedupe-category-batch-2026-05-21-dubai-rent-buy-question-2026-md-719-0"
+image: "https://images.pexels.com/photos/37728340/pexels-photo-37728340.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Wide view of Singapore skyline with Marina Bay Sands and Singapore Flyer at day."
+pexelsId: "37728340"
 tags: ["Real Estate", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

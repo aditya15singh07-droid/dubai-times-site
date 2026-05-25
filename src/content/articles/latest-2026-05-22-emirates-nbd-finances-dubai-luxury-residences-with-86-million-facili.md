@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-22
 publishedTime: "11:16 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-2026-05-22-emirates-nbd-finances-dubai-luxury-residences-with-86-million-/900/600"
-imageAlt: "Real Estate visual for What Dubai’s Luxury Property Financing Says About Dubai’s Push From Speed To Trust"
+image: "https://images.pexels.com/photos/27585025/pexels-photo-27585025.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Impressive Frankfurt skyline showcasing modern skyscrapers and the riverfront at sunset."
 tags: ["Real Estate", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-latest-2026-05-22-emirates-nbd-finances-dubai-luxury-residences-with-86-million-"
+pexelsId: "27585025"
 ---
 
 Property news in Dubai always lands at the dining table. Tenants, buyers and brokers all read the same headline with very different worries.

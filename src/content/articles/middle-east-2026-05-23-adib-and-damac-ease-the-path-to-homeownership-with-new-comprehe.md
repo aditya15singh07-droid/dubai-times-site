@@ -6,11 +6,11 @@ author: "Kabir Sethi"
 date: 2026-05-23
 publishedTime: "10:48 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-2026-05-23-adib-and-damac-ease-the-path-to-homeownership-with-new-co/900/600"
-imageAlt: "Real Estate visual for ADIB and DAMAC Ease the Path to Homeownership: Tests The Region's Luxury Property Story"
+image: "https://images.pexels.com/photos/36723275/pexels-photo-36723275.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Black and white photo of city skyscrapers with a dramatic and high-contrast style."
 tags: ["Real Estate","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-2026-05-23-adib-and-damac-ease-the-path-to-homeownership-with-new-co"
+pexelsId: "36723275"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why adib and damac ease the path to homeownership deserves a closer read across the Middle East today.
 

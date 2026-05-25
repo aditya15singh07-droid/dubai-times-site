@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-23
 publishedTime: "20:52 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-more-2026-05-23-gcc-uk-conclude-fta-talks-in-major-boost-for-kuwait-/900/600"
-imageAlt: "Business visual for Kuwait Trade Opening: Shows How Gulf Capital Is Moving Now"
+image: "https://images.pexels.com/photos/7693692/pexels-photo-7693692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Business professionals engaging in a collaborative meeting with charts and documents."
 tags: ["Business","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-more-2026-05-23-gcc-uk-conclude-fta-talks-in-major-boost-for-kuwait-"
+pexelsId: "7693692"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why kuwait trade opening deserves a closer read across the Middle East today.
 

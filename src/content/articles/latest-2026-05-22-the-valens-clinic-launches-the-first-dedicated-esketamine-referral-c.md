@@ -6,11 +6,11 @@ author: "Ishaan Vora"
 date: 2026-05-22
 publishedTime: "12:56 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-2026-05-22-the-valens-clinic-launches-the-first-dedicated-esketamine-refe/900/600"
-imageAlt: "Health visual for Why The Valens Clinic Launches the First Dedicated Esketamine Referral Deserves A Closer Dubai Time Read"
+image: "https://images.pexels.com/photos/6129450/pexels-photo-6129450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Doctors and nurses interacting in a hospital hallway, showcasing teamwork and professionalism."
 tags: ["Health", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-latest-2026-05-22-the-valens-clinic-launches-the-first-dedicated-esketamine-refe"
+pexelsId: "6129450"
 ---
 
 Health stories become important when they leave the conference room and enter a clinic, a pharmacy or a family WhatsApp group.

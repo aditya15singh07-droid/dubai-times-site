@@ -6,11 +6,11 @@ author: "Zayan Mirza"
 date: 2026-05-23
 publishedTime: "12:20 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://picsum.photos/seed/middle-east-2026-05-23-saudi-arabia-fans-in-miami-2026-your-complete-world-cup-m/900/600"
-imageAlt: "Sport visual for Saudi Fans And The World Cup Calendar: Shows Why Gulf Sport Is Becoming Serious Business"
+image: "https://images.pexels.com/photos/10031866/pexels-photo-10031866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Youth soccer player in green jersey on football field during match."
 tags: ["Sport","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "dedupe-middle-east-2026-05-23-saudi-arabia-fans-in-miami-2026-your-complete-world-cup-m"
+pexelsId: "10031866"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why saudi fans and the world cup calendar deserves a closer read across the Middle East today.
 

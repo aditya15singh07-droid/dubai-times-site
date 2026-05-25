@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-23
 publishedTime: "01:10 GST"
 watchLine: "Watch whether these Jafza commitments turn into faster hiring, new warehouse capacity and durable industrial demand."
-image: "https://picsum.photos/seed/dp-world-jafza-investment-wave-2026-md-463-0/900/600"
-imageAlt: "Business visual for Why Jafza's AED 854 Million Investment Wave Matters For Dubai Jobs And Trade"
+image: "https://images.pexels.com/photos/7691697/pexels-photo-7691697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A diverse group of professionals in a business meeting shaking hands and discussing financial charts."
 tags: ["Business", "Dubai", "Jafza", "DP World", "Trade"]
 draft: false
-pexelsId: "dedupe-dp-world-jafza-investment-wave-2026-md-463-0"
+pexelsId: "7691697"
 ---
 
 The easiest way to misunderstand Dubai is to look only at the skyline.

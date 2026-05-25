@@ -6,11 +6,11 @@ author: "Naina Batra"
 date: 2026-05-22
 publishedTime: "11:52 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-2026-05-22-middle-east-tourism-and-global-aviation-industry-brace-for-maj/900/600"
-imageAlt: "Sport visual for What Middle East Tourism and Global Aviation Industry Brace Says About Dubai’s Push From Speed To Trust"
+image: "https://images.pexels.com/photos/14353976/pexels-photo-14353976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A soccer player in yellow uniform kicks a ball during a game on a green outdoor field."
 tags: ["Sport", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-latest-2026-05-22-middle-east-tourism-and-global-aviation-industry-brace-for-maj"
+pexelsId: "14353976"
 ---
 
 Sport in the UAE is no longer only about the scoreboard. It is also about families, tourism, sponsors and the next generation of fans.

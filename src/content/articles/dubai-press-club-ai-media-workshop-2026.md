@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-18
 publishedTime: "02:40 GST"
 watchLine: "Watch whether media organisations in Dubai turn AI curiosity into training, policy and newsroom experimentation."
-image: "https://picsum.photos/seed/dubai-press-club-ai-media-workshop-2026-md-986-0/900/600"
-imageAlt: "Middle East visual for Dubai's Media AI Debate Is Maturing Beyond Hype And Panic"
+image: "https://images.pexels.com/photos/10396355/pexels-photo-10396355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Evening view of the illuminated skyline of Canary Wharf, reflected on water, United Kingdom."
 tags: ["Middle East", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-dubai-press-club-ai-media-workshop-2026-md-986-0"
+pexelsId: "10396355"
 ---
 
 The loudest conversations about artificial intelligence usually swing between two extremes.

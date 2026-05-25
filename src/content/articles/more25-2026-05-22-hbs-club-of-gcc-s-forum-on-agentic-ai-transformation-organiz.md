@@ -6,11 +6,11 @@ author: "Naina Batra"
 date: 2026-05-22
 publishedTime: "18:44 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/more25-2026-05-22-hbs-club-of-gcc-s-forum-on-agentic-ai-transformation-organiz-m/900/600"
-imageAlt: "Sport visual for What Hbs Club of Gcc S Forum on Agentic Says About Dubai’s Push From Speed To Trust"
+image: "https://images.pexels.com/photos/32266273/pexels-photo-32266273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Two female soccer players in action during a competitive outdoor football match. Energetic sports scene."
 tags: ["Sport", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-more25-2026-05-22-hbs-club-of-gcc-s-forum-on-agentic-ai-transformation-organiz-m"
+pexelsId: "32266273"
 ---
 
 Sport in the UAE is no longer only about the scoreboard. It is also about families, tourism, sponsors and the next generation of fans.

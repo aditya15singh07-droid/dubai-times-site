@@ -5,11 +5,11 @@ category: "Travel"
 author: "Kabir Anand"
 date: 2026-05-18
 watchLine: "Watch whether route recovery restores transfer traffic quickly and whether summer demand exposes any new capacity bottlenecks."
-image: "https://picsum.photos/seed/dxb-connectivity-recovery-airspace-2026-md-1004-0/900/600"
-imageAlt: "Travel visual for DXB Stayed Open Through Disruption. That Matters To More Than Travellers"
+image: "https://images.pexels.com/photos/3885588/pexels-photo-3885588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Stylish woman walking with suitcase while using smartphone outside a modern building."
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-dxb-connectivity-recovery-airspace-2026-md-1004-0"
+pexelsId: "3885588"
 ---
 
 Airports reveal the truth about a region faster than many official statements do.

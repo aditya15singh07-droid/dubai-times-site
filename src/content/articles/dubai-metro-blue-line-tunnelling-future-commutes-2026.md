@@ -5,11 +5,11 @@ category: "Travel"
 author: "Armaan Gill"
 date: 2026-05-18
 watchLine: "Watch execution timelines, station-area planning and whether the line changes commuting behaviour before roads get tighter."
-image: "https://picsum.photos/seed/dubai-metro-blue-line-tunnelling-future-commutes-2026-md-1000-0/900/600"
-imageAlt: "Travel visual for Dubai Metro Blue Line Tunnelling Starts, And The Real Story Is About Time"
+image: "https://images.pexels.com/photos/30352777/pexels-photo-30352777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "View of airport terminal and runway with planes under a cloudy sky."
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-dubai-metro-blue-line-tunnelling-future-commutes-2026-md-1000-0"
+pexelsId: "30352777"
 ---
 
 There is a moment in every growing city when a commute stops being a small irritation and starts becoming a life decision.

@@ -6,11 +6,11 @@ author: "Tara Khanna"
 date: 2026-05-22
 publishedTime: "12:36 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-2026-05-22-dubai-abu-dhabi-fujairah-and-strait-of-hormuz-expand-uae-touri/900/600"
-imageAlt: "International visual for What Gulf Trade Resilience Says About Dubai’s Push From Speed To Trust"
+image: "https://images.pexels.com/photos/15965251/pexels-photo-15965251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A vibrant collection of international flags in a cityscape setting, symbolizing global unity."
 tags: ["International", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-latest-2026-05-22-dubai-abu-dhabi-fujairah-and-strait-of-hormuz-expand-uae-touri"
+pexelsId: "15965251"
 ---
 
 International news reaches the UAE faster than many people expect. It arrives through markets, flights, trade lanes and boardroom decisions.

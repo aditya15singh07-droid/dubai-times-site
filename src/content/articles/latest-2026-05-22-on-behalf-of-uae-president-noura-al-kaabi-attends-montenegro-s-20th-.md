@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-22
 publishedTime: "10:56 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://picsum.photos/seed/latest-2026-05-22-on-behalf-of-uae-president-noura-al-kaabi-attends-montenegro-s/900/600"
-imageAlt: "Business visual for What On Behalf of UAE President Noura Al Kaabi Signals About UAE Business Confidence Now"
+image: "https://images.pexels.com/photos/7691694/pexels-photo-7691694.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A diverse team engaged in a business meeting, fostering collaboration and teamwork in an office setting."
 tags: ["Business", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "dedupe-latest-2026-05-22-on-behalf-of-uae-president-noura-al-kaabi-attends-montenegro-s"
+pexelsId: "7691694"
 ---
 
 Business news looks clean on paper. In real life, it decides whether founders hire, investors wait and small firms take the next risk.

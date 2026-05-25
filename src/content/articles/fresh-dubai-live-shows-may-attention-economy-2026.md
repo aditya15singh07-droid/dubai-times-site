@@ -6,9 +6,9 @@ author: "Vihaan Rao"
 date: 2026-05-21
 publishedTime: "14:33 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://picsum.photos/seed/fresh-dubai-live-shows-may-attention-economy-2026-md-693-0/900/600"
-imageAlt: "Entertainment visual for Dubai’s May Shows Prove Live Entertainment Has To Beat The Sofa"
-pexelsId: "dedupe-fresh-dubai-live-shows-may-attention-economy-2026-md-693-0"
+image: "https://images.pexels.com/photos/3689546/pexels-photo-3689546.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Lively audience enjoying a concert, capturing moments with smartphones in a vibrant atmosphere."
+pexelsId: "3689546"
 tags: ["Entertainment", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---

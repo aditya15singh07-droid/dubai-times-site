@@ -5,11 +5,11 @@ category: "International"
 author: "Ishaan Vora"
 date: 2026-05-17
 watchLine: "Watch future official language for signs that cooperation remains formal, public-facing and carefully bounded."
-image: "https://picsum.photos/seed/dubai-uae-israel-discreet-diplomacy-2026-md-1064-0/900/600"
-imageAlt: "International visual for UAE-Israel Ties Face A Public Test As Regional Diplomacy Becomes Harder To Keep Quiet"
+image: "https://images.pexels.com/photos/22481608/pexels-photo-22481608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A bustling promenade at Istanbul harbor filled with people walking and a ship docked nearby."
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "dedupe-dubai-uae-israel-discreet-diplomacy-2026-md-1064-0"
+pexelsId: "22481608"
 ---
 
 Diplomacy often lives in careful wording. One denial, one phrase, one official line can do a lot of work.
