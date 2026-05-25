@@ -6,10 +6,11 @@ author: "Devika Shah"
 date: 2026-05-20
 publishedTime: "16:56 GST"
 watchLine: "Watch hydration advice, outdoor work rules, school timings and emergency response data."
-image: "https://images.pexels.com/photos/236380/pexels-photo-236380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A clean hospital corridor with public health lighting."
+image: "https://picsum.photos/seed/test-health-dubai-heat-public-safety-2026-md-814-0/900/600"
+imageAlt: "Health visual for Dubai Heat Safety Is A Public Health Story"
 tags: ["Health", "Dubai Time"]
 draft: false
+pexelsId: "dedupe-test-health-dubai-heat-public-safety-2026-md-814-0"
 ---
 
 The body does not negotiate with heat. It needs shade, water and timing.

@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-22
 publishedTime: "12:12 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/5970684/pexels-photo-5970684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/latest-2026-05-22-sudanese-community-in-uae-to-host-sudan-festival-on-may-23-md-/900/600"
 imageAlt: "Entertainment visual for Why Sudanese Community in UAE to Host Sudan Festival on Deserves A Closer Dubai Time Read"
 tags: ["Entertainment", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "5970684"
+pexelsId: "dedupe-latest-2026-05-22-sudanese-community-in-uae-to-host-sudan-festival-on-may-23-md-"
 ---
 
 Entertainment news now carries a harder question. Can a live show or cultural event still pull people away from their phones and sofas?

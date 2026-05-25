@@ -4,10 +4,11 @@ description: "Oleksandr Usyk stopped Rico Verhoeven in the 11th round in Giza, b
 category: "Sport"
 author: "Armaan Gill"
 date: 2026-05-24
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Usyk Survives Verhoeven Scare Before Late Stoppage Beside the Pyramids"
+image: "https://picsum.photos/seed/usyk-survives-verhoeven-scare-before-late-stoppage-beside-the-pyramids-md-79-0/900/600"
+imageAlt: "Sport visual for Usyk Survives Verhoeven Scare Before Late Stoppage Beside the Pyramids"
 tags: ["Oleksandr Usyk", "Rico Verhoeven", "Boxing", "Heavyweight Boxing", "Giza", "Egypt", "Gulf Sport", "Combat Sports"]
 draft: false
+pexelsId: "dedupe-usyk-survives-verhoeven-scare-before-late-stoppage-beside-the-pyramids-md-79-0"
 ---
 
 A champion can win and still leave people talking about the danger he survived.

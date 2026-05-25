@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-23
 publishedTime: "13:24 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/33998346/pexels-photo-33998346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/middle-east-2026-05-23-uae-joins-saudi-arabia-bahrain-qatar-and-egypt-as-mega-ev/900/600"
 imageAlt: "Middle East visual for UAE Joins Saudi Arabia Bahrain Qatar and Egypt: Shows Why Gulf Stability Still Matters"
 tags: ["Middle East","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "33998346"
+pexelsId: "dedupe-middle-east-2026-05-23-uae-joins-saudi-arabia-bahrain-qatar-and-egypt-as-mega-ev"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why uae joins saudi arabia bahrain qatar and egypt deserves a closer read across the Middle East today.
 

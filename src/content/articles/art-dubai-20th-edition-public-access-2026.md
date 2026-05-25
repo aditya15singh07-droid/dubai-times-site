@@ -5,11 +5,11 @@ category: "Entertainment"
 author: "Zoya Malhotra"
 date: 2026-05-18
 watchLine: "Watch whether free access widens local participation and whether Dubai converts cultural prestige into repeat public engagement."
-image: "https://images.pexels.com/photos/10214100/pexels-photo-10214100.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A hijabi woman celebrates graduation outdoors with an academic cap under the summer sky in Maldives."
+image: "https://picsum.photos/seed/art-dubai-20th-edition-public-access-2026-md-990-0/900/600"
+imageAlt: "Entertainment visual for Art Dubai Turns 20, And The Most Important Detail May Be Free Entry"
 tags: ["Entertainment", "Dubai Time"]
 draft: false
-pexelsId: "10214100"
+pexelsId: "dedupe-art-dubai-20th-edition-public-access-2026-md-990-0"
 ---
 
 Art fairs often have a reputation problem.

@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-22
 publishedTime: "18:16 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/713149/pexels-photo-713149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/more25-2026-05-22-360-one-wam-arm-gets-sebi-nod-for-gift-city-expansion-heres-al/900/600"
 imageAlt: "Business visual for What 360 One Wam Arm Gets Sebi Nod for Signals About UAE Business Confidence Now"
 tags: ["Business", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "713149"
+pexelsId: "dedupe-more25-2026-05-22-360-one-wam-arm-gets-sebi-nod-for-gift-city-expansion-heres-al"
 ---
 
 Business news looks clean on paper. In real life, it decides whether founders hire, investors wait and small firms take the next risk.

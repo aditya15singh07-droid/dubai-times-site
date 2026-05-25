@@ -6,9 +6,9 @@ author: "Vihaan Rao"
 date: 2026-05-21
 publishedTime: "13:32 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/378570/pexels-photo-378570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Glass office tower in a financial district"
-pexelsId: "378570"
+image: "https://picsum.photos/seed/category-batch-2026-05-21-dubai-live-events-attention-2026-md-743-0/900/600"
+imageAlt: "Entertainment visual for Dubai Live Events Are Fighting For Attention, Not Just Ticket Sales"
+pexelsId: "dedupe-category-batch-2026-05-21-dubai-live-events-attention-2026-md-743-0"
 tags: ["Entertainment", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

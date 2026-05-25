@@ -6,11 +6,11 @@ author: "Naina Batra"
 date: 2026-05-22
 publishedTime: "11:48 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/5445453/pexels-photo-5445453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/latest-2026-05-22-harvard-business-school-club-of-gcc-hosts-forum-on-agentic-ai-/900/600"
 imageAlt: "Sport visual for What Harvard Business School Club of Gcc Hosts Forum Says About Dubai’s Push From Speed To Trust"
 tags: ["Sport", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "5445453"
+pexelsId: "dedupe-latest-2026-05-22-harvard-business-school-club-of-gcc-hosts-forum-on-agentic-ai-"
 ---
 
 Sport in the UAE is no longer only about the scoreboard. It is also about families, tourism, sponsors and the next generation of fans.

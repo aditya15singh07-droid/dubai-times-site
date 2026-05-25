@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-22
 publishedTime: "14:32 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/10574771/pexels-photo-10574771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/more-2026-05-22-mohammed-bin-rashid-issues-antiquities-archaeological-sites-law-/900/600"
 imageAlt: "Business visual for Why Mohammed Bin Rashid Issues Antiquities Archaeological Sites Law Deserves A Closer Dubai Time Read"
 tags: ["Business", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "10574771"
+pexelsId: "dedupe-more-2026-05-22-mohammed-bin-rashid-issues-antiquities-archaeological-sites-law-"
 ---
 
 Business news looks clean on paper. In real life, it decides whether founders hire, investors wait and small firms take the next risk.

@@ -4,10 +4,11 @@ description: "Wyndham Clark closed with an 11-under 60 to win the CJ Cup Byron N
 category: "Sport"
 author: "Reyansh Suri"
 date: 2026-05-25
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Wyndham Clark’s 60 Turns Byron Nelson Into A Statement Win"
+image: "https://images.pexels.com/photos/534220/pexels-photo-534220.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "City skyline and commercial buildings."
 tags: ["Wyndham Clark", "CJ Cup Byron Nelson", "PGA Tour", "Golf", "Scottie Scheffler", "Si Woo Kim", "US Open", "Texas Sport"]
 draft: false
+pexelsId: "534220"
 ---
 
 Sometimes golf looks calm only from a distance. Up close, it is nerve, risk, maths and memory, all squeezed into one swing.

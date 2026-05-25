@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-22
 publishedTime: "18:36 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/1181406/pexels-photo-1181406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/more25-2026-05-22-dubai-venues-launch-weekend-events-ahead-of-eid-holidays-md-50/900/600"
 imageAlt: "Lifestyle visual for Why Dubai Venues Launch Weekend Events Ahead of Eid Holidays Deserves A Closer Dubai Time Read"
 tags: ["Lifestyle", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "1181406"
+pexelsId: "dedupe-more25-2026-05-22-dubai-venues-launch-weekend-events-ahead-of-eid-holidays-md-50"
 ---
 
 Lifestyle stories can look soft from a distance. Then they start changing weekend plans, household budgets and how a city feels after work.

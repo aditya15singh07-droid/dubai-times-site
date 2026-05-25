@@ -6,9 +6,9 @@ author: "Vihaan Rao"
 date: 2026-05-21
 publishedTime: "13:41 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/373912/pexels-photo-373912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Commercial aircraft at an airport gate"
-pexelsId: "373912"
+image: "https://picsum.photos/seed/category-batch-2026-05-21-dubai-cultural-soft-power-2026-md-731-0/900/600"
+imageAlt: "Entertainment visual for Dubai’s Cultural Soft Power Is Becoming More Visible"
+pexelsId: "dedupe-category-batch-2026-05-21-dubai-cultural-soft-power-2026-md-731-0"
 tags: ["Entertainment", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

@@ -6,11 +6,11 @@ author: "Naina Batra"
 date: 2026-05-22
 publishedTime: "15:00 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/399187/pexels-photo-399187.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/more-2026-05-22-dubai-basketball-one-win-from-the-aba-league-final-md-555-0/900/600"
 imageAlt: "Sport visual for Why Dubai Basketball One Win from the Aba League Final Deserves A Closer Dubai Time Read"
 tags: ["Sport", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "399187"
+pexelsId: "dedupe-more-2026-05-22-dubai-basketball-one-win-from-the-aba-league-final-md-555-0"
 ---
 
 Sport in the UAE is no longer only about the scoreboard. It is also about families, tourism, sponsors and the next generation of fans.

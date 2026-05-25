@@ -6,11 +6,11 @@ author: "Naina Batra"
 date: 2026-05-22
 publishedTime: "15:04 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/358220/pexels-photo-358220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/more-2026-05-22-uae-oman-trade-corridors-vital-for-transport-of-essential-cargo-/900/600"
 imageAlt: "Sport visual for Why UAE Oman Trade Corridors Vital for Transport of Essential Deserves A Closer Dubai Time Read"
 tags: ["Sport", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "358220"
+pexelsId: "dedupe-more-2026-05-22-uae-oman-trade-corridors-vital-for-transport-of-essential-cargo-"
 ---
 
 Sport in the UAE is no longer only about the scoreboard. It is also about families, tourism, sponsors and the next generation of fans.

@@ -6,10 +6,11 @@ author: "Ishaan Vora"
 date: 2026-05-23
 publishedTime: "02:40 GST"
 watchLine: "Watch pilot deployments beyond campus and whether ChatSign reaches hospitals, transport hubs and government counters."
-image: "https://images.pexels.com/photos/1763075/pexels-photo-1763075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Person using a tablet during an accessibility-focused conversation."
+image: "https://picsum.photos/seed/nyu-abu-dhabi-chatsign-accessibility-2026-md-451-0/900/600"
+imageAlt: "Health visual for ChatSign Could Change Daily Life For Sign Language Users Across The UAE"
 tags: ["Health", "UAE", "Accessibility", "AI", "ChatSign"]
 draft: false
+pexelsId: "dedupe-nyu-abu-dhabi-chatsign-accessibility-2026-md-451-0"
 ---
 
 The hardest part of exclusion is often how ordinary it looks.

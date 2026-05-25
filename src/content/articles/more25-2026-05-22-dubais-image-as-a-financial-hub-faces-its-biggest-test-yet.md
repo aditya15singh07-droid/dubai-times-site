@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-22
 publishedTime: "19:32 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/more25-2026-05-22-dubais-image-as-a-financial-hub-faces-its-biggest-test-yet-md-/900/600"
 imageAlt: "Business visual for What Dubai’s Financial Hub Image Says About Dubai’s Push From Speed To Trust"
 tags: ["Business", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "3184291"
+pexelsId: "dedupe-more25-2026-05-22-dubais-image-as-a-financial-hub-faces-its-biggest-test-yet-md-"
 ---
 
 Business news looks clean on paper. In real life, it decides whether founders hire, investors wait and small firms take the next risk.

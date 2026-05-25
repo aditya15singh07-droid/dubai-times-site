@@ -5,11 +5,11 @@ category: "Crypto"
 author: "Anika Menon"
 date: 2026-05-17
 watchLine: "Look for licensed activity, enterprise pilots and companies choosing Dubai as a base after the conference week ends."
-image: "https://images.pexels.com/photos/8370783/pexels-photo-8370783.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Close-up of a person examining a Bitcoin with a magnifying glass, highlighting cryptocurrency focus."
+image: "https://picsum.photos/seed/dubai-blockchain-week-web3-ecosystem-2026-md-1050-0/900/600"
+imageAlt: "Crypto visual for MENA Blockchain Week Puts Dubai's Web3 Network Back On Stage"
 tags: ["Crypto", "Dubai Time"]
 draft: false
-pexelsId: "8370783"
+pexelsId: "dedupe-dubai-blockchain-week-web3-ecosystem-2026-md-1050-0"
 ---
 
 Crypto events used to sell excitement. Dubai now has to sell something harder: trust.

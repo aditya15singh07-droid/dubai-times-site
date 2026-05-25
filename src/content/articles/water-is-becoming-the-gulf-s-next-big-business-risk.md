@@ -4,10 +4,11 @@ description: "Water scarcity is moving from climate concern to boardroom risk, w
 category: "Business"
 author: "Devika Shah"
 date: 2026-05-24
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Water Is Becoming The Gulf’s Next Big Business Risk"
+image: "https://picsum.photos/seed/water-is-becoming-the-gulf-s-next-big-business-risk-md-81-0/900/600"
+imageAlt: "Business visual for Water Is Becoming The Gulf’s Next Big Business Risk"
 tags: ["UAE water security", "Dubai business", "Gulf economy", "desalination", "data centres", "real estate", "Middle East", "climate risk"]
 draft: false
+pexelsId: "dedupe-water-is-becoming-the-gulf-s-next-big-business-risk-md-81-0"
 ---
 
 A bottle of water in Dubai still feels ordinary. That is the danger.

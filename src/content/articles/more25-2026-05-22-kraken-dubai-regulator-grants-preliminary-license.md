@@ -6,11 +6,11 @@ author: "Mira Sethi"
 date: 2026-05-22
 publishedTime: "18:08 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/256417/pexels-photo-256417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/more25-2026-05-22-kraken-dubai-regulator-grants-preliminary-license-md-521-0/900/600"
 imageAlt: "Crypto visual for Why Kraken Dubai Regulator Grants Preliminary License Deserves A Closer Dubai Time Read"
 tags: ["Crypto", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "256417"
+pexelsId: "dedupe-more25-2026-05-22-kraken-dubai-regulator-grants-preliminary-license-md-521-0"
 ---
 
 Crypto headlines often sound like a world of charts and jargon. The real story begins when ordinary investors ask whether the system is safer, clearer and useful.

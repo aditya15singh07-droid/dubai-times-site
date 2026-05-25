@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-22
 publishedTime: "18:20 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/7413916/pexels-photo-7413916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/more25-2026-05-22-uae-stuns-saudi-arabia-us-and-europe-as-dubai-s-arabian-travel/900/600"
 imageAlt: "Business visual for What UAE Stuns Saudi Arabia US and Europe as Says About Dubai’s Push From Speed To Trust"
 tags: ["Business", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "7413916"
+pexelsId: "dedupe-more25-2026-05-22-uae-stuns-saudi-arabia-us-and-europe-as-dubai-s-arabian-travel"
 ---
 
 Business news looks clean on paper. In real life, it decides whether founders hire, investors wait and small firms take the next risk.

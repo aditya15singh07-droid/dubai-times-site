@@ -6,11 +6,11 @@ author: "Kabir Sethi"
 date: 2026-05-23
 publishedTime: "13:40 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/33353719/pexels-photo-33353719.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/middle-east-2026-05-23-gulf-cruise-alert-new-imo-rules-shake-up-luxury-hubs-md-2/900/600"
 imageAlt: "Travel visual for The Gulf Travel Confidence Test: Puts Passenger Confidence Back In Focus In The Gulf"
 tags: ["Travel","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "33353719"
+pexelsId: "dedupe-middle-east-2026-05-23-gulf-cruise-alert-new-imo-rules-shake-up-luxury-hubs-md-2"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the gulf travel confidence test deserves a closer read across the Middle East today.
 

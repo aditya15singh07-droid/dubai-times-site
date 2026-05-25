@@ -6,10 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-23
 publishedTime: "02:25 GST"
 watchLine: "Watch whether Dubai Holding publishes measurable gains in workflows, staff productivity and service delivery after the rollout."
-image: "https://images.pexels.com/photos/167636/pexels-photo-167636.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Computer servers and network equipment inside a data facility."
+image: "https://picsum.photos/seed/dubai-holding-enterprise-ai-operations-2026-md-453-0/900/600"
+imageAlt: "Business visual for Dubai Holding's Microsoft AI Deal Shows The Real Race Is Inside Everyday Operations"
 tags: ["Business", "Dubai", "Artificial Intelligence", "Microsoft", "Technology"]
 draft: false
+pexelsId: "dedupe-dubai-holding-enterprise-ai-operations-2026-md-453-0"
 ---
 
 The most interesting AI stories are no longer about chatbots on stage.

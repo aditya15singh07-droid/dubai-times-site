@@ -6,9 +6,9 @@ author: "Zoya Malhotra"
 date: 2026-05-21
 publishedTime: "13:53 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/3184300/pexels-photo-3184300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Business partners reviewing a new growth plan"
-pexelsId: "3184300"
+image: "https://picsum.photos/seed/category-batch-2026-05-21-dubai-end-user-property-cycle-2026-md-715-0/900/600"
+imageAlt: "Real Estate visual for End Users Are Becoming The Serious Test For Dubai Property"
+pexelsId: "dedupe-category-batch-2026-05-21-dubai-end-user-property-cycle-2026-md-715-0"
 tags: ["Real Estate", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

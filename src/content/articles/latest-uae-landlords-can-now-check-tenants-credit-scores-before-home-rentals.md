@@ -6,10 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-19
 publishedTime: "15:12 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/2403209/pexels-photo-2403209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/latest-uae-landlords-can-now-check-tenants-credit-scores-before-home-rentals-md-/900/600"
 imageAlt: "Real Estate visual for What UAE Landlords Can Now Check Tenants Credit Scores Reveals About Dubai Property’s Next Serious Test"
 tags: ["Real Estate", "Dubai Time"]
 draft: false
+pexelsId: "dedupe-latest-uae-landlords-can-now-check-tenants-credit-scores-before-home-rentals-md-"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

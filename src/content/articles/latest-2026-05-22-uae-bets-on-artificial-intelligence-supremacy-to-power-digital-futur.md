@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-22
 publishedTime: "11:24 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/latest-2026-05-22-uae-bets-on-artificial-intelligence-supremacy-to-power-digital/900/600"
 imageAlt: "Lifestyle visual for What UAE Bets on Artificial Intelligence Supremacy to Power Says About Dubai’s Push From Speed To Trust"
 tags: ["Lifestyle", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "3184465"
+pexelsId: "dedupe-latest-2026-05-22-uae-bets-on-artificial-intelligence-supremacy-to-power-digital"
 ---
 
 Lifestyle stories can look soft from a distance. Then they start changing weekend plans, household budgets and how a city feels after work.

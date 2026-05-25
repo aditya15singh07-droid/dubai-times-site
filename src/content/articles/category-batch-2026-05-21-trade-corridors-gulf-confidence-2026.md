@@ -6,9 +6,9 @@ author: "Tara Khanna"
 date: 2026-05-21
 publishedTime: "13:47 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/236380/pexels-photo-236380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Clean healthcare corridor with public service lighting"
-pexelsId: "236380"
+image: "https://picsum.photos/seed/category-batch-2026-05-21-trade-corridors-gulf-confidence-2026-md-723-0/900/600"
+imageAlt: "International visual for Trade Corridors Are Becoming A Confidence Test For The Gulf"
+pexelsId: "dedupe-category-batch-2026-05-21-trade-corridors-gulf-confidence-2026-md-723-0"
 tags: ["International", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

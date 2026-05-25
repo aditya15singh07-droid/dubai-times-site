@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-23
 publishedTime: "12:44 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/19544248/pexels-photo-19544248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/middle-east-2026-05-23-swedish-sports-tech-playreplay-raises-12m-ahead-of-mena-e/900/600"
 imageAlt: "Sport visual for Swedish Sports Tech Playreplay Raises 12m Ahead: Puts Fans And Sponsors In The Same Story"
 tags: ["Sport","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "19544248"
+pexelsId: "dedupe-middle-east-2026-05-23-swedish-sports-tech-playreplay-raises-12m-ahead-of-mena-e"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why swedish sports tech playreplay raises 12m ahead deserves a closer read across the Middle East today.
 

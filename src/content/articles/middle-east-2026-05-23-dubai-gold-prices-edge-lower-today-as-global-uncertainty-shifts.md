@@ -6,11 +6,11 @@ author: "Zayan Mirza"
 date: 2026-05-23
 publishedTime: "12:16 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/34130500/pexels-photo-34130500.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/middle-east-2026-05-23-dubai-gold-prices-edge-lower-today-as-global-uncertainty-/900/600"
 imageAlt: "Middle East visual for Gold's Gulf Price Signal: Shows Why Gulf Stability Still Matters"
 tags: ["Middle East","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "34130500"
+pexelsId: "dedupe-middle-east-2026-05-23-dubai-gold-prices-edge-lower-today-as-global-uncertainty-"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why gold's gulf price signal deserves a closer read across the Middle East today.
 

@@ -6,11 +6,11 @@ author: "Arjun Malhotra"
 date: 2026-05-23
 publishedTime: "14:04 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/7413996/pexels-photo-7413996.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/middle-east-2026-05-23-red-sea-cruise-disruptions-md-282-0/900/600"
 imageAlt: "Travel visual for The Gulf Travel Confidence Test: Puts Passenger Confidence Back In Focus In The Region"
 tags: ["Travel","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "7413996"
+pexelsId: "dedupe-middle-east-2026-05-23-red-sea-cruise-disruptions-md-282-0"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the gulf travel confidence test deserves a closer read across the Middle East today.
 

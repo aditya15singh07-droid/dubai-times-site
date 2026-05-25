@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-23
 publishedTime: "14:44 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/8867631/pexels-photo-8867631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/middle-east-2026-05-23-6-saudi-german-hospital-board-members-quit-after-regulato/900/600"
 imageAlt: "Health visual for Saudi Healthcare Governance: Shows Why Gulf Healthcare Is Becoming More Personal"
 tags: ["Health","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "8867631"
+pexelsId: "dedupe-middle-east-2026-05-23-6-saudi-german-hospital-board-members-quit-after-regulato"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why saudi healthcare governance deserves a closer read across the Middle East today.
 

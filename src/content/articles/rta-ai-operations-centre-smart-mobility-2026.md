@@ -6,11 +6,11 @@ author: "Ishaan Vora"
 date: 2026-05-18
 publishedTime: "12:38 GST"
 watchLine: "Watch whether AI improves response time, service continuity and everyday reliability across Dubai's transport network."
-image: "https://images.pexels.com/photos/27075258/pexels-photo-27075258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Digital financial and operational charts displayed on office screens."
+image: "https://picsum.photos/seed/rta-ai-operations-centre-smart-mobility-2026-md-969-0/900/600"
+imageAlt: "Sport visual for RTA's AI Operations Centre Shows Where Smart Mobility Really Begins"
 tags: ["Sport", "Dubai Time"]
 draft: false
-pexelsId: "27075258"
+pexelsId: "dedupe-rta-ai-operations-centre-smart-mobility-2026-md-969-0"
 ---
 
 The smartest part of a city is often the part nobody sees.

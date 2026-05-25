@@ -6,11 +6,11 @@ author: "Reyan Shah"
 date: 2026-05-23
 publishedTime: "18:00 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/274506/pexels-photo-274506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/middle-east-more-2026-05-23-middle-east-flight-updates-turkish-airlines-and-cebu/900/600"
 imageAlt: "Sport visual for Middle East Flight Updates Turkish Airlines and Cebu: Shows Why Gulf Sport Is Becoming Serious Business"
 tags: ["Sport","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "274506"
+pexelsId: "dedupe-middle-east-more-2026-05-23-middle-east-flight-updates-turkish-airlines-and-cebu"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why middle east flight updates turkish airlines and cebu deserves a closer read across the Middle East today.
 

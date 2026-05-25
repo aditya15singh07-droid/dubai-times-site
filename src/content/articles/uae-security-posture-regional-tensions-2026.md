@@ -5,11 +5,11 @@ category: "Middle East"
 author: "Myra D Souza"
 date: 2026-05-17
 watchLine: "Watch whether the UAE maintains firm deterrence messaging while preserving normal economic, aviation and logistics activity."
-image: "https://images.pexels.com/photos/30541591/pexels-photo-30541591.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Barbed wire protecting the MONUSCO gate, surrounded by stone walls and plants."
+image: "https://picsum.photos/seed/uae-security-posture-regional-tensions-2026-md-1072-0/900/600"
+imageAlt: "Middle East visual for UAE Security Message Hardens As Regional Tensions Test Gulf Stability"
 tags: ["Middle East", "Dubai Time"]
 draft: false
-pexelsId: "30541591"
+pexelsId: "dedupe-uae-security-posture-regional-tensions-2026-md-1072-0"
 ---
 
 Security news in the Gulf is never only about defence.

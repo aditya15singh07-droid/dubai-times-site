@@ -6,11 +6,11 @@ author: "Arjun Malhotra"
 date: 2026-05-23
 publishedTime: "20:36 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/7413916/pexels-photo-7413916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/middle-east-more-2026-05-23-european-equities-end-flat-as-investors-await-middle/900/600"
 imageAlt: "Business visual for European Equities End Flat as Investors Await Middle: Tests The Gulf's Next Business Mood"
 tags: ["Business","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "7413916"
+pexelsId: "dedupe-middle-east-more-2026-05-23-european-equities-end-flat-as-investors-await-middle"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why european equities end flat as investors await middle deserves a closer read across the Middle East today.
 

@@ -6,10 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-19
 publishedTime: "15:33 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/2449452/pexels-photo-2449452.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/latest-uae-business-rta-completes-dubai-metro-tunnels-maintenance-rehabilitation/900/600"
 imageAlt: "Travel visual for What RTA Completes Dubai Metro Tunnels Maintenance Rehabilitation W Means For The Daily Cost Of Moving Around Dubai"
 tags: ["Travel", "Dubai Time"]
 draft: false
+pexelsId: "dedupe-latest-uae-business-rta-completes-dubai-metro-tunnels-maintenance-rehabilitation"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

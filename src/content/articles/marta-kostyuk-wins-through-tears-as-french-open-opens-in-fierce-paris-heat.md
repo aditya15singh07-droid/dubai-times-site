@@ -4,10 +4,11 @@ description: "Marta Kostyuk reached the French Open second round after learning 
 category: "Sport"
 author: "Mira Sethi"
 date: 2026-05-25
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Marta Kostyuk Wins Through Tears As French Open Opens In Fierce Paris Heat"
+image: "https://images.pexels.com/photos/1105766/pexels-photo-1105766.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Modern city road and transport corridor."
 tags: ["French Open", "Marta Kostyuk", "Tennis", "Roland Garros", "Ukraine", "Elina Svitolina", "Alexander Zverev", "Belinda Bencic", "Sport"]
 draft: false
+pexelsId: "1105766"
 ---
 
 Marta Kostyuk walked onto a Paris tennis court carrying more than rackets and nerves.

@@ -6,9 +6,9 @@ author: "Vihaan Rao"
 date: 2026-05-21
 publishedTime: "13:35 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/325185/pexels-photo-325185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "High-rise buildings and city architecture"
-pexelsId: "325185"
+image: "https://picsum.photos/seed/category-batch-2026-05-21-uae-streaming-cinema-culture-2026-md-741-0/900/600"
+imageAlt: "Entertainment visual for UAE Audiences Are Splitting Time Between Streaming And Shared Events"
+pexelsId: "dedupe-category-batch-2026-05-21-uae-streaming-cinema-culture-2026-md-741-0"
 tags: ["Entertainment", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

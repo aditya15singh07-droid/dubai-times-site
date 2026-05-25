@@ -6,11 +6,11 @@ author: "Tara Khanna"
 date: 2026-05-22
 publishedTime: "15:28 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/1181396/pexels-photo-1181396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/more-2026-05-22-dubai-unveils-408-4-million-stimulus-package-to-boost-businesses/900/600"
 imageAlt: "International visual for What Dubai Unveils 408 4 Million Stimulus Package to Says About Dubai’s Push From Speed To Trust"
 tags: ["International", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "1181396"
+pexelsId: "dedupe-more-2026-05-22-dubai-unveils-408-4-million-stimulus-package-to-boost-businesses"
 ---
 
 International news reaches the UAE faster than many people expect. It arrives through markets, flights, trade lanes and boardroom decisions.

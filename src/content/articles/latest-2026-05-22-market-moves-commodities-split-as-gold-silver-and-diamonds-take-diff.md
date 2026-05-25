@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-22
 publishedTime: "10:52 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/latest-2026-05-22-market-moves-commodities-split-as-gold-silver-and-diamonds-tak/900/600"
 imageAlt: "Business visual for What Gulf Market Volatility Reveals About Dubai Property’s Next Serious Test"
 tags: ["Business", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "3182812"
+pexelsId: "dedupe-latest-2026-05-22-market-moves-commodities-split-as-gold-silver-and-diamonds-tak"
 ---
 
 Business news looks clean on paper. In real life, it decides whether founders hire, investors wait and small firms take the next risk.

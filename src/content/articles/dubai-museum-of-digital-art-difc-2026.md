@@ -6,11 +6,11 @@ author: "Kian Oberoi"
 date: 2026-05-17
 publishedTime: "13:10 GST"
 watchLine: "Track MODA's first programming calendar, artist partnerships, education activity and repeat-visit appeal."
-image: "https://images.pexels.com/photos/37148213/pexels-photo-37148213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Retro Apple II computer in a museum setting, showcasing vintage technology design."
+image: "https://picsum.photos/seed/dubai-museum-of-digital-art-difc-2026-md-1042-0/900/600"
+imageAlt: "Entertainment visual for Dubai Launches Museum Of Digital Art As Culture And Technology Move Closer"
 tags: ["Entertainment", "Dubai Time"]
 draft: false
-pexelsId: "37148213"
+pexelsId: "dedupe-dubai-museum-of-digital-art-difc-2026-md-1042-0"
 ---
 
 A museum in DIFC is never only about art.

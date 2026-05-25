@@ -6,10 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-19
 publishedTime: "13:47 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/256417/pexels-photo-256417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/latest-dubai-future-solutions-prototypes-for-humanity-advances-first-global-vent/900/600"
 imageAlt: "International visual for What Dubai Future Solutions Prototypes for Humanity Advances First Says About Dubai’s Push From Speed To Trust"
 tags: ["International", "Dubai Time"]
 draft: false
+pexelsId: "dedupe-latest-dubai-future-solutions-prototypes-for-humanity-advances-first-global-vent"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

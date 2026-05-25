@@ -6,10 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-23
 publishedTime: "01:40 GST"
 watchLine: "Watch whether Dubai converts its rankings into higher-value conventions that fill hotels and spill into the wider economy."
-image: "https://images.pexels.com/photos/3856433/pexels-photo-3856433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Passengers and business travellers moving through a modern airport terminal."
+image: "https://picsum.photos/seed/dubai-business-events-imex-frankfurt-2026-md-459-0/900/600"
+imageAlt: "Travel visual for Why Dubai's IMEX Frankfurt Rankings Matter For Hotels, Airlines And Big-Ticket Conferences"
 tags: ["Travel", "Dubai", "Business Events", "IMEX Frankfurt", "Tourism"]
 draft: false
+pexelsId: "dedupe-dubai-business-events-imex-frankfurt-2026-md-459-0"
 ---
 
 When most people hear the phrase business events, they imagine dull badges and too much coffee.

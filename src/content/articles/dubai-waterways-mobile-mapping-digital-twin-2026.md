@@ -5,11 +5,11 @@ category: "Middle East"
 author: "Myra D Souza"
 date: 2026-05-18
 watchLine: "Watch whether the Digital Twin project starts changing flood planning, maintenance cycles and waterfront development decisions."
-image: "https://images.pexels.com/photos/33998346/pexels-photo-33998346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Stack of yellow QR code markers placed on a detailed map for location tracking and navigation."
+image: "https://picsum.photos/seed/dubai-waterways-mobile-mapping-digital-twin-2026-md-1002-0/900/600"
+imageAlt: "Middle East visual for Dubai’s Canal Mapping Project Is Quietly About Power, Risk And Better Decisions"
 tags: ["Middle East", "Dubai Time"]
 draft: false
-pexelsId: "33998346"
+pexelsId: "dedupe-dubai-waterways-mobile-mapping-digital-twin-2026-md-1002-0"
 ---
 
 Most people notice city technology only when it is visible.

@@ -4,10 +4,11 @@ description: "Canelo Alvarez and unbeaten WBC super-middleweight champion Christ
 category: "Sport"
 author: "Kabir Anand"
 date: 2026-05-24
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Canelo Alvarez vs Christian Mbilli Puts Riyadh Back in Boxing’s Global Spotlight"
+image: "https://images.pexels.com/photos/163452/basketball-dunk-blue-game-163452.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Basketball action during a competitive game."
 tags: ["Canelo Alvarez", "Christian Mbilli", "Riyadh Season", "Saudi Arabia", "Boxing", "Gulf Sport", "Middle East Sport"]
 draft: false
+pexelsId: "163452"
 ---
 
 A big fight night in Riyadh now means more than two boxers and a belt.

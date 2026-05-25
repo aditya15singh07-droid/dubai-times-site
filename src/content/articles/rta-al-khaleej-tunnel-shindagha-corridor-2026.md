@@ -6,11 +6,11 @@ author: "Samaira Qureshi"
 date: 2026-05-17
 publishedTime: "14:20 GST"
 watchLine: "Track peak-hour travel times and whether Deira, Dubai Islands and Port Rashid market the connectivity gain."
-image: "https://images.pexels.com/photos/34842262/pexels-photo-34842262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Engineer in safety gear inspects a subway tunnel under construction, highlighting urban development."
+image: "https://picsum.photos/seed/rta-al-khaleej-tunnel-shindagha-corridor-2026-md-1040-0/900/600"
+imageAlt: "Middle East visual for RTA's Al Khaleej Tunnel Reaches 80% As Dubai Pushes Deira Connectivity"
 tags: ["Middle East", "Dubai Time"]
 draft: false
-pexelsId: "34842262"
+pexelsId: "dedupe-rta-al-khaleej-tunnel-shindagha-corridor-2026-md-1040-0"
 ---
 
 A tunnel changes more than traffic. It changes how people feel about a district.

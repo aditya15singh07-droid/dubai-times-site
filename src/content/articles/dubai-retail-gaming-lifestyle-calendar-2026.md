@@ -5,11 +5,11 @@ category: "Sport"
 author: "Mira Sethi"
 date: 2026-05-17
 watchLine: "Follow whether gaming, Eid and retail campaigns keep converting attention into mall footfall, hotel demand and sponsor interest."
-image: "https://images.pexels.com/photos/17051853/pexels-photo-17051853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Vibrant mall filled with shoppers, contemporary decor, and stylish fashion outlets."
+image: "https://picsum.photos/seed/dubai-retail-gaming-lifestyle-calendar-2026-md-1060-0/900/600"
+imageAlt: "Sport visual for Dubai's May Calendar Turns Gaming, Retail And Eid Into A Lifestyle Economy"
 tags: ["Sport", "Dubai Time"]
 draft: false
-pexelsId: "17051853"
+pexelsId: "dedupe-dubai-retail-gaming-lifestyle-calendar-2026-md-1060-0"
 ---
 
 A packed events calendar looks like entertainment. In Dubai, it is also a business model.

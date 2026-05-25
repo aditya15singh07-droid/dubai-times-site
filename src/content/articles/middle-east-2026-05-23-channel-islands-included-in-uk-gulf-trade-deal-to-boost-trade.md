@@ -6,11 +6,11 @@ author: "Ishaan Roy"
 date: 2026-05-23
 publishedTime: "14:12 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/4560092/pexels-photo-4560092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/middle-east-2026-05-23-channel-islands-included-in-uk-gulf-trade-deal-to-boost-t/900/600"
 imageAlt: "Business visual for Channel Islands Included in UK Gulf Trade Deal: Shows How Gulf Capital Is Moving Now"
 tags: ["Business","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "4560092"
+pexelsId: "dedupe-middle-east-2026-05-23-channel-islands-included-in-uk-gulf-trade-deal-to-boost-t"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why channel islands included in uk gulf trade deal deserves a closer read across the Middle East today.
 

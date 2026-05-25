@@ -4,10 +4,11 @@ description: "DR Congo plan to continue World Cup friendlies against Denmark and
 category: "Sport"
 author: "Aarav Mehta"
 date: 2026-05-24
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "DR Congo Hold World Cup Course As Ebola Rules Test Football’s Travel Bubble"
+image: "https://images.pexels.com/photos/4575053/pexels-photo-4575053.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Officials seated for a formal international meeting."
 tags: ["DR Congo", "World Cup 2026", "Ebola", "Football", "Denmark", "Chile", "Portugal", "Colombia", "Uzbekistan", "Sport Travel"]
 draft: false
+pexelsId: "4575053"
 ---
 
 For DR Congo’s footballers, the dream has taken 52 years to return. Now it comes with a medical rulebook.

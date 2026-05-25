@@ -4,10 +4,11 @@ description: "Novak Djokovic begins a record 82nd Grand Slam at Roland Garros wi
 category: "Sport"
 author: "Mira Sethi"
 date: 2026-05-24
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Djokovic Walks Into French Open History With Questions His Body Must Answer"
+image: "https://images.pexels.com/photos/1190297/pexels-photo-1190297.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Concert stage lights and entertainment crowd."
 tags: ["Novak Djokovic", "French Open", "Roland Garros", "Tennis", "Grand Slam", "Jannik Sinner", "Carlos Alcaraz", "Sport"]
 draft: false
+pexelsId: "1190297"
 ---
 
 Novak Djokovic has built a career on making pressure look ordinary. This French Open feels different.

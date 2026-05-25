@@ -5,11 +5,11 @@ category: "Business"
 author: "Kian Oberoi"
 date: 2026-05-18
 watchLine: "Watch whether digital screens, pricing power and urban-design rules keep pushing outdoor ads toward higher-quality inventory."
-image: "https://images.pexels.com/photos/34659828/pexels-photo-34659828.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Vibrant street view with billboards in urban Taiwanese setting."
+image: "https://picsum.photos/seed/mada-media-dooh-contracts-q1-2026-md-1014-0/900/600"
+imageAlt: "Business visual for Dubai’s Outdoor Ad Market Is Growing Up, Not Just Getting Bigger"
 tags: ["Business", "Dubai Time"]
 draft: false
-pexelsId: "34659828"
+pexelsId: "dedupe-mada-media-dooh-contracts-q1-2026-md-1014-0"
 ---
 
 Most people barely register an outdoor ad until it is badly placed.

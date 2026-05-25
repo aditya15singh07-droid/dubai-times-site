@@ -6,11 +6,11 @@ author: "Kabir Sethi"
 date: 2026-05-23
 publishedTime: "09:24 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/8197505/pexels-photo-8197505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/middle-east-2026-05-23-saudi-arabia-joins-uae-kuwait-oman-and-qatar-as-regional-/900/600"
 imageAlt: "Middle East visual for Saudi Arabia Joins UAE Kuwait Oman and Qatar: Raises The Stakes Across A Nervous Region"
 tags: ["Middle East","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "8197505"
+pexelsId: "dedupe-middle-east-2026-05-23-saudi-arabia-joins-uae-kuwait-oman-and-qatar-as-regional-"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why saudi arabia joins uae kuwait oman and qatar deserves a closer read across the Middle East today.
 

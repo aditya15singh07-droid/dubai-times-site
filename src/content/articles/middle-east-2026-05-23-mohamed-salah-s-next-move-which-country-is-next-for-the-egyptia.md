@@ -6,11 +6,11 @@ author: "Arjun Malhotra"
 date: 2026-05-23
 publishedTime: "12:32 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/14400831/pexels-photo-14400831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/middle-east-2026-05-23-mohamed-salah-s-next-move-which-country-is-next-for-the-e/900/600"
 imageAlt: "Sport visual for The Gulf Sports Calendar: Turns A Match Calendar Into A Regional Signal"
 tags: ["Sport","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "14400831"
+pexelsId: "dedupe-middle-east-2026-05-23-mohamed-salah-s-next-move-which-country-is-next-for-the-e"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the gulf sports calendar deserves a closer read across the Middle East today.
 

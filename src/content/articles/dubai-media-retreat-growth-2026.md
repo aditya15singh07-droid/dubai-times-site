@@ -6,10 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-23
 publishedTime: "01:25 GST"
 watchLine: "Watch the promised single-platform rollout and whether Dubai turns retreat recommendations into easier operating conditions."
-image: "https://images.pexels.com/photos/7937364/pexels-photo-7937364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Business leaders gathered around a meeting table in discussion."
+image: "https://picsum.photos/seed/dubai-media-retreat-growth-2026-md-461-0/900/600"
+imageAlt: "Business visual for Dubai's Media Retreat Shows The City Wants Faster Rules And Bigger Creative Ambition"
 tags: ["Business", "Dubai", "Media", "Creative Economy", "Gaming"]
 draft: false
+pexelsId: "dedupe-dubai-media-retreat-growth-2026-md-461-0"
 ---
 
 Every city says it supports creators.

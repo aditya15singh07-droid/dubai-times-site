@@ -6,10 +6,11 @@ author: "Myra D Souza"
 date: 2026-05-19
 publishedTime: "19:12 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/3182773/pexels-photo-3182773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/latest-century-21-establishes-regional-headquarters-in-dubai-md-874-0/900/600"
 imageAlt: "Middle East visual for Why Century 21 Establishes Regional Headquarters in Dubai Deserves A Closer Dubai Time Read"
 tags: ["Middle East", "Dubai Time"]
 draft: false
+pexelsId: "dedupe-latest-century-21-establishes-regional-headquarters-in-dubai-md-874-0"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

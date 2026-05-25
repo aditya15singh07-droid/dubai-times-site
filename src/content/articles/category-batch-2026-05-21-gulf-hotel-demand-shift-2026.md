@@ -6,9 +6,9 @@ author: "Aarav Mehta"
 date: 2026-05-21
 publishedTime: "13:11 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/7413916/pexels-photo-7413916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Industrial workers reviewing operations in a modern facility"
-pexelsId: "7413916"
+image: "https://picsum.photos/seed/category-batch-2026-05-21-gulf-hotel-demand-shift-2026-md-777-0/900/600"
+imageAlt: "Travel visual for Gulf Hotels Are Selling Convenience As Much As Luxury"
+pexelsId: "dedupe-category-batch-2026-05-21-gulf-hotel-demand-shift-2026-md-777-0"
 tags: ["Travel", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

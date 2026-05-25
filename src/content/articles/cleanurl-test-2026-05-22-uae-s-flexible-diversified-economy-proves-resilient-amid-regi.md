@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-22
 publishedTime: "21:08 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/8554428/pexels-photo-8554428.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/cleanurl-test-2026-05-22-uae-s-flexible-diversified-economy-proves-resilient-ami/900/600"
 imageAlt: "Business visual for What The UAE’s Diversified Economy Signals About UAE Business Confidence Now"
 tags: ["Business", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "8554428"
+pexelsId: "dedupe-cleanurl-test-2026-05-22-uae-s-flexible-diversified-economy-proves-resilient-ami"
 ---
 
 Business news looks clean on paper. In real life, it decides whether founders hire, investors wait and small firms take the next risk.

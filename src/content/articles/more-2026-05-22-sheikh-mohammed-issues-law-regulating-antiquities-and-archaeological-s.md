@@ -6,11 +6,11 @@ author: "Ishaan Vora"
 date: 2026-05-22
 publishedTime: "15:40 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/7937364/pexels-photo-7937364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/more-2026-05-22-sheikh-mohammed-issues-law-regulating-antiquities-and-archaeolog/900/600"
 imageAlt: "Health visual for Why Sheikh Mohammed Issues Law Regulating Antiquities and Archaeological S Deserves A Closer Dubai Time Read"
 tags: ["Health", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "7937364"
+pexelsId: "dedupe-more-2026-05-22-sheikh-mohammed-issues-law-regulating-antiquities-and-archaeolog"
 ---
 
 Health stories become important when they leave the conference room and enter a clinic, a pharmacy or a family WhatsApp group.

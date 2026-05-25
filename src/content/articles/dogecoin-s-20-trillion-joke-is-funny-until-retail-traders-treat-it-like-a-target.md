@@ -4,10 +4,11 @@ description: "Dogecoin chatter jumped after co-creator Billy Markus joked about 
 category: "Crypto"
 author: "Mira Sethi"
 date: 2026-05-24
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Dogecoin’s $20 Trillion Joke Is Funny Until Retail Traders Treat It Like A Target"
+image: "https://images.pexels.com/photos/15627310/pexels-photo-15627310.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Waterfront dining and hospitality space in a modern city."
 tags: ["Dogecoin", "Crypto", "Meme Coins", "Retail Investors", "Billy Markus", "Digital Assets", "Crypto Trading"]
 draft: false
+pexelsId: "15627310"
 ---
 
 A joke can move faster than money in crypto. That is the uncomfortable truth Dogecoin has shown again.

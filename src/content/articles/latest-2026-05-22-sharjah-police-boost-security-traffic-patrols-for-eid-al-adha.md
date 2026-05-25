@@ -6,11 +6,11 @@ author: "Anika Menon"
 date: 2026-05-22
 publishedTime: "13:16 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/12955837/pexels-photo-12955837.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/latest-2026-05-22-sharjah-police-boost-security-traffic-patrols-for-eid-al-adha-/900/600"
 imageAlt: "Middle East visual for Why Sharjah Police Boost Security Traffic Patrols for Eid Al Deserves A Closer Dubai Time Read"
 tags: ["Middle East", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "12955837"
+pexelsId: "dedupe-latest-2026-05-22-sharjah-police-boost-security-traffic-patrols-for-eid-al-adha-"
 ---
 
 Regional news is rarely distant for Dubai. It shapes confidence, trade, travel and the quiet calculations people make every day.

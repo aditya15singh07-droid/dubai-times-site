@@ -5,10 +5,11 @@ category: "Real Estate"
 author: "Ishaan Vora"
 date: 2026-04-22
 watchLine: "Watch leasing velocity, tenant mix and whether Dubai can keep adding premium office stock without weakening pricing power."
-image: "https://images.pexels.com/photos/15478136/pexels-photo-15478136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Modern skyscrapers rising in a prime commercial district under a clear sky."
+image: "https://picsum.photos/seed/uptown-dubai-office-towers-2026-md-1092-0/900/600"
+imageAlt: "Real Estate visual for Uptown Dubai's New Office Towers Say The Premium Workspace Race Is Not Over"
 tags: ["Real Estate", "Dubai Time"]
 draft: false
+pexelsId: "dedupe-uptown-dubai-office-towers-2026-md-1092-0"
 ---
 
 For a while, many global commentators treated the office as a dying asset. Remote work would shrink demand, headquarters would decentralise and premium towers would lose their shine. Dubai never fully bought that story. It kept building, leasing and pitching itself as a place where companies still wanted a visible base. DMCC's decision to launch two new commercial towers in Uptown Dubai suggests the city still believes that bet is paying off. More importantly, it suggests tenants agree.

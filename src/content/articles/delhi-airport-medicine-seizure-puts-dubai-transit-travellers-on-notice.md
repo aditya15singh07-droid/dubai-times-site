@@ -4,10 +4,11 @@ description: "CISF detained two passengers at Delhi’s IGI Airport after medici
 category: "Health"
 author: "Mira Sethi"
 date: 2026-05-24
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Delhi Airport Medicine Seizure Puts Dubai Transit Travellers on Notice"
+image: "https://images.pexels.com/photos/1763075/pexels-photo-1763075.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Live entertainment crowd at a concert."
 tags: ["Delhi Airport", "CISF", "Dubai Transit", "Medicines", "Customs", "Health", "Travel", "Kabul", "Air India"]
 draft: false
+pexelsId: "1763075"
 ---
 
 A suitcase full of medicines can look harmless to a family. At an airport, it can quickly become a legal problem.

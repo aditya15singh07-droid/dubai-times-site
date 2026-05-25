@@ -4,10 +4,11 @@ description: "Michael Carrick has been appointed permanent Manchester United man
 category: "Sport"
 author: "Tara Khanna"
 date: 2026-05-24
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Michael Carrick Gets Manchester United Job, And The Pressure Has Only Just Begun"
+image: "https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Colleagues reviewing documents during a planning session."
 tags: ["Michael Carrick", "Manchester United", "Premier League", "Champions League", "Wayne Rooney", "Football", "Indian Football Fans"]
 draft: false
+pexelsId: "3182812"
 ---
 
 Michael Carrick has always looked like the quiet man in a noisy room. That may now be his biggest strength, and his biggest test.

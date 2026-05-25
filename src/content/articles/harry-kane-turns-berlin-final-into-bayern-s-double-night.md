@@ -4,10 +4,11 @@ description: "Harry Kane scored a second-half hat-trick as Bayern Munich beat Vf
 category: "Sport"
 author: "Anika Menon"
 date: 2026-05-24
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Harry Kane Turns Berlin Final Into Bayern’s Double Night"
+image: "https://images.pexels.com/photos/4575053/pexels-photo-4575053.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Officials seated for a formal international meeting."
 tags: ["Harry Kane", "Bayern Munich", "German Cup", "DFB Pokal", "VfB Stuttgart", "Football", "Sport"]
 draft: false
+pexelsId: "4575053"
 ---
 
 Harry Kane has spent much of his career carrying impossible expectations. On Saturday night in Berlin, he carried Bayern Munich to another trophy.

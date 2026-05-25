@@ -5,11 +5,11 @@ category: "Travel"
 author: "Armaan Gill"
 date: 2026-05-17
 watchLine: "Watch repeat visitation, hotel pricing balance and whether Dubai keeps converting event demand into longer stays."
-image: "https://images.pexels.com/photos/31703898/pexels-photo-31703898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A dynamic aerial view of a bustling crowd with a zoom blur effect, showcasing movement and energy."
+image: "https://picsum.photos/seed/dubai-tourism-record-year-momentum-2026-md-1062-0/900/600"
+imageAlt: "Travel visual for Dubai Tourism Enters 2026 With Record Visitor Momentum"
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "31703898"
+pexelsId: "dedupe-dubai-tourism-record-year-momentum-2026-md-1062-0"
 ---
 
 Visitor records sound like airport numbers until you follow the money.

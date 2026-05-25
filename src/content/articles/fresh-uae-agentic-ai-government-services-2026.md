@@ -6,9 +6,9 @@ author: "Anika Menon"
 date: 2026-05-21
 publishedTime: "14:42 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://images.pexels.com/photos/8867631/pexels-photo-8867631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Digital service screens in a smart government setting"
-pexelsId: "8867631"
+image: "https://picsum.photos/seed/fresh-uae-agentic-ai-government-services-2026-md-687-0/900/600"
+imageAlt: "Middle East visual for The UAE’s Agentic AI Plan Raises The Bar For Government Service Delivery"
+pexelsId: "dedupe-fresh-uae-agentic-ai-government-services-2026-md-687-0"
 tags: ["Middle East", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---

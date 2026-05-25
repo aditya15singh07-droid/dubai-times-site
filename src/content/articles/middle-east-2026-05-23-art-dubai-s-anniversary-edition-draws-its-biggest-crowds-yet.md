@@ -6,11 +6,11 @@ author: "Reyan Shah"
 date: 2026-05-23
 publishedTime: "11:48 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/1181396/pexels-photo-1181396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/middle-east-2026-05-23-art-dubai-s-anniversary-edition-draws-its-biggest-crowds-/900/600"
 imageAlt: "Entertainment visual for Art Dubai Anniversary Edition Draws Its Biggest Crowds: Puts The Gulf's Attention Economy On Display"
 tags: ["Entertainment","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "1181396"
+pexelsId: "dedupe-middle-east-2026-05-23-art-dubai-s-anniversary-edition-draws-its-biggest-crowds-"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why art dubai anniversary edition draws its biggest crowds deserves a closer read across the Middle East today.
 

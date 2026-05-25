@@ -6,9 +6,9 @@ author: "Rian Kapoor"
 date: 2026-05-21
 publishedTime: "13:05 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/3184460/pexels-photo-3184460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "People exchanging ideas across a modern office table"
-pexelsId: "3184460"
+image: "https://picsum.photos/seed/category-batch-2026-05-21-dubai-wellness-spending-2026-md-791-0/900/600"
+imageAlt: "Lifestyle visual for Dubai Wellness Spending Is Moving From Luxury To Routine"
+pexelsId: "dedupe-category-batch-2026-05-21-dubai-wellness-spending-2026-md-791-0"
 tags: ["Lifestyle", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

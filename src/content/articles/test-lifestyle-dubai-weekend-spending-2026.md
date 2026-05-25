@@ -6,10 +6,11 @@ author: "Myra D Souza"
 date: 2026-05-20
 publishedTime: "15:28 GST"
 watchLine: "Watch how malls, restaurants and public spaces package cooler, shorter and more useful experiences."
-image: "https://images.pexels.com/photos/15627310/pexels-photo-15627310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Waterfront dining and hospitality space in a modern city."
+image: "https://picsum.photos/seed/test-lifestyle-dubai-weekend-spending-2026-md-822-0/900/600"
+imageAlt: "Lifestyle visual for Dubai's Lifestyle Economy Is Really A Time Economy"
 tags: ["Lifestyle", "Dubai Time"]
 draft: false
+pexelsId: "dedupe-test-lifestyle-dubai-weekend-spending-2026-md-822-0"
 ---
 
 Lifestyle spending rises when people feel their time is respected.

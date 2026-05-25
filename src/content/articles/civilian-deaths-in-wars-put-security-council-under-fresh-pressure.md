@@ -4,10 +4,11 @@ description: "The UN Security Council has opened its annual debate on protecting
 category: "International"
 author: "Zoya Malhotra"
 date: 2026-05-24
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Civilian Deaths In Wars Put Security Council Under Fresh Pressure"
+image: "https://images.pexels.com/photos/40568/medical-appointment-doctor-healthcare-40568.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Doctor consulting a patient in a healthcare setting."
 tags: ["Security Council", "Civilians In Conflict", "United Nations", "Humanitarian Aid", "Global Conflict", "Middle East", "Indian Readers", "UAE"]
 draft: false
+pexelsId: "40568"
 ---
 
 A child does not choose a war. A nurse does not choose a missile strike. A family does not choose to lose its home because leaders fail to stop fighting.

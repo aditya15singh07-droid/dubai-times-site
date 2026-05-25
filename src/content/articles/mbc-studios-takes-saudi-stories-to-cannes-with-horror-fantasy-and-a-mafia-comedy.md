@@ -4,10 +4,11 @@ description: "MBC Studios has unveiled a new Saudi film and television slate at 
 category: "Entertainment"
 author: "Reyansh Suri"
 date: 2026-05-24
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "MBC Studios takes Saudi stories to Cannes with horror, fantasy and a mafia comedy"
+image: "https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Business meeting with hands and documents."
 tags: ["MBC Studios", "Saudi Arabia", "Cannes Film Festival", "Arab Cinema", "Saudi Entertainment", "Osama Al-Musallam", "Hana Al-Omair"]
 draft: false
+pexelsId: "3184418"
 ---
 
 A Saudi horror story landing at Cannes is not just festival chatter anymore.

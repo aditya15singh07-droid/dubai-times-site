@@ -6,10 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-18
 publishedTime: "03:40 GST"
 watchLine: "Watch whether the cooperation produces visible projects before the 2026 UN Water Conference in Abu Dhabi."
-image: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Waterfront infrastructure and modern urban skyline"
+image: "https://picsum.photos/seed/uae-netherlands-water-energy-cooperation-2026-md-980-0/900/600"
+imageAlt: "International visual for Why The UAE's Netherlands Push Matters For A Country Thinking Hard About Water And Climate"
 tags: ["International", "Dubai Time"]
 draft: false
+pexelsId: "dedupe-uae-netherlands-water-energy-cooperation-2026-md-980-0"
 ---
 
 Water diplomacy can sound technical until you live in a region where water is a strategic question every single day.

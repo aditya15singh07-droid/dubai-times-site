@@ -6,11 +6,11 @@ author: "Ishaan Roy"
 date: 2026-05-23
 publishedTime: "11:04 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/middle-east-2026-05-23-sheikh-hamdan-approves-dhs1-5bn-boost-these-key-dubai-sec/900/600"
 imageAlt: "Middle East visual for Sheikh Hamdan Approves Dhs1 5bn Boost These Key: Puts Regional Resilience Back In Focus"
 tags: ["Middle East","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "3183197"
+pexelsId: "dedupe-middle-east-2026-05-23-sheikh-hamdan-approves-dhs1-5bn-boost-these-key-dubai-sec"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why sheikh hamdan approves dhs1 5bn boost these key deserves a closer read across the Middle East today.
 

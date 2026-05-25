@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-22
 publishedTime: "10:44 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/7937364/pexels-photo-7937364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/latest-2026-05-22-uae-sets-leading-example-in-biodiversity-protection-md-663-0/900/600"
 imageAlt: "Business visual for What UAE Sets Leading Example in Biodiversity Protection Signals About UAE Business Confidence Now"
 tags: ["Business", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "7937364"
+pexelsId: "dedupe-latest-2026-05-22-uae-sets-leading-example-in-biodiversity-protection-md-663-0"
 ---
 
 Business news looks clean on paper. In real life, it decides whether founders hire, investors wait and small firms take the next risk.

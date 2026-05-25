@@ -5,11 +5,11 @@ category: "International"
 author: "Reyansh Suri"
 date: 2026-05-18
 watchLine: "Watch whether the full six-bridge package meaningfully eases peak-hour pressure around Sheikh Zayed Road and Al Mustaqbal Street."
-image: "https://images.pexels.com/photos/37089595/pexels-photo-37089595.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "View of the Binondo-Intramuros Bridge in Manila, Philippines, with modern architecture backdrop."
+image: "https://picsum.photos/seed/world-trade-centre-roundabout-bridge-traffic-relief-2026-md-1024-0/900/600"
+imageAlt: "International visual for Dubai Opens Another Trade Centre Bridge, With A Bigger Promise Than Concrete"
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "37089595"
+pexelsId: "dedupe-world-trade-centre-roundabout-bridge-traffic-relief-2026-md-1024-0"
 ---
 
 In Dubai, two saved minutes are never just two minutes.

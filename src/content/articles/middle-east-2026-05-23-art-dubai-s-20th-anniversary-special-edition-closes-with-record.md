@@ -6,11 +6,11 @@ author: "Ishaan Roy"
 date: 2026-05-23
 publishedTime: "12:08 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/325185/pexels-photo-325185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/middle-east-2026-05-23-art-dubai-s-20th-anniversary-special-edition-closes-with-/900/600"
 imageAlt: "Entertainment visual for Art Dubai 20th Anniversary Special Edition Closes: Turns Culture Into A Serious Regional Business"
 tags: ["Entertainment","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "325185"
+pexelsId: "dedupe-middle-east-2026-05-23-art-dubai-s-20th-anniversary-special-edition-closes-with-"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why art dubai 20th anniversary special edition closes deserves a closer read across the Middle East today.
 

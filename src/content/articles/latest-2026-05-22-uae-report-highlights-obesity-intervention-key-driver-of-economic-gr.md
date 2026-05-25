@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-22
 publishedTime: "10:48 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/3182773/pexels-photo-3182773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/latest-2026-05-22-uae-report-highlights-obesity-intervention-key-driver-of-econo/900/600"
 imageAlt: "Business visual for Why UAE Report Highlights Obesity Intervention Key Driver of Economic Deserves A Closer Dubai Time Read"
 tags: ["Business", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "3182773"
+pexelsId: "dedupe-latest-2026-05-22-uae-report-highlights-obesity-intervention-key-driver-of-econo"
 ---
 
 Business news looks clean on paper. In real life, it decides whether founders hire, investors wait and small firms take the next risk.

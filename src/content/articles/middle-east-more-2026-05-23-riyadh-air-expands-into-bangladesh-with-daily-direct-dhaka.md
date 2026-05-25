@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-23
 publishedTime: "15:32 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/4575053/pexels-photo-4575053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/middle-east-more-2026-05-23-riyadh-air-expands-into-bangladesh-with-daily-direct/900/600"
 imageAlt: "Travel visual for Riyadh Air Expands Into Bangladesh with Daily Direct: Shows How Regional Journeys Are Changing"
 tags: ["Travel","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "4575053"
+pexelsId: "dedupe-middle-east-more-2026-05-23-riyadh-air-expands-into-bangladesh-with-daily-direct"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why riyadh air expands into bangladesh with daily direct deserves a closer read across the Middle East today.
 

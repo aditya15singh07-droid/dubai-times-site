@@ -6,10 +6,11 @@ author: "Naina Batra"
 date: 2026-05-19
 publishedTime: "17:39 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/3184300/pexels-photo-3184300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/latest-why-shifting-price-expectations-are-accelerating-dubai-s-real-estate-dema/900/600"
 imageAlt: "Real Estate visual for What Why Shifting Price Expectations Are Accelerating Dubai S Reveals About Dubai Property’s Next Serious Test"
 tags: ["Real Estate", "Dubai Time"]
 draft: false
+pexelsId: "dedupe-latest-why-shifting-price-expectations-are-accelerating-dubai-s-real-estate-dema"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

@@ -4,10 +4,11 @@ description: "Fifteen Senegalese football supporters returned home after a Moroc
 category: "Sport"
 author: "Myra D'Souza"
 date: 2026-05-25
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Senegal Fans Return Home After Morocco Pardon, But AFCON Dispute Still Burns"
+image: "https://images.pexels.com/photos/3846820/pexels-photo-3846820.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Travel planning with passport and journey documents."
 tags: ["Senegal Football", "Morocco", "Africa Cup of Nations", "AFCON", "Football Fans", "Court of Arbitration for Sport", "Middle East Sport", "Gulf Sport Business"]
 draft: false
+pexelsId: "3846820"
 ---
 
 A football final can end in 90 minutes. Its anger can travel much longer.

@@ -6,11 +6,11 @@ author: "Zayan Mirza"
 date: 2026-05-23
 publishedTime: "11:16 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/323705/pexels-photo-323705.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/middle-east-2026-05-23-marquee-brands-enters-strategic-partnership-with-damac-gr/900/600"
 imageAlt: "Real Estate visual for Marquee Brands Enters Strategic Partnership with DAMAC Group: Puts Homebuyers And Investors In The Same Frame"
 tags: ["Real Estate","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "323705"
+pexelsId: "dedupe-middle-east-2026-05-23-marquee-brands-enters-strategic-partnership-with-damac-gr"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why marquee brands enters strategic partnership with damac group deserves a closer read across the Middle East today.
 

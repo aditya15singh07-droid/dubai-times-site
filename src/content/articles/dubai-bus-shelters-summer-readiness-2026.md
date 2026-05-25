@@ -6,11 +6,11 @@ author: "Naina Batra"
 date: 2026-05-18
 publishedTime: "12:31 GST"
 watchLine: "Watch whether shelter maintenance improves rider confidence during the hottest months of the year."
-image: "https://images.pexels.com/photos/10574771/pexels-photo-10574771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A group of commuters waiting at an urban bus stop."
+image: "https://picsum.photos/seed/dubai-bus-shelters-summer-readiness-2026-md-971-0/900/600"
+imageAlt: "Sport visual for Dubai's Bus Shelters Are A Small Summer Story With A Big Public Impact"
 tags: ["Sport", "Dubai Time"]
 draft: false
-pexelsId: "10574771"
+pexelsId: "dedupe-dubai-bus-shelters-summer-readiness-2026-md-971-0"
 ---
 
 In Dubai, a bus shelter is not just a place to wait.

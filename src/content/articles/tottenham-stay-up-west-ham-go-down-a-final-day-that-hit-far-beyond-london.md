@@ -4,10 +4,11 @@ description: "Tottenham avoided Premier League relegation on a tense final day a
 category: "Sport"
 author: "Armaan Gill"
 date: 2026-05-25
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Tottenham Stay Up, West Ham Go Down: A Final Day That Hit Far Beyond London"
+image: "https://images.pexels.com/photos/323705/pexels-photo-323705.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Modern residential tower and property skyline."
 tags: ["Premier League", "Tottenham Hotspur", "West Ham United", "Football", "Pep Guardiola", "Mohamed Salah", "Arsenal", "Manchester City", "Liverpool", "Indian Football Fans"]
 draft: false
+pexelsId: "323705"
 ---
 
 For Tottenham fans, this was not a football match. It was a long, uncomfortable breath held for 90 minutes.

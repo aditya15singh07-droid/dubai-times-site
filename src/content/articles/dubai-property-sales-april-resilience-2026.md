@@ -5,11 +5,11 @@ category: "Real Estate"
 author: "Kabir Anand"
 date: 2026-05-17
 watchLine: "Watch whether transaction value keeps rising faster than volume and whether Dubai South keeps leading area demand."
-image: "https://images.pexels.com/photos/12955837/pexels-photo-12955837.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Miniature wooden house with keys and contract symbolizing real estate transactions."
+image: "https://picsum.photos/seed/dubai-property-sales-april-resilience-2026-md-1056-0/900/600"
+imageAlt: "Real Estate visual for Dubai Property Sales Stay Resilient As April Transactions Reach AED48 Billion"
 tags: ["Real Estate", "Dubai Time"]
 draft: false
-pexelsId: "12955837"
+pexelsId: "dedupe-dubai-property-sales-april-resilience-2026-md-1056-0"
 ---
 
 Dubai property has a habit of annoying its doubters.

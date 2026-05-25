@@ -6,10 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-20
 publishedTime: "06:00 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/7648472/pexels-photo-7648472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/latest-uae-eid-al-adha-can-private-sector-employees-take-monday-off-for-a-9-day-/900/600"
 imageAlt: "Lifestyle visual for What UAE Eid Al Adha Can Private Sector Employees Says About Dubai’s Push From Speed To Trust"
 tags: ["Lifestyle", "Dubai Time"]
 draft: false
+pexelsId: "dedupe-latest-uae-eid-al-adha-can-private-sector-employees-take-monday-off-for-a-9-day-"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

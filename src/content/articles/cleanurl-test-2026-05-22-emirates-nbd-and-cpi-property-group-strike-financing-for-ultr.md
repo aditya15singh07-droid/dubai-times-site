@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-22
 publishedTime: "21:12 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/10214100/pexels-photo-10214100.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/cleanurl-test-2026-05-22-emirates-nbd-and-cpi-property-group-strike-financing-fo/900/600"
 imageAlt: "Real Estate visual for What Dubai’s Luxury Property Financing Reveals About Dubai Property’s Next Serious Test"
 tags: ["Real Estate", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "10214100"
+pexelsId: "dedupe-cleanurl-test-2026-05-22-emirates-nbd-and-cpi-property-group-strike-financing-fo"
 ---
 
 Property news in Dubai always lands at the dining table. Tenants, buyers and brokers all read the same headline with very different worries.

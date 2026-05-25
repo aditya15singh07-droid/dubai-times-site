@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-22
 publishedTime: "21:16 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/267501/pexels-photo-267501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/cleanurl-test-2026-05-22-using-salik-in-dubai-new-5-vat-rule-starts-june-1-md-46/900/600"
 imageAlt: "Lifestyle visual for What Salik’s 5% VAT Shift Means For The Daily Cost Of Moving Around Dubai"
 tags: ["Lifestyle", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "267501"
+pexelsId: "dedupe-cleanurl-test-2026-05-22-using-salik-in-dubai-new-5-vat-rule-starts-june-1-md-46"
 ---
 
 Lifestyle stories can look soft from a distance. Then they start changing weekend plans, household budgets and how a city feels after work.

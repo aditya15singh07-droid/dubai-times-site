@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-17
 publishedTime: "14:45 GST"
 watchLine: "Track whether DEWA's 2028 transmission pipeline lands ahead of new community, hotel, industrial and data-infrastructure demand."
-image: "https://images.pexels.com/photos/29348617/pexels-photo-29348617.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "High voltage transmission towers with clear blue sky at dusk in an open field."
+image: "https://picsum.photos/seed/dewa-transmission-grid-expansion-2025-2028-md-1038-0/900/600"
+imageAlt: "Travel visual for DEWA's Grid Expansion Shows The Scale Behind Dubai's Growth"
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "29348617"
+pexelsId: "dedupe-dewa-transmission-grid-expansion-2025-2028-md-1038-0"
 ---
 
 Dubai's skyline gets the attention. The electricity grid does the hard work.

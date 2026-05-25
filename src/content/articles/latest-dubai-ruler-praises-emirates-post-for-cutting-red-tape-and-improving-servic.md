@@ -6,10 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-19
 publishedTime: "17:38 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/3184325/pexels-photo-3184325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/latest-dubai-ruler-praises-emirates-post-for-cutting-red-tape-and-improving-serv/900/600"
 imageAlt: "Business visual for What Dubai Ruler Praises Emirates Post for Cutting Red Says About Dubai’s Push From Speed To Trust"
 tags: ["Business", "Dubai Time"]
 draft: false
+pexelsId: "dedupe-latest-dubai-ruler-praises-emirates-post-for-cutting-red-tape-and-improving-serv"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

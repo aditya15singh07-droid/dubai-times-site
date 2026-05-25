@@ -4,10 +4,11 @@ description: "Imagine Dragons will headline the Abu Dhabi Grand Prix After-Race 
 category: "Entertainment"
 author: "Ishaan Vora"
 date: 2026-05-24
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Imagine Dragons Add Stadium Firepower To Abu Dhabi F1 Weekend"
+image: "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Professionals discussing strategy around a conference table."
 tags: ["Imagine Dragons", "Abu Dhabi Grand Prix", "Yas Island", "F1", "UAE Entertainment", "After-Race Concerts", "Yasalam", "Lewis Capaldi", "Zara Larsson"]
 draft: false
+pexelsId: "3184465"
 ---
 
 For many fans, an Abu Dhabi Grand Prix ticket is no longer just about the race.

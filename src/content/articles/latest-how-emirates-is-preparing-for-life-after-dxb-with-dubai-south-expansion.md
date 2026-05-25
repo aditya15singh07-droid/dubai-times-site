@@ -6,10 +6,11 @@ author: "Armaan Gill"
 date: 2026-05-19
 publishedTime: "15:02 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/378570/pexels-photo-378570.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/latest-how-emirates-is-preparing-for-life-after-dxb-with-dubai-south-expansion-m/900/600"
 imageAlt: "Middle East visual for What How Emirates Is Preparing for Life After Dxb Says About Dubai’s Push From Speed To Trust"
 tags: ["Middle East", "Dubai Time"]
 draft: false
+pexelsId: "dedupe-latest-how-emirates-is-preparing-for-life-after-dxb-with-dubai-south-expansion-m"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

@@ -6,10 +6,11 @@ author: "Armaan Gill"
 date: 2026-05-19
 publishedTime: "13:39 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/257904/pexels-photo-257904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/latest-uae-business-majid-al-futtaim-to-develop-16-8bn-master-community-in-dubai/900/600"
 imageAlt: "Real Estate visual for What Majid Al Futtaim to Develop 16 8bn Master Says About Dubai’s Push From Speed To Trust"
 tags: ["Real Estate", "Dubai Time"]
 draft: false
+pexelsId: "dedupe-latest-uae-business-majid-al-futtaim-to-develop-16-8bn-master-community-in-dubai"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

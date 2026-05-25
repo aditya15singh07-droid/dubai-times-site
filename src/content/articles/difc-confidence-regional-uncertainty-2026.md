@@ -6,11 +6,11 @@ author: "Tara Khanna"
 date: 2026-05-18
 publishedTime: "12:44 GST"
 watchLine: "Watch whether global banks, wealth managers and fintech firms continue expanding in DIFC despite regional uncertainty."
-image: "https://images.pexels.com/photos/34130500/pexels-photo-34130500.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Modern skyscrapers in Dubai's financial district under a clear sky."
+image: "https://picsum.photos/seed/difc-confidence-regional-uncertainty-2026-md-967-0/900/600"
+imageAlt: "Business visual for DIFC's Confidence Story Is Really About Stability In A Nervous Region"
 tags: ["Business", "Dubai Time"]
 draft: false
-pexelsId: "34130500"
+pexelsId: "dedupe-difc-confidence-regional-uncertainty-2026-md-967-0"
 ---
 
 Money likes growth.

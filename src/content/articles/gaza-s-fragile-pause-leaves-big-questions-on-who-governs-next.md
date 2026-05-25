@@ -4,10 +4,11 @@ description: "The UN Security Council debate on Gaza has shifted from stopping f
 category: "International"
 author: "Mira Sethi"
 date: 2026-05-24
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Gaza’s Fragile Pause Leaves Big Questions On Who Governs Next"
+image: "https://images.pexels.com/photos/1763075/pexels-photo-1763075.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Live entertainment crowd at a concert."
 tags: ["Gaza", "UN Security Council", "West Bank", "Middle East", "Humanitarian Aid", "Ceasefire", "International Affairs"]
 draft: false
+pexelsId: "1763075"
 ---
 
 A ceasefire can quiet the guns, but it cannot rebuild a life.

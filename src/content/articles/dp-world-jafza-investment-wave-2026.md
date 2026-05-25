@@ -6,10 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-23
 publishedTime: "01:10 GST"
 watchLine: "Watch whether these Jafza commitments turn into faster hiring, new warehouse capacity and durable industrial demand."
-image: "https://images.pexels.com/photos/3182773/pexels-photo-3182773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Cargo containers stacked at a major port logistics yard."
+image: "https://picsum.photos/seed/dp-world-jafza-investment-wave-2026-md-463-0/900/600"
+imageAlt: "Business visual for Why Jafza's AED 854 Million Investment Wave Matters For Dubai Jobs And Trade"
 tags: ["Business", "Dubai", "Jafza", "DP World", "Trade"]
 draft: false
+pexelsId: "dedupe-dp-world-jafza-investment-wave-2026-md-463-0"
 ---
 
 The easiest way to misunderstand Dubai is to look only at the skyline.

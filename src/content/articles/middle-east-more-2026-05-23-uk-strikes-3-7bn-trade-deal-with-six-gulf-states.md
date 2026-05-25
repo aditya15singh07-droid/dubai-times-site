@@ -6,11 +6,11 @@ author: "Arjun Malhotra"
 date: 2026-05-23
 publishedTime: "17:56 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/3184639/pexels-photo-3184639.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/middle-east-more-2026-05-23-uk-strikes-3-7bn-trade-deal-with-six-gulf-states-md-/900/600"
 imageAlt: "Sport visual for UK Strikes 3 7bn Trade Deal with Six: Puts Fans And Sponsors In The Same Story"
 tags: ["Sport","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "3184639"
+pexelsId: "dedupe-middle-east-more-2026-05-23-uk-strikes-3-7bn-trade-deal-with-six-gulf-states-md-"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why uk strikes 3 7bn trade deal with six deserves a closer read across the Middle East today.
 

@@ -6,11 +6,11 @@ author: "Anika Menon"
 date: 2026-05-22
 publishedTime: "13:04 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/4430911/pexels-photo-4430911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/latest-2026-05-22-next-chapter-of-sme-lending-in-the-uae-partnership-resilience-/900/600"
 imageAlt: "Middle East visual for Why Next Chapter of Sme Lending in the UAE Matters Across The Gulf Now"
 tags: ["Middle East", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "4430911"
+pexelsId: "dedupe-latest-2026-05-22-next-chapter-of-sme-lending-in-the-uae-partnership-resilience-"
 ---
 
 Regional news is rarely distant for Dubai. It shapes confidence, trade, travel and the quiet calculations people make every day.

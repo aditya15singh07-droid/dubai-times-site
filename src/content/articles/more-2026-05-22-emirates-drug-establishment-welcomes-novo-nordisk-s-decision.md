@@ -6,11 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-22
 publishedTime: "14:04 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/33329502/pexels-photo-33329502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/more-2026-05-22-emirates-drug-establishment-welcomes-novo-nordisk-s-decision-md-/900/600"
 imageAlt: "Travel visual for What Emirates Drug Establishment Welcomes Novo Nordisk S Decision Says About Dubai’s Push From Speed To Trust"
 tags: ["Travel", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "33329502"
+pexelsId: "dedupe-more-2026-05-22-emirates-drug-establishment-welcomes-novo-nordisk-s-decision-md-"
 ---
 
 A travel update is never only about a route or a terminal. It is about the family checking fares, the hotel waiting for bookings and the worker planning a smoother commute.

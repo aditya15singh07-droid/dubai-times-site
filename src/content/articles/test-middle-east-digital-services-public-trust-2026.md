@@ -6,10 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-20
 publishedTime: "17:03 GST"
 watchLine: "Watch privacy safeguards, complaint channels and whether services reduce paperwork in real life."
-image: "https://images.pexels.com/photos/8867631/pexels-photo-8867631.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Digital public service screens used in a smart city setting."
+image: "https://picsum.photos/seed/test-middle-east-digital-services-public-trust-2026-md-812-0/900/600"
+imageAlt: "Middle East visual for Middle East Digital Services Now Face The Trust Test"
 tags: ["Middle East", "Dubai Time"]
 draft: false
+pexelsId: "dedupe-test-middle-east-digital-services-public-trust-2026-md-812-0"
 ---
 
 Technology becomes public infrastructure when people have no practical alternative.

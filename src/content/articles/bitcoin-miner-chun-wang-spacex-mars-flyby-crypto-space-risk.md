@@ -4,10 +4,11 @@ description: "Crypto entrepreneur Chun Wang has been named for SpaceX’s planne
 category: "Crypto"
 author: "Zoya Malhotra"
 date: 2026-05-23
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Bitcoin Miner Chun Wang Joins SpaceX’s Planned Mars Fly-By, But The Risk Is Bigger Than The Headline"
+image: "https://picsum.photos/seed/bitcoin-miner-chun-wang-spacex-mars-flyby-crypto-space-risk-md-465-0/900/600"
+imageAlt: "Crypto visual for Bitcoin Miner Chun Wang Joins SpaceX’s Planned Mars Fly-By, But The Risk Is Bigger Than The Headline"
 tags: ["Bitcoin", "SpaceX", "Mars", "Chun Wang", "F2Pool", "Crypto", "Private Spaceflight", "Starship", "UAE Investors", "Gulf Business"]
 draft: false
+pexelsId: "dedupe-bitcoin-miner-chun-wang-spacex-mars-flyby-crypto-space-risk-md-465-0"
 ---
 
 A Bitcoin fortune is now being aimed at Mars. That sounds like science fiction, but it also says something very real about today’s money.

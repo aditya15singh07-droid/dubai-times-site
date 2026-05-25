@@ -6,9 +6,9 @@ author: "Rian Kapoor"
 date: 2026-05-21
 publishedTime: "13:14 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/1181406/pexels-photo-1181406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Workspace with laptops notes and planning material"
-pexelsId: "1181406"
+image: "https://picsum.photos/seed/category-batch-2026-05-21-family-life-dubai-neighbourhoods-2026-md-771-0/900/600"
+imageAlt: "Lifestyle visual for Family Life In Dubai Is Being Shaped By Neighbourhood Design"
+pexelsId: "dedupe-category-batch-2026-05-21-family-life-dubai-neighbourhoods-2026-md-771-0"
 tags: ["Lifestyle", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

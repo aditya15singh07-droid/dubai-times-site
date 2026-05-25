@@ -6,9 +6,9 @@ author: "Aarav Mehta"
 date: 2026-05-21
 publishedTime: "14:15 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://images.pexels.com/photos/7648472/pexels-photo-7648472.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Passengers moving through a bright airport terminal"
-pexelsId: "7648472"
+image: "https://picsum.photos/seed/fresh-etihad-rail-first-cities-passenger-travel-2026-md-705-0/900/600"
+imageAlt: "Travel visual for Etihad Rail’s First Passenger Cities Could Change How UAE Families Plan Travel"
+pexelsId: "dedupe-fresh-etihad-rail-first-cities-passenger-travel-2026-md-705-0"
 tags: ["Travel", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---

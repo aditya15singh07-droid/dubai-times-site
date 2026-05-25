@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-23
 publishedTime: "12:40 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/14641161/pexels-photo-14641161.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/middle-east-2026-05-23-ufc-fight-night-abu-dhabi-to-return-to-yas-island-in-july/900/600"
 imageAlt: "Sport visual for The Gulf Sports Calendar: Shows Why Gulf Sport Is Becoming Serious Business In Abu Dhabi"
 tags: ["Sport","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "14641161"
+pexelsId: "dedupe-middle-east-2026-05-23-ufc-fight-night-abu-dhabi-to-return-to-yas-island-in-july"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the gulf sports calendar deserves a closer read across the Middle East today.
 

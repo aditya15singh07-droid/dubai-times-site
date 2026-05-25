@@ -4,10 +4,11 @@ description: "The Gulf’s first free-trade deal with a G7 economy is expected t
 category: "Business"
 author: "Anika Menon"
 date: 2026-05-24
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Gulf-UK $5 Billion Trade Deal Could Make Business Easier From Dubai To London"
+image: "https://images.pexels.com/photos/15627310/pexels-photo-15627310.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Waterfront dining and hospitality space in a modern city."
 tags: ["GCC", "UK", "Free Trade Agreement", "Dubai Business", "UAE Economy", "Gulf Trade", "Investment", "India Gulf"]
 draft: false
+pexelsId: "15627310"
 ---
 
 For a Dubai-based Indian professional, a trade deal signed far away can sound like boardroom noise. But this one may quietly touch jobs, travel, hiring, food prices, company expansion and investment flows across the Gulf.

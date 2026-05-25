@@ -6,9 +6,9 @@ author: "Rian Kapoor"
 date: 2026-05-21
 publishedTime: "13:11 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/3760067/pexels-photo-3760067.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Modern urban towers in soft daylight"
-pexelsId: "3760067"
+image: "https://picsum.photos/seed/category-batch-2026-05-21-dubai-culture-weekend-habits-2026-md-775-0/900/600"
+imageAlt: "Lifestyle visual for Dubai’s Culture Calendar Is Changing Weekend Habits"
+pexelsId: "dedupe-category-batch-2026-05-21-dubai-culture-weekend-habits-2026-md-775-0"
 tags: ["Lifestyle", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

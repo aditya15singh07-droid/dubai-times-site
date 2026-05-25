@@ -6,11 +6,11 @@ author: "Naina Batra"
 date: 2026-05-22
 publishedTime: "11:56 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/4560092/pexels-photo-4560092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/latest-2026-05-22-mansour-bin-zayed-attends-3rd-round-of-group-stage-matches-of-/900/600"
 imageAlt: "Sport visual for What Mansour Bin Zayed Attends 3rd Round of Group Says About Dubai’s Push From Speed To Trust"
 tags: ["Sport", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "4560092"
+pexelsId: "dedupe-latest-2026-05-22-mansour-bin-zayed-attends-3rd-round-of-group-stage-matches-of-"
 ---
 
 Sport in the UAE is no longer only about the scoreboard. It is also about families, tourism, sponsors and the next generation of fans.

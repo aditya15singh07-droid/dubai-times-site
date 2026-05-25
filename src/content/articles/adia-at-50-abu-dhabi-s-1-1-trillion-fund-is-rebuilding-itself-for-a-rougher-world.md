@@ -4,10 +4,11 @@ description: "Abu Dhabi Investment Authority marks 50 years with a sharper focus
 category: "Business"
 author: "Anika Menon"
 date: 2026-05-24
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "ADIA at 50: Abu Dhabi’s $1.1 Trillion Fund Is Rebuilding Itself for a Rougher World"
+image: "https://images.pexels.com/photos/8730123/pexels-photo-8730123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Three professionals working together at a table, discussing documents in an office setting."
 tags: ["ADIA", "Abu Dhabi", "Sovereign Wealth Fund", "UAE Economy", "Gulf Business", "Global Markets", "Investment"]
 draft: false
+pexelsId: "8730123"
 ---
 
 Money rarely makes noise when it moves at this scale. But when Abu Dhabi’s biggest investment engine turns 50, markets listen.

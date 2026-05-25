@@ -6,9 +6,9 @@ author: "Zoya Malhotra"
 date: 2026-05-21
 publishedTime: "13:02 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/3184431/pexels-photo-3184431.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Executives checking a project plan in a meeting room"
-pexelsId: "3184431"
+image: "https://picsum.photos/seed/category-batch-2026-05-21-new-dubai-districts-family-demand-2026-md-793-0/900/600"
+imageAlt: "Real Estate visual for New Dubai Districts Need Families As Much As Investors"
+pexelsId: "dedupe-category-batch-2026-05-21-new-dubai-districts-family-demand-2026-md-793-0"
 tags: ["Real Estate", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

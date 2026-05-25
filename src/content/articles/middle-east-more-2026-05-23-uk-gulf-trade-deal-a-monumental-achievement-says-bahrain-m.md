@@ -6,11 +6,11 @@ author: "Kabir Sethi"
 date: 2026-05-23
 publishedTime: "16:16 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/1105766/pexels-photo-1105766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/middle-east-more-2026-05-23-uk-gulf-trade-deal-a-monumental-achievement-says-bah/900/600"
 imageAlt: "Business visual for UK Gulf Trade Deal A Monumental Achievement Says: Shows How Gulf Capital Is Moving Now"
 tags: ["Business","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "1105766"
+pexelsId: "dedupe-middle-east-more-2026-05-23-uk-gulf-trade-deal-a-monumental-achievement-says-bah"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why uk gulf trade deal a monumental achievement says deserves a closer read across the Middle East today.
 

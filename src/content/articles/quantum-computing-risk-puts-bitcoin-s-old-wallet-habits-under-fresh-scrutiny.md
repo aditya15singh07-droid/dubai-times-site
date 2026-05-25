@@ -4,10 +4,11 @@ description: "Glassnode says more than 6 million Bitcoin have exposed public key
 category: "Crypto"
 author: "Armaan Gill"
 date: 2026-05-24
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Quantum Computing Risk Puts Bitcoin’s Old Wallet Habits Under Fresh Scrutiny"
+image: "https://images.pexels.com/photos/439391/pexels-photo-439391.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "High-rise buildings for real estate coverage."
 tags: ["Bitcoin", "Crypto", "Quantum Computing", "Glassnode", "Binance", "Digital Assets", "Crypto Regulation", "UAE Crypto"]
 draft: false
+pexelsId: "439391"
 ---
 
 A Bitcoin holder usually worries about price crashes, exchange failures and forgotten passwords. Now there is another anxiety on the table: whether future quantum computers could one day unlock old coins.

@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-18
 publishedTime: "11:04 GST"
 watchLine: "Watch whether enforcement improves safety without making short daily trips harder for residents and visitors."
-image: "https://images.pexels.com/photos/3671151/pexels-photo-3671151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A rider using an e-scooter in an urban pedestrian and mobility area."
+image: "https://picsum.photos/seed/dubai-scooter-patrols-are-about-more-than-fines-md-977-0/900/600"
+imageAlt: "Middle East visual for Dubai Scooter Patrols Are About More Than Fines"
 tags: ["Middle East", "Dubai Time"]
 draft: false
-pexelsId: "3671151"
+pexelsId: "dedupe-dubai-scooter-patrols-are-about-more-than-fines-md-977-0"
 ---
 
 A scooter looks harmless until it appears from the wrong side of a pavement.

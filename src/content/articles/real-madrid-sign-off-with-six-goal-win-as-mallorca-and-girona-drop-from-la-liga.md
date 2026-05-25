@@ -4,10 +4,11 @@ description: "Real Madrid closed a difficult trophyless La Liga season with a 4-
 category: "Sport"
 author: "Kian Oberoi"
 date: 2026-05-24
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Real Madrid Sign Off With Six-Goal Win As Mallorca And Girona Drop From La Liga"
+image: "https://images.pexels.com/photos/8197505/pexels-photo-8197505.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Students walking across a modern education campus."
 tags: ["Real Madrid", "La Liga", "Athletic Bilbao", "Mallorca", "Girona", "Kylian Mbappe", "Jude Bellingham", "Dani Carvajal", "Football", "Spanish Football"]
 draft: false
+pexelsId: "8197505"
 ---
 
 Some football nights feel less like a result and more like a farewell dinner.

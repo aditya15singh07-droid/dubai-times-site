@@ -6,10 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-20
 publishedTime: "15:21 GST"
 watchLine: "Watch rent pressure, handover quality and whether new communities feel practical for families."
-image: "https://images.pexels.com/photos/7937364/pexels-photo-7937364.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Residential towers seen from a city street."
+image: "https://picsum.photos/seed/test-real-estate-dubai-end-user-market-2026-md-824-0/900/600"
+imageAlt: "Real Estate visual for Dubai Real Estate Is Being Judged By End Users Now"
 tags: ["Real Estate", "Dubai Time"]
 draft: false
+pexelsId: "dedupe-test-real-estate-dubai-end-user-market-2026-md-824-0"
 ---
 
 The property market cannot live forever on launch-day excitement.

@@ -6,9 +6,9 @@ author: "Ishaan Vora"
 date: 2026-05-21
 publishedTime: "13:02 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/274506/pexels-photo-274506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Sports stadium with bright field lights"
-pexelsId: "274506"
+image: "https://picsum.photos/seed/category-batch-2026-05-21-uae-family-health-planning-2026-md-795-0/900/600"
+imageAlt: "Health visual for Family Health Planning In The UAE Is Becoming More Practical"
+pexelsId: "dedupe-category-batch-2026-05-21-uae-family-health-planning-2026-md-795-0"
 tags: ["Health", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

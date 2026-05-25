@@ -6,10 +6,11 @@ author: "Tara Khanna"
 date: 2026-05-19
 publishedTime: "14:45 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/373912/pexels-photo-373912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/latest-dubai-metro-tunnels-undergo-major-maintenance-and-rehabilitation-works-md/900/600"
 imageAlt: "Travel visual for What Dubai Metro Tunnels Undergo Major Maintenance and Rehabilitation Means For The Daily Cost Of Moving Around Dubai"
 tags: ["Travel", "Dubai Time"]
 draft: false
+pexelsId: "dedupe-latest-dubai-metro-tunnels-undergo-major-maintenance-and-rehabilitation-works-md"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

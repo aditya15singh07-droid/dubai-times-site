@@ -6,10 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-19
 publishedTime: "01:20 GST"
 watchLine: "Watch whether the project pulls more aviation suppliers, training activity and MRO partnerships into Dubai before the first facilities open."
-image: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Large passenger aircraft on the ground near airport engineering infrastructure"
+image: "https://picsum.photos/seed/emirates-dubai-south-engineering-facility-2026-md-960-0/900/600"
+imageAlt: "Middle East visual for Emirates' New Dubai South Engineering Hub Is Really A Bet On Aviation Depth"
 tags: ["Middle East", "Dubai Time"]
 draft: false
+pexelsId: "dedupe-emirates-dubai-south-engineering-facility-2026-md-960-0"
 ---
 
 Dubai has never been shy about big aviation numbers.

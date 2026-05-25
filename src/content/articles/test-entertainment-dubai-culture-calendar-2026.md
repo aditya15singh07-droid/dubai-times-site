@@ -6,10 +6,11 @@ author: "Myra D Souza"
 date: 2026-05-20
 publishedTime: "16:42 GST"
 watchLine: "Watch local participation, ticket affordability and whether venues build regular audiences."
-image: "https://images.pexels.com/photos/1763075/pexels-photo-1763075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Concert lights shining over an audience."
+image: "https://picsum.photos/seed/test-entertainment-dubai-culture-calendar-2026-md-818-0/900/600"
+imageAlt: "Entertainment visual for Dubai's Entertainment Calendar Has To Feel Local Too"
 tags: ["Entertainment", "Dubai Time"]
 draft: false
+pexelsId: "dedupe-test-entertainment-dubai-culture-calendar-2026-md-818-0"
 ---
 
 A cultural city is built between the headline acts.

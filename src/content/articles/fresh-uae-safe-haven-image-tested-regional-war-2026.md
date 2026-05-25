@@ -6,9 +6,9 @@ author: "Tara Khanna"
 date: 2026-05-21
 publishedTime: "14:36 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://images.pexels.com/photos/4575053/pexels-photo-4575053.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Officials seated at a formal international meeting"
-pexelsId: "4575053"
+image: "https://picsum.photos/seed/fresh-uae-safe-haven-image-tested-regional-war-2026-md-691-0/900/600"
+imageAlt: "International visual for The UAE’s Safe-Haven Image Is Being Tested By A Harder Region"
+pexelsId: "dedupe-fresh-uae-safe-haven-image-tested-regional-war-2026-md-691-0"
 tags: ["International", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---

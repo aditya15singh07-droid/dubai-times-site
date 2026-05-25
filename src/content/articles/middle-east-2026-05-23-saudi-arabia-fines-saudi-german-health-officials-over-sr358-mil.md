@@ -6,11 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-23
 publishedTime: "14:24 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/5970684/pexels-photo-5970684.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/middle-east-2026-05-23-saudi-arabia-fines-saudi-german-health-officials-over-sr3/900/600"
 imageAlt: "Health visual for Saudi Healthcare Governance: Shows Why Gulf Healthcare Is Becoming More Personal In Saudi Arabia"
 tags: ["Health","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "5970684"
+pexelsId: "dedupe-middle-east-2026-05-23-saudi-arabia-fines-saudi-german-health-officials-over-sr3"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why saudi healthcare governance deserves a closer read across the Middle East today.
 

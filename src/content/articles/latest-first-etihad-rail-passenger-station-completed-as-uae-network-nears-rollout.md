@@ -6,10 +6,11 @@ author: "Mira Sethi"
 date: 2026-05-19
 publishedTime: "15:43 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/1181396/pexels-photo-1181396.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/latest-first-etihad-rail-passenger-station-completed-as-uae-network-nears-rollou/900/600"
 imageAlt: "Travel visual for What First Etihad Rail Passenger Station Completed as UAE Says About Dubai’s Push From Speed To Trust"
 tags: ["Travel", "Dubai Time"]
 draft: false
+pexelsId: "dedupe-latest-first-etihad-rail-passenger-station-completed-as-uae-network-nears-rollou"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

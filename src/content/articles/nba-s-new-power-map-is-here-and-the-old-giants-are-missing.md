@@ -4,10 +4,11 @@ description: "Shai Gilgeous-Alexander, Nikola Jokic, Victor Wembanyama, Luka Don
 category: "Sport"
 author: "Anika Menon"
 date: 2026-05-25
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "NBA’s New Power Map Is Here, And The Old Giants Are Missing"
+image: "https://images.pexels.com/photos/358220/pexels-photo-358220.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Aircraft wing above clouds during regional travel."
 tags: ["NBA", "Basketball", "Shai Gilgeous-Alexander", "Nikola Jokic", "Victor Wembanyama", "Luka Doncic", "Cade Cunningham", "Sport"]
 draft: false
+pexelsId: "358220"
 ---
 
 For years, NBA fans could almost fill out the All-NBA teams by memory.

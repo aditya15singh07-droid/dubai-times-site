@@ -4,10 +4,11 @@ description: "A newsroom note on why a company submission portal cannot be treat
 category: "Middle East"
 author: "Vihaan Rao"
 date: 2026-05-24
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Why A Press Release Login Page Is Not A News Story"
+image: "https://picsum.photos/seed/why-a-press-release-login-page-is-not-a-news-story-md-83-0/900/600"
+imageAlt: "Middle East visual for Why A Press Release Login Page Is Not A News Story"
 tags: ["Middle East", "Media", "Press Releases", "Newsroom Standards", "Business Communication"]
 draft: false
+pexelsId: "dedupe-why-a-press-release-login-page-is-not-a-news-story-md-83-0"
 ---
 
 A login page can look official. It can carry regional labels, business categories, and a publishing promise. But it is still not a news event.

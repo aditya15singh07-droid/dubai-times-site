@@ -6,11 +6,11 @@ author: "Anika Menon"
 date: 2026-05-22
 publishedTime: "19:16 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/3184300/pexels-photo-3184300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/more25-2026-05-22-eid-al-adha-escapes-from-uae-staycations-to-spectacular-global/900/600"
 imageAlt: "Middle East visual for What Eid Al Adha Escapes from UAE Staycations to Says About Dubai’s Push From Speed To Trust"
 tags: ["Middle East", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "3184300"
+pexelsId: "dedupe-more25-2026-05-22-eid-al-adha-escapes-from-uae-staycations-to-spectacular-global"
 ---
 
 Regional news is rarely distant for Dubai. It shapes confidence, trade, travel and the quiet calculations people make every day.

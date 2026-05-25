@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-22
 publishedTime: "18:48 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/3182773/pexels-photo-3182773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/more25-2026-05-22-dubai-set-for-pfl-mena-pride-of-arabia-showcase-md-501-0/900/600"
 imageAlt: "Entertainment visual for Why Dubai Set for Pfl Mena Pride of Arabia Showcase Deserves A Closer Dubai Time Read"
 tags: ["Entertainment", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "3182773"
+pexelsId: "dedupe-more25-2026-05-22-dubai-set-for-pfl-mena-pride-of-arabia-showcase-md-501-0"
 ---
 
 Entertainment news now carries a harder question. Can a live show or cultural event still pull people away from their phones and sofas?

@@ -6,11 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-22
 publishedTime: "10:12 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/3856433/pexels-photo-3856433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/latest-2026-05-22-flights-cancelled-across-middle-east-as-kuwait-saudi-arabia-an/900/600"
 imageAlt: "Travel visual for Why Flights Cancelled Across Middle East as Kuwait Saudi Arabia Deserves A Closer Dubai Time Read"
 tags: ["Travel", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "3856433"
+pexelsId: "dedupe-latest-2026-05-22-flights-cancelled-across-middle-east-as-kuwait-saudi-arabia-an"
 ---
 
 A travel update is never only about a route or a terminal. It is about the family checking fares, the hotel waiting for bookings and the worker planning a smoother commute.

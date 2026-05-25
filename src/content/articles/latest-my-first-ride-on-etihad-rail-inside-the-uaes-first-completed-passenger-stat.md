@@ -6,10 +6,11 @@ author: "Devika Shah"
 date: 2026-05-19
 publishedTime: "15:39 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/1105766/pexels-photo-1105766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/latest-my-first-ride-on-etihad-rail-inside-the-uaes-first-completed-passenger-st/900/600"
 imageAlt: "Travel visual for What My First Ride on Etihad Rail Inside the Says About Dubai’s Push From Speed To Trust"
 tags: ["Travel", "Dubai Time"]
 draft: false
+pexelsId: "dedupe-latest-my-first-ride-on-etihad-rail-inside-the-uaes-first-completed-passenger-st"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

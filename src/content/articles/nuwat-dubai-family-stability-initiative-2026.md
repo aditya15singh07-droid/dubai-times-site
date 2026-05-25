@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-17
 publishedTime: "21:35 GST"
 watchLine: "Watch whether Nuwat Dubai turns family support from event activity into regular, trusted community help."
-image: "https://images.pexels.com/photos/8205092/pexels-photo-8205092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A family meets with a social worker in a cozy living room, discussing adoption details."
+image: "https://picsum.photos/seed/nuwat-dubai-family-stability-initiative-2026-md-1030-0/900/600"
+imageAlt: "Real Estate visual for Nuwat Dubai Puts Family Stability Back At The Centre Of City Growth"
 tags: ["Real Estate", "Dubai Time"]
 draft: false
-pexelsId: "8205092"
+pexelsId: "dedupe-nuwat-dubai-family-stability-initiative-2026-md-1030-0"
 ---
 
 Cities love talking about growth. Families know whether that growth feels liveable.

@@ -4,10 +4,11 @@ description: "New UAE-Oman logistics routes are keeping food, medicines, retail 
 category: "International"
 author: "Kabir Anand"
 date: 2026-05-24
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Hormuz Closure Turns UAE-Oman Corridors Into A Lifeline For Essential Trade"
+image: "https://images.pexels.com/photos/8867631/pexels-photo-8867631.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Digital service screens used for public technology operations."
 tags: ["UAE", "Oman", "Strait of Hormuz", "Trade", "Logistics", "Dubai", "Sharjah", "Sohar Port", "Supply Chains", "Gulf Economy"]
 draft: false
+pexelsId: "8867631"
 ---
 
 For a trader waiting on medicine stocks, a supermarket buyer chasing fresh inventory, or a factory manager short of parts, the shortest shipping route no longer matters. The route that works matters.

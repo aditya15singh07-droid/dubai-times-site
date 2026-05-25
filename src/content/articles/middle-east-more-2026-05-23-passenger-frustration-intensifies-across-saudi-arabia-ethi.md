@@ -6,11 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-23
 publishedTime: "17:16 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/323705/pexels-photo-323705.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/middle-east-more-2026-05-23-passenger-frustration-intensifies-across-saudi-arabi/900/600"
 imageAlt: "Lifestyle visual for Passenger Frustration Intensifies Across Saudi Arabia Ethi: Shows How Gulf Living Is Changing"
 tags: ["Lifestyle","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "323705"
+pexelsId: "dedupe-middle-east-more-2026-05-23-passenger-frustration-intensifies-across-saudi-arabi"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why passenger frustration intensifies across saudi arabia ethi deserves a closer read across the Middle East today.
 

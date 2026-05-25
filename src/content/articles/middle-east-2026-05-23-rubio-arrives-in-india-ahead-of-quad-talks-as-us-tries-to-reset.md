@@ -6,11 +6,11 @@ author: "Ishaan Roy"
 date: 2026-05-23
 publishedTime: "11:40 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/middle-east-2026-05-23-rubio-arrives-in-india-ahead-of-quad-talks-as-us-tries-to/900/600"
 imageAlt: "Middle East visual for Rubio Arrives in India Ahead of Quad Talks: Shows Why Gulf Stability Still Matters"
 tags: ["Middle East","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "6770610"
+pexelsId: "dedupe-middle-east-2026-05-23-rubio-arrives-in-india-ahead-of-quad-talks-as-us-tries-to"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why rubio arrives in india ahead of quad talks deserves a closer read across the Middle East today.
 

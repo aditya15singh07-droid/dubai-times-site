@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-22
 publishedTime: "11:28 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/7413916/pexels-photo-7413916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/latest-2026-05-22-dubai-sports-council-supports-al-furjan-club-talents-as-part-o/900/600"
 imageAlt: "Lifestyle visual for Why Dubai Sports Council Supports Al Furjan Club Talents as Deserves A Closer Dubai Time Read"
 tags: ["Lifestyle", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "7413916"
+pexelsId: "dedupe-latest-2026-05-22-dubai-sports-council-supports-al-furjan-club-talents-as-part-o"
 ---
 
 Lifestyle stories can look soft from a distance. Then they start changing weekend plans, household budgets and how a city feels after work.

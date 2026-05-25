@@ -6,10 +6,11 @@ author: "Armaan Gill"
 date: 2026-05-20
 publishedTime: "16:49 GST"
 watchLine: "Watch shipping routes, energy prices, insurance costs and travel advisories."
-image: "https://images.pexels.com/photos/3856433/pexels-photo-3856433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Shipping containers and logistics infrastructure at a commercial port."
+image: "https://picsum.photos/seed/test-international-uae-global-risk-trade-2026-md-816-0/900/600"
+imageAlt: "Travel visual for Global Risk Reaches The UAE Through Trade First"
 tags: ["Travel", "Dubai Time"]
 draft: false
+pexelsId: "dedupe-test-international-uae-global-risk-trade-2026-md-816-0"
 ---
 
 The UAE feels global risk through practical channels before political speeches.

@@ -6,11 +6,11 @@ author: "Reyan Shah"
 date: 2026-05-23
 publishedTime: "16:20 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/3184325/pexels-photo-3184325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/middle-east-more-2026-05-23-free-ice-cream-and-fun-m-venpick-gives-uae-families-/900/600"
 imageAlt: "Business visual for Free Ice Cream and Fun Venpick Gives UAE: Tests The Gulf's Next Business Mood"
 tags: ["Business","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "3184325"
+pexelsId: "dedupe-middle-east-more-2026-05-23-free-ice-cream-and-fun-m-venpick-gives-uae-families-"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why free ice cream and fun venpick gives uae deserves a closer read across the Middle East today.
 

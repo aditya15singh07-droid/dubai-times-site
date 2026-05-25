@@ -6,9 +6,9 @@ author: "Mira Sethi"
 date: 2026-05-21
 publishedTime: "13:32 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/5480781/pexels-photo-5480781.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Financial charts and market data on a computer screen"
-pexelsId: "5480781"
+image: "https://picsum.photos/seed/category-batch-2026-05-21-web3-founders-dubai-discipline-2026-md-745-0/900/600"
+imageAlt: "Crypto visual for Dubai Web3 Founders Face A New Demand For Discipline"
+pexelsId: "dedupe-category-batch-2026-05-21-web3-founders-dubai-discipline-2026-md-745-0"
 tags: ["Crypto", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

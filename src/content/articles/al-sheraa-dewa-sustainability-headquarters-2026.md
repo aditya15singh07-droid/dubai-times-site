@@ -6,11 +6,11 @@ author: "Samaira Qureshi"
 date: 2026-05-17
 publishedTime: "19:25 GST"
 watchLine: "Watch whether Al Shera'a becomes a practical benchmark for future public buildings, not only a landmark launch."
-image: "https://images.pexels.com/photos/267501/pexels-photo-267501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A modern glass-facade building against a blue sky, featuring innovative architecture."
+image: "https://picsum.photos/seed/al-sheraa-dewa-sustainability-headquarters-2026-md-1036-0/900/600"
+imageAlt: "International visual for Al Shera'a Gives Dubai's Sustainability Push A Very Public Address"
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "267501"
+pexelsId: "dedupe-al-sheraa-dewa-sustainability-headquarters-2026-md-1036-0"
 ---
 
 A government office usually does not make people stop and look twice.

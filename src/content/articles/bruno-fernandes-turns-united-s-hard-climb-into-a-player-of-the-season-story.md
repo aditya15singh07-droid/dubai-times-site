@@ -4,10 +4,11 @@ description: "Bruno Fernandes has been named Premier League player of the season
 category: "Sport"
 author: "Kian Oberoi"
 date: 2026-05-24
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Bruno Fernandes Turns United’s Hard Climb Into A Player Of The Season Story"
+image: "https://images.pexels.com/photos/274506/pexels-photo-274506.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Sports field and competitive match atmosphere."
 tags: ["Bruno Fernandes", "Manchester United", "Premier League", "Football", "Champions League", "Sport"]
 draft: false
+pexelsId: "274506"
 ---
 
 Some football seasons are remembered for trophies. Others are remembered for the player who kept dragging a team forward.

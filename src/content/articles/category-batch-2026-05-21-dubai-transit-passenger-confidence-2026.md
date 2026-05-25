@@ -6,9 +6,9 @@ author: "Aarav Mehta"
 date: 2026-05-21
 publishedTime: "13:14 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/3856433/pexels-photo-3856433.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Shipping containers and logistics equipment at a port"
-pexelsId: "3856433"
+image: "https://picsum.photos/seed/category-batch-2026-05-21-dubai-transit-passenger-confidence-2026-md-769-0/900/600"
+imageAlt: "Travel visual for Dubai’s Transit Advantage Depends On Passenger Confidence"
+pexelsId: "dedupe-category-batch-2026-05-21-dubai-transit-passenger-confidence-2026-md-769-0"
 tags: ["Travel", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

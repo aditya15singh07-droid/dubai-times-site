@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-23
 publishedTime: "15:04 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/5480781/pexels-photo-5480781.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/middle-east-2026-05-23-mena-energy-recap-q1-2026-four-lessons-from-the-return-of/900/600"
 imageAlt: "Middle East visual for MENA Energy Recap Q1 Four Lessons from the: Raises The Stakes Across A Nervous Region"
 tags: ["Middle East","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "5480781"
+pexelsId: "dedupe-middle-east-2026-05-23-mena-energy-recap-q1-2026-four-lessons-from-the-return-of"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why mena energy recap q1 four lessons from the deserves a closer read across the Middle East today.
 

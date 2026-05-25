@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-22
 publishedTime: "14:56 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/325185/pexels-photo-325185.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/more-2026-05-22-from-the-skies-to-the-kitchen-how-a-former-cabin-crew-member-bui/900/600"
 imageAlt: "Lifestyle visual for What From the Skies to the Kitchen How a Says About Dubai’s Push From Speed To Trust"
 tags: ["Lifestyle", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "325185"
+pexelsId: "dedupe-more-2026-05-22-from-the-skies-to-the-kitchen-how-a-former-cabin-crew-member-bui"
 ---
 
 Lifestyle stories can look soft from a distance. Then they start changing weekend plans, household budgets and how a city feels after work.

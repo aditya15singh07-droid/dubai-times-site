@@ -4,10 +4,11 @@ description: "Saudi Arabia says it is fully prepared to protect Hajj pilgrims as
 category: "Health"
 author: "Anika Menon"
 date: 2026-05-24
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Saudi Arabia Tightens Hajj Health Checks As 1.5 Million Pilgrims Head To Makkah"
+image: "https://images.pexels.com/photos/399187/pexels-photo-399187.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Football match and sport audience energy."
 tags: ["Hajj", "Saudi Arabia", "Makkah", "Public Health", "Travel", "Middle East", "Pilgrimage", "Ebola", "Gulf"]
 draft: false
+pexelsId: "399187"
 ---
 
 For millions of Muslim families, Hajj is not just a journey. It is a lifetime promise.

@@ -4,10 +4,11 @@ description: "Saudi-backed action film 7 Dogs, shot largely in Riyadh, brings Ar
 category: "Entertainment"
 author: "Devika Shah"
 date: 2026-05-24
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Saudi-Backed ‘7 Dogs’ Puts Riyadh In The Frame For A New Arab Action Era"
+image: "https://images.pexels.com/photos/236380/pexels-photo-236380.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Healthcare corridor with clean public service lighting."
 tags: ["7 Dogs", "Saudi Arabia", "Riyadh", "Arab Cinema", "Entertainment", "Hollywood", "Ahmed Ezz", "Karim Abdel Aziz", "Giancarlo Esposito", "Middle East Film"]
 draft: false
+pexelsId: "236380"
 ---
 
 A big action film is not just a movie when a city wants to be seen differently.

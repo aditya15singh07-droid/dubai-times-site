@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-22
 publishedTime: "11:00 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/373912/pexels-photo-373912.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/latest-2026-05-22-xsolla-dubai-films-and-games-commission-create-strategic-partn/900/600"
 imageAlt: "Real Estate visual for What Dubai’s Culture Economy Reveals About Dubai Property’s Next Serious Test"
 tags: ["Real Estate", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "373912"
+pexelsId: "dedupe-latest-2026-05-22-xsolla-dubai-films-and-games-commission-create-strategic-partn"
 ---
 
 Property news in Dubai always lands at the dining table. Tenants, buyers and brokers all read the same headline with very different worries.

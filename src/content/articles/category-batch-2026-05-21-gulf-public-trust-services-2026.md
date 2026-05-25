@@ -6,9 +6,9 @@ author: "Anika Menon"
 date: 2026-05-21
 publishedTime: "13:11 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/713149/pexels-photo-713149.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Theatre lights above a performance hall"
-pexelsId: "713149"
+image: "https://picsum.photos/seed/category-batch-2026-05-21-gulf-public-trust-services-2026-md-779-0/900/600"
+imageAlt: "Middle East visual for Gulf Public Trust Is Built Through Services That Work"
+pexelsId: "dedupe-category-batch-2026-05-21-gulf-public-trust-services-2026-md-779-0"
 tags: ["Middle East", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

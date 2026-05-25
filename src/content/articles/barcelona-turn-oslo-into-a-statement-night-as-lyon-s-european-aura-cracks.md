@@ -4,10 +4,11 @@ description: "Barcelona beat Lyon 4-0 in Oslo to win the Women’s Champions Lea
 category: "Sport"
 author: "Armaan Gill"
 date: 2026-05-24
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Barcelona Turn Oslo Into A Statement Night As Lyon’s European Aura Cracks"
+image: "https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Financial chart on a digital screen."
 tags: ["Barcelona Women", "Lyon Women", "UEFA Women's Champions League", "Ewa Pajor", "Salma Paralluelo", "Women's Football", "European Football", "Sport"]
 draft: false
+pexelsId: "730547"
 ---
 
 Some finals turn on a flash of skill. This one turned on patience, nerve, and a brutal second-half lesson.

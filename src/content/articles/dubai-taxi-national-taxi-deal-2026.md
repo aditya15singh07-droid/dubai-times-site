@@ -5,10 +5,11 @@ category: "Travel"
 author: "Rian Kapoor"
 date: 2026-05-13
 watchLine: "Watch the regulatory approvals, integration pace and whether service quality improves as DTC expands beyond its Dubai core."
-image: "https://images.pexels.com/photos/4430911/pexels-photo-4430911.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Passengers moving through a modern transport interchange during the morning rush."
+image: "https://picsum.photos/seed/dubai-taxi-national-taxi-deal-2026-md-1078-0/900/600"
+imageAlt: "Travel visual for Dubai Taxi's National Taxi Deal Is Really A UAE Scale Story"
 tags: ["Travel", "Dubai Time"]
 draft: false
+pexelsId: "dedupe-dubai-taxi-national-taxi-deal-2026-md-1078-0"
 ---
 
 Taxi companies rarely make front-page conversation unless something has gone wrong. But mobility businesses matter because they sit at the point where urban growth becomes visible. When airports fill up, when new business districts stretch farther out, when tourism returns strongly or when residents spread across new communities, somebody has to move people reliably. That is why Dubai Taxi Company's planned acquisition of National Taxi deserves a closer look. It is not only a finance story. It is a map of where UAE urban mobility is heading.

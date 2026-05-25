@@ -6,9 +6,9 @@ author: "Mira Sethi"
 date: 2026-05-21
 publishedTime: "14:18 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://images.pexels.com/photos/6770610/pexels-photo-6770610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Digital finance dashboard used for virtual asset coverage"
-pexelsId: "6770610"
+image: "https://picsum.photos/seed/fresh-crypto-com-uae-payment-licence-trust-2026-md-703-0/900/600"
+imageAlt: "Crypto visual for Crypto.com’s UAE Payment Licence Moves Digital Assets Closer To Real Spending"
+pexelsId: "dedupe-fresh-crypto-com-uae-payment-licence-trust-2026-md-703-0"
 tags: ["Crypto", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---

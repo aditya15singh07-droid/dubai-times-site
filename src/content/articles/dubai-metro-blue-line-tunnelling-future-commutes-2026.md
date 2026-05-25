@@ -5,11 +5,11 @@ category: "Travel"
 author: "Armaan Gill"
 date: 2026-05-18
 watchLine: "Watch execution timelines, station-area planning and whether the line changes commuting behaviour before roads get tighter."
-image: "https://images.pexels.com/photos/33329502/pexels-photo-33329502.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Colorful rainbow art decorates the subway tunnel at a Stockholm metro station in Sweden."
+image: "https://picsum.photos/seed/dubai-metro-blue-line-tunnelling-future-commutes-2026-md-1000-0/900/600"
+imageAlt: "Travel visual for Dubai Metro Blue Line Tunnelling Starts, And The Real Story Is About Time"
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "33329502"
+pexelsId: "dedupe-dubai-metro-blue-line-tunnelling-future-commutes-2026-md-1000-0"
 ---
 
 There is a moment in every growing city when a commute stops being a small irritation and starts becoming a life decision.

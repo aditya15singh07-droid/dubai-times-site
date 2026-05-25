@@ -4,10 +4,11 @@ description: "The UAE tax authority has clarified how directors, officers and co
 category: "Business"
 author: "Zoya Malhotra"
 date: 2026-05-25
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "UAE Corporate Tax Gets Personal: Why Titles Alone No Longer Decide Who Is Really In Control"
+image: "https://images.pexels.com/photos/7679566/pexels-photo-7679566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Two colleagues working together at a wooden table in an office setting."
 tags: ["UAE corporate tax", "Dubai business", "Federal Tax Authority", "connected persons", "UAE companies", "Indian businesses in UAE", "Gulf economy"]
 draft: false
+pexelsId: "7679566"
 ---
 
 In many Gulf businesses, the real boss is not always the person with the grandest title.

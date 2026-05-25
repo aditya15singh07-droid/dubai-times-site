@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-22
 publishedTime: "12:08 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/34842262/pexels-photo-34842262.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/latest-2026-05-22-cuba-s-new-crisis-explained-from-sanctions-to-showdown-fears-m/900/600"
 imageAlt: "Entertainment visual for What Cuba S New Crisis Explained from Sanctions to Says About Dubai’s Push From Speed To Trust"
 tags: ["Entertainment", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "34842262"
+pexelsId: "dedupe-latest-2026-05-22-cuba-s-new-crisis-explained-from-sanctions-to-showdown-fears-m"
 ---
 
 Entertainment news now carries a harder question. Can a live show or cultural event still pull people away from their phones and sofas?

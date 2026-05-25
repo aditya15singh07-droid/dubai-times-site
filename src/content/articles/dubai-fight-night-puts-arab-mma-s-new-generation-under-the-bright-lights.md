@@ -4,10 +4,11 @@ description: "PFL MENA: Pride of Arabia brings regional MMA talent to Dubai’s 
 category: "Sport"
 author: "Naina Batra"
 date: 2026-05-25
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Dubai Fight Night Puts Arab MMA’s New Generation Under The Bright Lights"
+image: "https://images.pexels.com/photos/3184300/pexels-photo-3184300.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Office workers reviewing business plans."
 tags: ["Dubai", "PFL MENA", "MMA", "Coca-Cola Arena", "Mohammad Yahya", "Zamzam Al Hammadi", "UAE Sport", "Middle East Sport"]
 draft: false
+pexelsId: "3184300"
 ---
 
 A fighter stepping on a scale can look like a small sporting ritual. In Dubai this weekend, it carried much more weight.

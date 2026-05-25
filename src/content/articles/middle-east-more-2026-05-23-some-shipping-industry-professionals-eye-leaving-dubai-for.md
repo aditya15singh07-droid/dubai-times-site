@@ -6,11 +6,11 @@ author: "Kabir Sethi"
 date: 2026-05-23
 publishedTime: "16:44 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/1763075/pexels-photo-1763075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/middle-east-more-2026-05-23-some-shipping-industry-professionals-eye-leaving-dub/900/600"
 imageAlt: "Real Estate visual for Some Shipping Industry Professionals Eye Leaving Dubai: Puts Homebuyers And Investors In The Same Frame"
 tags: ["Real Estate","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "1763075"
+pexelsId: "dedupe-middle-east-more-2026-05-23-some-shipping-industry-professionals-eye-leaving-dub"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why some shipping industry professionals eye leaving dubai deserves a closer read across the Middle East today.
 

@@ -6,9 +6,9 @@ author: "Tara Khanna"
 date: 2026-05-21
 publishedTime: "13:44 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/358220/pexels-photo-358220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Aircraft wing above clouds during travel"
-pexelsId: "358220"
+image: "https://picsum.photos/seed/category-batch-2026-05-21-uae-global-risk-households-2026-md-729-0/900/600"
+imageAlt: "International visual for Global Risk Reaches UAE Households Faster Than Many Expect"
+pexelsId: "dedupe-category-batch-2026-05-21-uae-global-risk-households-2026-md-729-0"
 tags: ["International", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

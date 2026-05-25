@@ -6,9 +6,9 @@ author: "Tara Khanna"
 date: 2026-05-21
 publishedTime: "13:50 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/256417/pexels-photo-256417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Quiet library shelf used for culture and knowledge stories"
-pexelsId: "256417"
+image: "https://picsum.photos/seed/category-batch-2026-05-21-india-uae-business-bridge-2026-md-721-0/900/600"
+imageAlt: "International visual for The India-UAE Business Bridge Is Becoming More Everyday"
+pexelsId: "dedupe-category-batch-2026-05-21-india-uae-business-bridge-2026-md-721-0"
 tags: ["International", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

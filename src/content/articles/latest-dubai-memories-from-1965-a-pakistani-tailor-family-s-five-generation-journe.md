@@ -6,10 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-20
 publishedTime: "07:00 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/7413916/pexels-photo-7413916.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/latest-dubai-memories-from-1965-a-pakistani-tailor-family-s-five-generation-jour/900/600"
 imageAlt: "Lifestyle visual for What Dubai Memories from 1965 a Pakistani Tailor Family Says About Dubai’s Push From Speed To Trust"
 tags: ["Lifestyle", "Dubai Time"]
 draft: false
+pexelsId: "dedupe-latest-dubai-memories-from-1965-a-pakistani-tailor-family-s-five-generation-jour"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

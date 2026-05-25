@@ -5,11 +5,11 @@ category: "Sport"
 author: "Armaan Gill"
 date: 2026-05-17
 watchLine: "Watch how many resident tasks become connected across identity, payment, transport, property and public-service platforms."
-image: "https://images.pexels.com/photos/7195308/pexels-photo-7195308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Female nurse using telemedicine for a virtual consultation on a laptop, wearing headphones and stethoscope."
+image: "https://picsum.photos/seed/dubai-digital-services-residents-md-1052-0/900/600"
+imageAlt: "Sport visual for Digital Services Become Central To Daily Life For Dubai Residents"
 tags: ["Sport", "Dubai Time"]
 draft: false
-pexelsId: "7195308"
+pexelsId: "dedupe-dubai-digital-services-residents-md-1052-0"
 ---
 
 The best city technology is the kind you stop noticing.

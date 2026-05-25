@@ -6,11 +6,11 @@ author: "Kabir Sethi"
 date: 2026-05-23
 publishedTime: "12:48 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/36094170/pexels-photo-36094170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/middle-east-2026-05-23-qatar-to-meet-uae-bahrain-and-yemen-in-gulf-cup-group-md-/900/600"
 imageAlt: "Sport visual for Qatar to Meet UAE Bahrain and Yemen: Puts Fans And Sponsors In The Same Story"
 tags: ["Sport","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "36094170"
+pexelsId: "dedupe-middle-east-2026-05-23-qatar-to-meet-uae-bahrain-and-yemen-in-gulf-cup-group-md-"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why qatar to meet uae bahrain and yemen deserves a closer read across the Middle East today.
 

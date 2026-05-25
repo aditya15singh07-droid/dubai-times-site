@@ -6,11 +6,11 @@ author: "Reyansh Suri"
 date: 2026-05-17
 publishedTime: "12:35 GST"
 watchLine: "Watch future Emaar launches for stronger destination value, branded living, pricing discipline and delivery confidence."
-image: "https://images.pexels.com/photos/36094170/pexels-photo-36094170.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Stunning view of Burj Khalifa and surrounding skyscrapers reflecting in a tranquil pool, Dubai."
+image: "https://picsum.photos/seed/dubai-holding-emaar-stake-market-signal-2026-md-1044-0/900/600"
+imageAlt: "Real Estate visual for Dubai Holding's Emaar Stake Deepens Confidence In The City's Property Engine"
 tags: ["Real Estate", "Dubai Time"]
 draft: false
-pexelsId: "36094170"
+pexelsId: "dedupe-dubai-holding-emaar-stake-market-signal-2026-md-1044-0"
 ---
 
 In real estate, confidence has a smell. Buyers notice it before they admit it.

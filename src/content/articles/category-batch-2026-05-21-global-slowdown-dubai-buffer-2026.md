@@ -6,9 +6,9 @@ author: "Tara Khanna"
 date: 2026-05-21
 publishedTime: "13:53 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/257904/pexels-photo-257904.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Art gallery wall prepared for visitors"
-pexelsId: "257904"
+image: "https://picsum.photos/seed/category-batch-2026-05-21-global-slowdown-dubai-buffer-2026-md-717-0/900/600"
+imageAlt: "International visual for Dubai’s Buffer Against Global Slowdown Is Execution"
+pexelsId: "dedupe-category-batch-2026-05-21-global-slowdown-dubai-buffer-2026-md-717-0"
 tags: ["International", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

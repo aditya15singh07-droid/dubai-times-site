@@ -4,10 +4,11 @@ description: "Pep Guardiola and Mohamed Salah signed off on an emotional Premier
 category: "Sport"
 author: "Aarav Mehta"
 date: 2026-05-25
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Guardiola, Salah farewells turn Premier League finale into football’s end-of-era Sunday"
+image: "https://images.pexels.com/photos/3184639/pexels-photo-3184639.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Startup team working together in a bright office."
 tags: ["Premier League", "Pep Guardiola", "Mohamed Salah", "Manchester City", "Liverpool", "Tottenham Hotspur", "West Ham", "Aston Villa", "Arsenal", "Football"]
 draft: false
+pexelsId: "3184639"
 ---
 
 Some football goodbyes arrive quietly. This one landed with banners, nerves, old songs, broken hearts and a final-day table that kept changing lives.

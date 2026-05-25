@@ -6,11 +6,11 @@ author: "Ishaan Vora"
 date: 2026-05-22
 publishedTime: "15:44 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/236380/pexels-photo-236380.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/more-2026-05-22-the-dubai-news-you-might-have-missed-this-week-may-18-to-22-md-5/900/600"
 imageAlt: "Health visual for What The Dubai News You Might Have Missed This Says About Dubai’s Push From Speed To Trust"
 tags: ["Health", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "236380"
+pexelsId: "dedupe-more-2026-05-22-the-dubai-news-you-might-have-missed-this-week-may-18-to-22-md-5"
 ---
 
 Health stories become important when they leave the conference room and enter a clinic, a pharmacy or a family WhatsApp group.

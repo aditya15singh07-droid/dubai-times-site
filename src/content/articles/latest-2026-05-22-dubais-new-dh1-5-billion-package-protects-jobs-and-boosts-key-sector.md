@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-22
 publishedTime: "10:40 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/15627310/pexels-photo-15627310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/latest-2026-05-22-dubais-new-dh1-5-billion-package-protects-jobs-and-boosts-key-/900/600"
 imageAlt: "Business visual for What Dubais New Dh1 5 Billion Package Protects Jobs Says About Dubai’s Push From Speed To Trust"
 tags: ["Business", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "15627310"
+pexelsId: "dedupe-latest-2026-05-22-dubais-new-dh1-5-billion-package-protects-jobs-and-boosts-key-"
 ---
 
 Business news looks clean on paper. In real life, it decides whether founders hire, investors wait and small firms take the next risk.

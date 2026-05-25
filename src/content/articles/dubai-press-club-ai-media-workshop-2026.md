@@ -6,10 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-18
 publishedTime: "02:40 GST"
 watchLine: "Watch whether media organisations in Dubai turn AI curiosity into training, policy and newsroom experimentation."
-image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Journalist working at a laptop with digital media screens nearby"
+image: "https://picsum.photos/seed/dubai-press-club-ai-media-workshop-2026-md-986-0/900/600"
+imageAlt: "Middle East visual for Dubai's Media AI Debate Is Maturing Beyond Hype And Panic"
 tags: ["Middle East", "Dubai Time"]
 draft: false
+pexelsId: "dedupe-dubai-press-club-ai-media-workshop-2026-md-986-0"
 ---
 
 The loudest conversations about artificial intelligence usually swing between two extremes.

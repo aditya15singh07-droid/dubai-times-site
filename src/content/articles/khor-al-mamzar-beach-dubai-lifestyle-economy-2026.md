@@ -6,11 +6,11 @@ author: "Armaan Gill"
 date: 2026-05-17
 publishedTime: "11:50 GST"
 watchLine: "Watch whether events, sports activations and food concepts turn the upgraded beach into a repeat destination."
-image: "https://images.pexels.com/photos/34345411/pexels-photo-34345411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Serene view of Al Mamzar Beach with palm trees during a tranquil sunset in Dubai."
+image: "https://picsum.photos/seed/khor-al-mamzar-beach-dubai-lifestyle-economy-2026-md-1046-0/900/600"
+imageAlt: "Lifestyle visual for Khor Al Mamzar Beach Opens As Dubai Expands Its Lifestyle Infrastructure"
 tags: ["Lifestyle", "Dubai Time"]
 draft: false
-pexelsId: "34345411"
+pexelsId: "dedupe-khor-al-mamzar-beach-dubai-lifestyle-economy-2026-md-1046-0"
 ---
 
 A beach opening sounds simple until you see what a good public space can do.

@@ -5,11 +5,11 @@ category: "Travel"
 author: "Zoya Malhotra"
 date: 2026-05-18
 watchLine: "Watch how much of the group’s cash strength turns into fleet delivery, retrofit execution and resilient margins in 2026-27."
-image: "https://images.pexels.com/photos/20640898/pexels-photo-20640898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A sleek private jet with visible engine inside a spacious hangar in Paris, France."
+image: "https://picsum.photos/seed/emirates-group-record-year-2025-26-md-1006-0/900/600"
+imageAlt: "Travel visual for Emirates Group’s Record Year Shows Dubai’s Aviation Engine Is Still Pulling"
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "20640898"
+pexelsId: "dedupe-emirates-group-record-year-2025-26-md-1006-0"
 ---
 
 When Emirates Group posts record results, it is never only an airline story.

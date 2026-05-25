@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-22
 publishedTime: "11:20 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/latest-2026-05-22-dubais-parkin-announces-5-vat-to-all-parking-services-starting/900/600"
 imageAlt: "Lifestyle visual for What Dubai Parking’s VAT Shift Means For The Daily Cost Of Moving Around Dubai"
 tags: ["Lifestyle", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "3184291"
+pexelsId: "dedupe-latest-2026-05-22-dubais-parkin-announces-5-vat-to-all-parking-services-starting"
 ---
 
 Lifestyle stories can look soft from a distance. Then they start changing weekend plans, household budgets and how a city feels after work.

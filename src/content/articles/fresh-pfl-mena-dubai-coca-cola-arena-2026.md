@@ -6,9 +6,9 @@ author: "Naina Batra"
 date: 2026-05-21
 publishedTime: "14:30 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://images.pexels.com/photos/399187/pexels-photo-399187.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Athletes training on a green field"
-pexelsId: "399187"
+image: "https://picsum.photos/seed/fresh-pfl-mena-dubai-coca-cola-arena-2026-md-695-0/900/600"
+imageAlt: "Sport visual for PFL MENA’s Dubai Card Turns Combat Sport Into A Regional Audience Test"
+pexelsId: "dedupe-fresh-pfl-mena-dubai-coca-cola-arena-2026-md-695-0"
 tags: ["Sport", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---

@@ -6,9 +6,9 @@ author: "Zoya Malhotra"
 date: 2026-05-21
 publishedTime: "13:50 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Professionals working together in a bright office"
-pexelsId: "3183197"
+image: "https://picsum.photos/seed/category-batch-2026-05-21-dubai-rent-buy-question-2026-md-719-0/900/600"
+imageAlt: "Real Estate visual for Dubai’s Rent Or Buy Question Is Becoming More Personal"
+pexelsId: "dedupe-category-batch-2026-05-21-dubai-rent-buy-question-2026-md-719-0"
 tags: ["Real Estate", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

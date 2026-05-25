@@ -4,10 +4,11 @@ description: "Egypt has launched its first nationwide aerial mineral survey in 4
 category: "International"
 author: "Naina Batra"
 date: 2026-05-25
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Egypt Takes To The Skies To Map Its Mining Future After 42 Years"
+image: "https://images.pexels.com/photos/3184325/pexels-photo-3184325.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Professional team discussing a project."
 tags: ["Egypt", "Mining", "Gold", "Middle East", "Investment", "Economy", "Energy", "UAE Business"]
 draft: false
+pexelsId: "3184325"
 ---
 
 For decades, Egypt’s mineral map has been a bit like an old family album. Valuable, but faded, incomplete, and hard to trust for big decisions.

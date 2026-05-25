@@ -4,10 +4,11 @@ description: "Oli McBurnie scored in the 95th minute as Hull City beat Middlesbr
 category: "Sport"
 author: "Zoya Malhotra"
 date: 2026-05-24
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Hull City Return To Premier League After Oli McBurnie’s Wembley Heartbreak Shot For Middlesbrough"
+image: "https://images.pexels.com/photos/1008155/pexels-photo-1008155.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Airport terminal and travel movement for a regional transport story."
 tags: ["Hull City", "Premier League", "Championship Playoff Final", "Oli McBurnie", "Middlesbrough", "Wembley", "Football"]
 draft: false
+pexelsId: "1008155"
 ---
 
 Sometimes football does not give you a grand speech. It gives you one loose ball, one tired defender, one nervous goalkeeper, and one striker who refuses to stop running.

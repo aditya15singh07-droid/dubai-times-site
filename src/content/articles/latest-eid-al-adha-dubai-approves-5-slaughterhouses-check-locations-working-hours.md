@@ -6,10 +6,11 @@ author: "Kian Oberoi"
 date: 2026-05-19
 publishedTime: "17:32 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/latest-eid-al-adha-dubai-approves-5-slaughterhouses-check-locations-working-hour/900/600"
 imageAlt: "Lifestyle visual for What Eid Al Adha Dubai Approves 5 Slaughterhouses Check Says About Dubai’s Push From Speed To Trust"
 tags: ["Lifestyle", "Dubai Time"]
 draft: false
+pexelsId: "dedupe-latest-eid-al-adha-dubai-approves-5-slaughterhouses-check-locations-working-hour"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

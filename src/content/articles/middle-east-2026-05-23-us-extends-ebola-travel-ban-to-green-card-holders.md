@@ -6,11 +6,11 @@ author: "Ishaan Roy"
 date: 2026-05-23
 publishedTime: "09:36 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/5480781/pexels-photo-5480781.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/middle-east-2026-05-23-us-extends-ebola-travel-ban-to-green-card-holders-md-416-/900/600"
 imageAlt: "Health visual for The Gulf Healthcare Trust Test: Shows Why Gulf Healthcare Is Becoming More Personal In The Region"
 tags: ["Health","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "5480781"
+pexelsId: "dedupe-middle-east-2026-05-23-us-extends-ebola-travel-ban-to-green-card-holders-md-416-"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the gulf healthcare trust test deserves a closer read across the Middle East today.
 

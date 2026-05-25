@@ -6,11 +6,11 @@ author: "Ishaan Vora"
 date: 2026-05-22
 publishedTime: "15:36 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/3184325/pexels-photo-3184325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/more-2026-05-22-uae-unveils-new-labour-accommodation-rules-with-free-internet-cl/900/600"
 imageAlt: "Health visual for Why UAE Unveils New Labour Accommodation Rules with Free Internet Deserves A Closer Dubai Time Read"
 tags: ["Health", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "3184325"
+pexelsId: "dedupe-more-2026-05-22-uae-unveils-new-labour-accommodation-rules-with-free-internet-cl"
 ---
 
 Health stories become important when they leave the conference room and enter a clinic, a pharmacy or a family WhatsApp group.

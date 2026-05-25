@@ -6,11 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-23
 publishedTime: "10:20 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/3184325/pexels-photo-3184325.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/middle-east-2026-05-23-spacex-s-enormous-starship-splashes-down-after-test-fligh/900/600"
 imageAlt: "Travel visual for Spacex Enormous Starship Splashes Down After Test Flight: Puts Passenger Confidence Back In Focus"
 tags: ["Travel","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "3184325"
+pexelsId: "dedupe-middle-east-2026-05-23-spacex-s-enormous-starship-splashes-down-after-test-fligh"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why spacex enormous starship splashes down after test flight deserves a closer read across the Middle East today.
 

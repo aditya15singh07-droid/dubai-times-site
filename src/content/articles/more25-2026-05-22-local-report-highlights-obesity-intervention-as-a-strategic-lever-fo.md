@@ -6,11 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-22
 publishedTime: "18:04 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/2403209/pexels-photo-2403209.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/more25-2026-05-22-local-report-highlights-obesity-intervention-as-a-strategic-le/900/600"
 imageAlt: "Travel visual for Why Obesity Intervention as a Strategic Lever Fo Deserves A Closer Dubai Time Read"
 tags: ["Travel", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "2403209"
+pexelsId: "dedupe-more25-2026-05-22-local-report-highlights-obesity-intervention-as-a-strategic-le"
 ---
 
 A travel update is never only about a route or a terminal. It is about the family checking fares, the hotel waiting for bookings and the worker planning a smoother commute.

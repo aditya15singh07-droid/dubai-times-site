@@ -6,9 +6,9 @@ author: "Rian Kapoor"
 date: 2026-05-21
 publishedTime: "14:27 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://images.pexels.com/photos/15627310/pexels-photo-15627310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Waterfront dining and leisure space in a modern city"
-pexelsId: "15627310"
+image: "https://picsum.photos/seed/fresh-dubai-may-events-resident-rhythm-2026-md-697-0/900/600"
+imageAlt: "Lifestyle visual for Dubai’s May Event Calendar Shows How The City Keeps Residents Moving"
+pexelsId: "dedupe-fresh-dubai-may-events-resident-rhythm-2026-md-697-0"
 tags: ["Lifestyle", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---

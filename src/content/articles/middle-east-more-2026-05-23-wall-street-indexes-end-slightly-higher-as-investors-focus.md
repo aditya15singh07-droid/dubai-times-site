@@ -6,11 +6,11 @@ author: "Zayan Mirza"
 date: 2026-05-23
 publishedTime: "20:32 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/middle-east-more-2026-05-23-wall-street-indexes-end-slightly-higher-as-investors/900/600"
 imageAlt: "Business visual for Wall Street Indexes End Slightly Higher as Investors: Tests The Gulf's Next Business Mood"
 tags: ["Business","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "3184465"
+pexelsId: "dedupe-middle-east-more-2026-05-23-wall-street-indexes-end-slightly-higher-as-investors"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why wall street indexes end slightly higher as investors deserves a closer read across the Middle East today.
 

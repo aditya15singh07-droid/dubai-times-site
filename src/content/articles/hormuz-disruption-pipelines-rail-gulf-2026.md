@@ -5,11 +5,11 @@ category: "Travel"
 author: "Devika Shah"
 date: 2026-05-18
 watchLine: "Watch whether bypass routes become permanent strategic priorities long after the current disruption fades."
-image: "https://images.pexels.com/photos/34390839/pexels-photo-34390839.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Discover the vibrant hills of Hormuz Island, Iran, under a bright blue sky."
+image: "https://picsum.photos/seed/hormuz-disruption-pipelines-rail-gulf-2026-md-1010-0/900/600"
+imageAlt: "Travel visual for The Gulf Is Learning To Move Around Hormuz, And That Could Change The Region"
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "34390839"
+pexelsId: "dedupe-hormuz-disruption-pipelines-rail-gulf-2026-md-1010-0"
 ---
 
 The Strait of Hormuz has always looked narrow on the map.

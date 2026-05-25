@@ -4,10 +4,11 @@ description: "Saudi-backed action film ‘7 Dogs’ premiered in Cairo with Arab
 category: "Entertainment"
 author: "Anika Menon"
 date: 2026-05-24
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Saudi-Backed ‘7 Dogs’ Brings Star Power, Bollywood Names And Big Action To Cairo"
+image: "https://images.pexels.com/photos/61143/pexels-photo-61143.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Tennis court action for sport coverage."
 tags: ["7 Dogs", "Saudi Arabia", "Cairo", "Bollywood", "Salman Khan", "Sanjay Dutt", "Arab Cinema", "Entertainment", "Middle East", "Film"]
 draft: false
+pexelsId: "61143"
 ---
 
 A film premiere can sometimes say more than a trailer.

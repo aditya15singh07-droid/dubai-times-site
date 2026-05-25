@@ -4,10 +4,11 @@ description: "Arsenal lifted the Premier League trophy after beating Crystal Pal
 category: "Sport"
 author: "Samaira Qureshi"
 date: 2026-05-25
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Arsenal End 22-Year Wait, Then Turn Their Eyes To Europe"
+image: "https://images.pexels.com/photos/3182773/pexels-photo-3182773.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Team working through documents and planning decisions."
 tags: ["Arsenal", "Premier League", "Football", "Mikel Arteta", "Crystal Palace", "Champions League", "Sport"]
 draft: false
+pexelsId: "3182773"
 ---
 
 Some football nights are about tactics. Some are about tables. This one was about release.

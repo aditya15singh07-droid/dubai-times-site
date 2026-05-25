@@ -6,10 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-20
 publishedTime: "07:30 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://picsum.photos/seed/latest-emirate-s-new-retail-campaign-shop-and-win-your-home-in-dubai-see-details/900/600"
 imageAlt: "Real Estate visual for What Emirate S New Retail Campaign Shop and Win Reveals About Dubai Property’s Next Serious Test"
 tags: ["Real Estate", "Dubai Time"]
 draft: false
+pexelsId: "dedupe-latest-emirate-s-new-retail-campaign-shop-and-win-your-home-in-dubai-see-details"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

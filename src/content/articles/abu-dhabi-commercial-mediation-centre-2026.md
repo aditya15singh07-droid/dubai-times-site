@@ -6,10 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-23
 publishedTime: "03:40 GST"
 watchLine: "Watch whether companies actually use the new centre and whether settlement timelines improve in commercial disputes."
-image: "https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Professionals discussing documents across a conference table."
+image: "https://picsum.photos/seed/abu-dhabi-commercial-mediation-centre-2026-md-443-0/900/600"
+imageAlt: "Business visual for A New Commercial Mediation Centre In Abu Dhabi Could Make Business Disputes Less Draining"
 tags: ["Business", "Abu Dhabi", "Mediation", "Legal", "Commercial Disputes"]
 draft: false
+pexelsId: "dedupe-abu-dhabi-commercial-mediation-centre-2026-md-443-0"
 ---
 
 The most expensive part of a business dispute is often not the claim itself.
