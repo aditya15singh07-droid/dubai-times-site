@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-23
 publishedTime: "15:04 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/30475302/pexels-photo-30475302.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Stunning cityscape of Frankfurt am Main skyline at dusk with modern skyscrapers."
+image: "https://images.pexels.com/photos/18834566/pexels-photo-18834566.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A breathtaking cityscape with illuminated skyscrapers and vibrant urban lights during the night."
 tags: ["Middle East","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "30475302"
+pexelsId: "18834566"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why mena energy recap q1 four lessons from the deserves a closer read across the Middle East today.
 

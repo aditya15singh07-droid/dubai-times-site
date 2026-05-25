@@ -6,9 +6,9 @@ author: "Naina Batra"
 date: 2026-05-21
 publishedTime: "13:29 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/20254637/pexels-photo-20254637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Soccer player in orange uniform on colorful stadium field during daytime game."
-pexelsId: "20254637"
+image: "https://images.pexels.com/photos/30340460/pexels-photo-30340460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Dramatic capture of soccer players during a competitive match on a rainy day."
+pexelsId: "30340460"
 tags: ["Sport", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

@@ -5,11 +5,11 @@ category: "International"
 author: "Reyansh Suri"
 date: 2026-05-18
 watchLine: "Watch whether the full six-bridge package meaningfully eases peak-hour pressure around Sheikh Zayed Road and Al Mustaqbal Street."
-image: "https://images.pexels.com/photos/6950186/pexels-photo-6950186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Confident woman speaker at podium with EU flag, delivering a speech indoors."
+image: "https://images.pexels.com/photos/29307943/pexels-photo-29307943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Elderly man in traditional attire reading at a conference with attendees in background."
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "6950186"
+pexelsId: "29307943"
 ---
 
 In Dubai, two saved minutes are never just two minutes.

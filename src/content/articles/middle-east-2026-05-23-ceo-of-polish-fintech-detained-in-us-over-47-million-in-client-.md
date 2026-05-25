@@ -6,11 +6,11 @@ author: "Dev Khanna"
 date: 2026-05-23
 publishedTime: "09:44 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/7267602/pexels-photo-7267602.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A seamless pattern of various cryptocurrency coins in gold and silver tones."
+image: "https://images.pexels.com/photos/7267603/pexels-photo-7267603.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Close-up of bitcoin coins reflecting on a screen with financial market data, highlighting digital currency trend."
 tags: ["Crypto","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "7267602"
+pexelsId: "7267603"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why ceo of polish fintech detained in us deserves a closer read across the Middle East today.
 

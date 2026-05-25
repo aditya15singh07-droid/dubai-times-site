@@ -6,11 +6,11 @@ author: "Naina Batra"
 date: 2026-05-19
 publishedTime: "17:02 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/7993894/pexels-photo-7993894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A diverse group of professionals working together in an office meeting room."
+image: "https://images.pexels.com/photos/4854674/pexels-photo-4854674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Participants wearing face masks attending a business presentation in an indoor conference room."
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "7993894"
+pexelsId: "4854674"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

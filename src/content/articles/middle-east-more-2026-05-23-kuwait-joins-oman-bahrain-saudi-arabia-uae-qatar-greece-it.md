@@ -6,11 +6,11 @@ author: "Kabir Sethi"
 date: 2026-05-23
 publishedTime: "15:00 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/3885527/pexels-photo-3885527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Full length of stylish female traveler in warm coat walking with suitcase and bag looking at camera after arrival against airport terminal"
+image: "https://images.pexels.com/photos/8242843/pexels-photo-8242843.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Widebody aircraft parked at an airport gate during clear day with terminal building visible."
 tags: ["Travel","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "3885527"
+pexelsId: "8242843"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why kuwait joins oman bahrain saudi arabia uae qatar deserves a closer read across the Middle East today.
 

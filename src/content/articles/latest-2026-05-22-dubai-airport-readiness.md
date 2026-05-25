@@ -6,11 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-22
 publishedTime: "10:16 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/16453350/pexels-photo-16453350.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Passengers walk on a travelator in an airport arrival area, surrounded by signs and bright lighting."
+image: "https://images.pexels.com/photos/3885524/pexels-photo-3885524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Full length of smiling female manager in stylish coat walking with suitcase and bag while traveling on business trip smiling away"
 tags: ["Travel", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "16453350"
+pexelsId: "3885524"
 ---
 
 A travel update is never only about a route or a terminal. It is about the family checking fares, the hotel waiting for bookings and the worker planning a smoother commute.

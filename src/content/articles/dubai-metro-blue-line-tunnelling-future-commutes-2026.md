@@ -5,11 +5,11 @@ category: "Travel"
 author: "Armaan Gill"
 date: 2026-05-18
 watchLine: "Watch execution timelines, station-area planning and whether the line changes commuting behaviour before roads get tighter."
-image: "https://images.pexels.com/photos/30352777/pexels-photo-30352777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "View of airport terminal and runway with planes under a cloudy sky."
+image: "https://images.pexels.com/photos/33772681/pexels-photo-33772681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Black and white view of a busy airport terminal with travelers waiting and walking."
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "30352777"
+pexelsId: "33772681"
 ---
 
 There is a moment in every growing city when a commute stops being a small irritation and starts becoming a life decision.

@@ -6,11 +6,11 @@ author: "Devika Shah"
 date: 2026-05-19
 publishedTime: "15:39 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/34118514/pexels-photo-34118514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "View of an airplane at Shanghai airport terminal, framed by modern architecture."
+image: "https://images.pexels.com/photos/30352777/pexels-photo-30352777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "View of airport terminal and runway with planes under a cloudy sky."
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "34118514"
+pexelsId: "30352777"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

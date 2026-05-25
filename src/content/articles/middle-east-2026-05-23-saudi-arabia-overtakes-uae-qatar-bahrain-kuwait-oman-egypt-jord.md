@@ -6,11 +6,11 @@ author: "Nikhil Verma"
 date: 2026-05-23
 publishedTime: "09:20 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/10517352/pexels-photo-10517352.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Stunning nighttime view of the Jakarta skyline featuring illuminated skyscrapers and a serene urban atmosphere."
+image: "https://images.pexels.com/photos/33719016/pexels-photo-33719016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Contemporary glass building facade reflecting cityscape with blue sky backdrop."
 tags: ["Middle East","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "10517352"
+pexelsId: "33719016"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why saudi arabia overtakes uae qatar bahrain kuwait oman deserves a closer read across the Middle East today.
 

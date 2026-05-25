@@ -6,11 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-22
 publishedTime: "10:00 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/1058959/pexels-photo-1058959.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Brown leather bag with passport in an airport setting, ideal for travel and fashion themes."
+image: "https://images.pexels.com/photos/3885601/pexels-photo-3885601.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Smiling female manager in elegant wear checking schedule of flights in airport while standing with suitcase and coat looking up"
 tags: ["Travel", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "1058959"
+pexelsId: "3885601"
 ---
 
 A travel update is never only about a route or a terminal. It is about the family checking fares, the hotel waiting for bookings and the worker planning a smoother commute.

@@ -5,11 +5,11 @@ category: "Travel"
 author: "Kabir Anand"
 date: 2026-05-17
 watchLine: "Watch hotel pricing, premium cabin demand and whether event-led corporate travel stays resilient outside peak leisure months."
-image: "https://images.pexels.com/photos/34147081/pexels-photo-34147081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A traveler checks her phone while waiting with a luggage cart at a busy airport terminal in Guangzhou."
+image: "https://images.pexels.com/photos/8281068/pexels-photo-8281068.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A dramatic image of an airplane landing against a vibrant sunset over a city skyline."
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "34147081"
+pexelsId: "8281068"
 ---
 
 Business travel is not as glamorous as luxury tourism, but it can be more useful to a city.

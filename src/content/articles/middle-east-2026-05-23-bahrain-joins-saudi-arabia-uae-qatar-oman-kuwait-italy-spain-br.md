@@ -6,11 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-23
 publishedTime: "09:12 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/33719016/pexels-photo-33719016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Contemporary glass building facade reflecting cityscape with blue sky backdrop."
+image: "https://images.pexels.com/photos/31264464/pexels-photo-31264464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Silhouette of a city skyline against the setting sun over a calm river."
 tags: ["Middle East","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "33719016"
+pexelsId: "31264464"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why bahrain joins saudi arabia uae qatar oman kuwait deserves a closer read across the Middle East today.
 

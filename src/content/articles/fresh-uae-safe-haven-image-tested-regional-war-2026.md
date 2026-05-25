@@ -6,9 +6,9 @@ author: "Tara Khanna"
 date: 2026-05-21
 publishedTime: "14:36 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Multicultural team engaged in a collaborative office meeting, discussing ideas around a table with laptops."
-pexelsId: "3184339"
+image: "https://images.pexels.com/photos/6950143/pexels-photo-6950143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Panelists at an EU conference discussing law and diplomacy."
+pexelsId: "6950143"
 tags: ["International", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---

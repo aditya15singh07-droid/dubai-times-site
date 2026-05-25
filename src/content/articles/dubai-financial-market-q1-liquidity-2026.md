@@ -5,11 +5,11 @@ category: "International"
 author: "Mira Sethi"
 date: 2026-04-30
 watchLine: "Watch whether overseas participation, new investor inflows and daily trading value stay firm through the rest of 2026."
-image: "https://images.pexels.com/photos/5686086/pexels-photo-5686086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Multicultural team discusses business strategy in a modern office setting."
+image: "https://images.pexels.com/photos/34817217/pexels-photo-34817217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Middle Eastern woman confidently presents in a Baghdad courtroom with audience attention."
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "5686086"
+pexelsId: "34817217"
 ---
 
 Stock exchange stories can feel remote until one remembers what markets are really measuring. They are not only prices. They are confidence, access to capital and the willingness of people around the world to trust a system with their money. That is why Dubai Financial Market's first-quarter performance matters. DFM is not just reporting a good set of numbers. It is trying to show that despite global noise and a weaker end to March, Dubai still has the attention of investors who could easily look elsewhere.

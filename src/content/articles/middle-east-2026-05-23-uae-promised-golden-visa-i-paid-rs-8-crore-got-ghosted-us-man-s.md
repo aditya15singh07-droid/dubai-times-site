@@ -6,11 +6,11 @@ author: "Kabir Sethi"
 date: 2026-05-23
 publishedTime: "11:24 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/36683645/pexels-photo-36683645.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Urban skyline featuring modern skyscrapers with lush greenery in the foreground."
+image: "https://images.pexels.com/photos/35439724/pexels-photo-35439724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Vibrant Chongqing skyline at night with city lights reflecting in Yangtze River."
 tags: ["Middle East","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "36683645"
+pexelsId: "35439724"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why uae promised golden visa i paid rs 8 deserves a closer read across the Middle East today.
 

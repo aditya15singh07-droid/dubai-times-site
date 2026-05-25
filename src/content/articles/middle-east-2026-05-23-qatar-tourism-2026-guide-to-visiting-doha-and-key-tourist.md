@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-23
 publishedTime: "12:28 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/33917243/pexels-photo-33917243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Multiple KLM aircraft at Amsterdam Schiphol Airport terminal with blue ground support equipment."
+image: "https://images.pexels.com/photos/6544060/pexels-photo-6544060.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Crowded Hong Kong airport terminal with diverse passengers and informative signage."
 tags: ["Travel","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "33917243"
+pexelsId: "6544060"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why doha's tourism moment deserves a closer read across the Middle East today.
 

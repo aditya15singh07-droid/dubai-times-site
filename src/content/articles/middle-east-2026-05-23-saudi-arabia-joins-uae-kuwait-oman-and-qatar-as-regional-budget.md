@@ -6,11 +6,11 @@ author: "Kabir Sethi"
 date: 2026-05-23
 publishedTime: "09:24 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/37635845/pexels-photo-37635845.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Scenic view of skyline with river, green landscape, and blue sky."
+image: "https://images.pexels.com/photos/34944417/pexels-photo-34944417.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Distant skyline view of high-rise buildings in a modern cityscape under a clear sky."
 tags: ["Middle East","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "37635845"
+pexelsId: "34944417"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why saudi arabia joins uae kuwait oman and qatar deserves a closer read across the Middle East today.
 

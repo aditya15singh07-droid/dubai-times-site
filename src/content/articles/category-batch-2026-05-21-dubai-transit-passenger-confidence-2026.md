@@ -6,9 +6,9 @@ author: "Aarav Mehta"
 date: 2026-05-21
 publishedTime: "13:14 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/33598033/pexels-photo-33598033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Wide view of an airport terminal hallway and tarmac, showcasing airplanes and buses."
-pexelsId: "33598033"
+image: "https://images.pexels.com/photos/36823738/pexels-photo-36823738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "View from inside an airport terminal overlooking the runway under a bright blue sky."
+pexelsId: "36823738"
 tags: ["Travel", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

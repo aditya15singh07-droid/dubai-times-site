@@ -6,9 +6,9 @@ author: "Aarav Mehta"
 date: 2026-05-21
 publishedTime: "14:15 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://images.pexels.com/photos/12940671/pexels-photo-12940671.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Spacious airport terminal interior with passengers seated and walking, showcasing modern design and large windows."
-pexelsId: "12940671"
+image: "https://images.pexels.com/photos/13343883/pexels-photo-13343883.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Side view of a commercial airplane with passengers boarding at a sunny airport."
+pexelsId: "13343883"
 tags: ["Travel", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---

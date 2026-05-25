@@ -6,9 +6,9 @@ author: "Mira Sethi"
 date: 2026-05-21
 publishedTime: "13:29 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/8370332/pexels-photo-8370332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Hand writing cryptocurrency concepts on whiteboard in business meeting."
-pexelsId: "8370332"
+image: "https://images.pexels.com/photos/8369688/pexels-photo-8369688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Bitcoin coin in a green pot surrounded by crypto coins on a wooden table."
+pexelsId: "8369688"
 tags: ["Crypto", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

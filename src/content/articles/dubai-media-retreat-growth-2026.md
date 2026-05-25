@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-23
 publishedTime: "01:25 GST"
 watchLine: "Watch the promised single-platform rollout and whether Dubai turns retreat recommendations into easier operating conditions."
-image: "https://images.pexels.com/photos/5668500/pexels-photo-5668500.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Crop unrecognizable coworkers in formal clothes sitting at table with documents and cups of coffee while working together"
+image: "https://images.pexels.com/photos/7691697/pexels-photo-7691697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A diverse group of professionals in a business meeting shaking hands and discussing financial charts."
 tags: ["Business", "Dubai", "Media", "Creative Economy", "Gaming"]
 draft: false
-pexelsId: "5668500"
+pexelsId: "7691697"
 ---
 
 Every city says it supports creators.

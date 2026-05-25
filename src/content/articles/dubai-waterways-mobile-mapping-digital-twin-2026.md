@@ -5,11 +5,11 @@ category: "Middle East"
 author: "Myra D Souza"
 date: 2026-05-18
 watchLine: "Watch whether the Digital Twin project starts changing flood planning, maintenance cycles and waterfront development decisions."
-image: "https://images.pexels.com/photos/5229733/pexels-photo-5229733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Stunning aerial view of Taipei's skyline showcasing illuminated skyscrapers, a vibrant urban night scene."
+image: "https://images.pexels.com/photos/18201085/pexels-photo-18201085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Stunning aerial view of Auckland skyline at sunrise with fog enveloping the city."
 tags: ["Middle East", "Dubai Time"]
 draft: false
-pexelsId: "5229733"
+pexelsId: "18201085"
 ---
 
 Most people notice city technology only when it is visible.

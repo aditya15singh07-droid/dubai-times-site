@@ -6,9 +6,9 @@ author: "Aarav Mehta"
 date: 2026-05-21
 publishedTime: "13:11 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/14915098/pexels-photo-14915098.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A low-angle shot of a Boeing airplane taking off, set against a clear, vivid blue sky."
-pexelsId: "14915098"
+image: "https://images.pexels.com/photos/1928072/pexels-photo-1928072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Close-up of an airplane wing during landing on a snowy runway, showcasing aviation dynamics."
+pexelsId: "1928072"
 tags: ["Travel", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

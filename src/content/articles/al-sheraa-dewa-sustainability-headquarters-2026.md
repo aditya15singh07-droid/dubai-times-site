@@ -6,11 +6,11 @@ author: "Samaira Qureshi"
 date: 2026-05-17
 publishedTime: "19:25 GST"
 watchLine: "Watch whether Al Shera'a becomes a practical benchmark for future public buildings, not only a landmark launch."
-image: "https://images.pexels.com/photos/29307943/pexels-photo-29307943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Elderly man in traditional attire reading at a conference with attendees in background."
+image: "https://images.pexels.com/photos/22481608/pexels-photo-22481608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A bustling promenade at Istanbul harbor filled with people walking and a ship docked nearby."
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "29307943"
+pexelsId: "22481608"
 ---
 
 A government office usually does not make people stop and look twice.

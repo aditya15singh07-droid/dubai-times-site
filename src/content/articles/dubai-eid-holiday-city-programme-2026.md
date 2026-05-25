@@ -5,11 +5,11 @@ category: "Travel"
 author: "Kian Oberoi"
 date: 2026-05-18
 watchLine: "Watch whether the Eid calendar drives stronger staycations, family spending and repeat visitation without making the city feel overly expensive."
-image: "https://images.pexels.com/photos/35563250/pexels-photo-35563250.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A commercial airplane descends against a clear blue sky, illuminated by dawn light."
+image: "https://images.pexels.com/photos/3885593/pexels-photo-3885593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A woman relaxes in an airport terminal waiting area, reading a tablet with luggage nearby."
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "35563250"
+pexelsId: "3885593"
 ---
 
 Every fast city has to solve the same hidden problem. How do you keep life feeling festive for the people who already live there, while still selling the place to visitors? Dubai understands that problem very well. During holidays, especially Eid, the city is not only chasing hotel bookings and mall traffic. It is trying to make residents feel that staying in town is rewarding, generous and emotionally worth it. That is why a holiday calendar matters more than it looks.

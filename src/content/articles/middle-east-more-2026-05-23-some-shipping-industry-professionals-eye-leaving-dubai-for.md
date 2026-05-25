@@ -6,11 +6,11 @@ author: "Kabir Sethi"
 date: 2026-05-23
 publishedTime: "16:44 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/10550578/pexels-photo-10550578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A striking black and white cityscape photo featuring towering skyscrapers and cranes."
+image: "https://images.pexels.com/photos/19336072/pexels-photo-19336072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Explore the iconic skyline of Frankfurt featuring modern skyscrapers and historic landmarks over the Main River."
 tags: ["Real Estate","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "10550578"
+pexelsId: "19336072"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why some shipping industry professionals eye leaving dubai deserves a closer read across the Middle East today.
 

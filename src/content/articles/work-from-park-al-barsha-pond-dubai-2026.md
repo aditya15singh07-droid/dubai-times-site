@@ -5,11 +5,11 @@ category: "Middle East"
 author: "Aarav Mehta"
 date: 2026-05-18
 watchLine: "Watch whether the Al Barsha Pond Park pilot gets real daily use from freelancers and SMEs, not just social media attention."
-image: "https://images.pexels.com/photos/687450/pexels-photo-687450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Stunning view of Shanghai skyline at dusk with the iconic Oriental Pearl Tower prominently featured."
+image: "https://images.pexels.com/photos/27740534/pexels-photo-27740534.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Explore the majestic Hong Kong skyline with its iconic skyscrapers and vibrant harbor."
 tags: ["Middle East", "Dubai Time"]
 draft: false
-pexelsId: "687450"
+pexelsId: "27740534"
 ---
 
 For years, Dubai treated parks and work as separate parts of life.

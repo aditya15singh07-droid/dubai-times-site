@@ -6,11 +6,11 @@ author: "Mira Sethi"
 date: 2026-05-20
 publishedTime: "06:00 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/36823738/pexels-photo-36823738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "View from inside an airport terminal overlooking the runway under a bright blue sky."
+image: "https://images.pexels.com/photos/20777850/pexels-photo-20777850.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Wide view of airplanes parked at an airport next to a city skyline under a vast sky."
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "36823738"
+pexelsId: "20777850"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

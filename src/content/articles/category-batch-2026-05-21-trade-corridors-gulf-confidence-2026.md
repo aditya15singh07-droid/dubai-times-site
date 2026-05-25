@@ -6,9 +6,9 @@ author: "Tara Khanna"
 date: 2026-05-21
 publishedTime: "13:47 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/7698705/pexels-photo-7698705.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Business professionals in a meeting discussing strategies on a whiteboard."
-pexelsId: "7698705"
+image: "https://images.pexels.com/photos/16938565/pexels-photo-16938565.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "People standing together outdoors with Chilean and Peruvian flags in Tacna, Peru."
+pexelsId: "16938565"
 tags: ["International", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

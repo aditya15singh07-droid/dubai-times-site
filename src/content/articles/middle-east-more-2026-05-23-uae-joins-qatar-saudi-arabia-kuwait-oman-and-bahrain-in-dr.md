@@ -6,11 +6,11 @@ author: "Zayan Mirza"
 date: 2026-05-23
 publishedTime: "15:24 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/16108890/pexels-photo-16108890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "An adult male walking on an airport travelator, captured in a modern and well-lit terminal."
+image: "https://images.pexels.com/photos/3885527/pexels-photo-3885527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Full length of stylish female traveler in warm coat walking with suitcase and bag looking at camera after arrival against airport terminal"
 tags: ["Travel","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "16108890"
+pexelsId: "3885527"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why uae joins qatar saudi arabia kuwait oman deserves a closer read across the Middle East today.
 

@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-20
 publishedTime: "14:00 GST"
 watchLine: "Watch flight timings, hotel pricing and how families plan shorter, cooler city breaks."
-image: "https://images.pexels.com/photos/33844248/pexels-photo-33844248.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Passengers boarding a Ryanair plane on a sunny day at a Sicilian airport."
+image: "https://images.pexels.com/photos/16453345/pexels-photo-16453345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "View of Suvarnabhumi Airport interior with moving walkway and signs for connecting flights."
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "33844248"
+pexelsId: "16453345"
 ---
 
 Travel is not only about movement. It is about comfort, timing and trust.

@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-23
 publishedTime: "09:08 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/28570475/pexels-photo-28570475.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Silhouetted city skyline against a vibrant sunset with dramatic clouds."
+image: "https://images.pexels.com/photos/13192894/pexels-photo-13192894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Beautiful Hong Kong skyline featuring Victoria Harbour under a clear blue sky."
 tags: ["Middle East","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "28570475"
+pexelsId: "13192894"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why saudi arabia trade opening deserves a closer read across the Middle East today.
 

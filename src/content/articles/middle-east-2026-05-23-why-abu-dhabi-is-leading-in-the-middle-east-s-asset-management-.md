@@ -6,11 +6,11 @@ author: "Reyan Shah"
 date: 2026-05-23
 publishedTime: "11:20 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/18341554/pexels-photo-18341554.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Stunning view of Dubai's skyline at twilight featuring the iconic Burj Khalifa."
+image: "https://images.pexels.com/photos/28709874/pexels-photo-28709874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Cityscape featuring a modern skyline with tall reflective skyscrapers and a riverbank."
 tags: ["Real Estate","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "18341554"
+pexelsId: "28709874"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why why abu dhabi is leading in the middle deserves a closer read across the Middle East today.
 

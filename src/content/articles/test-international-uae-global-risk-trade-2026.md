@@ -6,11 +6,11 @@ author: "Armaan Gill"
 date: 2026-05-20
 publishedTime: "16:49 GST"
 watchLine: "Watch shipping routes, energy prices, insurance costs and travel advisories."
-image: "https://images.pexels.com/photos/13343883/pexels-photo-13343883.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Side view of a commercial airplane with passengers boarding at a sunny airport."
+image: "https://images.pexels.com/photos/1719490/pexels-photo-1719490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Bright arrivals sign with airplane symbol in an airport terminal."
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "13343883"
+pexelsId: "1719490"
 ---
 
 The UAE feels global risk through practical channels before political speeches.

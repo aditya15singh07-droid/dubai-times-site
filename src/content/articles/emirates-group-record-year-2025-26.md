@@ -5,11 +5,11 @@ category: "Travel"
 author: "Zoya Malhotra"
 date: 2026-05-18
 watchLine: "Watch how much of the group’s cash strength turns into fleet delivery, retrofit execution and resilient margins in 2026-27."
-image: "https://images.pexels.com/photos/31680909/pexels-photo-31680909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Monochrome image of airplane at airport gate with vehicles and jetway during the day."
+image: "https://images.pexels.com/photos/34147081/pexels-photo-34147081.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A traveler checks her phone while waiting with a luggage cart at a busy airport terminal in Guangzhou."
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "31680909"
+pexelsId: "34147081"
 ---
 
 When Emirates Group posts record results, it is never only an airline story.

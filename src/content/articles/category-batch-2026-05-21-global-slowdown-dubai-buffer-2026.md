@@ -6,9 +6,9 @@ author: "Tara Khanna"
 date: 2026-05-21
 publishedTime: "13:53 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/6949977/pexels-photo-6949977.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Two business professionals discussing and signing documents at a meeting with an American flag on the table."
-pexelsId: "6949977"
+image: "https://images.pexels.com/photos/7698705/pexels-photo-7698705.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Business professionals in a meeting discussing strategies on a whiteboard."
+pexelsId: "7698705"
 tags: ["International", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

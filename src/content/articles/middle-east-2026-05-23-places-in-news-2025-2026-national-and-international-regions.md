@@ -6,11 +6,11 @@ author: "Zayan Mirza"
 date: 2026-05-23
 publishedTime: "13:44 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/12793459/pexels-photo-12793459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Panoramic view of a city's skyline featuring a bridge and river beneath a stunning blue sky."
+image: "https://images.pexels.com/photos/7241063/pexels-photo-7241063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Elevated view of Hong Kong's modern skyscrapers and Victoria Harbor."
 tags: ["Middle East","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "12793459"
+pexelsId: "7241063"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why places in national and international regions deserves a closer read across the Middle East today.
 

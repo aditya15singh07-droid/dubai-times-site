@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-19
 publishedTime: "15:33 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/16453345/pexels-photo-16453345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "View of Suvarnabhumi Airport interior with moving walkway and signs for connecting flights."
+image: "https://images.pexels.com/photos/31680909/pexels-photo-31680909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Monochrome image of airplane at airport gate with vehicles and jetway during the day."
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "16453345"
+pexelsId: "31680909"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

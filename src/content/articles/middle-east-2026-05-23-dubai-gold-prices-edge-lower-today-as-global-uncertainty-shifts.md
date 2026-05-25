@@ -6,11 +6,11 @@ author: "Zayan Mirza"
 date: 2026-05-23
 publishedTime: "12:16 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/36599969/pexels-photo-36599969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Black and white photo of modern skyscrapers in Hong Kong viewed from street level, showcasing sleek architectural design."
+image: "https://images.pexels.com/photos/26970225/pexels-photo-26970225.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Panoramic view of Hong Kong's modern skyline featuring iconic skyscrapers and urban architecture."
 tags: ["Middle East","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "36599969"
+pexelsId: "26970225"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why gold's gulf price signal deserves a closer read across the Middle East today.
 

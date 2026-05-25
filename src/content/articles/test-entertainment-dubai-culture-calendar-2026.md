@@ -6,11 +6,11 @@ author: "Myra D Souza"
 date: 2026-05-20
 publishedTime: "16:42 GST"
 watchLine: "Watch local participation, ticket affordability and whether venues build regular audiences."
-image: "https://images.pexels.com/photos/1587927/pexels-photo-1587927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Silhouettes of a lively audience with raised hands at an energetic nightclub event."
+image: "https://images.pexels.com/photos/12560346/pexels-photo-12560346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Silhouette of a crowd enjoying a nightclub concert with vivid laser lights."
 tags: ["Entertainment", "Dubai Time"]
 draft: false
-pexelsId: "1587927"
+pexelsId: "12560346"
 ---
 
 A cultural city is built between the headline acts.

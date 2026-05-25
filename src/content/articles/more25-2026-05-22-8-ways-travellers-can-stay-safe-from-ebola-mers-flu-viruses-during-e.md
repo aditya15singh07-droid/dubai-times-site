@@ -6,11 +6,11 @@ author: "Tara Khanna"
 date: 2026-05-22
 publishedTime: "18:56 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/8636598/pexels-photo-8636598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A young woman presents to colleagues in a modern team meeting setting."
+image: "https://images.pexels.com/photos/3184306/pexels-photo-3184306.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Overhead view of colleagues in a work meeting using laptops and tablets, emphasizing teamwork and technology."
 tags: ["International", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "8636598"
+pexelsId: "3184306"
 ---
 
 International news reaches the UAE faster than many people expect. It arrives through markets, flights, trade lanes and boardroom decisions.

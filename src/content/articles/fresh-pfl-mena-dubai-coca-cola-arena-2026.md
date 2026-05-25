@@ -6,9 +6,9 @@ author: "Naina Batra"
 date: 2026-05-21
 publishedTime: "14:30 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://images.pexels.com/photos/18075368/pexels-photo-18075368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Soccer players in action on a green field during an intense match in Texcoco, Mexico."
-pexelsId: "18075368"
+image: "https://images.pexels.com/photos/15365074/pexels-photo-15365074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Intense football match showcasing players' skills on a sunny day in Mendoza, Argentina."
+pexelsId: "15365074"
 tags: ["Sport", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---

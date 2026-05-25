@@ -5,11 +5,11 @@ category: "Travel"
 author: "Armaan Gill"
 date: 2026-05-17
 watchLine: "Watch repeat visitation, hotel pricing balance and whether Dubai keeps converting event demand into longer stays."
-image: "https://images.pexels.com/photos/33772681/pexels-photo-33772681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Black and white view of a busy airport terminal with travelers waiting and walking."
+image: "https://images.pexels.com/photos/11255361/pexels-photo-11255361.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A commercial airplane at an airport gate during sunset with ground crew preparing for departure."
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "33772681"
+pexelsId: "11255361"
 ---
 
 Visitor records sound like airport numbers until you follow the money.

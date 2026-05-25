@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-23
 publishedTime: "03:10 GST"
 watchLine: "Watch whether Abu Dhabi turns this first sale into a broader market for secure, sovereignty-friendly AI infrastructure."
-image: "https://images.pexels.com/photos/7433851/pexels-photo-7433851.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Colleagues discussing documents in a corporate office meeting."
+image: "https://images.pexels.com/photos/7433840/pexels-photo-7433840.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Business professionals discussing documents in a modern meeting room."
 tags: ["Business", "Abu Dhabi", "AI", "Cybersecurity", "TII"]
 draft: false
-pexelsId: "7433851"
+pexelsId: "7433840"
 ---
 
 The next big AI fight may not be about who builds the smartest model.

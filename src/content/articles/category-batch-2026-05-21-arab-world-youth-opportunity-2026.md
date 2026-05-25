@@ -6,9 +6,9 @@ author: "Anika Menon"
 date: 2026-05-21
 publishedTime: "13:17 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/36565301/pexels-photo-36565301.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Stunning nighttime view of Hangzhou's illuminated skyline reflecting on the river."
-pexelsId: "36565301"
+image: "https://images.pexels.com/photos/18789718/pexels-photo-18789718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A stunning cityscape at night featuring illuminated skyscrapers and modern urban architecture under a clear sky."
+pexelsId: "18789718"
 tags: ["Middle East", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

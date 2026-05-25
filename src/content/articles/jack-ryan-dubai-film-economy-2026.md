@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-23
 publishedTime: "01:55 GST"
 watchLine: "Watch whether this production leads to more repeat Hollywood work, deeper local crews and faster film permissions."
-image: "https://images.pexels.com/photos/34766314/pexels-photo-34766314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Diverse crowd at a night concert. Audience showing excitement and enthusiasm during live performance."
+image: "https://images.pexels.com/photos/13146328/pexels-photo-13146328.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A lively indoor concert featuring colorful laser lights over a large crowd enjoying music."
 tags: ["Entertainment", "Dubai", "Film", "Jack Ryan", "Creative Economy"]
 draft: false
-pexelsId: "34766314"
+pexelsId: "13146328"
 ---
 
 Cities love saying a movie was shot there.

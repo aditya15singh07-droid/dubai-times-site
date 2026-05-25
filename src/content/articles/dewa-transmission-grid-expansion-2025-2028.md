@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-17
 publishedTime: "14:45 GST"
 watchLine: "Track whether DEWA's 2028 transmission pipeline lands ahead of new community, hotel, industrial and data-infrastructure demand."
-image: "https://images.pexels.com/photos/3885593/pexels-photo-3885593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A woman relaxes in an airport terminal waiting area, reading a tablet with luggage nearby."
+image: "https://images.pexels.com/photos/32998741/pexels-photo-32998741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Futuristic architecture of Suvarnabhumi Airport, Bangkok, bustling with travelers."
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "3885593"
+pexelsId: "32998741"
 ---
 
 Dubai's skyline gets the attention. The electricity grid does the hard work.

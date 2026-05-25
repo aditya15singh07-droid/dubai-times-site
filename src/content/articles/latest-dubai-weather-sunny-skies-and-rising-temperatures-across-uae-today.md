@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-20
 publishedTime: "05:54 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/9366300/pexels-photo-9366300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Dramatic low angle view of modern skyscrapers in Moscow's skyline, captured in black and white."
+image: "https://images.pexels.com/photos/20768136/pexels-photo-20768136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Capture of Singapore's modern skyline featuring reflective skyscrapers against a blue sky."
 tags: ["Middle East", "Dubai Time"]
 draft: false
-pexelsId: "9366300"
+pexelsId: "20768136"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

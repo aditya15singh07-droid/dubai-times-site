@@ -6,11 +6,11 @@ author: "Tara Khanna"
 date: 2026-05-23
 publishedTime: "04:40 GST"
 watchLine: "Watch whether the resolution leads to concrete reporting mechanisms on health-system disruption and essential supply access."
-image: "https://images.pexels.com/photos/8070723/pexels-photo-8070723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A diverse group discussing ideas in a modern office setting, using laptops and tablets."
+image: "https://images.pexels.com/photos/8636598/pexels-photo-8636598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A young woman presents to colleagues in a modern team meeting setting."
 tags: ["International", "UAE", "WHO", "Public Health", "Global Supply Chains"]
 draft: false
-pexelsId: "8070723"
+pexelsId: "8636598"
 ---
 
 Wars are often discussed through maps, missiles and diplomacy.

@@ -6,9 +6,9 @@ author: "Anika Menon"
 date: 2026-05-21
 publishedTime: "14:42 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://images.pexels.com/photos/36802763/pexels-photo-36802763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "High-rise buildings against a dramatic cloudy sky in Bangkok, Thailand."
-pexelsId: "36802763"
+image: "https://images.pexels.com/photos/24553795/pexels-photo-24553795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Explore the modern architecture and iconic landmarks of Liverpool's skyline in this captivating urban scene."
+pexelsId: "24553795"
 tags: ["Middle East", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---

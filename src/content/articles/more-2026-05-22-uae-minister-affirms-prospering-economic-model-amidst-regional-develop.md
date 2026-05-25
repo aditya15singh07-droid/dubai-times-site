@@ -6,11 +6,11 @@ author: "Anika Menon"
 date: 2026-05-22
 publishedTime: "15:48 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/17071355/pexels-photo-17071355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Silhouetted skyscrapers create a dramatic sunset skyline in a modern cityscape."
+image: "https://images.pexels.com/photos/2373391/pexels-photo-2373391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A stunning view of Surfers Paradise skyline with modern skyscrapers under a clear blue sky."
 tags: ["Middle East", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "17071355"
+pexelsId: "2373391"
 ---
 
 Regional news is rarely distant for Dubai. It shapes confidence, trade, travel and the quiet calculations people make every day.

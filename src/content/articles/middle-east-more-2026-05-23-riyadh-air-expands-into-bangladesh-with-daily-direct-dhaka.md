@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-23
 publishedTime: "15:32 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/16936915/pexels-photo-16936915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Black and white image of travelers silhouetted against large airport windows, capturing urban travel ambiance."
+image: "https://images.pexels.com/photos/392265/pexels-photo-392265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A bright, spacious airport terminal featuring expansive glass walls, escalators, and American flag."
 tags: ["Travel","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "16936915"
+pexelsId: "392265"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why riyadh air expands into bangladesh with daily direct deserves a closer read across the Middle East today.
 

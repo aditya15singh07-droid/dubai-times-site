@@ -6,11 +6,11 @@ author: "Zayan Mirza"
 date: 2026-05-23
 publishedTime: "15:16 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/32622831/pexels-photo-32622831.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A commercial airplane takes off from a runway on a clear day, showcasing aviation and travel concepts."
+image: "https://images.pexels.com/photos/13716228/pexels-photo-13716228.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Contemporary airport terminal featuring striking glass facade under a cloudy sky."
 tags: ["Travel","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "32622831"
+pexelsId: "13716228"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why saudi arabia overtakes uae qatar bahrain kuwait oman deserves a closer read across the Middle East today.
 

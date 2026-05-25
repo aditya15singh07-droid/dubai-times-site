@@ -5,11 +5,11 @@ category: "Middle East"
 author: "Anika Menon"
 date: 2026-05-18
 watchLine: "Watch whether universities settle quickly into normal academic calendars and whether practical courses recover lost momentum."
-image: "https://images.pexels.com/photos/31846784/pexels-photo-31846784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Aerial view of modern skyscrapers in Warsaw, Poland showcasing urban architecture."
+image: "https://images.pexels.com/photos/36024141/pexels-photo-36024141.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Breathtaking view of Hong Kong skyscrapers silhouetted against a vibrant twilight sky."
 tags: ["Middle East", "Dubai Time"]
 draft: false
-pexelsId: "31846784"
+pexelsId: "36024141"
 ---
 
 Students can adapt to online classes faster than institutions sometimes admit.

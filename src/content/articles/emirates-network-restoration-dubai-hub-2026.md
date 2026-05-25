@@ -5,11 +5,11 @@ category: "Travel"
 author: "Tara Khanna"
 date: 2026-05-18
 watchLine: "Watch whether the airline can push beyond 75% of pre-disruption capacity without weakening reliability or fares discipline."
-image: "https://images.pexels.com/photos/16236744/pexels-photo-16236744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A bustling airport scene with an airplane on the tarmac being prepared for departure."
+image: "https://images.pexels.com/photos/3885493/pexels-photo-3885493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Crop young female traveler in trendy plaid coat and high boots with luggage and documents strolling on pavement near contemporary building of airport during cold season"
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "16236744"
+pexelsId: "3885493"
 ---
 
 Airline recoveries are usually measured in frequencies and fleet plans.

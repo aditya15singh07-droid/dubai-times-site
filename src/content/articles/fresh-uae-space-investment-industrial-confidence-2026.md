@@ -6,9 +6,9 @@ author: "Kabir Anand"
 date: 2026-05-21
 publishedTime: "14:21 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://images.pexels.com/photos/6949938/pexels-photo-6949938.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Diverse group of professionals in a formal meeting setting with a speaker at the podium."
-pexelsId: "6949938"
+image: "https://images.pexels.com/photos/7693734/pexels-photo-7693734.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Colleagues collaborating in a modern office during a daytime meeting."
+pexelsId: "7693734"
 tags: ["Business", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---
