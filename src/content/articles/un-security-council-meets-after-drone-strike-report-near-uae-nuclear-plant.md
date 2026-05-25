@@ -4,11 +4,11 @@ description: "The UN Security Council held an emergency session after reports of
 category: "International"
 author: "Kian Oberoi"
 date: 2026-05-24
-image: "https://images.pexels.com/photos/1109541/pexels-photo-1109541.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
-imageAlt: "Planning notes and business paperwork on a desk."
+image: "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Urban business discussion with documents and laptops."
 tags: ["UAE", "Barakah Nuclear Power Plant", "UN Security Council", "IAEA", "Middle East", "Nuclear Safety", "Gulf Security", "Indian Expats"]
 draft: false
-pexelsId: "1109541"
+pexelsId: "3183197"
 ---
 
 A drone strike near a nuclear power plant is not just another security alert. It is the kind of news that makes governments, airlines, investors, and ordinary families sit up straight.

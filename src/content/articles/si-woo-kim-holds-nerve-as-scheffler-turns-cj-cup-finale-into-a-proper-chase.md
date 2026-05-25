@@ -4,11 +4,11 @@ description: "Si Woo Kim takes a two-shot lead into the final round of the PGA T
 category: "Sport"
 author: "Aarav Mehta"
 date: 2026-05-24
-image: "https://images.pexels.com/photos/7089401/pexels-photo-7089401.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
-imageAlt: "Healthcare worker preparing medical notes."
+image: "https://images.pexels.com/photos/257904/pexels-photo-257904.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Art gallery prepared for visitors."
 tags: ["Golf", "PGA Tour", "Si Woo Kim", "Scottie Scheffler", "CJ Cup Byron Nelson", "Wyndham Clark", "Sport"]
 draft: false
-pexelsId: "7089401"
+pexelsId: "257904"
 ---
 
 Some leads look comfortable on paper. On a golf course, they can start breathing heavily by lunchtime.

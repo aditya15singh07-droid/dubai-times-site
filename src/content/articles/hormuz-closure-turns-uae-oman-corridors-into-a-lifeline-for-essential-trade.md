@@ -4,11 +4,11 @@ description: "New UAE-Oman logistics routes are keeping food, medicines, retail 
 category: "International"
 author: "Kabir Anand"
 date: 2026-05-24
-image: "https://images.pexels.com/photos/8867631/pexels-photo-8867631.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
-imageAlt: "Digital service screens used for public technology operations."
+image: "https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Colleagues reviewing documents during a planning session."
 tags: ["UAE", "Oman", "Strait of Hormuz", "Trade", "Logistics", "Dubai", "Sharjah", "Sohar Port", "Supply Chains", "Gulf Economy"]
 draft: false
-pexelsId: "8867631"
+pexelsId: "3182812"
 ---
 
 For a trader waiting on medicine stocks, a supermarket buyer chasing fresh inventory, or a factory manager short of parts, the shortest shipping route no longer matters. The route that works matters.

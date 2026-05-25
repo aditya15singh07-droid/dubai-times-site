@@ -4,11 +4,11 @@ description: "Gulf states have kept stable credit outlooks despite the US-Iran w
 category: "International"
 author: "Myra D'Souza"
 date: 2026-05-24
-image: "https://images.pexels.com/photos/1190297/pexels-photo-1190297.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
-imageAlt: "Concert stage lights and entertainment crowd."
+image: "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Professionals discussing strategy around a conference table."
 tags: ["UAE economy", "Gulf credit ratings", "Strait of Hormuz", "Iran war", "Oil prices", "Dubai business", "Saudi Arabia", "Qatar LNG", "Kuwait", "Bahrain"]
 draft: false
-pexelsId: "1190297"
+pexelsId: "3184465"
 ---
 
 For Gulf businesses, the first question is no longer whether the region has money. It clearly does.

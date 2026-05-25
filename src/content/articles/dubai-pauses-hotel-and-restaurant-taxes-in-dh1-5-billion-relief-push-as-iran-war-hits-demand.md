@@ -4,11 +4,11 @@ description: "Dubai has approved a Dh1.5 billion incentive package for tourism, 
 category: "International"
 author: "Samaira Qureshi"
 date: 2026-05-24
-image: "https://images.pexels.com/photos/40568/medical-appointment-doctor-healthcare-40568.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
-imageAlt: "Doctor consulting a patient in a healthcare setting."
+image: "https://images.pexels.com/photos/8867631/pexels-photo-8867631.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Digital service screens used for public technology operations."
 tags: ["Dubai", "UAE economy", "Tourism", "Hotels", "Restaurants", "Iran war", "Gulf business", "Real estate", "Education", "Travel"]
 draft: false
-pexelsId: "40568"
+pexelsId: "8867631"
 ---
 
 Dubai’s restaurants, hotels and event venues have been waiting for one thing this summer: breathing room.

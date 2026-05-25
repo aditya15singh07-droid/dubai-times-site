@@ -4,11 +4,11 @@ description: "Pedro Pascal, Sigourney Weaver and Jon Favreau bring The Mandalori
 category: "Entertainment"
 author: "Devika Shah"
 date: 2026-05-24
-image: "https://images.pexels.com/photos/5445453/pexels-photo-5445453.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
-imageAlt: "Family discussing daily plans at home."
+image: "https://images.pexels.com/photos/8197505/pexels-photo-8197505.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Students walking across a modern education campus."
 tags: ["Star Wars", "The Mandalorian", "Pedro Pascal", "Grogu", "Sigourney Weaver", "Hollywood", "Cinema", "Entertainment"]
 draft: false
-pexelsId: "5445453"
+pexelsId: "8197505"
 ---
 
 For many Star Wars fans, Grogu was never just a cute character on streaming.

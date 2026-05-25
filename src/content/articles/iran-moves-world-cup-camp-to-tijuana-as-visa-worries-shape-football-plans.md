@@ -4,11 +4,11 @@ description: "Iran will base its World Cup squad in Tijuana after FIFA approved 
 category: "Sport"
 author: "Myra D'Souza"
 date: 2026-05-24
-image: "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
-imageAlt: "Urban business discussion with documents and laptops."
+image: "https://images.pexels.com/photos/7648472/pexels-photo-7648472.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Passengers moving through a modern airport terminal."
 tags: ["Iran", "World Cup 2026", "Football", "Tijuana", "Los Angeles", "FIFA", "Sport", "Middle East"]
 draft: false
-pexelsId: "3183197"
+pexelsId: "7648472"
 ---
 
 For footballers, a World Cup camp is meant to feel like a launchpad. For Iran, it has also become a border strategy.

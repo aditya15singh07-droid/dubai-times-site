@@ -4,11 +4,11 @@ description: "Morocco’s King Mohammed VI has pardoned 18 Senegal supporters co
 category: "Sport"
 author: "Samaira Qureshi"
 date: 2026-05-24
-image: "https://images.pexels.com/photos/3856433/pexels-photo-3856433.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
-imageAlt: "Shipping containers and logistics equipment at a commercial port."
+image: "https://images.pexels.com/photos/439391/pexels-photo-439391.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "High-rise buildings for real estate coverage."
 tags: ["AFCON", "Morocco", "Senegal", "Football", "Sadio Mane", "CAF", "Court of Arbitration for Sport", "African Football", "Gulf Sport"]
 draft: false
-pexelsId: "3856433"
+pexelsId: "439391"
 ---
 
 A football final can end in 90 minutes. Its anger can last much longer.

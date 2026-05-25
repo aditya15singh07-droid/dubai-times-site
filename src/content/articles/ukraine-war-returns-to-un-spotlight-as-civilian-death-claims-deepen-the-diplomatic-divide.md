@@ -4,11 +4,11 @@ description: "The UN Security Council met after Russia accused Ukraine of striki
 category: "International"
 author: "Naina Batra"
 date: 2026-05-24
-image: "https://images.pexels.com/photos/373912/pexels-photo-373912.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
-imageAlt: "Aircraft at an airport gate for a travel story."
+image: "https://images.pexels.com/photos/7413916/pexels-photo-7413916.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Engineers reviewing industrial operations inside a modern facility."
 tags: ["Ukraine War", "UN Security Council", "Russia", "Luhansk", "International Law", "Middle East", "Indian Readers"]
 draft: false
-pexelsId: "373912"
+pexelsId: "7413916"
 ---
 
 War often reaches the world as numbers. Six dead. Dozens injured. One more emergency meeting.

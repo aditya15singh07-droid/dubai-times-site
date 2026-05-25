@@ -4,11 +4,11 @@ description: "Hollywood’s summer 2026 slate is packed with superheroes, nostal
 category: "Entertainment"
 author: "Vihaan Rao"
 date: 2026-05-24
-image: "https://images.pexels.com/photos/257904/pexels-photo-257904.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
-imageAlt: "Art gallery prepared for visitors."
+image: "https://images.pexels.com/photos/5445453/pexels-photo-5445453.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Family discussing daily plans at home."
 tags: ["Summer Movies 2026", "Spider-Man", "Toy Story 5", "Moana", "Christopher Nolan", "Steven Spielberg", "Hollywood", "UAE Cinemas", "Entertainment"]
 draft: false
-pexelsId: "257904"
+pexelsId: "5445453"
 ---
 
 For movie fans in Dubai and India, this summer looks less like a season and more like a traffic jam at the cinema counter.

@@ -4,11 +4,11 @@ description: "Marie-Clementine Dusabejambo’s debut feature Ben’Imana enters 
 category: "Entertainment"
 author: "Devika Shah"
 date: 2026-05-24
-image: "https://images.pexels.com/photos/7413916/pexels-photo-7413916.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
-imageAlt: "Engineers reviewing industrial operations inside a modern facility."
+image: "https://images.pexels.com/photos/399187/pexels-photo-399187.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Football match and sport audience energy."
 tags: ["Ben’Imana", "Cannes Film Festival", "Rwandan Cinema", "Marie-Clementine Dusabejambo", "African Cinema", "Entertainment"]
 draft: false
-pexelsId: "7413916"
+pexelsId: "399187"
 ---
 
 Some films arrive at a festival with glamour. Others arrive carrying a country’s unfinished conversation.

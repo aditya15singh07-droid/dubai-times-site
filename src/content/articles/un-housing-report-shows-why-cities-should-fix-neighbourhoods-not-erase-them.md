@@ -4,11 +4,11 @@ description: "A new UN-Habitat report says the global housing crisis affects bil
 category: "International"
 author: "Zoya Malhotra"
 date: 2026-05-24
-image: "https://images.pexels.com/photos/7648472/pexels-photo-7648472.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
-imageAlt: "Passengers moving through a modern airport terminal."
+image: "https://images.pexels.com/photos/1109541/pexels-photo-1109541.jpeg?auto=compress&cs=tinysrgb&w=900&h=600&fit=crop"
+imageAlt: "Planning notes and business paperwork on a desk."
 tags: ["UN-Habitat", "Housing Crisis", "Real Estate", "Urban Development", "Informal Settlements", "Refugees", "Climate Resilience", "Middle East"]
 draft: false
-pexelsId: "7648472"
+pexelsId: "1109541"
 ---
 
 A home is not just a roof. It is where a child studies, where a worker rests, and where a family decides whether tomorrow feels possible.
