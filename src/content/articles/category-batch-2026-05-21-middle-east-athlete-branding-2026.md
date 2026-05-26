@@ -6,9 +6,9 @@ author: "Naina Batra"
 date: 2026-05-21
 publishedTime: "13:29 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/29811412/pexels-photo-29811412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A soccer team huddles energetically before a game, showcasing unity and teamwork."
-pexelsId: "29811412"
+image: "https://images.pexels.com/photos/13241581/pexels-photo-13241581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Dynamic soccer match showcasing skillful plays on a sunny day in Mendoza, Argentina."
+pexelsId: "13241581"
 tags: ["Sport", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

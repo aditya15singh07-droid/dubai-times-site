@@ -4,10 +4,11 @@ description: "Abu Dhabi has approved AED1.54 billion in housing benefits before 
 category: "Real Estate"
 author: "Naina Batra"
 date: 2026-05-26
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Abu Dhabi’s AED1.54 Billion Eid Housing Package Gives 1,074 Emirati Families A Stronger Home Base"
+image: "https://images.pexels.com/photos/34475724/pexels-photo-34475724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Captivating Portland skyline framed by trees at sunset, highlighting urban architecture."
 tags: ["Abu Dhabi", "UAE Real Estate", "Housing Benefits", "Eid Al Adha 2026", "Emirati Citizens", "Abu Dhabi Housing Authority", "Sheikh Khaled bin Mohamed bin Zayed", "UAE Property"]
 draft: false
+pexelsId: "34475724"
 ---
 
 For many families, Eid spending begins with clothes, gifts and a full dining table. In Abu Dhabi this year, the biggest Eid gift is more permanent: a home, or relief from a housing loan.

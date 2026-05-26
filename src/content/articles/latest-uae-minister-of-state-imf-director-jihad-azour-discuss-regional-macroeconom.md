@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-19
 publishedTime: "17:13 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/6950214/pexels-photo-6950214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Diverse leaders at a conference podium with US flag in the background."
+image: "https://images.pexels.com/photos/4854674/pexels-photo-4854674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Participants wearing face masks attending a business presentation in an indoor conference room."
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "6950214"
+pexelsId: "4854674"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

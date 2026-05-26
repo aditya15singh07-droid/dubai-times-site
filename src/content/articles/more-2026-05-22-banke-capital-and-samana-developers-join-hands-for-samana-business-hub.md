@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-22
 publishedTime: "14:36 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/34437871/pexels-photo-34437871.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Aerial view of Buenos Aires skyline showcasing urban architecture and cityscape."
+image: "https://images.pexels.com/photos/27585025/pexels-photo-27585025.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Impressive Frankfurt skyline showcasing modern skyscrapers and the riverfront at sunset."
 tags: ["Real Estate", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "34437871"
+pexelsId: "27585025"
 ---
 
 Property news in Dubai always lands at the dining table. Tenants, buyers and brokers all read the same headline with very different worries.

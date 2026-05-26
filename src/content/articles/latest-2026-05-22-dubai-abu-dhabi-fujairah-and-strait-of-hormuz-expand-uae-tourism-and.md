@@ -6,11 +6,11 @@ author: "Tara Khanna"
 date: 2026-05-22
 publishedTime: "12:36 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/6949992/pexels-photo-6949992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Two businessmen in formal suits discussing at a conference table."
+image: "https://images.pexels.com/photos/6950206/pexels-photo-6950206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A diverse team in business attire at a podium with an American flag, showing unity and professionalism."
 tags: ["International", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "6949992"
+pexelsId: "6950206"
 ---
 
 International news reaches the UAE faster than many people expect. It arrives through markets, flights, trade lanes and boardroom decisions.

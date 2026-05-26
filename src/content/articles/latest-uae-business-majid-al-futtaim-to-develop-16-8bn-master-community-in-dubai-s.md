@@ -6,11 +6,11 @@ author: "Armaan Gill"
 date: 2026-05-19
 publishedTime: "13:39 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/3337210/pexels-photo-3337210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Captivating cityscape with skyscrapers and clouds during a vivid pink and purple sunset."
+image: "https://images.pexels.com/photos/11776420/pexels-photo-11776420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Black and white photo of Moscow's skyline featuring Evolution Tower and other skyscrapers."
 tags: ["Real Estate", "Dubai Time"]
 draft: false
-pexelsId: "3337210"
+pexelsId: "11776420"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

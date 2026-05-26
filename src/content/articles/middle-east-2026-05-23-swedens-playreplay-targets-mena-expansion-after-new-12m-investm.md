@@ -6,11 +6,11 @@ author: "Kabir Sethi"
 date: 2026-05-23
 publishedTime: "15:36 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/27394486/pexels-photo-27394486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Amateur soccer players in yellow uniforms and referee on the field after a match."
+image: "https://images.pexels.com/photos/18075368/pexels-photo-18075368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Soccer players in action on a green field during an intense match in Texcoco, Mexico."
 tags: ["Sport","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "27394486"
+pexelsId: "18075368"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why swedens playreplay targets mena expansion after new 12m deserves a closer read across the Middle East today.
 

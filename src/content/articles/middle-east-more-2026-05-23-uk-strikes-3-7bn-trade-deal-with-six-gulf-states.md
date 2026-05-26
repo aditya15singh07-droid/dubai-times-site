@@ -6,11 +6,11 @@ author: "Arjun Malhotra"
 date: 2026-05-23
 publishedTime: "17:56 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/18799030/pexels-photo-18799030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A dynamic moment captured in a soccer match with players showcasing skills on a vibrant green field."
+image: "https://images.pexels.com/photos/32266318/pexels-photo-32266318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Two soccer players fiercely competing on a sunny field during an exciting match."
 tags: ["Sport","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "18799030"
+pexelsId: "32266318"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why uk strikes 3 7bn trade deal with six deserves a closer read across the Middle East today.
 

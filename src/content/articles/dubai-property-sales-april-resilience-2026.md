@@ -5,11 +5,11 @@ category: "Real Estate"
 author: "Kabir Anand"
 date: 2026-05-17
 watchLine: "Watch whether transaction value keeps rising faster than volume and whether Dubai South keeps leading area demand."
-image: "https://images.pexels.com/photos/35926382/pexels-photo-35926382.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Panoramic view of Hong Kong's skyline at dusk with mountains in the background."
+image: "https://images.pexels.com/photos/37738733/pexels-photo-37738733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Black and white photo of urban architecture surrounded by trees, creating a modern contrast."
 tags: ["Real Estate", "Dubai Time"]
 draft: false
-pexelsId: "35926382"
+pexelsId: "37738733"
 ---
 
 Dubai property has a habit of annoying its doubters.

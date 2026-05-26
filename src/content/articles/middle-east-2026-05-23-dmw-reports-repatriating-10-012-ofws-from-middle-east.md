@@ -6,11 +6,11 @@ author: "Reyan Shah"
 date: 2026-05-23
 publishedTime: "13:04 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/24589244/pexels-photo-24589244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Stunning view of NYC skyline with skyscrapers and Brooklyn Bridge at sunset."
+image: "https://images.pexels.com/photos/19335259/pexels-photo-19335259.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A scenic view of Frankfurt's skyscrapers along the Main River during the day."
 tags: ["Middle East","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "24589244"
+pexelsId: "19335259"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why dmw reports repatriating 10 012 ofws from middle deserves a closer read across the Middle East today.
 

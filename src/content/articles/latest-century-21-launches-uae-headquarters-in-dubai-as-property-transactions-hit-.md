@@ -6,11 +6,11 @@ author: "Myra D Souza"
 date: 2026-05-20
 publishedTime: "00:00 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/33927045/pexels-photo-33927045.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Geometric facade of The Broad in Los Angeles showcases contemporary architectural style."
+image: "https://images.pexels.com/photos/36377344/pexels-photo-36377344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Tall modern skyscraper in Rotterdam with glass facade and clear blue sky, showcasing contemporary architecture."
 tags: ["Real Estate", "Dubai Time"]
 draft: false
-pexelsId: "33927045"
+pexelsId: "36377344"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

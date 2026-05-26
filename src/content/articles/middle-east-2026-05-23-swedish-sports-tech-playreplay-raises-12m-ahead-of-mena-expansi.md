@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-23
 publishedTime: "12:44 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/12783685/pexels-photo-12783685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Amateur soccer players compete on an urban field in Venezuela, showcasing teamwork and athleticism."
+image: "https://images.pexels.com/photos/31422304/pexels-photo-31422304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Teen soccer player dribbles the ball on a sunny day outdoor field."
 tags: ["Sport","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "12783685"
+pexelsId: "31422304"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why swedish sports tech playreplay raises 12m ahead deserves a closer read across the Middle East today.
 

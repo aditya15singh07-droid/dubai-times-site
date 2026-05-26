@@ -5,11 +5,11 @@ category: "Real Estate"
 author: "Reyansh Suri"
 date: 2026-05-19
 watchLine: "Watch whether the campaign drives real middle-class engagement, retail footfall and a wider conversation about attainable home ownership in Dubai."
-image: "https://images.pexels.com/photos/11776420/pexels-photo-11776420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Black and white photo of Moscow's skyline featuring Evolution Tower and other skyscrapers."
+image: "https://images.pexels.com/photos/16942267/pexels-photo-16942267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A serene urban cityscape with skyscrapers and cranes reflected in a body of water at sunset."
 tags: ["Real Estate", "Dubai Time"]
 draft: false
-pexelsId: "11776420"
+pexelsId: "16942267"
 ---
 
 In Dubai, people often arrive first as shoppers, workers, tourists or tenants. Only later, if things go well, they start thinking like residents. That slow shift matters in a city built on movement. A person who feels temporary spends one way. A person who sees a future spends, saves and plans differently. So when Dubai launches a campaign that literally tells people they could shop their way into a home, it is not just running a promotion. It is making an emotional argument about belonging.

@@ -6,9 +6,9 @@ author: "Vihaan Rao"
 date: 2026-05-21
 publishedTime: "13:32 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/1587927/pexels-photo-1587927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Silhouettes of a lively audience with raised hands at an energetic nightclub event."
-pexelsId: "1587927"
+image: "https://images.pexels.com/photos/12560346/pexels-photo-12560346.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Silhouette of a crowd enjoying a nightclub concert with vivid laser lights."
+pexelsId: "12560346"
 tags: ["Entertainment", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

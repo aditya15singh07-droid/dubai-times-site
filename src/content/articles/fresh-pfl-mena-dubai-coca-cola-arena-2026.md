@@ -6,9 +6,9 @@ author: "Naina Batra"
 date: 2026-05-21
 publishedTime: "14:30 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://images.pexels.com/photos/30340460/pexels-photo-30340460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Dramatic capture of soccer players during a competitive match on a rainy day."
-pexelsId: "30340460"
+image: "https://images.pexels.com/photos/15365055/pexels-photo-15365055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A lively amateur football game with players in action and an engaged crowd watching on a sunny day."
+pexelsId: "15365055"
 tags: ["Sport", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---

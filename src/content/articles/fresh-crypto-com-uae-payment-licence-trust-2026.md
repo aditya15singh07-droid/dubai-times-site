@@ -6,9 +6,9 @@ author: "Mira Sethi"
 date: 2026-05-21
 publishedTime: "14:18 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://images.pexels.com/photos/11070638/pexels-photo-11070638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Gold Bitcoin coin with blurred financial chart in background, representing cryptocurrency trading."
-pexelsId: "11070638"
+image: "https://images.pexels.com/photos/8369688/pexels-photo-8369688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Bitcoin coin in a green pot surrounded by crypto coins on a wooden table."
+pexelsId: "8369688"
 tags: ["Crypto", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---

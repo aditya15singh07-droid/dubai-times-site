@@ -6,11 +6,11 @@ author: "Ishaan Roy"
 date: 2026-05-23
 publishedTime: "12:56 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/36599969/pexels-photo-36599969.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Black and white photo of modern skyscrapers in Hong Kong viewed from street level, showcasing sleek architectural design."
+image: "https://images.pexels.com/photos/30980144/pexels-photo-30980144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "City skyline featuring modern skyscrapers under a clear blue sky."
 tags: ["Middle East","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "36599969"
+pexelsId: "30980144"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why pakistan army chief held talks with iran foreign deserves a closer read across the Middle East today.
 

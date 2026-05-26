@@ -5,11 +5,11 @@ category: "Real Estate"
 author: "Zoya Malhotra"
 date: 2026-05-19
 watchLine: "Watch whether Jafza can convert this early-year momentum into longer-term industrial and logistics commitments across 2026."
-image: "https://images.pexels.com/photos/16942267/pexels-photo-16942267.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A serene urban cityscape with skyscrapers and cranes reflected in a body of water at sunset."
+image: "https://images.pexels.com/photos/36551734/pexels-photo-36551734.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Scenic view of Baku's skyline with modern architecture under cloudy sky."
 tags: ["Real Estate", "Dubai Time"]
 draft: false
-pexelsId: "16942267"
+pexelsId: "36551734"
 ---
 
 Trade hubs do not get judged only when times are easy. Their real examination comes when routes are disrupted, shipping turns nervous and companies have to decide where they still feel safe placing long-term money. That is why DP World's latest Jafza update deserves attention. The number itself, AED 854 million of investments in the first four months of the year, is strong. But the more revealing point is the explanation around it. Dubai is increasingly selling resilience as part of its industrial and logistics offer, not just location.

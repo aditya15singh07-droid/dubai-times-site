@@ -6,9 +6,9 @@ author: "Vihaan Rao"
 date: 2026-05-21
 publishedTime: "14:33 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://images.pexels.com/photos/29707290/pexels-photo-29707290.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Dynamic black and white image capturing a lively crowd at a Glastonbury music festival."
-pexelsId: "29707290"
+image: "https://images.pexels.com/photos/36027794/pexels-photo-36027794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A dense crowd of people gathered at a nighttime concert, illuminated by stage lights."
+pexelsId: "36027794"
 tags: ["Entertainment", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---

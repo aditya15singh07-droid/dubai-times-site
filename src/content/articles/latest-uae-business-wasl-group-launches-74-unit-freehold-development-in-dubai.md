@@ -6,11 +6,11 @@ author: "Naina Batra"
 date: 2026-05-19
 publishedTime: "14:05 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/36756966/pexels-photo-36756966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A stunning view of modern skyscrapers at twilight with reflective glass surfaces."
+image: "https://images.pexels.com/photos/3337210/pexels-photo-3337210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Captivating cityscape with skyscrapers and clouds during a vivid pink and purple sunset."
 tags: ["Real Estate", "Dubai Time"]
 draft: false
-pexelsId: "36756966"
+pexelsId: "3337210"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

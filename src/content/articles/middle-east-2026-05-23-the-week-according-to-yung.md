@@ -6,11 +6,11 @@ author: "Ishaan Roy"
 date: 2026-05-23
 publishedTime: "11:56 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/36606989/pexels-photo-36606989.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Vibrant scene of a lively crowd celebrating with red flares at night."
+image: "https://images.pexels.com/photos/36675302/pexels-photo-36675302.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A dynamic concert scene with a large crowd enjoying vibrant stage lighting and a lively atmosphere."
 tags: ["Entertainment","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "36606989"
+pexelsId: "36675302"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the week according to yung deserves a closer read across the Middle East today.
 

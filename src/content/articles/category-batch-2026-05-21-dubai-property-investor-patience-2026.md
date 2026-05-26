@@ -6,9 +6,9 @@ author: "Zoya Malhotra"
 date: 2026-05-21
 publishedTime: "13:59 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/35585512/pexels-photo-35585512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Panoramic view of Barcelona's skyline showcasing modern skyscrapers and residential buildings."
-pexelsId: "35585512"
+image: "https://images.pexels.com/photos/32473422/pexels-photo-32473422.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Curved modern building with urban skyline and greenery in the foreground."
+pexelsId: "32473422"
 tags: ["Real Estate", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

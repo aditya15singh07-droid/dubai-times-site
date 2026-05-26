@@ -6,11 +6,11 @@ author: "Reyansh Suri"
 date: 2026-05-17
 publishedTime: "12:35 GST"
 watchLine: "Watch future Emaar launches for stronger destination value, branded living, pricing discipline and delivery confidence."
-image: "https://images.pexels.com/photos/20627327/pexels-photo-20627327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Stunning view of iconic Chicago skyscrapers under a cloudy sky."
+image: "https://images.pexels.com/photos/35926382/pexels-photo-35926382.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Panoramic view of Hong Kong's skyline at dusk with mountains in the background."
 tags: ["Real Estate", "Dubai Time"]
 draft: false
-pexelsId: "20627327"
+pexelsId: "35926382"
 ---
 
 In real estate, confidence has a smell. Buyers notice it before they admit it.

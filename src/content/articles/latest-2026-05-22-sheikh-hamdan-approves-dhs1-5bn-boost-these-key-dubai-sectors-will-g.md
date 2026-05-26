@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-22
 publishedTime: "11:12 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/29585685/pexels-photo-29585685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Captivating dawn view of the Manhattan skyline silhouetted against the morning sky."
+image: "https://images.pexels.com/photos/35275359/pexels-photo-35275359.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Stunning aerial view of Seattle skyline featuring Smith Tower and modern skyscrapers under a cloudy sky."
 tags: ["Real Estate", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "29585685"
+pexelsId: "35275359"
 ---
 
 Property news in Dubai always lands at the dining table. Tenants, buyers and brokers all read the same headline with very different worries.

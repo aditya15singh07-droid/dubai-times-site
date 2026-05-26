@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-23
 publishedTime: "21:36 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/8070723/pexels-photo-8070723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A diverse group discussing ideas in a modern office setting, using laptops and tablets."
+image: "https://images.pexels.com/photos/6950018/pexels-photo-6950018.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Business leaders signing a significant agreement in a conference room setting."
 tags: ["International","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "8070723"
+pexelsId: "6950018"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why no fuel shortage omcs assure uninterrupted petrol diesel deserves a closer read across the Middle East today.
 

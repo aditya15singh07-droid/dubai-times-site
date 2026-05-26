@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-20
 publishedTime: "15:21 GST"
 watchLine: "Watch rent pressure, handover quality and whether new communities feel practical for families."
-image: "https://images.pexels.com/photos/33719015/pexels-photo-33719015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Sky-high view showcasing contemporary skyscrapers in a bustling urban landscape, under clear daylight skies."
+image: "https://images.pexels.com/photos/34522993/pexels-photo-34522993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Abstract view of modern architecture with geometric shapes and glass facade."
 tags: ["Real Estate", "Dubai Time"]
 draft: false
-pexelsId: "33719015"
+pexelsId: "34522993"
 ---
 
 The property market cannot live forever on launch-day excitement.

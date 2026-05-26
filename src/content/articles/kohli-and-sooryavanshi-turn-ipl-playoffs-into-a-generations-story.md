@@ -4,11 +4,11 @@ description: "Virat Kohli, 37, and Vaibhav Sooryavanshi, 15, carry the IPL playo
 category: "Sport"
 author: "Myra D'Souza"
 date: 2026-05-26
-image: "https://images.pexels.com/photos/12783338/pexels-photo-12783338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Two male soccer players competing in an outdoor match on a sunny day."
+image: "https://images.pexels.com/photos/10031866/pexels-photo-10031866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Youth soccer player in green jersey on football field during match."
 tags: ["IPL 2026", "Virat Kohli", "Vaibhav Sooryavanshi", "Royal Challengers Bengaluru", "Rajasthan Royals", "Gujarat Titans", "Sunrisers Hyderabad", "Cricket", "Sport Business"]
 draft: false
-pexelsId: "12783338"
+pexelsId: "10031866"
 ---
 
 Some cricket stories are about runs. This one is about time.

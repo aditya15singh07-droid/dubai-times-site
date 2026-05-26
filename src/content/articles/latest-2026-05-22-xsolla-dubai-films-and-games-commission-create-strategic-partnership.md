@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-22
 publishedTime: "11:00 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/4751800/pexels-photo-4751800.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Urban skyline with construction cranes and people on a grassy hill in Shanghai, China."
+image: "https://images.pexels.com/photos/8825140/pexels-photo-8825140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Dramatic cityscape featuring Moscow's iconic skyscrapers with unique architecture."
 tags: ["Real Estate", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "4751800"
+pexelsId: "8825140"
 ---
 
 Property news in Dubai always lands at the dining table. Tenants, buyers and brokers all read the same headline with very different worries.

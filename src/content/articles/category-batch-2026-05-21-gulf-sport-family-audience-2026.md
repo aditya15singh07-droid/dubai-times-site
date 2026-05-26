@@ -6,9 +6,9 @@ author: "Naina Batra"
 date: 2026-05-21
 publishedTime: "13:20 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/9544750/pexels-photo-9544750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Two soccer players and a goalie in action during an outdoor match at sunset."
-pexelsId: "9544750"
+image: "https://images.pexels.com/photos/15365075/pexels-photo-15365075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Intense soccer game in Mina, Mendoza, Argentina showcasing teamwork and action on a sunny day."
+pexelsId: "15365075"
 tags: ["Sport", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

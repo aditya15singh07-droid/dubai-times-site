@@ -6,11 +6,11 @@ author: "Zayan Mirza"
 date: 2026-05-23
 publishedTime: "11:32 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/36953398/pexels-photo-36953398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Kowloon skyline at dusk, overlooking Victoria Harbour with a muted urban vibe."
+image: "https://images.pexels.com/photos/35439724/pexels-photo-35439724.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Vibrant Chongqing skyline at night with city lights reflecting in Yangtze River."
 tags: ["Middle East","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "36953398"
+pexelsId: "35439724"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why uae hookah company seesaws on nasdaq launch deserves a closer read across the Middle East today.
 

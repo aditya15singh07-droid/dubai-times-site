@@ -6,11 +6,11 @@ author: "Zayan Mirza"
 date: 2026-05-23
 publishedTime: "14:32 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/11505497/pexels-photo-11505497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "City skyline with skyscrapers and trees during the day, showcasing urban architecture."
+image: "https://images.pexels.com/photos/36847817/pexels-photo-36847817.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Illuminated New York City skyline featuring the iconic One World Trade Center at night."
 tags: ["Middle East","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "11505497"
+pexelsId: "36847817"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why south korea and over thirty nations face a deserves a closer read across the Middle East today.
 

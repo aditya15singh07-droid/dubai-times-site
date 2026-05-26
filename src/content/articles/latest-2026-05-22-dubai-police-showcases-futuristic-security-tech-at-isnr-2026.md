@@ -6,11 +6,11 @@ author: "Naina Batra"
 date: 2026-05-22
 publishedTime: "11:40 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/15365074/pexels-photo-15365074.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Intense football match showcasing players' skills on a sunny day in Mendoza, Argentina."
+image: "https://images.pexels.com/photos/12917757/pexels-photo-12917757.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Action-packed soccer game with players in motion on a sunlit field, showcasing competitive spirit."
 tags: ["Sport", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "15365074"
+pexelsId: "12917757"
 ---
 
 Sport in the UAE is no longer only about the scoreboard. It is also about families, tourism, sponsors and the next generation of fans.

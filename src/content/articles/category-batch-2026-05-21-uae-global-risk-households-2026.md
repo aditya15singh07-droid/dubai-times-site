@@ -6,9 +6,9 @@ author: "Tara Khanna"
 date: 2026-05-21
 publishedTime: "13:44 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/7868975/pexels-photo-7868975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A diverse group of professionals engaging in a collaborative office meeting, sharing ideas and working on a project."
-pexelsId: "7868975"
+image: "https://images.pexels.com/photos/7993894/pexels-photo-7993894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A diverse group of professionals working together in an office meeting room."
+pexelsId: "7993894"
 tags: ["International", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

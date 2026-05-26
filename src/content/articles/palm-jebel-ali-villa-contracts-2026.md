@@ -5,11 +5,11 @@ category: "Real Estate"
 author: "Vihaan Rao"
 date: 2026-04-27
 watchLine: "Watch whether delivery discipline, infrastructure sequencing and end-user demand keep pace as Palm Jebel Ali moves deeper into execution."
-image: "https://images.pexels.com/photos/37738733/pexels-photo-37738733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Black and white photo of urban architecture surrounded by trees, creating a modern contrast."
+image: "https://images.pexels.com/photos/33178685/pexels-photo-33178685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Urban skyline featuring contemporary high-rise buildings with glass facades against a cloudy sky."
 tags: ["Real Estate", "Dubai Time"]
 draft: false
-pexelsId: "37738733"
+pexelsId: "33178685"
 ---
 
 Dubai likes to announce scale. But scale only becomes real when contracts are signed, contractors move in and timelines start costing money. That is why Nakheel's latest Palm Jebel Ali update matters. The story is not simply that another luxury development is advancing. The real story is that one of Dubai's most symbolic coastline expansions is moving further from vision and deeper into execution. Once that shift happens, investors start thinking differently, supply expectations change and the city's southern map begins to feel less theoretical.

@@ -6,11 +6,11 @@ author: "Naina Batra"
 date: 2026-05-19
 publishedTime: "17:39 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/36377344/pexels-photo-36377344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Tall modern skyscraper in Rotterdam with glass facade and clear blue sky, showcasing contemporary architecture."
+image: "https://images.pexels.com/photos/23106806/pexels-photo-23106806.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Night view of the Taipei skyline featuring the illuminated Taipei 101 amid modern skyscrapers."
 tags: ["Real Estate", "Dubai Time"]
 draft: false
-pexelsId: "36377344"
+pexelsId: "23106806"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

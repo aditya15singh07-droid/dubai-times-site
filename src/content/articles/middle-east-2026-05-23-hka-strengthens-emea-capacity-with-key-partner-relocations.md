@@ -6,11 +6,11 @@ author: "Reyan Shah"
 date: 2026-05-23
 publishedTime: "11:28 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/30497160/pexels-photo-30497160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Energetic crowd enjoying a live concert under bright stage lights in Guwahati, India."
+image: "https://images.pexels.com/photos/34766314/pexels-photo-34766314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Diverse crowd at a night concert. Audience showing excitement and enthusiasm during live performance."
 tags: ["Entertainment","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "30497160"
+pexelsId: "34766314"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why hka strengthens emea capacity with key partner relocations deserves a closer read across the Middle East today.
 

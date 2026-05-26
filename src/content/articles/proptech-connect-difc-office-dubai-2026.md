@@ -5,11 +5,11 @@ category: "Real Estate"
 author: "Zoya Malhotra"
 date: 2026-05-18
 watchLine: "Watch whether Dubai Land Department converts proptech attention into licensing, pilots, investment and wider adoption by developers and brokers."
-image: "https://images.pexels.com/photos/36551734/pexels-photo-36551734.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Scenic view of Baku's skyline with modern architecture under cloudy sky."
+image: "https://images.pexels.com/photos/37415122/pexels-photo-37415122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A scenic cityscape featuring skyscrapers along a river with boats and greenery."
 tags: ["Real Estate", "Dubai Time"]
 draft: false
-pexelsId: "36551734"
+pexelsId: "37415122"
 ---
 
 Dubai has never had trouble building the hardware of real estate.

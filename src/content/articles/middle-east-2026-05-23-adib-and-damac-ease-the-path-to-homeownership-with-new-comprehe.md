@@ -6,11 +6,11 @@ author: "Kabir Sethi"
 date: 2026-05-23
 publishedTime: "10:48 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/1227807/pexels-photo-1227807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A stunning low-angle view of London's skyscrapers at sunset with warm lighting."
+image: "https://images.pexels.com/photos/33847223/pexels-photo-33847223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Vibrant skyscrapers in Singapore's Marina Bay with colorful flowers foreground."
 tags: ["Real Estate","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "1227807"
+pexelsId: "33847223"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why adib and damac ease the path to homeownership deserves a closer read across the Middle East today.
 

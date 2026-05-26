@@ -6,11 +6,11 @@ author: "Samaira Qureshi"
 date: 2026-05-20
 publishedTime: "08:48 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/8370392/pexels-photo-8370392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A man presenting cryptocurrency concepts on a whiteboard with charts and graphs."
+image: "https://images.pexels.com/photos/7267608/pexels-photo-7267608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Stack of Bitcoin coins in front of a stock market graph, reflecting cryptocurrency trends."
 tags: ["Crypto", "Dubai Time"]
 draft: false
-pexelsId: "8370392"
+pexelsId: "7267608"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.
