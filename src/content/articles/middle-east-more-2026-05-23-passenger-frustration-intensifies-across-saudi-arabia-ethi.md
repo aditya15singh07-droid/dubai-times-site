@@ -6,11 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-23
 publishedTime: "17:16 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/8317785/pexels-photo-8317785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A joyful multigenerational family lying down and smiling together, displaying warmth and affection."
+image: "https://images.pexels.com/photos/12969212/pexels-photo-12969212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Happy family having fun in a forest, capturing joyful bonding moments."
 tags: ["Lifestyle","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "8317785"
+pexelsId: "12969212"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why passenger frustration intensifies across saudi arabia ethi deserves a closer read across the Middle East today.
 

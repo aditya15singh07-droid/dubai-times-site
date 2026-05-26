@@ -6,9 +6,9 @@ author: "Naina Batra"
 date: 2026-05-21
 publishedTime: "13:29 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/30340460/pexels-photo-30340460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Dramatic capture of soccer players during a competitive match on a rainy day."
-pexelsId: "30340460"
+image: "https://images.pexels.com/photos/29811412/pexels-photo-29811412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A soccer team huddles energetically before a game, showcasing unity and teamwork."
+pexelsId: "29811412"
 tags: ["Sport", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

@@ -6,11 +6,11 @@ author: "Kian Oberoi"
 date: 2026-05-19
 publishedTime: "17:32 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/35659771/pexels-photo-35659771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A family walks hand in hand on a sunny beach, enjoying a summer day."
+image: "https://images.pexels.com/photos/35659788/pexels-photo-35659788.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Three children playing on a sunny beach with tall buildings in the background, capturing summer joy."
 tags: ["Lifestyle", "Dubai Time"]
 draft: false
-pexelsId: "35659771"
+pexelsId: "35659788"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

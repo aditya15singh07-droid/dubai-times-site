@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-20
 publishedTime: "06:00 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/35659801/pexels-photo-35659801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Three children enjoying a playful moment by the sea on a bright, sunny day, capturing the essence of family holidays."
+image: "https://images.pexels.com/photos/3752857/pexels-photo-3752857.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Side view of playful boy eating cookie while sitting at table with parents and sibling on background spending time at home"
 tags: ["Lifestyle", "Dubai Time"]
 draft: false
-pexelsId: "35659801"
+pexelsId: "3752857"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

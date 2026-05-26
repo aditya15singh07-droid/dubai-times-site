@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-22
 publishedTime: "21:16 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/35659784/pexels-photo-35659784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Three children enjoying a sunny day at the beach, playing near the ocean waves."
+image: "https://images.pexels.com/photos/35659775/pexels-photo-35659775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A happy family playing on a sandy beach with modern buildings in the background on a sunny summer day."
 tags: ["Lifestyle", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "35659784"
+pexelsId: "35659775"
 ---
 
 Lifestyle stories can look soft from a distance. Then they start changing weekend plans, household budgets and how a city feels after work.

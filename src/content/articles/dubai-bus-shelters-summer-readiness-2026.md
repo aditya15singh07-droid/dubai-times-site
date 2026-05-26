@@ -6,11 +6,11 @@ author: "Naina Batra"
 date: 2026-05-18
 publishedTime: "12:31 GST"
 watchLine: "Watch whether shelter maintenance improves rider confidence during the hottest months of the year."
-image: "https://images.pexels.com/photos/18075657/pexels-photo-18075657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Group of soccer players entering the field at Deportes Bravos stadium, Texcoco, Mexico."
+image: "https://images.pexels.com/photos/12917757/pexels-photo-12917757.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Action-packed soccer game with players in motion on a sunlit field, showcasing competitive spirit."
 tags: ["Sport", "Dubai Time"]
 draft: false
-pexelsId: "18075657"
+pexelsId: "12917757"
 ---
 
 In Dubai, a bus shelter is not just a place to wait.

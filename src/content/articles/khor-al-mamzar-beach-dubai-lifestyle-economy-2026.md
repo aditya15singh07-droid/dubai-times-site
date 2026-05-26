@@ -6,11 +6,11 @@ author: "Armaan Gill"
 date: 2026-05-17
 publishedTime: "11:50 GST"
 watchLine: "Watch whether events, sports activations and food concepts turn the upgraded beach into a repeat destination."
-image: "https://images.pexels.com/photos/6617541/pexels-photo-6617541.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Smiling family of four lying on a blanket, sharing happiness and love indoors."
+image: "https://images.pexels.com/photos/35659780/pexels-photo-35659780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A mother with her children walking along a sunny beach, enjoying family time."
 tags: ["Lifestyle", "Dubai Time"]
 draft: false
-pexelsId: "6617541"
+pexelsId: "35659780"
 ---
 
 A beach opening sounds simple until you see what a good public space can do.

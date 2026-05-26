@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-22
 publishedTime: "11:28 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/4545158/pexels-photo-4545158.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "From above of father and elderly child laughing in bed near mother and younger kid patting dog while resting in weekend together"
+image: "https://images.pexels.com/photos/35659773/pexels-photo-35659773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Mother and children walking along a sunny beach with a cityscape backdrop, enjoying family time."
 tags: ["Lifestyle", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "4545158"
+pexelsId: "35659773"
 ---
 
 Lifestyle stories can look soft from a distance. Then they start changing weekend plans, household budgets and how a city feels after work.

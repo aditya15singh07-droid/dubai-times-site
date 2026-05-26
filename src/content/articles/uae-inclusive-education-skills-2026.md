@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-23
 publishedTime: "04:10 GST"
 watchLine: "Watch whether the partnership produces trained interpreters, better educator support and stronger employment pathways."
-image: "https://images.pexels.com/photos/35659774/pexels-photo-35659774.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A happy family enjoys a sunny day at the beach with waves and cityscape in the background."
+image: "https://images.pexels.com/photos/35659784/pexels-photo-35659784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Three children enjoying a sunny day at the beach, playing near the ocean waves."
 tags: ["Lifestyle", "UAE", "Education", "People of Determination", "Inclusion"]
 draft: false
-pexelsId: "35659774"
+pexelsId: "35659784"
 ---
 
 Inclusive education is one of those phrases that can sound impressive while meaning very little in daily life.

@@ -5,11 +5,11 @@ category: "Sport"
 author: "Kian Oberoi"
 date: 2026-05-17
 watchLine: "Track absorption in emerging districts and whether handovers convert into healthy occupancy, rental depth and resale liquidity."
-image: "https://images.pexels.com/photos/18075411/pexels-photo-18075411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Two players compete fiercely on a lush football field in Texcoco, capturing the essence of competitive sport."
+image: "https://images.pexels.com/photos/15365075/pexels-photo-15365075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Intense soccer game in Mina, Mendoza, Argentina showcasing teamwork and action on a sunny day."
 tags: ["Sport", "Dubai Time"]
 draft: false
-pexelsId: "18075411"
+pexelsId: "15365075"
 ---
 
 Confidence in property is easy to claim on a billboard.

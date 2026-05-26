@@ -6,11 +6,11 @@ author: "Reyan Shah"
 date: 2026-05-23
 publishedTime: "12:00 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/34120065/pexels-photo-34120065.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Family walking hand in hand along the beach at sunset, enjoying a warm summer day."
+image: "https://images.pexels.com/photos/34133898/pexels-photo-34133898.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Family enjoying a day on the beach in Hội An, Vietnam. Perfect for lifestyle and travel themes."
 tags: ["Lifestyle","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "34120065"
+pexelsId: "34133898"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why sheikh mohammed issues law regulating antiquities and archaeolo deserves a closer read across the Middle East today.
 

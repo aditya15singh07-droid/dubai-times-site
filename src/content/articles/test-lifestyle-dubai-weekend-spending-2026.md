@@ -6,11 +6,11 @@ author: "Myra D Souza"
 date: 2026-05-20
 publishedTime: "15:28 GST"
 watchLine: "Watch how malls, restaurants and public spaces package cooler, shorter and more useful experiences."
-image: "https://images.pexels.com/photos/35659779/pexels-photo-35659779.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A family enjoys a sunny beach day with children playing in the sand and waves."
+image: "https://images.pexels.com/photos/35659803/pexels-photo-35659803.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Joyful children playing by the sea on a sunny day, capturing carefree summer fun."
 tags: ["Lifestyle", "Dubai Time"]
 draft: false
-pexelsId: "35659779"
+pexelsId: "35659803"
 ---
 
 Lifestyle spending rises when people feel their time is respected.

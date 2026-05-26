@@ -6,11 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-20
 publishedTime: "07:00 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/35659803/pexels-photo-35659803.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Joyful children playing by the sea on a sunny day, capturing carefree summer fun."
+image: "https://images.pexels.com/photos/35659801/pexels-photo-35659801.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Three children enjoying a playful moment by the sea on a bright, sunny day, capturing the essence of family holidays."
 tags: ["Lifestyle", "Dubai Time"]
 draft: false
-pexelsId: "35659803"
+pexelsId: "35659801"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

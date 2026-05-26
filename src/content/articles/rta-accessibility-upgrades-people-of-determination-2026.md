@@ -6,11 +6,11 @@ author: "Armaan Gill"
 date: 2026-05-18
 publishedTime: "12:24 GST"
 watchLine: "Watch whether the upgrades move from individual centres into a consistent citywide accessibility experience."
-image: "https://images.pexels.com/photos/12917757/pexels-photo-12917757.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Action-packed soccer game with players in motion on a sunlit field, showcasing competitive spirit."
+image: "https://images.pexels.com/photos/15365055/pexels-photo-15365055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A lively amateur football game with players in action and an engaged crowd watching on a sunny day."
 tags: ["Sport", "Dubai Time"]
 draft: false
-pexelsId: "12917757"
+pexelsId: "15365055"
 ---
 
 The true test of a city is not how tall it builds.

@@ -6,9 +6,9 @@ author: "Rian Kapoor"
 date: 2026-05-21
 publishedTime: "14:27 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://images.pexels.com/photos/35659781/pexels-photo-35659781.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Joyful children playing by the sea on a sunny summer day, creating family memories."
-pexelsId: "35659781"
+image: "https://images.pexels.com/photos/35659797/pexels-photo-35659797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Children enjoying a sunny day at the beach with waves and cityscape in the background."
+pexelsId: "35659797"
 tags: ["Lifestyle", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---
