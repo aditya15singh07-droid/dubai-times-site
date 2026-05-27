@@ -4,11 +4,11 @@ description: "Bitcoin is struggling to reclaim momentum near $77,000 while AI-li
 category: "Crypto"
 author: "Kian Oberoi"
 date: 2026-05-27
-image: "https://images.pexels.com/photos/6771242/pexels-photo-6771242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Close-up of a laptop displaying stock market graphs with a paper on investing in cryptocurrency, indoors."
+image: "https://images.pexels.com/photos/8370349/pexels-photo-8370349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Close-up of a hand gesturing at a cryptocurrency diagram on a whiteboard, highlighting crypto concepts."
 tags: ["Bitcoin", "Ethereum", "AI tokens", "Crypto markets", "Digital assets", "Federal Reserve", "ETF flows", "UAE investors"]
 draft: false
-pexelsId: "6771242"
+pexelsId: "8370349"
 ---
 
 Bitcoin is supposed to lead the crypto crowd when risk appetite returns. This week, it is doing something more uncomfortable. It is watching from the side.

@@ -4,11 +4,11 @@ description: "Gujarat Titans and Royal Challengers Bengaluru enter the IPL 2026 
 category: "Sport"
 author: "Zoya Malhotra"
 date: 2026-05-27
-image: "https://images.pexels.com/photos/12783338/pexels-photo-12783338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Two male soccer players competing in an outdoor match on a sunny day."
+image: "https://images.pexels.com/photos/32266273/pexels-photo-32266273.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Two female soccer players in action during a competitive outdoor football match. Energetic sports scene."
 tags: ["IPL 2026", "Gujarat Titans", "Royal Challengers Bengaluru", "Sunrisers Hyderabad", "Rajasthan Royals", "Cricket", "Indian Premier League", "Sport"]
 draft: false
-pexelsId: "12783338"
+pexelsId: "32266273"
 ---
 
 For Indian cricket fans in Dubai and across the Gulf, this is the week when evening plans change.

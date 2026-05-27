@@ -6,9 +6,9 @@ author: "Naina Batra"
 date: 2026-05-21
 publishedTime: "14:30 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://images.pexels.com/photos/13241581/pexels-photo-13241581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Dynamic soccer match showcasing skillful plays on a sunny day in Mendoza, Argentina."
-pexelsId: "13241581"
+image: "https://images.pexels.com/photos/16588256/pexels-photo-16588256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Exciting soccer game capturing players in action on a sunny day."
+pexelsId: "16588256"
 tags: ["Sport", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---

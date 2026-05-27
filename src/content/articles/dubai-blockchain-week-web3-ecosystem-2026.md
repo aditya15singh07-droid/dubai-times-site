@@ -5,11 +5,11 @@ category: "Crypto"
 author: "Anika Menon"
 date: 2026-05-17
 watchLine: "Look for licensed activity, enterprise pilots and companies choosing Dubai as a base after the conference week ends."
-image: "https://images.pexels.com/photos/8370752/pexels-photo-8370752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Close-up of gold and silver cryptocurrency coins on a digital trading chart."
+image: "https://images.pexels.com/photos/6770609/pexels-photo-6770609.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Close-up of a financial graph on a laptop screen, depicting stock market analysis in Berlin."
 tags: ["Crypto", "Dubai Time"]
 draft: false
-pexelsId: "8370752"
+pexelsId: "6770609"
 ---
 
 Crypto events used to sell excitement. Dubai now has to sell something harder: trust.

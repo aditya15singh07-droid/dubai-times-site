@@ -4,11 +4,11 @@ description: "The United States have named their 26-man squad for the 2026 World
 category: "Sport"
 author: "Zoya Malhotra"
 date: 2026-05-27
-image: "https://images.pexels.com/photos/32108866/pexels-photo-32108866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Players in blue and red compete intensely on a football field in France, capturing the spirit of the game."
+image: "https://images.pexels.com/photos/32266274/pexels-photo-32266274.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Dynamic action shot of two female footballers competing on the field."
 tags: ["2026 World Cup", "United States Football", "Christian Pulisic", "Gio Reyna", "Mauricio Pochettino", "FIFA World Cup", "Sport"]
 draft: false
-pexelsId: "32108866"
+pexelsId: "32266274"
 ---
 
 For a footballer, a home World Cup is not just another tournament. It is family in the stands, pressure in every camera flash, and a country waiting to judge one summer.

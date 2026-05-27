@@ -4,11 +4,11 @@ description: "Saudi Arabia’s Ministry of Sport is hosting 60 pilgrims linked t
 category: "Sport"
 author: "Anika Menon"
 date: 2026-05-27
-image: "https://images.pexels.com/photos/20254633/pexels-photo-20254633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Energetic football match with players in orange and white, vibrant stadium backdrop."
+image: "https://images.pexels.com/photos/32266258/pexels-photo-32266258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Action shot of female soccer players on a sunny outdoor field, capturing athleticism and competition."
 tags: ["Saudi Arabia", "Hajj 2026", "Ministry of Sport", "Gulf Sport", "Saudi Vision 2030", "Middle East"]
 draft: false
-pexelsId: "20254633"
+pexelsId: "32266258"
 ---
 
 For most sports officials, clubs and federations, the biggest meetings happen in stadiums, boardrooms or training camps.
