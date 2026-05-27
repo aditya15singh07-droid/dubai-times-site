@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-18
 publishedTime: "11:04 GST"
 watchLine: "Watch whether enforcement improves safety without making short daily trips harder for residents and visitors."
-image: "https://images.pexels.com/photos/5229733/pexels-photo-5229733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Stunning aerial view of Taipei's skyline showcasing illuminated skyscrapers, a vibrant urban night scene."
+image: "https://images.pexels.com/photos/31846784/pexels-photo-31846784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Aerial view of modern skyscrapers in Warsaw, Poland showcasing urban architecture."
 tags: ["Middle East", "Dubai Time"]
 draft: false
-pexelsId: "5229733"
+pexelsId: "31846784"
 ---
 
 A scooter looks harmless until it appears from the wrong side of a pavement.

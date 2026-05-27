@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-19
 publishedTime: "14:54 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/10396355/pexels-photo-10396355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Evening view of the illuminated skyline of Canary Wharf, reflected on water, United Kingdom."
+image: "https://images.pexels.com/photos/35557555/pexels-photo-35557555.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Nighttime cityscape with illuminated skyscrapers reflecting on water, showcasing urban vibrance."
 tags: ["Middle East", "Dubai Time"]
 draft: false
-pexelsId: "10396355"
+pexelsId: "35557555"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

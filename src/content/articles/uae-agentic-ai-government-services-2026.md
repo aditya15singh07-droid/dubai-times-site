@@ -6,11 +6,11 @@ author: "Ishaan Vora"
 date: 2026-05-17
 publishedTime: "21:05 GST"
 watchLine: "Watch whether agentic AI reduces routine service friction while keeping human accountability clear."
-image: "https://images.pexels.com/photos/30670627/pexels-photo-30670627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Skyline of Tokyo featuring modern buildings and green urban spaces under a clear blue sky."
+image: "https://images.pexels.com/photos/18789545/pexels-photo-18789545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "High-angle cityscape featuring tall skyscrapers under a bright blue sky."
 tags: ["Middle East", "Dubai Time"]
 draft: false
-pexelsId: "30670627"
+pexelsId: "18789545"
 ---
 
 AI becomes useful when it stops showing off and starts doing boring work properly.

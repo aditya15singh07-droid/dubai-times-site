@@ -5,11 +5,11 @@ category: "Middle East"
 author: "Myra D Souza"
 date: 2026-05-17
 watchLine: "Watch whether the UAE maintains firm deterrence messaging while preserving normal economic, aviation and logistics activity."
-image: "https://images.pexels.com/photos/14295949/pexels-photo-14295949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A breathtaking view of a modern city skyline with towering skyscrapers under a cloudy sky."
+image: "https://images.pexels.com/photos/36884613/pexels-photo-36884613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Panoramic view of Santander's waterfront buildings under cloudy skies."
 tags: ["Middle East", "Dubai Time"]
 draft: false
-pexelsId: "14295949"
+pexelsId: "36884613"
 ---
 
 Security news in the Gulf is never only about defence.

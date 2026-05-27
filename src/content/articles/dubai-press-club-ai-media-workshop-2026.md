@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-18
 publishedTime: "02:40 GST"
 watchLine: "Watch whether media organisations in Dubai turn AI curiosity into training, policy and newsroom experimentation."
-image: "https://images.pexels.com/photos/31846784/pexels-photo-31846784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Aerial view of modern skyscrapers in Warsaw, Poland showcasing urban architecture."
+image: "https://images.pexels.com/photos/687450/pexels-photo-687450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Stunning view of Shanghai skyline at dusk with the iconic Oriental Pearl Tower prominently featured."
 tags: ["Middle East", "Dubai Time"]
 draft: false
-pexelsId: "31846784"
+pexelsId: "687450"
 ---
 
 The loudest conversations about artificial intelligence usually swing between two extremes.

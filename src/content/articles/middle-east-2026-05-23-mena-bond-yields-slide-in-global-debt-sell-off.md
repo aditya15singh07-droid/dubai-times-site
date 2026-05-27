@@ -6,11 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-23
 publishedTime: "15:12 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/20752572/pexels-photo-20752572.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A diverse group of professionals in a business consulting office setting."
+image: "https://images.pexels.com/photos/7964413/pexels-photo-7964413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Business meeting with three professionals collaborating in a modern conference room setting."
 tags: ["Business","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "20752572"
+pexelsId: "7964413"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why mena bond yields slide in global debt sell deserves a closer read across the Middle East today.
 

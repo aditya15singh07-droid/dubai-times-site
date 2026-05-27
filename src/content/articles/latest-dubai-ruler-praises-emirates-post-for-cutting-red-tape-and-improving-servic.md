@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-19
 publishedTime: "17:38 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/11045731/pexels-photo-11045731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Corporate professionals in a formal meeting environment, focused on teamwork and collaboration."
+image: "https://images.pexels.com/photos/16124524/pexels-photo-16124524.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Two businessmen in suits walking on Westminster Bridge with Big Ben in the background, London."
 tags: ["Business", "Dubai Time"]
 draft: false
-pexelsId: "11045731"
+pexelsId: "16124524"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

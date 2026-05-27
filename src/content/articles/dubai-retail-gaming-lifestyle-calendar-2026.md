@@ -5,11 +5,11 @@ category: "Sport"
 author: "Mira Sethi"
 date: 2026-05-17
 watchLine: "Follow whether gaming, Eid and retail campaigns keep converting attention into mall footfall, hotel demand and sponsor interest."
-image: "https://images.pexels.com/photos/23848401/pexels-photo-23848401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Players in action during an outdoor soccer match on a grass field."
+image: "https://images.pexels.com/photos/16588254/pexels-photo-16588254.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A young male soccer player in action during a match on a sunny day outdoors."
 tags: ["Sport", "Dubai Time"]
 draft: false
-pexelsId: "23848401"
+pexelsId: "16588254"
 ---
 
 A packed events calendar looks like entertainment. In Dubai, it is also a business model.

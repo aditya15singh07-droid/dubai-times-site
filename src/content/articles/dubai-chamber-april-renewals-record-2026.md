@@ -5,11 +5,11 @@ category: "Business"
 author: "Vihaan Rao"
 date: 2026-05-18
 watchLine: "Watch whether renewal confidence turns into new hiring, licensing and investment rather than only administrative continuity."
-image: "https://images.pexels.com/photos/1181304/pexels-photo-1181304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A multicultural team brainstorming and collaborating during a business meeting."
+image: "https://images.pexels.com/photos/7433929/pexels-photo-7433929.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Business executive standing confidently in meeting room with team engaged in discussion behind."
 tags: ["Business", "Dubai Time"]
 draft: false
-pexelsId: "1181304"
+pexelsId: "7433929"
 ---
 
 Business confidence is not always loud.

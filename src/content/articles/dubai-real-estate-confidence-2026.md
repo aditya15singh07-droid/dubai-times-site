@@ -5,11 +5,11 @@ category: "Sport"
 author: "Kian Oberoi"
 date: 2026-05-17
 watchLine: "Track absorption in emerging districts and whether handovers convert into healthy occupancy, rental depth and resale liquidity."
-image: "https://images.pexels.com/photos/17955661/pexels-photo-17955661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Action-packed amateur soccer match scene with adult players in sportswear on a sunny day."
+image: "https://images.pexels.com/photos/23848401/pexels-photo-23848401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Players in action during an outdoor soccer match on a grass field."
 tags: ["Sport", "Dubai Time"]
 draft: false
-pexelsId: "17955661"
+pexelsId: "23848401"
 ---
 
 Confidence in property is easy to claim on a billboard.

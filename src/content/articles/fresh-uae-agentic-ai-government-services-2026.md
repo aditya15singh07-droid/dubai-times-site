@@ -6,9 +6,9 @@ author: "Anika Menon"
 date: 2026-05-21
 publishedTime: "14:42 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://images.pexels.com/photos/24553795/pexels-photo-24553795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Explore the modern architecture and iconic landmarks of Liverpool's skyline in this captivating urban scene."
-pexelsId: "24553795"
+image: "https://images.pexels.com/photos/18789718/pexels-photo-18789718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A stunning cityscape at night featuring illuminated skyscrapers and modern urban architecture under a clear sky."
+pexelsId: "18789718"
 tags: ["Middle East", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---

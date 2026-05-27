@@ -5,11 +5,11 @@ category: "Middle East"
 author: "Kabir Anand"
 date: 2026-05-06
 watchLine: "Watch whether the partnership produces repeatable enterprise deployments across government and Mubadala-linked entities rather than remaining a strategic memorandum."
-image: "https://images.pexels.com/photos/7189286/pexels-photo-7189286.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Vast cityscape of Hong Kong with modern skyscrapers and a river backdrop."
+image: "https://images.pexels.com/photos/20725258/pexels-photo-20725258.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Night view of the illuminated Ba Son Bridge with city skyline in Ho Chi Minh City, Vietnam."
 tags: ["Middle East", "Dubai Time"]
 draft: false
-pexelsId: "7189286"
+pexelsId: "20725258"
 ---
 
 The loudest part of the AI boom is usually the least useful. Everybody talks about models, chat interfaces and breakthrough claims. Far fewer people talk about the plumbing that makes AI usable inside real institutions. That plumbing is where the next serious competition will happen. The partnership between Core42 and Solutions+ is interesting for exactly that reason. It is not promising a magical AI future. It is talking about cloud, data, compute, implementation and sovereign deployment. In other words, it is talking about the difficult part.

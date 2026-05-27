@@ -6,9 +6,9 @@ author: "Anika Menon"
 date: 2026-05-21
 publishedTime: "13:17 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/18789718/pexels-photo-18789718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A stunning cityscape at night featuring illuminated skyscrapers and modern urban architecture under a clear sky."
-pexelsId: "18789718"
+image: "https://images.pexels.com/photos/26837677/pexels-photo-26837677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Tall modern glass buildings in Zagreb against a cloudy blue sky, showcasing urban architecture."
+pexelsId: "26837677"
 tags: ["Middle East", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

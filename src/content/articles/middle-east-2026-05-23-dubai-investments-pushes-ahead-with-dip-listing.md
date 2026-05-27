@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-23
 publishedTime: "11:12 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/8068807/pexels-photo-8068807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A culturally diverse team engaged in a serious business discussion in an office setting."
+image: "https://images.pexels.com/photos/7433853/pexels-photo-7433853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Business professionals engaged in a strategic meeting in a modern office setting with natural light."
 tags: ["Business","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "8068807"
+pexelsId: "7433853"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why dubai investments' market push deserves a closer read across the Middle East today.
 

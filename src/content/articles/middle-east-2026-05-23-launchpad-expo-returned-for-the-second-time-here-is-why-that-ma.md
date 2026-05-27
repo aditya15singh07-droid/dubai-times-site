@@ -6,11 +6,11 @@ author: "Ishaan Roy"
 date: 2026-05-23
 publishedTime: "12:12 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/36683645/pexels-photo-36683645.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Urban skyline featuring modern skyscrapers with lush greenery in the foreground."
+image: "https://images.pexels.com/photos/36953398/pexels-photo-36953398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Kowloon skyline at dusk, overlooking Victoria Harbour with a muted urban vibe."
 tags: ["Middle East","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "36683645"
+pexelsId: "36953398"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why launchpad expo returned for the second time here deserves a closer read across the Middle East today.
 

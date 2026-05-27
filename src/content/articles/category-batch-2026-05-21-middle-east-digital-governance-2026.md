@@ -6,9 +6,9 @@ author: "Anika Menon"
 date: 2026-05-21
 publishedTime: "13:08 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/34945393/pexels-photo-34945393.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Stunning aerial view of Sacramento's city skyline illuminated at night, showcasing bustling urban life."
-pexelsId: "34945393"
+image: "https://images.pexels.com/photos/35003991/pexels-photo-35003991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Stunning night view of Hangzhou's skyline reflecting on Qiantang River, showcasing modern architecture."
+pexelsId: "35003991"
 tags: ["Middle East", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

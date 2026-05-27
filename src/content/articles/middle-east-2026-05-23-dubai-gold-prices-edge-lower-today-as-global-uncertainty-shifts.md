@@ -6,11 +6,11 @@ author: "Zayan Mirza"
 date: 2026-05-23
 publishedTime: "12:16 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/35120557/pexels-photo-35120557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A serene night view of San Diego's illuminated skyline reflecting on calm water."
+image: "https://images.pexels.com/photos/36683645/pexels-photo-36683645.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Urban skyline featuring modern skyscrapers with lush greenery in the foreground."
 tags: ["Middle East","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "35120557"
+pexelsId: "36683645"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why gold's gulf price signal deserves a closer read across the Middle East today.
 

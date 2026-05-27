@@ -5,11 +5,11 @@ category: "Business"
 author: "Kian Oberoi"
 date: 2026-05-18
 watchLine: "Watch whether digital screens, pricing power and urban-design rules keep pushing outdoor ads toward higher-quality inventory."
-image: "https://images.pexels.com/photos/8353815/pexels-photo-8353815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Three businessmen discussing financial documents in a modern office setting."
+image: "https://images.pexels.com/photos/4427962/pexels-photo-4427962.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Two professionals in suits chatting over coffee during a lunch break at a café."
 tags: ["Business", "Dubai Time"]
 draft: false
-pexelsId: "8353815"
+pexelsId: "4427962"
 ---
 
 Most people barely register an outdoor ad until it is badly placed.

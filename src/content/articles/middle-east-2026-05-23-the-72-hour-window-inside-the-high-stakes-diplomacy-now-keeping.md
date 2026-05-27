@@ -6,11 +6,11 @@ author: "Nikhil Verma"
 date: 2026-05-23
 publishedTime: "15:32 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/14840760/pexels-photo-14840760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Dramatic aerial view of Panama City skyline during sunset showcasing modern skyscrapers."
+image: "https://images.pexels.com/photos/20602213/pexels-photo-20602213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Modern skyscrapers reaching for the sky in Hangzhou, China, captured under a clear blue sky."
 tags: ["Middle East","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "14840760"
+pexelsId: "20602213"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the 72 hour window inside the high stakes deserves a closer read across the Middle East today.
 

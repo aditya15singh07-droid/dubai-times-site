@@ -6,11 +6,11 @@ author: "Anika Menon"
 date: 2026-05-22
 publishedTime: "15:56 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/11538562/pexels-photo-11538562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A breathtaking aerial view of a city skyline at night with illuminated skyscrapers and mountains in the background."
+image: "https://images.pexels.com/photos/8552464/pexels-photo-8552464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Modern skyscrapers with glass facades reflecting the urban skyline on an overcast day."
 tags: ["Middle East", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "11538562"
+pexelsId: "8552464"
 ---
 
 Regional news is rarely distant for Dubai. It shapes confidence, trade, travel and the quiet calculations people make every day.

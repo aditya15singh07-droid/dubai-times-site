@@ -4,11 +4,11 @@ description: "Jannik Sinner opened his French Open 2026 campaign with a sharp st
 category: "Sport"
 author: "Mira Sethi"
 date: 2026-05-27
-image: "https://images.pexels.com/photos/32266257/pexels-photo-32266257.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Dynamic shot of female soccer players in action during a match on a sunny day."
+image: "https://images.pexels.com/photos/9367717/pexels-photo-9367717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "An amateur soccer player in yellow jersey kicks a ball on a grassy field during the day."
 tags: ["Jannik Sinner", "French Open 2026", "Roland Garros", "Tennis", "Sport", "Carlos Alcaraz", "Juan Manuel Cerundolo"]
 draft: false
-pexelsId: "32266257"
+pexelsId: "9367717"
 ---
 
 Some tennis players arrive at a Grand Slam hoping to find rhythm. Jannik Sinner arrived in Paris looking like he had already packed it.

@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-23
 publishedTime: "14:00 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/33210172/pexels-photo-33210172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Stunning aerial view of a bustling city skyline at sunset, vibrant lights illuminate the urban landscape."
+image: "https://images.pexels.com/photos/12793459/pexels-photo-12793459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Panoramic view of a city's skyline featuring a bridge and river beneath a stunning blue sky."
 tags: ["Middle East","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "33210172"
+pexelsId: "12793459"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the hormuz shipping test deserves a closer read across the Middle East today.
 

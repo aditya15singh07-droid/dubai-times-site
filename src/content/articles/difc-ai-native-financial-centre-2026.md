@@ -5,11 +5,11 @@ category: "Middle East"
 author: "Rian Kapoor"
 date: 2026-05-18
 watchLine: "Watch whether DIFC moves from branding to enforceable frameworks, deployable tools and real hiring growth across finance and compliance."
-image: "https://images.pexels.com/photos/687450/pexels-photo-687450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Stunning view of Shanghai skyline at dusk with the iconic Oriental Pearl Tower prominently featured."
+image: "https://images.pexels.com/photos/18201085/pexels-photo-18201085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Stunning aerial view of Auckland skyline at sunrise with fog enveloping the city."
 tags: ["Middle East", "Dubai Time"]
 draft: false
-pexelsId: "687450"
+pexelsId: "18201085"
 ---
 
 Plenty of institutions say they are using artificial intelligence.

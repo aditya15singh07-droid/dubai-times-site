@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-20
 publishedTime: "17:03 GST"
 watchLine: "Watch privacy safeguards, complaint channels and whether services reduce paperwork in real life."
-image: "https://images.pexels.com/photos/35003991/pexels-photo-35003991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Stunning night view of Hangzhou's skyline reflecting on Qiantang River, showcasing modern architecture."
+image: "https://images.pexels.com/photos/20768136/pexels-photo-20768136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Capture of Singapore's modern skyline featuring reflective skyscrapers against a blue sky."
 tags: ["Middle East", "Dubai Time"]
 draft: false
-pexelsId: "35003991"
+pexelsId: "20768136"
 ---
 
 Technology becomes public infrastructure when people have no practical alternative.
