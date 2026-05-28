@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-23
 publishedTime: "20:28 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/8636598/pexels-photo-8636598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A young woman presents to colleagues in a modern team meeting setting."
+image: "https://images.pexels.com/photos/3184338/pexels-photo-3184338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A diverse team of professionals having a meeting in a modern office setting, discussing business strategies."
 tags: ["International","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "8636598"
+pexelsId: "3184338"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the region trade opening deserves a closer read across the Middle East today.
 

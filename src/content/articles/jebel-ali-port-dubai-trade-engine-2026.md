@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-17
 publishedTime: "20:45 GST"
 watchLine: "Watch how Jebel Ali's capacity, automation and logistics links support Dubai's next phase of trade-led growth."
-image: "https://images.pexels.com/photos/22481608/pexels-photo-22481608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A bustling promenade at Istanbul harbor filled with people walking and a ship docked nearby."
+image: "https://images.pexels.com/photos/34817217/pexels-photo-34817217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Middle Eastern woman confidently presents in a Baghdad courtroom with audience attention."
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "22481608"
+pexelsId: "34817217"
 ---
 
 Dubai's most important economic story is not always the one with the best photograph.

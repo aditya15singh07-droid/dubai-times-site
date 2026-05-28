@@ -6,11 +6,11 @@ author: "Naina Batra"
 date: 2026-05-19
 publishedTime: "17:02 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/11682403/pexels-photo-11682403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Empty European Parliament auditorium in Brussels, Belgium."
+image: "https://images.pexels.com/photos/29307943/pexels-photo-29307943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Elderly man in traditional attire reading at a conference with attendees in background."
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "11682403"
+pexelsId: "29307943"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

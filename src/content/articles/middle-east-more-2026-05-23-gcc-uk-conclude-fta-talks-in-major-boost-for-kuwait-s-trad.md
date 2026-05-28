@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-23
 publishedTime: "20:52 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/9068367/pexels-photo-9068367.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Business office with diverse employees in gray suits working at desks in an indoor setting."
+image: "https://images.pexels.com/photos/6950031/pexels-photo-6950031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Diverse business professionals discussing strategy during a modern board meeting."
 tags: ["Business","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "9068367"
+pexelsId: "6950031"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why kuwait trade opening deserves a closer read across the Middle East today.
 

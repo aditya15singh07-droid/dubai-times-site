@@ -4,11 +4,11 @@ description: "Dubai inflation could fall sharply by December if the Strait of Ho
 category: "Business"
 author: "Tara Khanna"
 date: 2026-05-27
-image: "https://images.pexels.com/photos/7693692/pexels-photo-7693692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Business professionals engaging in a collaborative meeting with charts and documents."
+image: "https://images.pexels.com/photos/9068367/pexels-photo-9068367.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Business office with diverse employees in gray suits working at desks in an indoor setting."
 tags: ["Dubai inflation", "Strait of Hormuz", "UAE economy", "Gulf business", "Food prices", "Fuel prices", "Dubai rents", "Middle East conflict"]
 draft: false
-pexelsId: "7693692"
+pexelsId: "9068367"
 ---
 
 A cheaper-looking inflation number does not always mean life has become cheaper.

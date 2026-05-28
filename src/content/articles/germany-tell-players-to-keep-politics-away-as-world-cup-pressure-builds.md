@@ -4,11 +4,11 @@ description: "Germany have urged players to avoid political statements at the 20
 category: "Sport"
 author: "Samaira Qureshi"
 date: 2026-05-28
-image: "https://images.pexels.com/photos/12783338/pexels-photo-12783338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Two male soccer players competing in an outdoor match on a sunny day."
+image: "https://images.pexels.com/photos/32266316/pexels-photo-32266316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Captured intense moment during a soccer match under clear skies."
 tags: ["Germany", "2026 World Cup", "Rudi Voeller", "Julian Nagelsmann", "Football", "FIFA World Cup", "Sport"]
 draft: false
-pexelsId: "12783338"
+pexelsId: "32266316"
 ---
 
 A World Cup dressing room is never just about tactics anymore.

@@ -5,11 +5,11 @@ category: "International"
 author: "Reyansh Suri"
 date: 2026-05-18
 watchLine: "Watch whether the full six-bridge package meaningfully eases peak-hour pressure around Sheikh Zayed Road and Al Mustaqbal Street."
-image: "https://images.pexels.com/photos/34789956/pexels-photo-34789956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Empty futuristic conference room in Berlin ICC with circular seating and high-tech design."
+image: "https://images.pexels.com/photos/5686111/pexels-photo-5686111.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Diverse team engaged in a collaborative meeting in a modern office setting, sharing ideas and working together."
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "34789956"
+pexelsId: "5686111"
 ---
 
 In Dubai, two saved minutes are never just two minutes.

@@ -4,11 +4,11 @@ description: "World champion D Gukesh begins Norway Chess 2026 in Oslo as his ri
 category: "Sport"
 author: "Zoya Malhotra"
 date: 2026-05-26
-image: "https://images.pexels.com/photos/32266319/pexels-photo-32266319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Energetic soccer match with young athletes in action on a bright and sunny day outdoors."
+image: "https://images.pexels.com/photos/18075368/pexels-photo-18075368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Soccer players in action on a green field during an intense match in Texcoco, Mexico."
 tags: ["D Gukesh", "Magnus Carlsen", "Norway Chess 2026", "Chess", "Indian Sport", "R Praggnanandhaa", "Koneru Humpy", "Erling Haaland", "UAE Chess", "Gulf Sport"]
 draft: false
-pexelsId: "32266319"
+pexelsId: "18075368"
 ---
 
 Sometimes a chess rivalry does not need noise. One hard stare, one shaken hand, one table thump can do the work.

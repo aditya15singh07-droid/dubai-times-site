@@ -6,9 +6,9 @@ author: "Tara Khanna"
 date: 2026-05-21
 publishedTime: "13:53 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/7821340/pexels-photo-7821340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Sophisticated hotel lobby with a reception bell and array of international flags in focus."
-pexelsId: "7821340"
+image: "https://images.pexels.com/photos/7993894/pexels-photo-7993894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A diverse group of professionals working together in an office meeting room."
+pexelsId: "7993894"
 tags: ["International", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

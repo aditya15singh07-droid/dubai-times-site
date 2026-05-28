@@ -4,11 +4,11 @@ description: "Tyson Fury says he plans to return in Dublin on August 1, one week
 category: "Sport"
 author: "Anika Menon"
 date: 2026-05-28
-image: "https://images.pexels.com/photos/20254633/pexels-photo-20254633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Energetic football match with players in orange and white, vibrant stadium backdrop."
+image: "https://images.pexels.com/photos/32266257/pexels-photo-32266257.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Dynamic shot of female soccer players in action during a match on a sunny day."
 tags: ["Tyson Fury", "Anthony Joshua", "Boxing", "Heavyweight Boxing", "Riyadh", "Dublin", "Gulf Sport", "Saudi Arabia Sport"]
 draft: false
-pexelsId: "20254633"
+pexelsId: "32266257"
 ---
 
 Tyson Fury has never needed much space to create noise.

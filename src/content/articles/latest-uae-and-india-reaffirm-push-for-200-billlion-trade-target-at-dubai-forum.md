@@ -6,11 +6,11 @@ author: "Armaan Gill"
 date: 2026-05-19
 publishedTime: "19:02 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/6950214/pexels-photo-6950214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Diverse leaders at a conference podium with US flag in the background."
+image: "https://images.pexels.com/photos/6950186/pexels-photo-6950186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Confident woman speaker at podium with EU flag, delivering a speech indoors."
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "6950214"
+pexelsId: "6950186"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

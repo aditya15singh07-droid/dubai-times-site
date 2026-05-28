@@ -6,11 +6,11 @@ author: "Naina Batra"
 date: 2026-05-18
 publishedTime: "12:31 GST"
 watchLine: "Watch whether shelter maintenance improves rider confidence during the hottest months of the year."
-image: "https://images.pexels.com/photos/16508993/pexels-photo-16508993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Soccer players engaged in a competitive outdoor match, displaying teamwork and athleticism."
+image: "https://images.pexels.com/photos/15365058/pexels-photo-15365058.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Men playing a lively soccer match on a village field under the sun. Vibrant outdoor scene."
 tags: ["Sport", "Dubai Time"]
 draft: false
-pexelsId: "16508993"
+pexelsId: "15365058"
 ---
 
 In Dubai, a bus shelter is not just a place to wait.

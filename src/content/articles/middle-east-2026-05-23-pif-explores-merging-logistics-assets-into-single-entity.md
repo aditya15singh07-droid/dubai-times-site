@@ -6,11 +6,11 @@ author: "Reyan Shah"
 date: 2026-05-23
 publishedTime: "14:08 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/8102000/pexels-photo-8102000.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A professional team collaborating in a modern office setting, focusing on documents and technology."
+image: "https://images.pexels.com/photos/6949476/pexels-photo-6949476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Business professionals in a board meeting in a modern conference room, engaging in discussion."
 tags: ["Business","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "8102000"
+pexelsId: "6949476"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why pif explores merging logistics assets into single entity deserves a closer read across the Middle East today.
 

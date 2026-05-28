@@ -4,11 +4,11 @@ description: "South Africa have named a heavily home-based 26-man squad for the 
 category: "Sport"
 author: "Vihaan Rao"
 date: 2026-05-28
-image: "https://images.pexels.com/photos/32108866/pexels-photo-32108866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Players in blue and red compete intensely on a football field in France, capturing the spirit of the game."
+image: "https://images.pexels.com/photos/32266266/pexels-photo-32266266.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Dynamic action shot of female soccer players competing outdoors on a sunny day."
 tags: ["South Africa", "2026 World Cup", "Football", "Mamelodi Sundowns", "Orlando Pirates", "Hugo Broos", "Sport"]
 draft: false
-pexelsId: "32108866"
+pexelsId: "32266266"
 ---
 
 A World Cup squad can feel like a national argument in 26 names.

@@ -6,11 +6,11 @@ author: "Samaira Qureshi"
 date: 2026-05-17
 publishedTime: "19:25 GST"
 watchLine: "Watch whether Al Shera'a becomes a practical benchmark for future public buildings, not only a landmark launch."
-image: "https://images.pexels.com/photos/5686086/pexels-photo-5686086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Multicultural team discusses business strategy in a modern office setting."
+image: "https://images.pexels.com/photos/35336008/pexels-photo-35336008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Two women enjoying conversation under the iconic Louvre Abu Dhabi architectural dome."
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "5686086"
+pexelsId: "35336008"
 ---
 
 A government office usually does not make people stop and look twice.

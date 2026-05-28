@@ -6,9 +6,9 @@ author: "Naina Batra"
 date: 2026-05-21
 publishedTime: "14:30 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://images.pexels.com/photos/16588256/pexels-photo-16588256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Exciting soccer game capturing players in action on a sunny day."
-pexelsId: "16588256"
+image: "https://images.pexels.com/photos/13907458/pexels-photo-13907458.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Youth soccer players in action on a lit field at night, showcasing teamwork and energy."
+pexelsId: "13907458"
 tags: ["Sport", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---
