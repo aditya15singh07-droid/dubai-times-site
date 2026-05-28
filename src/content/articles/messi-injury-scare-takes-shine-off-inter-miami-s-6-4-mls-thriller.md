@@ -4,11 +4,11 @@ description: "Lionel Messi walked off with an apparent thigh problem as Inter Mi
 category: "Sport"
 author: "Armaan Gill"
 date: 2026-05-26
-image: "https://images.pexels.com/photos/31422304/pexels-photo-31422304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Teen soccer player dribbles the ball on a sunny day outdoor field."
+image: "https://images.pexels.com/photos/17955127/pexels-photo-17955127.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Players in action during a soccer match on a sunny day, highlighting teamwork and sportsmanship."
 tags: ["Lionel Messi", "Inter Miami", "MLS", "Luis Suarez", "Philadelphia Union", "Football", "World Cup"]
 draft: false
-pexelsId: "31422304"
+pexelsId: "17955127"
 ---
 
 A ten-goal football match should leave fans talking only about the goals. This one did not.

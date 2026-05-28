@@ -4,11 +4,11 @@ description: "Georgia is backing Tether’s plan for a lari-linked stablecoin, h
 category: "Crypto"
 author: "Zoya Malhotra"
 date: 2026-05-26
-image: "https://images.pexels.com/photos/7267602/pexels-photo-7267602.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A seamless pattern of various cryptocurrency coins in gold and silver tones."
+image: "https://images.pexels.com/photos/8358137/pexels-photo-8358137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Bitcoin and trading concept shown with coins, pen, and letter tiles on a dark background."
 tags: ["Georgia", "Tether", "Stablecoin", "Crypto", "Fintech", "UAE", "Digital Payments", "Blockchain", "Remittances", "Regulation"]
 draft: false
-pexelsId: "7267602"
+pexelsId: "8358137"
 ---
 
 A small country trying to put its currency on blockchain rails is not just chasing crypto headlines. It is making a bet on how money may move next.

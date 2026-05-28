@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-19
 publishedTime: "13:47 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/22481608/pexels-photo-22481608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A bustling promenade at Istanbul harbor filled with people walking and a ship docked nearby."
+image: "https://images.pexels.com/photos/5686086/pexels-photo-5686086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Multicultural team discusses business strategy in a modern office setting."
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "22481608"
+pexelsId: "5686086"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

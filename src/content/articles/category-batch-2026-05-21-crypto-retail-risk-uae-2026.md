@@ -6,9 +6,9 @@ author: "Mira Sethi"
 date: 2026-05-21
 publishedTime: "13:29 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/8370392/pexels-photo-8370392.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A man presenting cryptocurrency concepts on a whiteboard with charts and graphs."
-pexelsId: "8370392"
+image: "https://images.pexels.com/photos/7267608/pexels-photo-7267608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Stack of Bitcoin coins in front of a stock market graph, reflecting cryptocurrency trends."
+pexelsId: "7267608"
 tags: ["Crypto", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

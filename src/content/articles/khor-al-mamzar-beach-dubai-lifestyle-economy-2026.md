@@ -6,11 +6,11 @@ author: "Armaan Gill"
 date: 2026-05-17
 publishedTime: "11:50 GST"
 watchLine: "Watch whether events, sports activations and food concepts turn the upgraded beach into a repeat destination."
-image: "https://images.pexels.com/photos/35659780/pexels-photo-35659780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A mother with her children walking along a sunny beach, enjoying family time."
+image: "https://images.pexels.com/photos/34133892/pexels-photo-34133892.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Family enjoying a warm sunset on the picturesque beach in Hoi An, Vietnam. Perfect summer moment."
 tags: ["Lifestyle", "Dubai Time"]
 draft: false
-pexelsId: "35659780"
+pexelsId: "34133892"
 ---
 
 A beach opening sounds simple until you see what a good public space can do.

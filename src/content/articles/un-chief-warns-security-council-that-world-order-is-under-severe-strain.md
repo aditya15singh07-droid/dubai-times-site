@@ -4,11 +4,11 @@ description: "The UN Security Council met for a high-level debate as António Gu
 category: "International"
 author: "Mira Sethi"
 date: 2026-05-27
-image: "https://images.pexels.com/photos/8636598/pexels-photo-8636598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A young woman presents to colleagues in a modern team meeting setting."
+image: "https://images.pexels.com/photos/3184634/pexels-photo-3184634.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Young professionals discussing work at a conference table with technology and documents."
 tags: ["United Nations", "Security Council", "International Relations", "Middle East", "Global Affairs", "India", "UAE"]
 draft: false
-pexelsId: "8636598"
+pexelsId: "3184634"
 ---
 
 Some warnings sound distant until they begin touching daily life. A blocked shipping route raises prices. A war delays visas. A diplomatic split unsettles oil, food, flights and families.

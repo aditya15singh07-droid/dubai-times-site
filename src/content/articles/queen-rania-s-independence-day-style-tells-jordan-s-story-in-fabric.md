@@ -4,11 +4,11 @@ description: "As Jordan marks 80 years of independence, Queen Rania’s past Ind
 category: "Lifestyle"
 author: "Naina Batra"
 date: 2026-05-26
-image: "https://images.pexels.com/photos/8317785/pexels-photo-8317785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A joyful multigenerational family lying down and smiling together, displaying warmth and affection."
+image: "https://images.pexels.com/photos/12969212/pexels-photo-12969212.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Happy family having fun in a forest, capturing joyful bonding moments."
 tags: ["Queen Rania", "Jordan Independence Day", "Middle East Fashion", "Jordan", "Dubai Designers", "Palestinian Heritage", "Royal Style", "Lifestyle"]
 draft: false
-pexelsId: "8317785"
+pexelsId: "12969212"
 ---
 
 Some national days are marked by flags, anthems and formal speeches. In Jordan, one of the quieter signals has often arrived through fabric.

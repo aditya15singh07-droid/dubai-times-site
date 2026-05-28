@@ -4,11 +4,11 @@ description: "New York and New Jersey have opened a probe into FIFA’s World Cu
 category: "Sport"
 author: "Ishaan Vora"
 date: 2026-05-28
-image: "https://images.pexels.com/photos/16651538/pexels-photo-16651538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Footballers in action during a lively soccer match on a sunny day. Perfect for sports imagery."
+image: "https://images.pexels.com/photos/14353976/pexels-photo-14353976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A soccer player in yellow uniform kicks a ball during a game on a green outdoor field."
 tags: ["FIFA", "World Cup 2026", "Football", "New York", "New Jersey", "Sports Business", "Travel"]
 draft: false
-pexelsId: "16651538"
+pexelsId: "14353976"
 ---
 
 A World Cup ticket should feel like a passport to joy. For many fans now, it feels like a bill they cannot explain.

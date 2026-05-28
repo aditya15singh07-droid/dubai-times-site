@@ -4,11 +4,11 @@ description: "Barcelona have agreed a deal with Newcastle United for England win
 category: "Sport"
 author: "Kian Oberoi"
 date: 2026-05-28
-image: "https://images.pexels.com/photos/30726626/pexels-photo-30726626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Amateur soccer team in red uniforms gathering on a green field during daytime."
+image: "https://images.pexels.com/photos/18799030/pexels-photo-18799030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A dynamic moment captured in a soccer match with players showcasing skills on a vibrant green field."
 tags: ["Anthony Gordon", "Barcelona", "Newcastle United", "Premier League", "La Liga", "Football Transfers", "England Football", "Champions League", "Sport Business"]
 draft: false
-pexelsId: "30726626"
+pexelsId: "18799030"
 ---
 
 Anthony Gordon was not supposed to be the obvious Barcelona story.

@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-18
 publishedTime: "03:40 GST"
 watchLine: "Watch whether the cooperation produces visible projects before the 2026 UN Water Conference in Abu Dhabi."
-image: "https://images.pexels.com/photos/5686086/pexels-photo-5686086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Multicultural team discusses business strategy in a modern office setting."
+image: "https://images.pexels.com/photos/5686111/pexels-photo-5686111.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Diverse team engaged in a collaborative meeting in a modern office setting, sharing ideas and working together."
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "5686086"
+pexelsId: "5686111"
 ---
 
 Water diplomacy can sound technical until you live in a region where water is a strategic question every single day.

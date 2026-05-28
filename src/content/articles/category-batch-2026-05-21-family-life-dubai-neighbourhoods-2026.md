@@ -6,9 +6,9 @@ author: "Rian Kapoor"
 date: 2026-05-21
 publishedTime: "13:14 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/35659787/pexels-photo-35659787.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Three children enjoy a sunny day at the beach, splashing in the water with a cityscape in the background."
-pexelsId: "35659787"
+image: "https://images.pexels.com/photos/35659785/pexels-photo-35659785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Three children laughing and playing by the sea on a sunny summer day."
+pexelsId: "35659785"
 tags: ["Lifestyle", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

@@ -6,9 +6,9 @@ author: "Naina Batra"
 date: 2026-05-21
 publishedTime: "14:30 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://images.pexels.com/photos/13907458/pexels-photo-13907458.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Youth soccer players in action on a lit field at night, showcasing teamwork and energy."
-pexelsId: "13907458"
+image: "https://images.pexels.com/photos/10719279/pexels-photo-10719279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A soccer team in yellow and black jerseys huddles together on a grassy field, showing unity and teamwork."
+pexelsId: "10719279"
 tags: ["Sport", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---

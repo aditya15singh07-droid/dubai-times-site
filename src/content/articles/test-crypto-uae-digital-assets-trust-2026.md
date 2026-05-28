@@ -6,11 +6,11 @@ author: "Tara Khanna"
 date: 2026-05-20
 publishedTime: "14:07 GST"
 watchLine: "Watch whether investors ask better questions about custody, licensing and risk."
-image: "https://images.pexels.com/photos/34067360/pexels-photo-34067360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Bitcoin coin with financial data, credit cards, and currency on a desk."
+image: "https://images.pexels.com/photos/6770609/pexels-photo-6770609.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Close-up of a financial graph on a laptop screen, depicting stock market analysis in Berlin."
 tags: ["Crypto", "Dubai Time"]
 draft: false
-pexelsId: "34067360"
+pexelsId: "6770609"
 ---
 
 The real crypto story now is not price action. It is whether ordinary investors can trust the rails.

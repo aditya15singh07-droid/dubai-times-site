@@ -4,10 +4,11 @@ description: "Abu Dhabi museums are using Eid Al Adha week to offer Indian famil
 category: "Lifestyle"
 author: "Kian Oberoi"
 date: 2026-05-28
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Abu Dhabi Museums Turn Eid Into A Week Of Films, Food, Heritage And Big Ideas"
+image: "https://images.pexels.com/photos/8317785/pexels-photo-8317785.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A joyful multigenerational family lying down and smiling together, displaying warmth and affection."
 tags: ["Abu Dhabi", "Eid Al Adha", "UAE Travel", "Museums", "Louvre Abu Dhabi", "Zayed National Museum", "Al Ain Museum", "Guggenheim Abu Dhabi", "Indian Travellers", "UAE Culture"]
 draft: false
+pexelsId: "8317785"
 ---
 
 For many Indian families in the UAE, Eid holidays are not just about a long weekend. They are about finding something that works for grandparents, children, visiting relatives and tired working parents.

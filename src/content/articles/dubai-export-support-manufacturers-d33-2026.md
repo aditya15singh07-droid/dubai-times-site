@@ -6,11 +6,11 @@ author: "Anika Menon"
 date: 2026-05-17
 publishedTime: "11:15 GST"
 watchLine: "Watch whether manufacturers use the support package to open new markets, secure repeat orders and report measurable export growth."
-image: "https://images.pexels.com/photos/34086087/pexels-photo-34086087.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Multicultural team collaborating in a vibrant, modern office space with plants and neon light decor."
+image: "https://images.pexels.com/photos/5711017/pexels-photo-5711017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A diverse group of people sitting in a circle during a therapy session in a sports hall."
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "34086087"
+pexelsId: "5711017"
 ---
 
 A manufacturer does not become global just because the product is good.
