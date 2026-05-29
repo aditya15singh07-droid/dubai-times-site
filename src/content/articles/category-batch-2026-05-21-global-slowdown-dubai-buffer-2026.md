@@ -6,9 +6,9 @@ author: "Tara Khanna"
 date: 2026-05-21
 publishedTime: "13:53 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/6950214/pexels-photo-6950214.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Diverse leaders at a conference podium with US flag in the background."
-pexelsId: "6950214"
+image: "https://images.pexels.com/photos/4854674/pexels-photo-4854674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Participants wearing face masks attending a business presentation in an indoor conference room."
+pexelsId: "4854674"
 tags: ["International", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

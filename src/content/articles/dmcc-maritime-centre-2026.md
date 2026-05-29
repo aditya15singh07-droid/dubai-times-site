@@ -5,11 +5,11 @@ category: "International"
 author: "Zoya Malhotra"
 date: 2026-04-09
 watchLine: "Watch whether shipping firms, financiers and legal-service providers actually cluster around the platform in enough numbers to deepen Dubai's trade moat."
-image: "https://images.pexels.com/photos/30110942/pexels-photo-30110942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A row of international flags waving under a clear blue sky in Paris, France."
+image: "https://images.pexels.com/photos/14676984/pexels-photo-14676984.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "International flags waving against a clear blue sky in Doha, Qatar, symbolizing unity and diversity."
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "30110942"
+pexelsId: "14676984"
 ---
 
 Dubai has spent decades proving that it can move goods. The harder question now is whether it can capture more of the money and influence that sit around those goods. Shipping today is not just cranes and berths. It is finance, insurance, legal structuring, wealth planning, risk management and capital. DMCC's new Maritime Centre makes sense only when seen through that wider lens. It is an attempt to ensure Dubai earns not just from movement, but from the ecosystems that organise movement.

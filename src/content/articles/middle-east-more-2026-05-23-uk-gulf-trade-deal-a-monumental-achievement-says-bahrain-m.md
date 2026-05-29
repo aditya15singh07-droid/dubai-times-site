@@ -6,11 +6,11 @@ author: "Kabir Sethi"
 date: 2026-05-23
 publishedTime: "16:16 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/5668492/pexels-photo-5668492.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Multiracial colleagues in formal clothes sitting at table with laptop and documents while discussing details of business plan"
+image: "https://images.pexels.com/photos/7888760/pexels-photo-7888760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Engaged office team in business discussion around a laptop, fostering collaboration."
 tags: ["Business","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "5668492"
+pexelsId: "7888760"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why uk gulf trade deal a monumental achievement says deserves a closer read across the Middle East today.
 

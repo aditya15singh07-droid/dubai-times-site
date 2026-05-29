@@ -4,11 +4,11 @@ description: "Kevin Warsh has taken charge of the US Federal Reserve as oil, Ira
 category: "International"
 author: "Aarav Mehta"
 date: 2026-05-24
-image: "https://images.pexels.com/photos/3184306/pexels-photo-3184306.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Overhead view of colleagues in a work meeting using laptops and tablets, emphasizing teamwork and technology."
+image: "https://images.pexels.com/photos/3184338/pexels-photo-3184338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A diverse team of professionals having a meeting in a modern office setting, discussing business strategies."
 tags: ["Kevin Warsh", "US Federal Reserve", "UAE economy", "interest rates", "Iran war", "oil prices", "US Treasuries", "dirham peg", "Gulf markets"]
 draft: false
-pexelsId: "3184306"
+pexelsId: "3184338"
 ---
 
 For a Dubai shop owner, a Mumbai investor, or a family planning a UAE mortgage, Washington can feel far away. This week, it is not.

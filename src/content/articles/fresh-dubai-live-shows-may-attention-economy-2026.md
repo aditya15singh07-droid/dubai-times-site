@@ -6,9 +6,9 @@ author: "Vihaan Rao"
 date: 2026-05-21
 publishedTime: "14:33 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://images.pexels.com/photos/36027794/pexels-photo-36027794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A dense crowd of people gathered at a nighttime concert, illuminated by stage lights."
-pexelsId: "36027794"
+image: "https://images.pexels.com/photos/1267317/pexels-photo-1267317.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Energetic crowd enjoying a night concert with vibrant lights and festive atmosphere."
+pexelsId: "1267317"
 tags: ["Entertainment", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---

@@ -6,11 +6,11 @@ author: "Samaira Qureshi"
 date: 2026-05-18
 publishedTime: "12:18 GST"
 watchLine: "Watch whether the corridor becomes a temporary emergency fix or a longer-term logistics habit for exporters."
-image: "https://images.pexels.com/photos/7433929/pexels-photo-7433929.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Business executive standing confidently in meeting room with team engaged in discussion behind."
+image: "https://images.pexels.com/photos/8353815/pexels-photo-8353815.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Three businessmen discussing financial documents in a modern office setting."
 tags: ["Business", "Dubai Time"]
 draft: false
-pexelsId: "7433929"
+pexelsId: "8353815"
 ---
 
 Trade usually sounds like a big word until a shipment gets stuck.

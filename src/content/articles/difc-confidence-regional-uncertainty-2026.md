@@ -6,11 +6,11 @@ author: "Tara Khanna"
 date: 2026-05-18
 publishedTime: "12:44 GST"
 watchLine: "Watch whether global banks, wealth managers and fintech firms continue expanding in DIFC despite regional uncertainty."
-image: "https://images.pexels.com/photos/1181304/pexels-photo-1181304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A multicultural team brainstorming and collaborating during a business meeting."
+image: "https://images.pexels.com/photos/7433929/pexels-photo-7433929.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Business executive standing confidently in meeting room with team engaged in discussion behind."
 tags: ["Business", "Dubai Time"]
 draft: false
-pexelsId: "1181304"
+pexelsId: "7433929"
 ---
 
 Money likes growth.

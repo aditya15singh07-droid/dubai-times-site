@@ -6,11 +6,11 @@ author: "Zayan Mirza"
 date: 2026-05-23
 publishedTime: "11:52 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/22604116/pexels-photo-22604116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Lively audience with raised arms and cheerful expressions at an outdoor music concert at night."
+image: "https://images.pexels.com/photos/34766314/pexels-photo-34766314.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Diverse crowd at a night concert. Audience showing excitement and enthusiasm during live performance."
 tags: ["Entertainment","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "22604116"
+pexelsId: "34766314"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why how a 17 year old in dubai uses deserves a closer read across the Middle East today.
 

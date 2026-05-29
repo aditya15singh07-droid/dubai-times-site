@@ -5,11 +5,11 @@ category: "Business"
 author: "Myra D Souza"
 date: 2026-05-17
 watchLine: "Follow whether fee relief and liquidity support show up in licensing activity, hotel performance, trade flows and hiring."
-image: "https://images.pexels.com/photos/5668513/pexels-photo-5668513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "High angle of crop faceless coworkers in formal clothes sitting at wooden table with cups of coffee and documents while working together"
+image: "https://images.pexels.com/photos/7693690/pexels-photo-7693690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A group of professionals engaged in a collaborative business meeting, reflecting teamwork and diversity."
 tags: ["Business", "Dubai Time"]
 draft: false
-pexelsId: "5668513"
+pexelsId: "7693690"
 ---
 
 Business confidence often sounds grand in speeches. In real life, it is usually about cash flow.

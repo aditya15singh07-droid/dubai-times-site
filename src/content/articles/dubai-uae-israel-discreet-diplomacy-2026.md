@@ -5,11 +5,11 @@ category: "International"
 author: "Ishaan Vora"
 date: 2026-05-17
 watchLine: "Watch future official language for signs that cooperation remains formal, public-facing and carefully bounded."
-image: "https://images.pexels.com/photos/37676545/pexels-photo-37676545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A vibrant street scene in Istanbul, showcasing a man with a parrot and the iconic minarets."
+image: "https://images.pexels.com/photos/5711027/pexels-photo-5711027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A diverse group of adults participate in a support group meeting indoors."
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "37676545"
+pexelsId: "5711027"
 ---
 
 Diplomacy often lives in careful wording. One denial, one phrase, one official line can do a lot of work.

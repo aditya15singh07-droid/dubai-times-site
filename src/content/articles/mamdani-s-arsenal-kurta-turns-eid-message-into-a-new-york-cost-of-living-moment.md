@@ -4,11 +4,11 @@ description: "New York City Mayor Zohran Mamdani marked Eid Al Adha in the Bronx
 category: "International"
 author: "Myra D'Souza"
 date: 2026-05-28
-image: "https://images.pexels.com/photos/8070723/pexels-photo-8070723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A diverse group discussing ideas in a modern office setting, using laptops and tablets."
+image: "https://images.pexels.com/photos/8636598/pexels-photo-8636598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A young woman presents to colleagues in a modern team meeting setting."
 tags: ["Zohran Mamdani", "New York", "Eid Al Adha", "Arsenal", "Alexandria Ocasio-Cortez", "US politics", "Cost of living", "Indian diaspora"]
 draft: false
-pexelsId: "8070723"
+pexelsId: "8636598"
 ---
 
 A football kurta can sometimes say more than a formal speech.

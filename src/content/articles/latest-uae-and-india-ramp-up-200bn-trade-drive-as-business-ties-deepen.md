@@ -6,11 +6,11 @@ author: "Naina Batra"
 date: 2026-05-19
 publishedTime: "17:02 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/34789956/pexels-photo-34789956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Empty futuristic conference room in Berlin ICC with circular seating and high-tech design."
+image: "https://images.pexels.com/photos/22481608/pexels-photo-22481608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A bustling promenade at Istanbul harbor filled with people walking and a ship docked nearby."
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "34789956"
+pexelsId: "22481608"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.
