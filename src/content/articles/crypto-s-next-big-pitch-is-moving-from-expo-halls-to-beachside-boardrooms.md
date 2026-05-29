@@ -4,11 +4,11 @@ description: "BlockCon Punta Cana 2026 is being pitched as a dealmaking retreat 
 category: "Crypto"
 author: "Zoya Malhotra"
 date: 2026-05-26
-image: "https://images.pexels.com/photos/7267602/pexels-photo-7267602.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A seamless pattern of various cryptocurrency coins in gold and silver tones."
+image: "https://images.pexels.com/photos/6771007/pexels-photo-6771007.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Close-up of golden bitcoins on a laptop keyboard depicting cryptocurrency and trade concepts with a market chart in the background."
 tags: ["Crypto", "Web3", "Stablecoins", "iGaming", "Blockchain", "Digital Assets", "Business Travel", "UAE", "Punta Cana", "Regulation"]
 draft: false
-pexelsId: "7267602"
+pexelsId: "6771007"
 ---
 
 Crypto conferences used to sell noise. Big screens, loud promises, token launches, and crowds chasing the next fast trade.

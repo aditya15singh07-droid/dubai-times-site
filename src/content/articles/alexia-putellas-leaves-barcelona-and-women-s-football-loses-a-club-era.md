@@ -4,11 +4,11 @@ description: "Alexia Putellas is leaving Barcelona after 14 seasons, 507 games, 
 category: "Sport"
 author: "Mira Sethi"
 date: 2026-05-27
-image: "https://images.pexels.com/photos/32266318/pexels-photo-32266318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Two soccer players fiercely competing on a sunny field during an exciting match."
+image: "https://images.pexels.com/photos/9544750/pexels-photo-9544750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Two soccer players and a goalie in action during an outdoor match at sunset."
 tags: ["Alexia Putellas", "Barcelona", "Women’s Football", "Champions League", "Spain Football", "Sport"]
 draft: false
-pexelsId: "32266318"
+pexelsId: "9544750"
 ---
 
 Some departures feel larger than a transfer window. Alexia Putellas leaving Barcelona is one of them.

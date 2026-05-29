@@ -5,11 +5,11 @@ category: "Sport"
 author: "Reyansh Suri"
 date: 2026-05-18
 watchLine: "Watch whether app-based mobility adoption deepens in Abu Dhabi and whether cross-city expansion starts to change rider expectations across the UAE."
-image: "https://images.pexels.com/photos/30726604/pexels-photo-30726604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Soccer players in blue uniforms practicing on a green field focus on soccer ball in foreground."
+image: "https://images.pexels.com/photos/32099033/pexels-photo-32099033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Close-up of a soccer ball on a green field with white lines, ready for play."
 tags: ["Sport", "Dubai Time"]
 draft: false
-pexelsId: "30726604"
+pexelsId: "32099033"
 ---
 
 People get used to convenience very quickly. Once an app reliably tells you when a ride will arrive, how much it may cost and how to pay without digging for cash, you stop treating that convenience as a bonus. It becomes the baseline. That is why Bolt's move into Abu Dhabi matters. The announcement is modest on the surface. It simply expands a ride-hailing footprint. But underneath, it reflects a larger shift in the UAE. Residents now expect mobility services to follow them across cities with the same logic, the same ease and the same digital confidence.

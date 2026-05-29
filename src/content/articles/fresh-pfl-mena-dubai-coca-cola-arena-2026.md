@@ -6,9 +6,9 @@ author: "Naina Batra"
 date: 2026-05-21
 publishedTime: "14:30 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://images.pexels.com/photos/10719279/pexels-photo-10719279.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A soccer team in yellow and black jerseys huddles together on a grassy field, showing unity and teamwork."
-pexelsId: "10719279"
+image: "https://images.pexels.com/photos/12783784/pexels-photo-12783784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Male soccer player in blue uniform standing on a grassy field in Venezuela."
+pexelsId: "12783784"
 tags: ["Sport", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---

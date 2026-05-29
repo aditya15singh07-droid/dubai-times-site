@@ -4,11 +4,11 @@ description: "XRP has slipped near $1.28 as fear returns to crypto markets. Trad
 category: "Crypto"
 author: "Armaan Gill"
 date: 2026-05-29
-image: "https://images.pexels.com/photos/17977104/pexels-photo-17977104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Bitcoin coin on a tablet showing stock chart, surrounded by dollar bills."
+image: "https://images.pexels.com/photos/7267610/pexels-photo-7267610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Bitcoin coins stacked in front of cryptocurrency trading chart reflecting market trends."
 tags: ["XRP", "Crypto", "Ripple", "Bitcoin", "Digital Assets", "UAE Crypto", "Indian Investors", "Tokenisation"]
 draft: false
-pexelsId: "17977104"
+pexelsId: "7267610"
 ---
 
 For many retail crypto buyers, fear arrives quietly first.

@@ -4,11 +4,11 @@ description: "Aryna Sabalenka opened her French Open campaign with a stylish str
 category: "Sport"
 author: "Reyansh Suri"
 date: 2026-05-27
-image: "https://images.pexels.com/photos/29811411/pexels-photo-29811411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A soccer team gathers in a huddle for motivation before a match, fostering teamwork and unity."
+image: "https://images.pexels.com/photos/17955127/pexels-photo-17955127.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Players in action during a soccer match on a sunny day, highlighting teamwork and sportsmanship."
 tags: ["French Open", "Aryna Sabalenka", "Roland Garros", "Tennis", "Daniil Medvedev", "Moise Kouame", "Grand Slam"]
 draft: false
-pexelsId: "29811411"
+pexelsId: "17955127"
 ---
 
 Some players walk into a Grand Slam carrying pressure. Aryna Sabalenka walked in carrying pressure, power and diamonds.

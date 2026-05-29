@@ -4,11 +4,11 @@ description: "Scotland’s return to the World Cup after 28 years is being marke
 category: "Sport"
 author: "Samaira Qureshi"
 date: 2026-05-27
-image: "https://images.pexels.com/photos/16285151/pexels-photo-16285151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Intense soccer game with players competing for the ball on a grassy field. Strong teamwork and athletic skill displayed."
+image: "https://images.pexels.com/photos/32109086/pexels-photo-32109086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Dynamic football match action captured in France with players in red and blue jerseys."
 tags: ["Scott McTominay", "Scotland", "World Cup 2026", "Football", "Sport", "Bank of Scotland", "Napoli", "Denmark", "Brazil", "Morocco", "Haiti"]
 draft: false
-pexelsId: "16285151"
+pexelsId: "32109086"
 ---
 
 Some goals win matches. A few become family stories. Scott McTominay’s overhead kick has now gone one step further. It has landed on money.

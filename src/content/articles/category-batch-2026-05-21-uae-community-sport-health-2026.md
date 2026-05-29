@@ -6,9 +6,9 @@ author: "Naina Batra"
 date: 2026-05-21
 publishedTime: "13:23 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/34049621/pexels-photo-34049621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Dynamic soccer game capturing two young players in action on a grassy field surrounded by spectators."
-pexelsId: "34049621"
+image: "https://images.pexels.com/photos/17779075/pexels-photo-17779075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Aerial view of a football match in a sunlit stadium in Manchester."
+pexelsId: "17779075"
 tags: ["Sport", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

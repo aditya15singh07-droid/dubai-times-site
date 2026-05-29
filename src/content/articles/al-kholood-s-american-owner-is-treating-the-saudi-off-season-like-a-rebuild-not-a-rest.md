@@ -4,11 +4,11 @@ description: "Ben Harburg says Al-Kholood will push harder after survival and a 
 category: "Sport"
 author: "Devika Shah"
 date: 2026-05-28
-image: "https://images.pexels.com/photos/16651538/pexels-photo-16651538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Footballers in action during a lively soccer match on a sunny day. Perfect for sports imagery."
+image: "https://images.pexels.com/photos/31422304/pexels-photo-31422304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Teen soccer player dribbles the ball on a sunny day outdoor field."
 tags: ["Al-Kholood", "Saudi Pro League", "Ben Harburg", "Saudi Football", "King's Cup", "Gulf Sport"]
 draft: false
-pexelsId: "16651538"
+pexelsId: "31422304"
 ---
 
 For many club owners, a cup final and survival would be enough reason to exhale.

@@ -4,11 +4,11 @@ description: "Tunisia’s Mehdi Saadi beat UAE favourite Mohammad Yahya at Coca-
 category: "Sport"
 author: "Anika Menon"
 date: 2026-05-26
-image: "https://images.pexels.com/photos/30340460/pexels-photo-30340460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Dramatic capture of soccer players during a competitive match on a rainy day."
+image: "https://images.pexels.com/photos/15365055/pexels-photo-15365055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A lively amateur football game with players in action and an engaged crowd watching on a sunny day."
 tags: ["PFL MENA", "Dubai Sport", "MMA", "UAE", "Coca-Cola Arena", "Zamzam Al-Hammadi", "Mohammad Yahya", "Mehdi Saadi", "Gulf Sport"]
 draft: false
-pexelsId: "30340460"
+pexelsId: "15365055"
 ---
 
 A fight night can turn very quickly in Dubai. One moment, the home crowd is roaring for a familiar UAE name. The next, a Tunisian fighter is standing in the cage with his hand raised, having spoiled the party by the thinnest of margins.

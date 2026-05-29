@@ -4,11 +4,11 @@ description: "Iga Swiatek beat Sara Bejlek 6-2, 6-3 in Paris to reach the French
 category: "Sport"
 author: "Ishaan Vora"
 date: 2026-05-28
-image: "https://images.pexels.com/photos/12783685/pexels-photo-12783685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Amateur soccer players compete on an urban field in Venezuela, showcasing teamwork and athleticism."
+image: "https://images.pexels.com/photos/13907448/pexels-photo-13907448.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Energetic night soccer match featuring teams in action on a vividly lit field."
 tags: ["Iga Swiatek", "French Open", "Roland Garros", "Tennis", "Sara Bejlek", "Sport"]
 draft: false
-pexelsId: "12783685"
+pexelsId: "13907448"
 ---
 
 Iga Swiatek did not produce a perfect afternoon in Paris. She produced something more useful.

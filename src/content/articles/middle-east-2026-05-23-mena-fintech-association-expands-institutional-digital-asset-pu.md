@@ -6,11 +6,11 @@ author: "Kabir Sethi"
 date: 2026-05-23
 publishedTime: "10:00 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/6772103/pexels-photo-6772103.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A laptop showing stock market graphs with a smartphone calculator, euro bills, coins, and trading strategies paper."
+image: "https://images.pexels.com/photos/8358145/pexels-photo-8358145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Smartphone displaying Bitcoin price chart alongside Bitcoin and Ethereum coins on black background."
 tags: ["Crypto","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "6772103"
+pexelsId: "8358145"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why mena fintech association expands institutional digital asset deserves a closer read across the Middle East today.
 

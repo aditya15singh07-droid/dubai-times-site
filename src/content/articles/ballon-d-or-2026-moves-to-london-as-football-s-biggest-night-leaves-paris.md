@@ -4,10 +4,11 @@ description: "The Ballon d’Or ceremony will move from Paris to London on Octob
 category: "Sport"
 author: "Naina Batra"
 date: 2026-05-29
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Ballon d’Or 2026 Moves To London As Football’s Biggest Night Leaves Paris"
+image: "https://images.pexels.com/photos/32266257/pexels-photo-32266257.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Dynamic shot of female soccer players in action during a match on a sunny day."
 tags: ["Ballon d'Or", "London", "Football", "Harry Kane", "Ousmane Dembele", "Aitana Bonmati", "UEFA", "Sport"]
 draft: false
+pexelsId: "32266257"
 ---
 
 Football loves tradition, but it also loves a stage.
