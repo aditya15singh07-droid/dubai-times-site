@@ -6,11 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-23
 publishedTime: "01:40 GST"
 watchLine: "Watch whether Dubai converts its rankings into higher-value conventions that fill hotels and spill into the wider economy."
-image: "https://images.pexels.com/photos/34118507/pexels-photo-34118507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Silhouetted travelers waiting at Shanghai airport terminal gate H190 with cityscape view."
+image: "https://images.pexels.com/photos/2610763/pexels-photo-2610763.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Dramatic long exposure of a modern airport terminal's moving walkalator with architectural ceiling design."
 tags: ["Travel", "Dubai", "Business Events", "IMEX Frankfurt", "Tourism"]
 draft: false
-pexelsId: "34118507"
+pexelsId: "2610763"
 ---
 
 When most people hear the phrase business events, they imagine dull badges and too much coffee.

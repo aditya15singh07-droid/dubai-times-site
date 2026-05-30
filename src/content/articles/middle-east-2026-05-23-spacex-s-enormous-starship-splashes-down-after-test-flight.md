@@ -6,11 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-23
 publishedTime: "10:20 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/10003520/pexels-photo-10003520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A silhouetted man observes planes and runway through large glass windows at an airport."
+image: "https://images.pexels.com/photos/6544051/pexels-photo-6544051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Crowded scene inside Hong Kong International Airport terminal with travelers and signage."
 tags: ["Travel","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "10003520"
+pexelsId: "6544051"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why spacex enormous starship splashes down after test flight deserves a closer read across the Middle East today.
 

@@ -6,9 +6,9 @@ author: "Aarav Mehta"
 date: 2026-05-21
 publishedTime: "13:08 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/3885496/pexels-photo-3885496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Full body young female passenger in trendy plaid coat with suitcase strolling on pavement near modern building of ariport terminal taking bag and documents"
-pexelsId: "3885496"
+image: "https://images.pexels.com/photos/34118514/pexels-photo-34118514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "View of an airplane at Shanghai airport terminal, framed by modern architecture."
+pexelsId: "34118514"
 tags: ["Travel", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

@@ -6,11 +6,11 @@ author: "Kabir Sethi"
 date: 2026-05-23
 publishedTime: "21:04 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/2289944/pexels-photo-2289944.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Silhouette of unrecognizable passengers sitting on chairs with luggage near  window and waiting for flight"
+image: "https://images.pexels.com/photos/16108890/pexels-photo-16108890.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "An adult male walking on an airport travelator, captured in a modern and well-lit terminal."
 tags: ["Travel","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "2289944"
+pexelsId: "16108890"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why phiilippine airlines boosts middle east connectivity via q deserves a closer read across the Middle East today.
 

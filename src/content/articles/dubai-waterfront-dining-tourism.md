@@ -5,11 +5,11 @@ category: "Travel"
 author: "Myra D Souza"
 date: 2026-05-17
 watchLine: "Watch which waterfront venues turn views into repeat business through service, value, identity and year-round programming."
-image: "https://images.pexels.com/photos/34118509/pexels-photo-34118509.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Spacious interior view of a modern airport terminal in Shanghai with signage and travelers."
+image: "https://images.pexels.com/photos/8281068/pexels-photo-8281068.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A dramatic image of an airplane landing against a vibrant sunset over a city skyline."
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "34118509"
+pexelsId: "8281068"
 ---
 
 A Dubai dinner with a view can become a travel memory faster than a museum ticket.

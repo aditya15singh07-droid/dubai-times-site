@@ -5,11 +5,11 @@ category: "Business"
 author: "Vihaan Rao"
 date: 2026-05-14
 watchLine: "Watch how quickly the consortium raises capital and whether the first investments show real regional execution rather than only strategic positioning."
-image: "https://images.pexels.com/photos/5668490/pexels-photo-5668490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Multiethnic coworkers in formal wear sitting at table with documents and discussing details of business project"
+image: "https://images.pexels.com/photos/7869068/pexels-photo-7869068.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A diverse team collaborates in a modern office setting, showcasing teamwork and communication."
 tags: ["Business", "Dubai Time"]
 draft: false
-pexelsId: "5668490"
+pexelsId: "7869068"
 ---
 
 Some announcements are really about one project. Others are about where a city or country now sits in the global hierarchy of money. The new infrastructure partnership involving BlackRock's Global Infrastructure Partners, Abu Dhabi's L'imad, ADNOC and Singapore's Temasek belongs to the second category. The headline is large enough on its own, up to $30 billion aimed at the Gulf and Central Asia. But the deeper meaning is that Abu Dhabi is no longer just a destination for infrastructure capital. It is helping organise the capital itself.

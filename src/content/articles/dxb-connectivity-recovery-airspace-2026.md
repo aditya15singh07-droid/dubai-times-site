@@ -5,11 +5,11 @@ category: "Travel"
 author: "Kabir Anand"
 date: 2026-05-18
 watchLine: "Watch whether route recovery restores transfer traffic quickly and whether summer demand exposes any new capacity bottlenecks."
-image: "https://images.pexels.com/photos/28336303/pexels-photo-28336303.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "An airplane takes off from an airport runway, soaring into the clear blue sky over the ocean."
+image: "https://images.pexels.com/photos/3885493/pexels-photo-3885493.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Crop young female traveler in trendy plaid coat and high boots with luggage and documents strolling on pavement near contemporary building of airport during cold season"
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "28336303"
+pexelsId: "3885493"
 ---
 
 Airports reveal the truth about a region faster than many official statements do.

@@ -6,11 +6,11 @@ author: "Armaan Gill"
 date: 2026-05-20
 publishedTime: "16:49 GST"
 watchLine: "Watch shipping routes, energy prices, insurance costs and travel advisories."
-image: "https://images.pexels.com/photos/1719490/pexels-photo-1719490.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Bright arrivals sign with airplane symbol in an airport terminal."
+image: "https://images.pexels.com/photos/16453345/pexels-photo-16453345.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "View of Suvarnabhumi Airport interior with moving walkway and signs for connecting flights."
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "1719490"
+pexelsId: "16453345"
 ---
 
 The UAE feels global risk through practical channels before political speeches.

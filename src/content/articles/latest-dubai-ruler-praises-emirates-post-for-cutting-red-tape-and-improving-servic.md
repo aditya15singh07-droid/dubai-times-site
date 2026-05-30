@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-19
 publishedTime: "17:38 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/1181304/pexels-photo-1181304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A multicultural team brainstorming and collaborating during a business meeting."
+image: "https://images.pexels.com/photos/7433929/pexels-photo-7433929.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Business executive standing confidently in meeting room with team engaged in discussion behind."
 tags: ["Business", "Dubai Time"]
 draft: false
-pexelsId: "1181304"
+pexelsId: "7433929"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

@@ -6,11 +6,11 @@ author: "Zayan Mirza"
 date: 2026-05-23
 publishedTime: "20:56 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/30220728/pexels-photo-30220728.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Aerial view of Abeid Amani Karume International Airport in Zanzibar, showing parked airplanes and terminal."
+image: "https://images.pexels.com/photos/4530195/pexels-photo-4530195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Through glass modern white plane connected to airport terminal with airbridge and ready for boarding against spectacular cloudy purple sky in late evening"
 tags: ["Travel","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "30220728"
+pexelsId: "4530195"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the gulf travel confidence test deserves a closer read across the Middle East today.
 

@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-23
 publishedTime: "01:10 GST"
 watchLine: "Watch whether these Jafza commitments turn into faster hiring, new warehouse capacity and durable industrial demand."
-image: "https://images.pexels.com/photos/5673481/pexels-photo-5673481.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "From above of multiracial colleagues in formal outfit working with papers laptop and tablet at table"
+image: "https://images.pexels.com/photos/4342124/pexels-photo-4342124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Professional team engaged in a business meeting discussing strategy in a modern office environment."
 tags: ["Business", "Dubai", "Jafza", "DP World", "Trade"]
 draft: false
-pexelsId: "5673481"
+pexelsId: "4342124"
 ---
 
 The easiest way to misunderstand Dubai is to look only at the skyline.

@@ -6,11 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-23
 publishedTime: "15:56 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/7433869/pexels-photo-7433869.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Three adults engaged in a dynamic discussion at an office table, analyzing documents and planning strategies."
+image: "https://images.pexels.com/photos/8101927/pexels-photo-8101927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Two women engaged in a business meeting, discussing plans and ideas."
 tags: ["Business","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "7433869"
+pexelsId: "8101927"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why scottish salmon exports to uae gulf states set deserves a closer read across the Middle East today.
 

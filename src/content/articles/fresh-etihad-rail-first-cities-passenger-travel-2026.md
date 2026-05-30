@@ -6,9 +6,9 @@ author: "Aarav Mehta"
 date: 2026-05-21
 publishedTime: "14:15 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://images.pexels.com/photos/13343883/pexels-photo-13343883.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Side view of a commercial airplane with passengers boarding at a sunny airport."
-pexelsId: "13343883"
+image: "https://images.pexels.com/photos/3885496/pexels-photo-3885496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Full body young female passenger in trendy plaid coat with suitcase strolling on pavement near modern building of ariport terminal taking bag and documents"
+pexelsId: "3885496"
 tags: ["Travel", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---

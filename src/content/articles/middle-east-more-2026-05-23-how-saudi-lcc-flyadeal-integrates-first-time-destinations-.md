@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-23
 publishedTime: "21:28 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/18090300/pexels-photo-18090300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Airplane seen through a window, parked on the airport runway, capturing a travel moment."
+image: "https://images.pexels.com/photos/16936915/pexels-photo-16936915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Black and white image of travelers silhouetted against large airport windows, capturing urban travel ambiance."
 tags: ["Travel","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "18090300"
+pexelsId: "16936915"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why how saudi lcc flyadeal integrates first time destinations deserves a closer read across the Middle East today.
 

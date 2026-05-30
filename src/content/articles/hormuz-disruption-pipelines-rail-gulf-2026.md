@@ -5,11 +5,11 @@ category: "Travel"
 author: "Devika Shah"
 date: 2026-05-18
 watchLine: "Watch whether bypass routes become permanent strategic priorities long after the current disruption fades."
-image: "https://images.pexels.com/photos/3876055/pexels-photo-3876055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Side view of cheerful stylish blond woman in casual wear with big suitcase standing against airport and waiting for flight"
+image: "https://images.pexels.com/photos/32998741/pexels-photo-32998741.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Futuristic architecture of Suvarnabhumi Airport, Bangkok, bustling with travelers."
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "3876055"
+pexelsId: "32998741"
 ---
 
 The Strait of Hormuz has always looked narrow on the map.

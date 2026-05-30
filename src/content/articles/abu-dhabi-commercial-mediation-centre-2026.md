@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-23
 publishedTime: "03:40 GST"
 watchLine: "Watch whether companies actually use the new centre and whether settlement timelines improve in commercial disputes."
-image: "https://images.pexels.com/photos/7691697/pexels-photo-7691697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A diverse group of professionals in a business meeting shaking hands and discussing financial charts."
+image: "https://images.pexels.com/photos/8123789/pexels-photo-8123789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Elderly professionals collaborate in a meeting, discussing documents on a wooden table."
 tags: ["Business", "Abu Dhabi", "Mediation", "Legal", "Commercial Disputes"]
 draft: false
-pexelsId: "7691697"
+pexelsId: "8123789"
 ---
 
 The most expensive part of a business dispute is often not the claim itself.

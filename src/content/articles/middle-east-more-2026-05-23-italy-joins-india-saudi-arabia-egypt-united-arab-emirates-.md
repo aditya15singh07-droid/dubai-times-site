@@ -6,11 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-23
 publishedTime: "21:32 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/16562841/pexels-photo-16562841.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A modern jet airplane docked at an airport terminal gate, ready for boarding on a cloudy day."
+image: "https://images.pexels.com/photos/18090300/pexels-photo-18090300.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Airplane seen through a window, parked on the airport runway, capturing a travel moment."
 tags: ["Travel","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "16562841"
+pexelsId: "18090300"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why italy joins india saudi arabia egypt united arab deserves a closer read across the Middle East today.
 

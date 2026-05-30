@@ -6,11 +6,11 @@ author: "Tara Khanna"
 date: 2026-05-19
 publishedTime: "14:45 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/16236744/pexels-photo-16236744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A bustling airport scene with an airplane on the tarmac being prepared for departure."
+image: "https://images.pexels.com/photos/3885593/pexels-photo-3885593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A woman relaxes in an airport terminal waiting area, reading a tablet with luggage nearby."
 tags: ["Travel", "Dubai Time"]
 draft: false
-pexelsId: "16236744"
+pexelsId: "3885593"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.
