@@ -4,11 +4,11 @@ description: "Egypt’s Mayar Sherif lost to Coco Gauff at Roland Garros, but he
 category: "Sport"
 author: "Kabir Anand"
 date: 2026-05-30
-image: "https://images.pexels.com/photos/32266316/pexels-photo-32266316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Captured intense moment during a soccer match under clear skies."
+image: "https://images.pexels.com/photos/9405210/pexels-photo-9405210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A soccer player takes a decisive penalty kick aiming to score against the goalkeeper."
 tags: ["Mayar Sherif", "Coco Gauff", "Roland Garros", "French Open", "Egypt Tennis", "Arab Sport", "Women In Sport"]
 draft: false
-pexelsId: "32266316"
+pexelsId: "9405210"
 ---
 
 Mayar Sherif walked out of Paris with a loss on paper, but not with a small story.

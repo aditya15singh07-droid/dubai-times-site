@@ -6,11 +6,11 @@ author: "Ishaan Roy"
 date: 2026-05-23
 publishedTime: "17:44 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/18075411/pexels-photo-18075411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Two players compete fiercely on a lush football field in Texcoco, capturing the essence of competitive sport."
+image: "https://images.pexels.com/photos/28829496/pexels-photo-28829496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A thrilling football game captured in a large, modern stadium at night."
 tags: ["Sport","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "18075411"
+pexelsId: "28829496"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why trade deal with gulf states welcomed by salmon deserves a closer read across the Middle East today.
 

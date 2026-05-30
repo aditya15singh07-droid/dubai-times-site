@@ -4,11 +4,11 @@ description: "Bayer Leverkusen topped the Bundesliga profit ranking for 2025, ah
 category: "Sport"
 author: "Kian Oberoi"
 date: 2026-05-29
-image: "https://images.pexels.com/photos/12783685/pexels-photo-12783685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Amateur soccer players compete on an urban field in Venezuela, showcasing teamwork and athleticism."
+image: "https://images.pexels.com/photos/20254637/pexels-photo-20254637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Soccer player in orange uniform on colorful stadium field during daytime game."
 tags: ["Bundesliga", "Bayer Leverkusen", "Bayern Munich", "Borussia Dortmund", "Football Business", "Sport Finance"]
 draft: false
-pexelsId: "12783685"
+pexelsId: "20254637"
 ---
 
 Football tables usually tell fans who scored, who slipped, and who lifted the trophy.

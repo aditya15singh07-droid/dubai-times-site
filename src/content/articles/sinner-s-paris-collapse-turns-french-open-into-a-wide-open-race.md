@@ -4,11 +4,11 @@ description: "Jannik Sinner’s illness-hit defeat to Juan Manuel Cerundolo has 
 category: "Sport"
 author: "Zoya Malhotra"
 date: 2026-05-29
-image: "https://images.pexels.com/photos/18075368/pexels-photo-18075368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Soccer players in action on a green field during an intense match in Texcoco, Mexico."
+image: "https://images.pexels.com/photos/29811412/pexels-photo-29811412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A soccer team huddles energetically before a game, showcasing unity and teamwork."
 tags: ["Jannik Sinner", "French Open", "Roland Garros", "Juan Manuel Cerundolo", "Novak Djokovic", "Carlos Alcaraz", "Tennis", "Grand Slam"]
 draft: false
-pexelsId: "18075368"
+pexelsId: "29811412"
 ---
 
 A Grand Slam can turn on one shaky service game, one heavy breath, one body suddenly saying no.

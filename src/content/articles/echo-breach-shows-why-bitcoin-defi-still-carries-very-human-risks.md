@@ -4,11 +4,11 @@ description: "Echo Protocol’s eBTC breach on Monad exposed how one compromised
 category: "Crypto"
 author: "Anika Menon"
 date: 2026-05-26
-image: "https://images.pexels.com/photos/8358138/pexels-photo-8358138.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Bitcoin coins placed on a calendar with sticky notes for investment planning."
+image: "https://images.pexels.com/photos/8358145/pexels-photo-8358145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Smartphone displaying Bitcoin price chart alongside Bitcoin and Ethereum coins on black background."
 tags: ["Echo Protocol", "Bitcoin DeFi", "eBTC", "Monad", "Crypto Security", "DeFi Risk", "Tornado Cash", "Curvance"]
 draft: false
-pexelsId: "8358138"
+pexelsId: "8358145"
 ---
 
 A crypto loss rarely begins with a dramatic market crash. Sometimes, it begins with one key in the wrong hands.

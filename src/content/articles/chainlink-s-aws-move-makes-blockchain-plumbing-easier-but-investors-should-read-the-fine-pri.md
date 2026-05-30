@@ -4,11 +4,11 @@ description: "Chainlink has listed key data services on AWS Marketplace, making 
 category: "Crypto"
 author: "Aarav Mehta"
 date: 2026-05-26
-image: "https://images.pexels.com/photos/7267602/pexels-photo-7267602.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A seamless pattern of various cryptocurrency coins in gold and silver tones."
+image: "https://images.pexels.com/photos/6772103/pexels-photo-6772103.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A laptop showing stock market graphs with a smartphone calculator, euro bills, coins, and trading strategies paper."
 tags: ["Chainlink", "AWS Marketplace", "Crypto", "Blockchain", "Tokenisation", "Stablecoins", "DeFi", "UAE Crypto", "Cloud Computing", "Digital Assets"]
 draft: false
-pexelsId: "7267602"
+pexelsId: "6772103"
 ---
 
 For most people, crypto still feels like a trading screen full of red and green candles.

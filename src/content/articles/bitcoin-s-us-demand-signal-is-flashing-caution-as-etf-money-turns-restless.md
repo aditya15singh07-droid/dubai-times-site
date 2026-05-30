@@ -4,11 +4,11 @@ description: "Bitcoin’s Coinbase premium has stayed weak through 2026, showing
 category: "Crypto"
 author: "Kabir Anand"
 date: 2026-05-30
-image: "https://images.pexels.com/photos/6771242/pexels-photo-6771242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Close-up of a laptop displaying stock market graphs with a paper on investing in cryptocurrency, indoors."
+image: "https://images.pexels.com/photos/8370349/pexels-photo-8370349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Close-up of a hand gesturing at a cryptocurrency diagram on a whiteboard, highlighting crypto concepts."
 tags: ["Bitcoin", "Crypto", "Coinbase", "Bitcoin ETF", "Digital Assets", "US Markets", "Institutional Investors", "Crypto Regulation"]
 draft: false
-pexelsId: "6771242"
+pexelsId: "8370349"
 ---
 
 Bitcoin has a way of making even cautious people feel late to the party.

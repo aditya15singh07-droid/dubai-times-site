@@ -4,11 +4,11 @@ description: "Morocco have named Achraf Hakimi and eight other players from thei
 category: "Sport"
 author: "Ishaan Vora"
 date: 2026-05-27
-image: "https://images.pexels.com/photos/30340460/pexels-photo-30340460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Dramatic capture of soccer players during a competitive match on a rainy day."
+image: "https://images.pexels.com/photos/13907458/pexels-photo-13907458.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Youth soccer players in action on a lit field at night, showcasing teamwork and energy."
 tags: ["Morocco", "Achraf Hakimi", "2026 World Cup", "Football", "Brahim Diaz", "Yassine Bounou", "Gulf Sport", "FIFA World Cup"]
 draft: false
-pexelsId: "30340460"
+pexelsId: "13907458"
 ---
 
 Achraf Hakimi will carry more than Morocco’s right flank in North America next summer. He will carry memory, pressure, and a question that now follows this team everywhere: was Qatar 2022 a miracle, or the start of a new football order?

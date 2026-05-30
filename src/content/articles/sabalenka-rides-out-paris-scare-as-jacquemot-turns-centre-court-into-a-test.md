@@ -4,11 +4,11 @@ description: "Aryna Sabalenka beat Elsa Jacquemot 7-5, 6-2 at Roland Garros, but
 category: "Sport"
 author: "Vihaan Rao"
 date: 2026-05-29
-image: "https://images.pexels.com/photos/32266313/pexels-photo-32266313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A group of young football players competing intensely during a match on a sunny day."
+image: "https://images.pexels.com/photos/3361471/pexels-photo-3361471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Energetic soccer game with players on a grassy field in India, showcasing teamwork and sportsmanship."
 tags: ["Aryna Sabalenka", "French Open", "Roland Garros", "Elsa Jacquemot", "Tennis", "Grand Slam", "Daria Kasatkina", "Sport"]
 draft: false
-pexelsId: "32266313"
+pexelsId: "3361471"
 ---
 
 For nearly an hour in Paris, Aryna Sabalenka looked less like a top seed and more like a champion being questioned in public.

@@ -4,11 +4,11 @@ description: "Scorching Paris heat has made the French Open courts quicker, forc
 category: "Sport"
 author: "Zoya Malhotra"
 date: 2026-05-28
-image: "https://images.pexels.com/photos/32266319/pexels-photo-32266319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Energetic soccer match with young athletes in action on a bright and sunny day outdoors."
+image: "https://images.pexels.com/photos/17955127/pexels-photo-17955127.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Players in action during a soccer match on a sunny day, highlighting teamwork and sportsmanship."
 tags: ["French Open", "Roland Garros", "Iga Swiatek", "Elina Svitolina", "Belinda Bencic", "Tennis", "Sport", "Paris"]
 draft: false
-pexelsId: "32266319"
+pexelsId: "17955127"
 ---
 
 Some tennis matches are won with a forehand. Some are won with patience. This week in Paris, a few may be won with ice towels, clever footwork and the ability to think clearly when the court feels like a frying pan.

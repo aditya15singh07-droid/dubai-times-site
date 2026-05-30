@@ -4,11 +4,11 @@ description: "Scotland coach Steve Clarke has signed a new four-year deal throug
 category: "Sport"
 author: "Ishaan Vora"
 date: 2026-05-29
-image: "https://images.pexels.com/photos/32266318/pexels-photo-32266318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Two soccer players fiercely competing on a sunny field during an exciting match."
+image: "https://images.pexels.com/photos/12917757/pexels-photo-12917757.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Action-packed soccer game with players in motion on a sunlit field, showcasing competitive spirit."
 tags: ["Scotland football", "Steve Clarke", "2026 World Cup", "2030 World Cup", "Euro 2028", "football", "sport"]
 draft: false
-pexelsId: "32266318"
+pexelsId: "12917757"
 ---
 
 For Scotland fans, this is not just a contract extension. It is a vote for continuity before a nervous, emotional return to the World Cup.

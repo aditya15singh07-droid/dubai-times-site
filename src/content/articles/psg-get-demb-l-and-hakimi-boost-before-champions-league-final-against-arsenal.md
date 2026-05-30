@@ -4,11 +4,11 @@ description: "Ousmane Dembélé and Achraf Hakimi are fit for PSG’s Champions 
 category: "Sport"
 author: "Reyansh Suri"
 date: 2026-05-30
-image: "https://images.pexels.com/photos/32108866/pexels-photo-32108866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Players in blue and red compete intensely on a football field in France, capturing the spirit of the game."
+image: "https://images.pexels.com/photos/32266313/pexels-photo-32266313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A group of young football players competing intensely during a match on a sunny day."
 tags: ["PSG", "Arsenal", "Champions League", "Ousmane Dembélé", "Achraf Hakimi", "Luis Enrique", "Football", "Sport"]
 draft: false
-pexelsId: "32108866"
+pexelsId: "32266313"
 ---
 
 For Paris Saint-Germain, this was the kind of fitness update that can change a dressing room.

@@ -6,11 +6,11 @@ author: "Reyan Shah"
 date: 2026-05-23
 publishedTime: "18:00 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/15365058/pexels-photo-15365058.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Men playing a lively soccer match on a village field under the sun. Vibrant outdoor scene."
+image: "https://images.pexels.com/photos/30726604/pexels-photo-30726604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Soccer players in blue uniforms practicing on a green field focus on soccer ball in foreground."
 tags: ["Sport","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "15365058"
+pexelsId: "30726604"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why middle east flight updates turkish airlines and cebu deserves a closer read across the Middle East today.
 

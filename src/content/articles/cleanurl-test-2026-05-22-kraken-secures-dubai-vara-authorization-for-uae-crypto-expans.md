@@ -6,11 +6,11 @@ author: "Mira Sethi"
 date: 2026-05-22
 publishedTime: "21:04 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/8370332/pexels-photo-8370332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Hand writing cryptocurrency concepts on whiteboard in business meeting."
+image: "https://images.pexels.com/photos/5980748/pexels-photo-5980748.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Gold bitcoins placed on laptop keyboards with digital financial graphs in the background."
 tags: ["Crypto", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "8370332"
+pexelsId: "5980748"
 ---
 
 Crypto headlines often sound like a world of charts and jargon. The real story begins when ordinary investors ask whether the system is safer, clearer and useful.

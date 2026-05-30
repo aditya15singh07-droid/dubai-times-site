@@ -4,11 +4,11 @@ description: "Bitcoin is hovering near $75,000 as traders watch a possible golde
 category: "Crypto"
 author: "Kabir Anand"
 date: 2026-05-28
-image: "https://images.pexels.com/photos/6771613/pexels-photo-6771613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Close-up of Bitcoin coins on investment document promoting cryptocurrencies."
+image: "https://images.pexels.com/photos/8358138/pexels-photo-8358138.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Bitcoin coins placed on a calendar with sticky notes for investment planning."
 tags: ["Bitcoin", "Crypto", "Ether", "Zcash", "UAE Crypto", "Digital Assets", "Markets", "Indian Investors"]
 draft: false
-pexelsId: "6771613"
+pexelsId: "8358138"
 ---
 
 Bitcoin is giving traders a signal many usually like. Yet the mood feels anything but relaxed.
