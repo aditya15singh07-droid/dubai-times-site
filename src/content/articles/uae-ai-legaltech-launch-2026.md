@@ -5,11 +5,11 @@ category: "Business"
 author: "Armaan Gill"
 date: 2026-05-06
 watchLine: "Watch whether lawyers and SME clients actually adopt the platform and whether trust in its jurisdiction-specific AI proves durable."
-image: "https://images.pexels.com/photos/5668523/pexels-photo-5668523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Concentrated coworkers gathering at table with gadgets and documents during meeting and discussing details of business project"
+image: "https://images.pexels.com/photos/11045738/pexels-photo-11045738.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "People in formal attire engaging in a collaborative business meeting."
 tags: ["Business", "Dubai Time"]
 draft: false
-pexelsId: "5668523"
+pexelsId: "11045738"
 ---
 
 The easy phase of artificial intelligence is over. Anyone can build a chatbot demo. The harder phase begins when AI enters fields that are multilingual, expensive, regulated and full of edge cases. Law is one of those fields. That is why the launch of Legaline in the UAE is worth noticing. The company says it is the country's first full-cycle AI-native legaltech platform. Whether or not that claim becomes decisive, the underlying signal is clear: AI products in the UAE are now pushing into serious operational work, not just shiny prototypes.

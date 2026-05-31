@@ -4,11 +4,11 @@ description: "Brazilian teenager Joao Fonseca came from two sets down to beat No
 category: "Sport"
 author: "Kian Oberoi"
 date: 2026-05-30
-image: "https://images.pexels.com/photos/10031866/pexels-photo-10031866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Youth soccer player in green jersey on football field during match."
+image: "https://images.pexels.com/photos/12783685/pexels-photo-12783685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Amateur soccer players compete on an urban field in Venezuela, showcasing teamwork and athleticism."
 tags: ["French Open", "Novak Djokovic", "Joao Fonseca", "Roland Garros", "Tennis", "Grand Slam", "Sport"]
 draft: false
-pexelsId: "10031866"
+pexelsId: "12783685"
 ---
 
 Some tennis defeats feel like results. This one felt like a generational alarm bell.

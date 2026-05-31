@@ -6,9 +6,9 @@ author: "Naina Batra"
 date: 2026-05-21
 publishedTime: "13:20 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/20254640/pexels-photo-20254640.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A soccer team with officials posing on a field during daytime at a stadium."
-pexelsId: "20254640"
+image: "https://images.pexels.com/photos/18811651/pexels-photo-18811651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Players in action during a competitive soccer match wearing distinct team jerseys."
+pexelsId: "18811651"
 tags: ["Sport", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

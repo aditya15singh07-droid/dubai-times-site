@@ -6,11 +6,11 @@ author: "Reyan Shah"
 date: 2026-05-23
 publishedTime: "16:20 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/7888760/pexels-photo-7888760.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Engaged office team in business discussion around a laptop, fostering collaboration."
+image: "https://images.pexels.com/photos/7876197/pexels-photo-7876197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Professional discussion among lawyers in a modern office, focusing on legal matters."
 tags: ["Business","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "7888760"
+pexelsId: "7876197"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why free ice cream and fun venpick gives uae deserves a closer read across the Middle East today.
 

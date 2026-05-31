@@ -6,9 +6,9 @@ author: "Kabir Anand"
 date: 2026-05-21
 publishedTime: "14:21 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://images.pexels.com/photos/7964536/pexels-photo-7964536.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Two professionals engaged in a productive meeting in a modern office environment, smiling and working together."
-pexelsId: "7964536"
+image: "https://images.pexels.com/photos/11045731/pexels-photo-11045731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Corporate professionals in a formal meeting environment, focused on teamwork and collaboration."
+pexelsId: "11045731"
 tags: ["Business", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---

@@ -6,9 +6,9 @@ author: "Kabir Anand"
 date: 2026-05-21
 publishedTime: "13:44 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/11045731/pexels-photo-11045731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Corporate professionals in a formal meeting environment, focused on teamwork and collaboration."
-pexelsId: "11045731"
+image: "https://images.pexels.com/photos/7652049/pexels-photo-7652049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Diverse office team engaged in a collaborative meeting discussing business strategies."
+pexelsId: "7652049"
 tags: ["Business", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

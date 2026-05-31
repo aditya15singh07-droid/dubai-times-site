@@ -5,11 +5,11 @@ category: "Business"
 author: "Kabir Anand"
 date: 2026-05-18
 watchLine: "Watch which ICP services become genuinely faster and whether automation stays transparent in identity, customs and border processes."
-image: "https://images.pexels.com/photos/5668513/pexels-photo-5668513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "High angle of crop faceless coworkers in formal clothes sitting at wooden table with cups of coffee and documents while working together"
+image: "https://images.pexels.com/photos/5673478/pexels-photo-5673478.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Group of cheerful diverse colleagues discussing court decision at table with notepad and cup"
 tags: ["Business", "Dubai Time"]
 draft: false
-pexelsId: "5668513"
+pexelsId: "5673478"
 ---
 
 Government technology announcements usually promise efficiency.

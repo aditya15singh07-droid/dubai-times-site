@@ -4,11 +4,11 @@ description: "Victor Wembanyama’s NBA playoff run has spilled into Roland Garr
 category: "Sport"
 author: "Vihaan Rao"
 date: 2026-05-31
-image: "https://images.pexels.com/photos/32266257/pexels-photo-32266257.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Dynamic shot of female soccer players in action during a match on a sunny day."
+image: "https://images.pexels.com/photos/27394486/pexels-photo-27394486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Amateur soccer players in yellow uniforms and referee on the field after a match."
 tags: ["Victor Wembanyama", "Roland Garros", "NBA", "San Antonio Spurs", "French Open", "Frances Tiafoe", "Ben Shelton", "Paris Sport"]
 draft: false
-pexelsId: "32266257"
+pexelsId: "27394486"
 ---
 
 Paris can usually handle a big sporting weekend. This one feels different.

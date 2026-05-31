@@ -6,11 +6,11 @@ author: "Kabir Sethi"
 date: 2026-05-23
 publishedTime: "12:48 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/12616082/pexels-photo-12616082.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Soccer player in yellow jersey kicking a ball on a green pitch during night match under lights."
+image: "https://images.pexels.com/photos/14054552/pexels-photo-14054552.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Casual soccer game on an outdoor field in İstanbul, Türkiye, showcasing teamwork and sportsmanship."
 tags: ["Sport","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "12616082"
+pexelsId: "14054552"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why qatar to meet uae bahrain and yemen deserves a closer read across the Middle East today.
 

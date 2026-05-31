@@ -5,11 +5,11 @@ category: "Sport"
 author: "Armaan Gill"
 date: 2026-05-17
 watchLine: "Watch how many resident tasks become connected across identity, payment, transport, property and public-service platforms."
-image: "https://images.pexels.com/photos/12313948/pexels-photo-12313948.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Exciting soccer match with athletes competing on a sunny field, showcasing action-packed gameplay."
+image: "https://images.pexels.com/photos/16508986/pexels-photo-16508986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Two soccer players in action during an outdoor game on a grassy field."
 tags: ["Sport", "Dubai Time"]
 draft: false
-pexelsId: "12313948"
+pexelsId: "16508986"
 ---
 
 The best city technology is the kind you stop noticing.

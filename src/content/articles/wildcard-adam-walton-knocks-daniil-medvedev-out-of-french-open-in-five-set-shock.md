@@ -4,11 +4,11 @@ description: "Australian wildcard Adam Walton stunned sixth seed Daniil Medvedev
 category: "Sport"
 author: "Vihaan Rao"
 date: 2026-05-27
-image: "https://images.pexels.com/photos/16508993/pexels-photo-16508993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Soccer players engaged in a competitive outdoor match, displaying teamwork and athleticism."
+image: "https://images.pexels.com/photos/18075657/pexels-photo-18075657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Group of soccer players entering the field at Deportes Bravos stadium, Texcoco, Mexico."
 tags: ["French Open", "Daniil Medvedev", "Adam Walton", "Tennis", "Roland Garros", "Sport"]
 draft: false
-pexelsId: "16508993"
+pexelsId: "18075657"
 ---
 
 Some tennis upsets announce themselves early. Others keep changing shape until the last ball drops.

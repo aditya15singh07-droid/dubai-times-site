@@ -4,11 +4,11 @@ description: "New UAE salary protection rules remove the old 15-day cushion for 
 category: "Business"
 author: "Anika Menon"
 date: 2026-05-30
-image: "https://images.pexels.com/photos/7693692/pexels-photo-7693692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Business professionals engaging in a collaborative meeting with charts and documents."
+image: "https://images.pexels.com/photos/6950031/pexels-photo-6950031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Diverse business professionals discussing strategy during a modern board meeting."
 tags: ["UAE salary rules", "Dubai jobs", "Indian workers in UAE", "MoHRE", "Wages Protection System", "Gulf business"]
 draft: false
-pexelsId: "7693692"
+pexelsId: "6950031"
 ---
 
 A late salary can disturb an entire household.

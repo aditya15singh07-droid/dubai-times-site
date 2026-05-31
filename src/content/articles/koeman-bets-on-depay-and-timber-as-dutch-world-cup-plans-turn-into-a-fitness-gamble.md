@@ -4,11 +4,11 @@ description: "Netherlands coach Ronald Koeman has picked Memphis Depay and Jurri
 category: "Sport"
 author: "Reyansh Suri"
 date: 2026-05-28
-image: "https://images.pexels.com/photos/32109086/pexels-photo-32109086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Dynamic football match action captured in France with players in red and blue jerseys."
+image: "https://images.pexels.com/photos/13241581/pexels-photo-13241581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Dynamic soccer match showcasing skillful plays on a sunny day in Mendoza, Argentina."
 tags: ["Netherlands football", "2026 FIFA World Cup", "Memphis Depay", "Jurrien Timber", "Ronald Koeman", "Football", "Sport"]
 draft: false
-pexelsId: "32109086"
+pexelsId: "13241581"
 ---
 
 Sometimes a World Cup squad tells you more about fear than confidence.

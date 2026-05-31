@@ -6,11 +6,11 @@ author: "Ishaan Vora"
 date: 2026-05-18
 publishedTime: "12:38 GST"
 watchLine: "Watch whether AI improves response time, service continuity and everyday reliability across Dubai's transport network."
-image: "https://images.pexels.com/photos/32108795/pexels-photo-32108795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Players engaging in dynamic football action on a green field in France."
+image: "https://images.pexels.com/photos/16355131/pexels-photo-16355131.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Action shot of soccer players engaged in a competitive match outdoors, showcasing intensity and sportsmanship."
 tags: ["Sport", "Dubai Time"]
 draft: false
-pexelsId: "32108795"
+pexelsId: "16355131"
 ---
 
 The smartest part of a city is often the part nobody sees.

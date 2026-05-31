@@ -4,11 +4,11 @@ description: "Iran expects FIFA to help secure multiple-entry US visas for Team 
 category: "Sport"
 author: "Reyansh Suri"
 date: 2026-05-29
-image: "https://images.pexels.com/photos/13907448/pexels-photo-13907448.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Energetic night soccer match featuring teams in action on a vividly lit field."
+image: "https://images.pexels.com/photos/20254637/pexels-photo-20254637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Soccer player in orange uniform on colorful stadium field during daytime game."
 tags: ["Iran football", "2026 World Cup", "FIFA", "US visas", "Team Melli", "Sardar Azmoun", "Mexico", "Middle East sport"]
 draft: false
-pexelsId: "13907448"
+pexelsId: "20254637"
 ---
 
 For most World Cup teams, the first battle is tactical. For Iran, it may begin at immigration.

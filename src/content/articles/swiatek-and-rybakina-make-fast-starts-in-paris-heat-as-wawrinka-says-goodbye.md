@@ -4,11 +4,11 @@ description: "Iga Swiatek and Elena Rybakina opened their French Open campaigns 
 category: "Sport"
 author: "Kian Oberoi"
 date: 2026-05-26
-image: "https://images.pexels.com/photos/16588256/pexels-photo-16588256.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Exciting soccer game capturing players in action on a sunny day."
+image: "https://images.pexels.com/photos/12239381/pexels-photo-12239381.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Back view of a football player wearing number 10 on a sunny day."
 tags: ["French Open", "Iga Swiatek", "Elena Rybakina", "Roland Garros", "Stan Wawrinka", "Tennis", "Paris", "Grand Slam"]
 draft: false
-pexelsId: "16588256"
+pexelsId: "12239381"
 ---
 
 Some opening rounds are about survival. This one was about saving energy.

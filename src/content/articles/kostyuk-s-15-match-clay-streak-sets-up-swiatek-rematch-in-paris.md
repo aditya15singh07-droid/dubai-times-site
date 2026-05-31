@@ -4,11 +4,11 @@ description: "Marta Kostyuk beat Viktorija Golubic to reach the French Open four
 category: "Sport"
 author: "Naina Batra"
 date: 2026-05-30
-image: "https://images.pexels.com/photos/14353976/pexels-photo-14353976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A soccer player in yellow uniform kicks a ball during a game on a green outdoor field."
+image: "https://images.pexels.com/photos/9405210/pexels-photo-9405210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A soccer player takes a decisive penalty kick aiming to score against the goalkeeper."
 tags: ["French Open", "Marta Kostyuk", "Iga Swiatek", "Tennis", "Roland Garros", "Sport"]
 draft: false
-pexelsId: "14353976"
+pexelsId: "9405210"
 ---
 
 Marta Kostyuk is no longer just arriving at big tournaments with promise. She is arriving with proof.

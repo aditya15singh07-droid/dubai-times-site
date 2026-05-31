@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-23
 publishedTime: "18:04 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/17955593/pexels-photo-17955593.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Adult male soccer player kicking a ball during training on a sunny day."
+image: "https://images.pexels.com/photos/30726604/pexels-photo-30726604.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Soccer players in blue uniforms practicing on a green field focus on soccer ball in foreground."
 tags: ["Sport","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "17955593"
+pexelsId: "30726604"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the region trade opening deserves a closer read across the Middle East today.
 

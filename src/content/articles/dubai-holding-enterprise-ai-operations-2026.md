@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-23
 publishedTime: "02:25 GST"
 watchLine: "Watch whether Dubai Holding publishes measurable gains in workflows, staff productivity and service delivery after the rollout."
-image: "https://images.pexels.com/photos/32441078/pexels-photo-32441078.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Two colleagues engaged in a business conversation indoors with a window view."
+image: "https://images.pexels.com/photos/4342124/pexels-photo-4342124.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Professional team engaged in a business meeting discussing strategy in a modern office environment."
 tags: ["Business", "Dubai", "Artificial Intelligence", "Microsoft", "Technology"]
 draft: false
-pexelsId: "32441078"
+pexelsId: "4342124"
 ---
 
 The most interesting AI stories are no longer about chatbots on stage.

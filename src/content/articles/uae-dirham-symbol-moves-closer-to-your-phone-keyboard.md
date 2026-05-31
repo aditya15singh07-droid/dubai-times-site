@@ -4,11 +4,11 @@ description: "The UAE dirham symbol has entered Unicode 18.0 beta review, bringi
 category: "Business"
 author: "Anika Menon"
 date: 2026-05-29
-image: "https://images.pexels.com/photos/9068367/pexels-photo-9068367.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Business office with diverse employees in gray suits working at desks in an indoor setting."
+image: "https://images.pexels.com/photos/6814521/pexels-photo-6814521.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Professional setting of a business meeting with individuals signing documents on a conference table."
 tags: ["UAE dirham", "Unicode", "UAE Central Bank", "digital payments", "Gulf currencies", "business", "technology"]
 draft: false
-pexelsId: "9068367"
+pexelsId: "6814521"
 ---
 
 A small symbol on a keyboard can say a lot about a country’s confidence.

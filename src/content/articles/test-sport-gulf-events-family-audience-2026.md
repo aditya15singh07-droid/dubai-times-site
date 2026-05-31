@@ -6,11 +6,11 @@ author: "Naina Batra"
 date: 2026-05-20
 publishedTime: "15:35 GST"
 watchLine: "Watch ticket prices, family access and whether events create repeat local audiences."
-image: "https://images.pexels.com/photos/18811651/pexels-photo-18811651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Players in action during a competitive soccer match wearing distinct team jerseys."
+image: "https://images.pexels.com/photos/32108795/pexels-photo-32108795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Players engaging in dynamic football action on a green field in France."
 tags: ["Sport", "Dubai Time"]
 draft: false
-pexelsId: "18811651"
+pexelsId: "32108795"
 ---
 
 Sport works best when it becomes a habit, not only a one-night show.
