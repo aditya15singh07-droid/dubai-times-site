@@ -5,11 +5,11 @@ category: "Sport"
 author: "Myra D Souza"
 date: 2026-05-18
 watchLine: "Watch whether RTA rolls the model out quickly and whether bus-to-metro transfers become visibly smoother for daily riders."
-image: "https://images.pexels.com/photos/12313948/pexels-photo-12313948.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Exciting soccer match with athletes competing on a sunny field, showcasing action-packed gameplay."
+image: "https://images.pexels.com/photos/8740420/pexels-photo-8740420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A group of young athletes training on a soccer field, displaying teamwork and skill."
 tags: ["Sport", "Dubai Time"]
 draft: false
-pexelsId: "12313948"
+pexelsId: "8740420"
 ---
 
 Anyone who depends on buses knows the worst part is not always the ride.

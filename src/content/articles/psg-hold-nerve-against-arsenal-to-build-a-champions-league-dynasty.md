@@ -4,11 +4,11 @@ description: "Paris Saint-Germain beat Arsenal 4-3 on penalties after a 1-1 Cham
 category: "Sport"
 author: "Naina Batra"
 date: 2026-05-31
-image: "https://images.pexels.com/photos/16651538/pexels-photo-16651538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Footballers in action during a lively soccer match on a sunny day. Perfect for sports imagery."
+image: "https://images.pexels.com/photos/32266313/pexels-photo-32266313.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A group of young football players competing intensely during a match on a sunny day."
 tags: ["PSG", "Arsenal", "Champions League", "Football", "UEFA", "Ousmane Dembele", "Mikel Arteta", "Luis Enrique", "Gulf Sport"]
 draft: false
-pexelsId: "16651538"
+pexelsId: "32266313"
 ---
 
 Some defeats hurt because a team was never close. Arsenal’s will sting because they were close enough to touch history.

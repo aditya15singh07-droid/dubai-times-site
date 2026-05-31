@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-22
 publishedTime: "12:16 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/20532119/pexels-photo-20532119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Captivating live concert scene with crowd and bright stage lights at night."
+image: "https://images.pexels.com/photos/29707290/pexels-photo-29707290.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Dynamic black and white image capturing a lively crowd at a Glastonbury music festival."
 tags: ["Entertainment", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "20532119"
+pexelsId: "29707290"
 ---
 
 Entertainment news now carries a harder question. Can a live show or cultural event still pull people away from their phones and sofas?

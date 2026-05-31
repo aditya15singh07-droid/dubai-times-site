@@ -6,11 +6,11 @@ author: "Arjun Malhotra"
 date: 2026-05-23
 publishedTime: "13:12 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/36675302/pexels-photo-36675302.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A dynamic concert scene with a large crowd enjoying vibrant stage lighting and a lively atmosphere."
+image: "https://images.pexels.com/photos/30497160/pexels-photo-30497160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Energetic crowd enjoying a live concert under bright stage lights in Guwahati, India."
 tags: ["Entertainment","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "36675302"
+pexelsId: "30497160"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why saudi youth couldn date openly a decade ago deserves a closer read across the Middle East today.
 

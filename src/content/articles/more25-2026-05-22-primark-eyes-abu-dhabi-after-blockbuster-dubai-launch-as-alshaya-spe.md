@@ -6,11 +6,11 @@ author: "Naina Batra"
 date: 2026-05-22
 publishedTime: "18:40 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/9519503/pexels-photo-9519503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Women having an outdoor soccer game on a grassy field surrounded by trees."
+image: "https://images.pexels.com/photos/28887311/pexels-photo-28887311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Youth soccer match on a sunny day, players engaged in action on green grass field."
 tags: ["Sport", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "9519503"
+pexelsId: "28887311"
 ---
 
 Sport in the UAE is no longer only about the scoreboard. It is also about families, tourism, sponsors and the next generation of fans.

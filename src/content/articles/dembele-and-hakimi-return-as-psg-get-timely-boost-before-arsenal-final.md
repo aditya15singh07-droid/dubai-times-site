@@ -4,11 +4,11 @@ description: "Ousmane Dembele and Achraf Hakimi are back in full PSG training be
 category: "Sport"
 author: "Naina Batra"
 date: 2026-05-27
-image: "https://images.pexels.com/photos/15365075/pexels-photo-15365075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Intense soccer game in Mina, Mendoza, Argentina showcasing teamwork and action on a sunny day."
+image: "https://images.pexels.com/photos/14030575/pexels-photo-14030575.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Competitive soccer match with players in action at an outdoor football field."
 tags: ["PSG", "Arsenal", "Champions League", "Ousmane Dembele", "Achraf Hakimi", "Football", "Sport"]
 draft: false
-pexelsId: "15365075"
+pexelsId: "14030575"
 ---
 
 Sometimes, a training-ground photo can calm an entire football club.

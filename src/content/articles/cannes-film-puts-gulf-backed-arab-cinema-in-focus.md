@@ -4,11 +4,11 @@ description: "The Cannes-screened film Yesterday the Eye Didn’t Sleep draws at
 category: "Entertainment"
 author: "Devika Shah"
 date: 2026-05-27
-image: "https://images.pexels.com/photos/32399568/pexels-photo-32399568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A lively concert scene with a crowd of people enjoying the music at night."
+image: "https://images.pexels.com/photos/36606989/pexels-photo-36606989.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Vibrant scene of a lively crowd celebrating with red flares at night."
 tags: ["Cannes Film Festival", "Arab Cinema", "Gulf Entertainment", "Red Sea Film Fund", "Doha Film Institute", "Lebanon", "Cinema"]
 draft: false
-pexelsId: "32399568"
+pexelsId: "36606989"
 ---
 
 Some films do not shout for attention. They sit beside you, quietly, until the room feels different.

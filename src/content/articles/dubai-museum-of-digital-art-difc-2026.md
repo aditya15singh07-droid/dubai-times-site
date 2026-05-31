@@ -6,11 +6,11 @@ author: "Kian Oberoi"
 date: 2026-05-17
 publishedTime: "13:10 GST"
 watchLine: "Track MODA's first programming calendar, artist partnerships, education activity and repeat-visit appeal."
-image: "https://images.pexels.com/photos/11963121/pexels-photo-11963121.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Silhouette of an energetic crowd enjoying a live concert with a performer on stage."
+image: "https://images.pexels.com/photos/12265693/pexels-photo-12265693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Energetic live music performance with crowd cheering under dramatic lighting."
 tags: ["Entertainment", "Dubai Time"]
 draft: false
-pexelsId: "11963121"
+pexelsId: "12265693"
 ---
 
 A museum in DIFC is never only about art.

@@ -4,11 +4,11 @@ description: "Mohamed Salah’s emotional farewell at Anfield ended with an assi
 category: "Sport"
 author: "Reyansh Suri"
 date: 2026-05-26
-image: "https://images.pexels.com/photos/32424868/pexels-photo-32424868.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Amateur soccer game with enthusiastic crowd in urban setting, showcasing lively competition."
+image: "https://images.pexels.com/photos/9535728/pexels-photo-9535728.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Soccer players in action during a competitive match on a sunny day outdoors."
 tags: ["Mohamed Salah", "Liverpool", "Premier League", "Anfield", "Football", "Champions League", "Egypt", "Arne Slot", "Jurgen Klopp", "Brentford"]
 draft: false
-pexelsId: "32424868"
+pexelsId: "9535728"
 ---
 
 Some football goodbyes arrive quietly. Mohamed Salah’s did not.

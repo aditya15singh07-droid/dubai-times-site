@@ -6,11 +6,11 @@ author: "Ishaan Roy"
 date: 2026-05-23
 publishedTime: "12:08 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/22604116/pexels-photo-22604116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Lively audience with raised arms and cheerful expressions at an outdoor music concert at night."
+image: "https://images.pexels.com/photos/36257830/pexels-photo-36257830.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Lively concert crowd against a dazzling stage with fire effects, capturing the energy of live music."
 tags: ["Entertainment","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "22604116"
+pexelsId: "36257830"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why art dubai 20th anniversary special edition closes deserves a closer read across the Middle East today.
 

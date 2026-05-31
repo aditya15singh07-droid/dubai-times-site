@@ -4,10 +4,11 @@ description: "AFAC and Netflix have opened applications for the third Women in F
 category: "Entertainment"
 author: "Aarav Mehta"
 date: 2026-05-31
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Arab Women Filmmakers Get A Practical Push As Netflix And AFAC Open New Training Call"
+image: "https://images.pexels.com/photos/32399568/pexels-photo-32399568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A lively concert scene with a crowd of people enjoying the music at night."
 tags: ["Women in Film", "Netflix", "AFAC", "Arab Cinema", "UAE", "Saudi Arabia", "Entertainment", "Filmmaking"]
 draft: false
+pexelsId: "32399568"
 ---
 
 A good film career rarely begins on a red carpet. More often, it starts in a room where someone learns how to turn a fragile idea into a working script, a shoot plan, a budget, a team and finally, a finished film.

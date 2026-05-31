@@ -6,11 +6,11 @@ author: "Arjun Malhotra"
 date: 2026-05-23
 publishedTime: "17:56 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/28829496/pexels-photo-28829496.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A thrilling football game captured in a large, modern stadium at night."
+image: "https://images.pexels.com/photos/17779075/pexels-photo-17779075.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Aerial view of a football match in a sunlit stadium in Manchester."
 tags: ["Sport","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "28829496"
+pexelsId: "17779075"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why uk strikes 3 7bn trade deal with six deserves a closer read across the Middle East today.
 

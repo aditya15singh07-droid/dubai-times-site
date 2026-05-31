@@ -4,11 +4,11 @@ description: "Portugal coach Roberto Martinez says no one should doubt Cristiano
 category: "Sport"
 author: "Anika Menon"
 date: 2026-05-30
-image: "https://images.pexels.com/photos/32266318/pexels-photo-32266318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Two soccer players fiercely competing on a sunny field during an exciting match."
+image: "https://images.pexels.com/photos/9544750/pexels-photo-9544750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Two soccer players and a goalie in action during an outdoor match at sunset."
 tags: ["Cristiano Ronaldo", "Portugal", "World Cup 2030", "World Cup 2026", "Football", "Roberto Martinez", "Lionel Messi", "Gulf Sport"]
 draft: false
-pexelsId: "32266318"
+pexelsId: "9544750"
 ---
 
 Some athletes retire slowly. Cristiano Ronaldo seems to keep turning age into another opponent to beat.

@@ -6,9 +6,9 @@ author: "Naina Batra"
 date: 2026-05-21
 publishedTime: "13:26 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/30726650/pexels-photo-30726650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Soccer players forming a wall for a free kick during a match on a grassy field."
-pexelsId: "30726650"
+image: "https://images.pexels.com/photos/12313948/pexels-photo-12313948.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Exciting soccer match with athletes competing on a sunny field, showcasing action-packed gameplay."
+pexelsId: "12313948"
 tags: ["Sport", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

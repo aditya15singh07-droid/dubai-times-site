@@ -4,11 +4,11 @@ description: "Fans heading to the 2026 World Cup in the United States are facing
 category: "Sport"
 author: "Tara Khanna"
 date: 2026-05-28
-image: "https://images.pexels.com/photos/15365055/pexels-photo-15365055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A lively amateur football game with players in action and an engaged crowd watching on a sunny day."
+image: "https://images.pexels.com/photos/34049621/pexels-photo-34049621.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Dynamic soccer game capturing two young players in action on a grassy field surrounded by spectators."
 tags: ["2026 World Cup", "Football", "US Travel", "Sports Business", "Fan Travel", "FIFA", "Public Transport"]
 draft: false
-pexelsId: "15365055"
+pexelsId: "34049621"
 ---
 
 The ticket was supposed to be the hard part. For many World Cup fans, it now looks like the journey to the stadium may bring its own shock.

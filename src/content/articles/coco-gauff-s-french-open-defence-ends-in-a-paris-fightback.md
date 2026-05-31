@@ -4,11 +4,11 @@ description: "Defending champion Coco Gauff exited Roland Garros after Anastasia
 category: "Sport"
 author: "Tara Khanna"
 date: 2026-05-31
-image: "https://images.pexels.com/photos/29920213/pexels-photo-29920213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Action shot of soccer players competing on a lush green field outdoors."
+image: "https://images.pexels.com/photos/18799030/pexels-photo-18799030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A dynamic moment captured in a soccer match with players showcasing skills on a vibrant green field."
 tags: ["French Open", "Coco Gauff", "Anastasia Potapova", "Roland Garros", "Tennis", "Sport"]
 draft: false
-pexelsId: "29920213"
+pexelsId: "18799030"
 ---
 
 A defending champion does not usually leave quietly. Coco Gauff certainly did not.

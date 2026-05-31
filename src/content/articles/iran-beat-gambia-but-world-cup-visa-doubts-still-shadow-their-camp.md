@@ -4,11 +4,11 @@ description: "Iran came from behind to beat Gambia 3-1 in Antalya, but their Wor
 category: "Sport"
 author: "Naina Batra"
 date: 2026-05-31
-image: "https://images.pexels.com/photos/20254633/pexels-photo-20254633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Energetic football match with players in orange and white, vibrant stadium backdrop."
+image: "https://images.pexels.com/photos/14353976/pexels-photo-14353976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A soccer player in yellow uniform kicks a ball during a game on a green outdoor field."
 tags: ["Iran football", "2026 World Cup", "FIFA", "Gambia", "Tijuana", "US visas", "Middle East sport", "World Cup warm-up"]
 draft: false
-pexelsId: "20254633"
+pexelsId: "14353976"
 ---
 
 For footballers, a World Cup build-up should be about sharp passes, hard running, and quiet confidence. For Iran, it has become a travel puzzle with diplomatic weight.

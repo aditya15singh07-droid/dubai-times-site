@@ -4,11 +4,11 @@ description: "Sweden defender Emil Holm will miss the World Cup with a muscle in
 category: "Sport"
 author: "Kabir Anand"
 date: 2026-05-31
-image: "https://images.pexels.com/photos/32266316/pexels-photo-32266316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Captured intense moment during a soccer match under clear skies."
+image: "https://images.pexels.com/photos/10031866/pexels-photo-10031866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Youth soccer player in green jersey on football field during match."
 tags: ["Sweden Football", "Emil Holm", "Herman Johansson", "World Cup 2026", "Graham Potter", "Football", "Sport"]
 draft: false
-pexelsId: "32266316"
+pexelsId: "10031866"
 ---
 
 A World Cup dream can take years to build and one bad muscle injury to break.

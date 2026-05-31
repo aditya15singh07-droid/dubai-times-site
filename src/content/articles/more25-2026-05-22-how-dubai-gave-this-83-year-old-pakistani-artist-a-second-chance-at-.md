@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-22
 publishedTime: "18:52 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/19943363/pexels-photo-19943363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Energetic crowd at a live music concert with vibrant lighting and clapping hands."
+image: "https://images.pexels.com/photos/20532119/pexels-photo-20532119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Captivating live concert scene with crowd and bright stage lights at night."
 tags: ["Entertainment", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "19943363"
+pexelsId: "20532119"
 ---
 
 Entertainment news now carries a harder question. Can a live show or cultural event still pull people away from their phones and sofas?

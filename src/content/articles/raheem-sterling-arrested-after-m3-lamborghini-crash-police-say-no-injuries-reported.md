@@ -4,11 +4,11 @@ description: "Former England winger Raheem Sterling has been arrested on suspici
 category: "Sport"
 author: "Samaira Qureshi"
 date: 2026-05-31
-image: "https://images.pexels.com/photos/18799030/pexels-photo-18799030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A dynamic moment captured in a soccer match with players showcasing skills on a vibrant green field."
+image: "https://images.pexels.com/photos/18075368/pexels-photo-18075368.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Soccer players in action on a green field during an intense match in Texcoco, Mexico."
 tags: ["Raheem Sterling", "Football", "England Football", "Premier League", "Feyenoord", "Sport", "UK Police"]
 draft: false
-pexelsId: "18799030"
+pexelsId: "18075368"
 ---
 
 A football career can look glittering from the outside, until one morning changes the conversation completely.

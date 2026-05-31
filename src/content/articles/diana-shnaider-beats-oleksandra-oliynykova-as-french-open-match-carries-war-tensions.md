@@ -4,11 +4,11 @@ description: "Russian player Diana Shnaider reached the French Open fourth round
 category: "Sport"
 author: "Tara Khanna"
 date: 2026-05-31
-image: "https://images.pexels.com/photos/30726626/pexels-photo-30726626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Amateur soccer team in red uniforms gathering on a green field during daytime."
+image: "https://images.pexels.com/photos/32266257/pexels-photo-32266257.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Dynamic shot of female soccer players in action during a match on a sunny day."
 tags: ["French Open", "Diana Shnaider", "Oleksandra Oliynykova", "Tennis", "Roland Garros", "Ukraine", "Russia", "Sport"]
 draft: false
-pexelsId: "30726626"
+pexelsId: "32266257"
 ---
 
 Some tennis matches end with a scoreboard. This one ended with a silence that said plenty.

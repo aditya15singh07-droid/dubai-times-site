@@ -4,11 +4,11 @@ description: "Crystal Palace and Rayo Vallecano meet in Leipzig for the Conferen
 category: "Sport"
 author: "Mira Sethi"
 date: 2026-05-27
-image: "https://images.pexels.com/photos/36862523/pexels-photo-36862523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Close-up of soccer players in action during a match at an outdoor stadium."
+image: "https://images.pexels.com/photos/18075657/pexels-photo-18075657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Group of soccer players entering the field at Deportes Bravos stadium, Texcoco, Mexico."
 tags: ["Crystal Palace", "Rayo Vallecano", "Conference League", "European Football", "Oliver Glasner", "Football", "Sport"]
 draft: false
-pexelsId: "36862523"
+pexelsId: "18075657"
 ---
 
 Some finals are about superstars, money and global brands. This one feels more like a neighbourhood finally getting heard.

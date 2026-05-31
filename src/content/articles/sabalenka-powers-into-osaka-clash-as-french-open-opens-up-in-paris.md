@@ -4,11 +4,11 @@ description: "Aryna Sabalenka reached the French Open fourth round with a straig
 category: "Sport"
 author: "Armaan Gill"
 date: 2026-05-31
-image: "https://images.pexels.com/photos/32266257/pexels-photo-32266257.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Dynamic shot of female soccer players in action during a match on a sunny day."
+image: "https://images.pexels.com/photos/32266318/pexels-photo-32266318.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Two soccer players fiercely competing on a sunny field during an exciting match."
 tags: ["French Open", "Aryna Sabalenka", "Naomi Osaka", "Novak Djokovic", "Joao Fonseca", "Roland Garros", "Tennis", "Sport"]
 draft: false
-pexelsId: "32266257"
+pexelsId: "32266318"
 ---
 
 Paris gave tennis fans one of those weekends that feels bigger than a round number on a draw sheet.

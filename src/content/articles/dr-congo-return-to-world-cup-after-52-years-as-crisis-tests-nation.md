@@ -4,11 +4,11 @@ description: "DR Congo are back at the World Cup after 52 years, carrying the ho
 category: "Sport"
 author: "Ishaan Vora"
 date: 2026-05-31
-image: "https://images.pexels.com/photos/12783338/pexels-photo-12783338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Two male soccer players competing in an outdoor match on a sunny day."
+image: "https://images.pexels.com/photos/27394486/pexels-photo-27394486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Amateur soccer players in yellow uniforms and referee on the field after a match."
 tags: ["DR Congo", "2026 World Cup", "Football", "Africa Football", "Sebastien Desabre", "Chancel Mbemba", "Sport"]
 draft: false
-pexelsId: "12783338"
+pexelsId: "27394486"
 ---
 
 Some football teams travel to a World Cup with pressure. DR Congo will travel with a country’s pain packed into every kit bag.
