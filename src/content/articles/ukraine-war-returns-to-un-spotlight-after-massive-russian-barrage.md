@@ -4,11 +4,11 @@ description: "The UN Security Council held an emergency Ukraine meeting after Ky
 category: "International"
 author: "Kabir Anand"
 date: 2026-05-29
-image: "https://images.pexels.com/photos/6950018/pexels-photo-6950018.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Business leaders signing a significant agreement in a conference room setting."
+image: "https://images.pexels.com/photos/8636598/pexels-photo-8636598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A young woman presents to colleagues in a modern team meeting setting."
 tags: ["Ukraine", "Russia", "UN Security Council", "António Guterres", "Europe", "International Affairs", "UAE Readers", "Indian Expats"]
 draft: false
-pexelsId: "6950018"
+pexelsId: "8636598"
 ---
 
 A war can feel far away until missiles start rewriting the global mood again.

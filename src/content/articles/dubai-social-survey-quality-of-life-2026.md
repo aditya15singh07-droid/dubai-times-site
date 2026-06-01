@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-17
 publishedTime: "22:05 GST"
 watchLine: "Watch how Dubai uses survey data to shape family policy, inclusion, financial wellbeing and digital services."
-image: "https://images.pexels.com/photos/35659780/pexels-photo-35659780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A mother with her children walking along a sunny beach, enjoying family time."
+image: "https://images.pexels.com/photos/35659793/pexels-photo-35659793.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Three kids stroll on a beach, enjoying a sunny day with city skyline backdrop, creating joyful summer memories."
 tags: ["Lifestyle", "Dubai Time"]
 draft: false
-pexelsId: "35659780"
+pexelsId: "35659793"
 ---
 
 The best cities do not only count buildings. They count how people feel living inside them.

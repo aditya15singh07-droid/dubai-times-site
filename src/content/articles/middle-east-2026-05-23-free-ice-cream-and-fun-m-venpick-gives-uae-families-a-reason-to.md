@@ -6,11 +6,11 @@ author: "Reyan Shah"
 date: 2026-05-23
 publishedTime: "10:40 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/35659784/pexels-photo-35659784.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Three children enjoying a sunny day at the beach, playing near the ocean waves."
+image: "https://images.pexels.com/photos/35759301/pexels-photo-35759301.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A family enjoying a tender moment together by a peaceful lake surrounded by lush greenery."
 tags: ["Lifestyle","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "35659784"
+pexelsId: "35759301"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why free ice cream and fun venpick gives uae deserves a closer read across the Middle East today.
 

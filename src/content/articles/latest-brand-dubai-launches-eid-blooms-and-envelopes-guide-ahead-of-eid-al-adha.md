@@ -6,11 +6,11 @@ author: "Devika Shah"
 date: 2026-05-19
 publishedTime: "21:09 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/6617541/pexels-photo-6617541.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Smiling family of four lying on a blanket, sharing happiness and love indoors."
+image: "https://images.pexels.com/photos/35659780/pexels-photo-35659780.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A mother with her children walking along a sunny beach, enjoying family time."
 tags: ["Lifestyle", "Dubai Time"]
 draft: false
-pexelsId: "6617541"
+pexelsId: "35659780"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

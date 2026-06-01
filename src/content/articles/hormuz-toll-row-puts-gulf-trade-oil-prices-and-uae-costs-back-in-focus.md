@@ -4,11 +4,11 @@ description: "US Treasury Secretary Scott Bessent says Oman has assured Washingt
 category: "International"
 author: "Samaira Qureshi"
 date: 2026-05-29
-image: "https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A diverse group of professionals engaged in a collaborative office meeting, sharing ideas and discussing projects."
+image: "https://images.pexels.com/photos/8070723/pexels-photo-8070723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A diverse group discussing ideas in a modern office setting, using laptops and tablets."
 tags: ["Strait of Hormuz", "Oman", "Iran", "US Sanctions", "Oil Prices", "UAE Economy", "Gulf Trade", "Inflation"]
 draft: false
-pexelsId: "3184360"
+pexelsId: "8070723"
 ---
 
 For families in Dubai, Abu Dhabi and Mumbai, the Strait of Hormuz can feel far away.

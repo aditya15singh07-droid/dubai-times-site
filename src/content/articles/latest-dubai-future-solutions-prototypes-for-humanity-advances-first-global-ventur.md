@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-19
 publishedTime: "13:47 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/5686111/pexels-photo-5686111.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Diverse team engaged in a collaborative meeting in a modern office setting, sharing ideas and working together."
+image: "https://images.pexels.com/photos/35336008/pexels-photo-35336008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Two women enjoying conversation under the iconic Louvre Abu Dhabi architectural dome."
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "5686111"
+pexelsId: "35336008"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.
