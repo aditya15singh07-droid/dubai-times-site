@@ -6,11 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-23
 publishedTime: "16:04 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/8101927/pexels-photo-8101927.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Two women engaged in a business meeting, discussing plans and ideas."
+image: "https://images.pexels.com/photos/7433853/pexels-photo-7433853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Business professionals engaged in a strategic meeting in a modern office setting with natural light."
 tags: ["Business","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "8101927"
+pexelsId: "7433853"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why uk agrees 3 7bn trade deal with six deserves a closer read across the Middle East today.
 

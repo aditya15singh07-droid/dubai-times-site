@@ -6,11 +6,11 @@ author: "Nikhil Verma"
 date: 2026-05-23
 publishedTime: "10:16 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/8123789/pexels-photo-8123789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Elderly professionals collaborate in a meeting, discussing documents on a wooden table."
+image: "https://images.pexels.com/photos/4342497/pexels-photo-4342497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Group of professionals having a business meeting in a modern office setting."
 tags: ["Business","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "8123789"
+pexelsId: "4342497"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why britain secures 5b annual trade deal with gulf deserves a closer read across the Middle East today.
 

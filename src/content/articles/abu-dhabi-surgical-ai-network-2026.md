@@ -6,11 +6,11 @@ author: "Ishaan Vora"
 date: 2026-05-23
 publishedTime: "02:55 GST"
 watchLine: "Watch how quickly the network moves from announcement to clinical use and whether outcomes data is shared."
-image: "https://images.pexels.com/photos/6129154/pexels-photo-6129154.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Doctors and nurse discussing medical charts in hospital setting."
+image: "https://images.pexels.com/photos/4021775/pexels-photo-4021775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Unrecognizable female doctor in medical uniform with wristwatch on hand crossing arms on chest while standing with stethoscope on neck"
 tags: ["Health", "Abu Dhabi", "Artificial Intelligence", "Surgery", "Johnson & Johnson"]
 draft: false
-pexelsId: "6129154"
+pexelsId: "4021775"
 ---
 
 Most people do not care whether a surgery is digitally connected.

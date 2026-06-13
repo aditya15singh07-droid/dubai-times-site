@@ -6,11 +6,11 @@ author: "Arjun Malhotra"
 date: 2026-05-23
 publishedTime: "17:00 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/10742619/pexels-photo-10742619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Captivating view of Doha skyline from the Corniche, featuring modern architecture under a clear blue sky."
+image: "https://images.pexels.com/photos/36723275/pexels-photo-36723275.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Black and white photo of city skyscrapers with a dramatic and high-contrast style."
 tags: ["Real Estate","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "10742619"
+pexelsId: "36723275"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why majid al futtaim launches mega project in dubai deserves a closer read across the Middle East today.
 

@@ -6,11 +6,11 @@ author: "Anika Menon"
 date: 2026-05-22
 publishedTime: "13:00 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/24553795/pexels-photo-24553795.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Explore the modern architecture and iconic landmarks of Liverpool's skyline in this captivating urban scene."
+image: "https://images.pexels.com/photos/33719015/pexels-photo-33719015.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Sky-high view showcasing contemporary skyscrapers in a bustling urban landscape, under clear daylight skies."
 tags: ["Middle East", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "24553795"
+pexelsId: "33719015"
 ---
 
 Regional news is rarely distant for Dubai. It shapes confidence, trade, travel and the quiet calculations people make every day.

@@ -4,11 +4,11 @@ description: "Ukraine is using ground robots and aerial drones to offset manpowe
 category: "International"
 author: "Vihaan Rao"
 date: 2026-06-01
-image: "https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A diverse group of professionals engaged in a collaborative office meeting, sharing ideas and discussing projects."
+image: "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Diverse team collaborating in a meeting, showcasing teamwork and cooperation in a modern workplace."
 tags: ["Ukraine war", "Russia", "drones", "robotics", "defence technology", "Gulf security", "UAE", "Nato", "Middle East"]
 draft: false
-pexelsId: "3184360"
+pexelsId: "3184291"
 ---
 
 A soldier who does not breathe, tire, panic, or need a funeral is now changing the war in Ukraine.

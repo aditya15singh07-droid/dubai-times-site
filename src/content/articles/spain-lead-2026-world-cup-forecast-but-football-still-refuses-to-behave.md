@@ -4,11 +4,11 @@ description: "A Goldman Sachs model gives Spain the strongest chance of winning 
 category: "Sport"
 author: "Myra D'Souza"
 date: 2026-05-30
-image: "https://images.pexels.com/photos/29811412/pexels-photo-29811412.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A soccer team huddles energetically before a game, showcasing unity and teamwork."
+image: "https://images.pexels.com/photos/32109086/pexels-photo-32109086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Dynamic football match action captured in France with players in red and blue jerseys."
 tags: ["2026 World Cup", "Spain", "France", "Argentina", "Brazil", "England", "Football", "FIFA World Cup", "Sports Business"]
 draft: false
-pexelsId: "29811412"
+pexelsId: "32109086"
 ---
 
 A World Cup forecast can sound very scientific until the first nervous goalkeeper slips, a striker misses from six yards, or a teenager changes a match in ten minutes.

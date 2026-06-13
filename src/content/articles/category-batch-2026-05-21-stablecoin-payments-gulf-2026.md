@@ -6,9 +6,9 @@ author: "Mira Sethi"
 date: 2026-05-21
 publishedTime: "13:26 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/5127352/pexels-photo-5127352.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Close-up image showing hands exchanging a Bitcoin coin, symbolizing cryptocurrency transactions."
-pexelsId: "5127352"
+image: "https://images.pexels.com/photos/6770774/pexels-photo-6770774.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Golden bitcoin coins placed on a laptop keyboard with trading chart displayed on the screen."
+pexelsId: "6770774"
 tags: ["Crypto", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

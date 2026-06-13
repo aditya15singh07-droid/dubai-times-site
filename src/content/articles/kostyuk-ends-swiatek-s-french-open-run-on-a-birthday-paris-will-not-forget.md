@@ -4,11 +4,11 @@ description: "Marta Kostyuk stunned former champion Iga Swiatek 7-5, 6-1 at Rola
 category: "Sport"
 author: "Ishaan Vora"
 date: 2026-06-01
-image: "https://images.pexels.com/photos/30726626/pexels-photo-30726626.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Amateur soccer team in red uniforms gathering on a green field during daytime."
+image: "https://images.pexels.com/photos/16651538/pexels-photo-16651538.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Footballers in action during a lively soccer match on a sunny day. Perfect for sports imagery."
 tags: ["French Open", "Marta Kostyuk", "Iga Swiatek", "Tennis", "Roland Garros", "Sport"]
 draft: false
-pexelsId: "30726626"
+pexelsId: "16651538"
 ---
 
 Some birthdays come with cake. Iga Swiatek’s 25th came with a hard lesson on red clay.

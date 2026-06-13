@@ -6,11 +6,11 @@ author: "Anika Menon"
 date: 2026-05-22
 publishedTime: "13:04 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/20847397/pexels-photo-20847397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Stunning view of New York City's skyline showcasing its iconic skyscrapers under a clear blue sky."
+image: "https://images.pexels.com/photos/18789718/pexels-photo-18789718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A stunning cityscape at night featuring illuminated skyscrapers and modern urban architecture under a clear sky."
 tags: ["Middle East", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "20847397"
+pexelsId: "18789718"
 ---
 
 Regional news is rarely distant for Dubai. It shapes confidence, trade, travel and the quiet calculations people make every day.

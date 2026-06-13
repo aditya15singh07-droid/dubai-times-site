@@ -4,11 +4,11 @@ description: "A delay in the CLARITY Act has raised fears that America may remai
 category: "Crypto"
 author: "Rian Kapoor"
 date: 2026-05-31
-image: "https://images.pexels.com/photos/8358137/pexels-photo-8358137.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Bitcoin and trading concept shown with coins, pen, and letter tiles on a dark background."
+image: "https://images.pexels.com/photos/7267491/pexels-photo-7267491.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A detailed image showcasing a stack of Bitcoin cryptocurrency coins on a black background."
 tags: ["Crypto", "United States", "CLARITY Act", "Digital Assets", "SEC", "CFTC", "Stablecoins", "Coinbase", "Kraken", "Circle", "Investor Protection"]
 draft: false
-pexelsId: "8358137"
+pexelsId: "7267491"
 ---
 
 For anyone buying crypto from Mumbai, Dubai or New York, one question still hangs heavy: who is actually watching this market?

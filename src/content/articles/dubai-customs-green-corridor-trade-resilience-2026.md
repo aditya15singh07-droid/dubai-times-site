@@ -6,11 +6,11 @@ author: "Samaira Qureshi"
 date: 2026-05-18
 publishedTime: "12:18 GST"
 watchLine: "Watch whether the corridor becomes a temporary emergency fix or a longer-term logistics habit for exporters."
-image: "https://images.pexels.com/photos/5668513/pexels-photo-5668513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "High angle of crop faceless coworkers in formal clothes sitting at wooden table with cups of coffee and documents while working together"
+image: "https://images.pexels.com/photos/7869068/pexels-photo-7869068.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A diverse team collaborates in a modern office setting, showcasing teamwork and communication."
 tags: ["Business", "Dubai Time"]
 draft: false
-pexelsId: "5668513"
+pexelsId: "7869068"
 ---
 
 Trade usually sounds like a big word until a shipment gets stuck.

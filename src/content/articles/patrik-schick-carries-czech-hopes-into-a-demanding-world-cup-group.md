@@ -4,11 +4,11 @@ description: "Bayer Leverkusen striker Patrik Schick will lead Czech Republic’
 category: "Sport"
 author: "Tara Khanna"
 date: 2026-06-01
-image: "https://images.pexels.com/photos/12783338/pexels-photo-12783338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Two male soccer players competing in an outdoor match on a sunny day."
+image: "https://images.pexels.com/photos/32266257/pexels-photo-32266257.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Dynamic shot of female soccer players in action during a match on a sunny day."
 tags: ["Patrik Schick", "Czech Republic", "FIFA World Cup 2026", "Football", "Bayer Leverkusen", "Sport"]
 draft: false
-pexelsId: "12783338"
+pexelsId: "32266257"
 ---
 
 For Czech football fans, this World Cup is not just another tournament. It is a rare return to the biggest stage, and Patrik Schick now carries the weight of that wait.

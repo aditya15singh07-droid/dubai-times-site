@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-23
 publishedTime: "14:44 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/4173244/pexels-photo-4173244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Serious mature male doctor in medical uniform standing with stethoscope and notebook while talking on smartphone in clinic corridor"
+image: "https://images.pexels.com/photos/6129444/pexels-photo-6129444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Doctor discusses health records with a patient in a clinical setting."
 tags: ["Health","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "4173244"
+pexelsId: "6129444"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why saudi healthcare governance deserves a closer read across the Middle East today.
 

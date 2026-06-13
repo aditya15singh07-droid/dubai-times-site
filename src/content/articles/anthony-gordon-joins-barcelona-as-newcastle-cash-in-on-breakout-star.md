@@ -4,11 +4,11 @@ description: "Barcelona have signed Anthony Gordon from Newcastle United in a de
 category: "Sport"
 author: "Mira Sethi"
 date: 2026-05-30
-image: "https://images.pexels.com/photos/16285151/pexels-photo-16285151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Intense soccer game with players competing for the ball on a grassy field. Strong teamwork and athletic skill displayed."
+image: "https://images.pexels.com/photos/9544750/pexels-photo-9544750.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Two soccer players and a goalie in action during an outdoor match at sunset."
 tags: ["Anthony Gordon", "Barcelona", "Newcastle United", "La Liga", "Premier League", "Football Transfers", "Champions League", "Sport"]
 draft: false
-pexelsId: "16285151"
+pexelsId: "9544750"
 ---
 
 Anthony Gordon has taken the kind of football leap that changes a career overnight.

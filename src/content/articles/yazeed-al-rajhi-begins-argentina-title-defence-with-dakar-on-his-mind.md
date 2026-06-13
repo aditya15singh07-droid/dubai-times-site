@@ -4,11 +4,11 @@ description: "Saudi rally champion Yazeed Al-Rajhi has started his Desafio Ruta 
 category: "Sport"
 author: "Rian Kapoor"
 date: 2026-05-26
-image: "https://images.pexels.com/photos/20254638/pexels-photo-20254638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Dynamic soccer match outdoors with athletes on a sunny day."
+image: "https://images.pexels.com/photos/9519503/pexels-photo-9519503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Women having an outdoor soccer game on a grassy field surrounded by trees."
 tags: ["Yazeed Al-Rajhi", "Desafio Ruta 40", "Dakar Rally", "FIA World Rally-Raid Championship", "Saudi Sport", "Motorsport", "Argentina Rally"]
 draft: false
-pexelsId: "20254638"
+pexelsId: "9519503"
 ---
 
 For most drivers, a 2,993-kilometre rally across Argentina would be the main event. For Yazeed Al-Rajhi, it is also a rehearsal for something even bigger.

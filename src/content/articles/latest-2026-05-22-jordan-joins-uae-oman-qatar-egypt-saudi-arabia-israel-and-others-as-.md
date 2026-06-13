@@ -6,11 +6,11 @@ author: "Tara Khanna"
 date: 2026-05-22
 publishedTime: "12:32 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/16938565/pexels-photo-16938565.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "People standing together outdoors with Chilean and Peruvian flags in Tacna, Peru."
+image: "https://images.pexels.com/photos/4854674/pexels-photo-4854674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Participants wearing face masks attending a business presentation in an indoor conference room."
 tags: ["International", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "16938565"
+pexelsId: "4854674"
 ---
 
 International news reaches the UAE faster than many people expect. It arrives through markets, flights, trade lanes and boardroom decisions.

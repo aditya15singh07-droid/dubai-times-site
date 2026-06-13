@@ -6,11 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-23
 publishedTime: "17:04 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/10550578/pexels-photo-10550578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A striking black and white cityscape photo featuring towering skyscrapers and cranes."
+image: "https://images.pexels.com/photos/17741450/pexels-photo-17741450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A stunning aerial view of Warsaw, highlighting modern architecture and urban skyline."
 tags: ["Real Estate","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "10550578"
+pexelsId: "17741450"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why red sea global opens resort on centrepiece shura deserves a closer read across the Middle East today.
 

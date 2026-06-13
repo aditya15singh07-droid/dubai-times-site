@@ -6,9 +6,9 @@ author: "Anika Menon"
 date: 2026-05-21
 publishedTime: "14:42 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://images.pexels.com/photos/18789718/pexels-photo-18789718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A stunning cityscape at night featuring illuminated skyscrapers and modern urban architecture under a clear sky."
-pexelsId: "18789718"
+image: "https://images.pexels.com/photos/35003991/pexels-photo-35003991.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Stunning night view of Hangzhou's skyline reflecting on Qiantang River, showcasing modern architecture."
+pexelsId: "35003991"
 tags: ["Middle East", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---

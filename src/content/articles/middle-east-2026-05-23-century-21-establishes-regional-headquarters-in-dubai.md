@@ -6,11 +6,11 @@ author: "Arjun Malhotra"
 date: 2026-05-23
 publishedTime: "11:36 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/18341554/pexels-photo-18341554.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Stunning view of Dubai's skyline at twilight featuring the iconic Burj Khalifa."
+image: "https://images.pexels.com/photos/1227807/pexels-photo-1227807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A stunning low-angle view of London's skyscrapers at sunset with warm lighting."
 tags: ["Real Estate","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "18341554"
+pexelsId: "1227807"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why century 21 establishes regional headquarters in dubai deserves a closer read across the Middle East today.
 

@@ -6,11 +6,11 @@ author: "Ishaan Vora"
 date: 2026-05-23
 publishedTime: "02:40 GST"
 watchLine: "Watch pilot deployments beyond campus and whether ChatSign reaches hospitals, transport hubs and government counters."
-image: "https://images.pexels.com/photos/4021775/pexels-photo-4021775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Unrecognizable female doctor in medical uniform with wristwatch on hand crossing arms on chest while standing with stethoscope on neck"
+image: "https://images.pexels.com/photos/4309557/pexels-photo-4309557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A close-up image of a doctor in a white coat with a stethoscope and arms crossed."
 tags: ["Health", "UAE", "Accessibility", "AI", "ChatSign"]
 draft: false
-pexelsId: "4021775"
+pexelsId: "4309557"
 ---
 
 The hardest part of exclusion is often how ordinary it looks.

@@ -6,9 +6,9 @@ author: "Naina Batra"
 date: 2026-05-21
 publishedTime: "13:20 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/27394504/pexels-photo-27394504.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Group of soccer players in red uniforms huddling on a green field before a match."
-pexelsId: "27394504"
+image: "https://images.pexels.com/photos/5470369/pexels-photo-5470369.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Soccer players in red and blue uniforms compete fiercely during an outdoor match on a sunny day."
+pexelsId: "5470369"
 tags: ["Sport", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

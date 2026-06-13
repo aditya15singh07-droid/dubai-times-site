@@ -4,11 +4,11 @@ description: "Arsenal face Paris Saint-Germain in the Champions League final on 
 category: "Sport"
 author: "Naina Batra"
 date: 2026-05-29
-image: "https://images.pexels.com/photos/13241581/pexels-photo-13241581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Dynamic soccer match showcasing skillful plays on a sunny day in Mendoza, Argentina."
+image: "https://images.pexels.com/photos/36862523/pexels-photo-36862523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Close-up of soccer players in action during a match at an outdoor stadium."
 tags: ["Arsenal", "Mikel Arteta", "Champions League Final", "PSG", "Football", "European Football", "Sport"]
 draft: false
-pexelsId: "13241581"
+pexelsId: "36862523"
 ---
 
 Some football projects are sold as revolutions. Arsenal’s has felt more like a long repair job done in public.

@@ -6,11 +6,11 @@ author: "Zayan Mirza"
 date: 2026-05-23
 publishedTime: "12:20 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/30040952/pexels-photo-30040952.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Dynamic soccer match action featuring players in France, showcasing athleticism and competition."
+image: "https://images.pexels.com/photos/18075406/pexels-photo-18075406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A young soccer player in black sportswear dribbling a ball on a green field in Texcoco, Mexico."
 tags: ["Sport","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "30040952"
+pexelsId: "18075406"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why saudi fans and the world cup calendar deserves a closer read across the Middle East today.
 

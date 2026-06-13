@@ -4,11 +4,11 @@ description: "Defending French Open champion Coco Gauff beat Egypt’s Mayar She
 category: "Sport"
 author: "Vihaan Rao"
 date: 2026-05-29
-image: "https://images.pexels.com/photos/17955021/pexels-photo-17955021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Athletes engaged in a competitive soccer match outdoors, showcasing teamwork and sportsmanship."
+image: "https://images.pexels.com/photos/23848401/pexels-photo-23848401.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Players in action during an outdoor soccer match on a grass field."
 tags: ["Coco Gauff", "Mayar Sherif", "French Open", "Roland Garros", "Tennis", "Sport", "Egypt"]
 draft: false
-pexelsId: "17955021"
+pexelsId: "23848401"
 ---
 
 Coco Gauff won in straight sets, but this was not a stroll in Paris.

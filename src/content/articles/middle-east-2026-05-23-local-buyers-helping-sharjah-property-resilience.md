@@ -6,11 +6,11 @@ author: "Reyan Shah"
 date: 2026-05-23
 publishedTime: "10:24 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/35671085/pexels-photo-35671085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Monochrome cityscape of Hong Kong's skyline with waterfront view during the day."
+image: "https://images.pexels.com/photos/36338204/pexels-photo-36338204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Upward view of modern skyscrapers under clear sky showcasing urban architecture."
 tags: ["Real Estate","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "35671085"
+pexelsId: "36338204"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the gulf property demand shift deserves a closer read across the Middle East today.
 

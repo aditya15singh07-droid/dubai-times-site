@@ -6,11 +6,11 @@ author: "Kabir Anand"
 date: 2026-05-22
 publishedTime: "14:28 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/6949938/pexels-photo-6949938.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Diverse group of professionals in a formal meeting setting with a speaker at the podium."
+image: "https://images.pexels.com/photos/1181304/pexels-photo-1181304.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A multicultural team brainstorming and collaborating during a business meeting."
 tags: ["Business", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "6949938"
+pexelsId: "1181304"
 ---
 
 Business news looks clean on paper. In real life, it decides whether founders hire, investors wait and small firms take the next risk.

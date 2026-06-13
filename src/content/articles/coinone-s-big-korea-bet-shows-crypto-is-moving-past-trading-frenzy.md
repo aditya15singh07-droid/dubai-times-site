@@ -4,11 +4,11 @@ description: "OKX Ventures and Korea Investment & Securities plan major investme
 category: "Crypto"
 author: "Mira Sethi"
 date: 2026-05-30
-image: "https://images.pexels.com/photos/8369695/pexels-photo-8369695.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Pile of shiny gold and silver cryptocurrency coins on a wooden table."
+image: "https://images.pexels.com/photos/30268013/pexels-photo-30268013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Analyzing a bullish financial chart highlighting a significant upward trend in the market."
 tags: ["Coinone", "OKX Ventures", "Korea Investment & Securities", "South Korea Crypto", "Stablecoins", "Tokenised Securities", "Digital Assets", "Crypto Regulation", "Asian Markets"]
 draft: false
-pexelsId: "8369695"
+pexelsId: "30268013"
 ---
 
 For many retail crypto traders, an exchange is just an app on the phone. Buy, sell, refresh, repeat.

@@ -6,11 +6,11 @@ author: "Armaan Gill"
 date: 2026-05-19
 publishedTime: "19:02 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/34789956/pexels-photo-34789956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Empty futuristic conference room in Berlin ICC with circular seating and high-tech design."
+image: "https://images.pexels.com/photos/34086087/pexels-photo-34086087.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Multicultural team collaborating in a vibrant, modern office space with plants and neon light decor."
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "34789956"
+pexelsId: "34086087"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

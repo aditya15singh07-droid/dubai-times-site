@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-19
 publishedTime: "16:11 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/20438292/pexels-photo-20438292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Illuminated skyline of Hangzhou featuring modern architecture and vivid lights along the water."
+image: "https://images.pexels.com/photos/687450/pexels-photo-687450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Stunning view of Shanghai skyline at dusk with the iconic Oriental Pearl Tower prominently featured."
 tags: ["Middle East", "Dubai Time"]
 draft: false
-pexelsId: "20438292"
+pexelsId: "687450"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

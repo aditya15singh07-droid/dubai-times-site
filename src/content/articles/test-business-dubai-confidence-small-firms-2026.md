@@ -6,11 +6,11 @@ author: "Armaan Gill"
 date: 2026-05-20
 publishedTime: "14:14 GST"
 watchLine: "Watch hiring, receivables, renewals and whether small businesses keep expanding."
-image: "https://images.pexels.com/photos/8460122/pexels-photo-8460122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Doctor consults patient remotely using computer and face masks for safety."
+image: "https://images.pexels.com/photos/4173239/pexels-photo-4173239.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Crop concentrated professional senior male physician in white robe with stethoscope standing in modern hospital hallway and reading medical case records in daylight"
 tags: ["Health", "Dubai Time"]
 draft: false
-pexelsId: "8460122"
+pexelsId: "4173239"
 ---
 
 A business boom is believable when it reaches the invoice level.

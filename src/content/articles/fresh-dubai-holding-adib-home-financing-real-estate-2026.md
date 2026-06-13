@@ -6,9 +6,9 @@ author: "Zoya Malhotra"
 date: 2026-05-21
 publishedTime: "14:24 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://images.pexels.com/photos/35585512/pexels-photo-35585512.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Panoramic view of Barcelona's skyline showcasing modern skyscrapers and residential buildings."
-pexelsId: "35585512"
+image: "https://images.pexels.com/photos/1766228/pexels-photo-1766228.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Discover the vibrant cityscape featuring modern skyscrapers and a serene waterfront under a clear blue sky."
+pexelsId: "1766228"
 tags: ["Real Estate", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---

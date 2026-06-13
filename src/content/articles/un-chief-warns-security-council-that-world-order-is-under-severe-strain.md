@@ -4,11 +4,11 @@ description: "The UN Security Council met for a high-level debate as António Gu
 category: "International"
 author: "Mira Sethi"
 date: 2026-05-27
-image: "https://images.pexels.com/photos/6949993/pexels-photo-6949993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Corporate handshake between diverse businessmen representing EU and US flags, symbolizing partnership and collaboration."
+image: "https://images.pexels.com/photos/6950206/pexels-photo-6950206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A diverse team in business attire at a podium with an American flag, showing unity and professionalism."
 tags: ["United Nations", "Security Council", "International Relations", "Middle East", "Global Affairs", "India", "UAE"]
 draft: false
-pexelsId: "6949993"
+pexelsId: "6950206"
 ---
 
 Some warnings sound distant until they begin touching daily life. A blocked shipping route raises prices. A war delays visas. A diplomatic split unsettles oil, food, flights and families.

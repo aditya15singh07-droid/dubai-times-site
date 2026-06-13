@@ -4,11 +4,11 @@ description: "Kevin James' Solo Mio, now in Saudi cinemas, is a familiar but war
 category: "Entertainment"
 author: "Vihaan Rao"
 date: 2026-06-01
-image: "https://images.pexels.com/photos/30215324/pexels-photo-30215324.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Energetic crowd enjoying a concert with dynamic lighting and smoke effects in an indoor venue."
+image: "https://images.pexels.com/photos/32399568/pexels-photo-32399568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A lively concert scene with a crowd of people enjoying the music at night."
 tags: ["Solo Mio", "Kevin James", "Hollywood", "Romantic Comedy", "Saudi Cinemas", "Gulf Entertainment", "Film Review"]
 draft: false
-pexelsId: "30215324"
+pexelsId: "32399568"
 ---
 
 Some films arrive like a surprise meal. You know the ingredients. You can guess the flavour. Yet, if the mood is right, you still enjoy the plate.

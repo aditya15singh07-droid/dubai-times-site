@@ -6,11 +6,11 @@ author: "Ishaan Vora"
 date: 2026-05-19
 publishedTime: "14:56 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/29666616/pexels-photo-29666616.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Players engage in a competitive soccer match on a sunny day, showing dynamic teamwork and skill."
+image: "https://images.pexels.com/photos/34049627/pexels-photo-34049627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Close-up of two soccer players competing for the ball on a grassy field."
 tags: ["Sport", "Dubai Time"]
 draft: false
-pexelsId: "29666616"
+pexelsId: "34049627"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

@@ -6,9 +6,9 @@ author: "Mira Sethi"
 date: 2026-05-21
 publishedTime: "13:32 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/8919549/pexels-photo-8919549.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Smartphone displaying cryptocurrency graph alongside bitcoin coins and eyeglasses."
-pexelsId: "8919549"
+image: "https://images.pexels.com/photos/8369687/pexels-photo-8369687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Gold and silver Bitcoin coins growing in soil, symbolizing investment and growth potential."
+pexelsId: "8369687"
 tags: ["Crypto", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

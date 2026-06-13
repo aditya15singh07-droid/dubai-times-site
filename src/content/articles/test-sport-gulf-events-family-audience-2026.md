@@ -6,11 +6,11 @@ author: "Naina Batra"
 date: 2026-05-20
 publishedTime: "15:35 GST"
 watchLine: "Watch ticket prices, family access and whether events create repeat local audiences."
-image: "https://images.pexels.com/photos/18075406/pexels-photo-18075406.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A young soccer player in black sportswear dribbling a ball on a green field in Texcoco, Mexico."
+image: "https://images.pexels.com/photos/19582958/pexels-photo-19582958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Youth soccer players practicing on an illuminated field at night."
 tags: ["Sport", "Dubai Time"]
 draft: false
-pexelsId: "18075406"
+pexelsId: "19582958"
 ---
 
 Sport works best when it becomes a habit, not only a one-night show.

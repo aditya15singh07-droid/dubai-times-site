@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-19
 publishedTime: "01:20 GST"
 watchLine: "Watch whether the project pulls more aviation suppliers, training activity and MRO partnerships into Dubai before the first facilities open."
-image: "https://images.pexels.com/photos/5229733/pexels-photo-5229733.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Stunning aerial view of Taipei's skyline showcasing illuminated skyscrapers, a vibrant urban night scene."
+image: "https://images.pexels.com/photos/27740534/pexels-photo-27740534.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Explore the majestic Hong Kong skyline with its iconic skyscrapers and vibrant harbor."
 tags: ["Middle East", "Dubai Time"]
 draft: false
-pexelsId: "5229733"
+pexelsId: "27740534"
 ---
 
 Dubai has never been shy about big aviation numbers.

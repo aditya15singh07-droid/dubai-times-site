@@ -5,11 +5,11 @@ category: "Business"
 author: "Myra D Souza"
 date: 2026-04-26
 watchLine: "Watch where the first funded projects land and whether the scheme meaningfully improves local manufacturing depth rather than headline volume alone."
-image: "https://images.pexels.com/photos/7651933/pexels-photo-7651933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Group of business colleagues shaking hands during an office meeting."
+image: "https://images.pexels.com/photos/7792836/pexels-photo-7792836.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Diverse team collaborating in a modern office with laptops and documents."
 tags: ["Business", "Dubai Time"]
 draft: false
-pexelsId: "7651933"
+pexelsId: "7792836"
 ---
 
 When governments talk about industrial strategy, the language can become dry very quickly. Funds, frameworks, localisation, resilience, productivity. But behind those words sits a question that affects ordinary life: when the world becomes difficult, what can a country still make, move and secure for itself? That is the right way to read the UAE's new Dh1 billion industrial fund. It is not just another diversification programme. It is part of a broader effort to reduce vulnerability in a region that has learned the hard way that supply chains cannot be taken for granted.

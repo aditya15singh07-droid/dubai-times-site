@@ -6,9 +6,9 @@ author: "Mira Sethi"
 date: 2026-05-21
 publishedTime: "14:18 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://images.pexels.com/photos/8919542/pexels-photo-8919542.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Smartphone displaying financial chart with Bitcoin coins on pink background."
-pexelsId: "8919542"
+image: "https://images.pexels.com/photos/7267597/pexels-photo-7267597.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Closeup of Bitcoin coins with a market chart in the background showing financial trends."
+pexelsId: "7267597"
 tags: ["Crypto", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---

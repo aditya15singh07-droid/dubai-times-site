@@ -4,11 +4,11 @@ description: "THORChain halted core network activity after a $10.7 million explo
 category: "Crypto"
 author: "Rian Kapoor"
 date: 2026-05-26
-image: "https://images.pexels.com/photos/8358144/pexels-photo-8358144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Smartphone displaying cryptocurrency market data alongside blockchain concept elements."
+image: "https://images.pexels.com/photos/8358130/pexels-photo-8358130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A smartphone and Bitcoin coins with trading letters on black background."
 tags: ["THORChain", "Crypto", "DeFi", "Blockchain Security", "Cross Chain", "RUNE", "Digital Assets", "Crypto Risk"]
 draft: false
-pexelsId: "8358144"
+pexelsId: "8358130"
 ---
 
 A crypto network can look calm on the outside, until one weak link empties a vault.

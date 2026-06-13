@@ -4,11 +4,11 @@ description: "Bitcoin is struggling near $74,000 as large holders slow buying, E
 category: "Crypto"
 author: "Ishaan Vora"
 date: 2026-05-31
-image: "https://images.pexels.com/photos/17977104/pexels-photo-17977104.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Bitcoin coin on a tablet showing stock chart, surrounded by dollar bills."
+image: "https://images.pexels.com/photos/8358138/pexels-photo-8358138.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Bitcoin coins placed on a calendar with sticky notes for investment planning."
 tags: ["Bitcoin", "Crypto", "ETF", "UAE", "Digital Assets", "Middle East", "Indian Investors"]
 draft: false
-pexelsId: "17977104"
+pexelsId: "8358138"
 ---
 
 Bitcoin’s latest fall is not just another red candle on a trading screen.

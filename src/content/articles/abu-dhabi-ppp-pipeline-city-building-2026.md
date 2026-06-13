@@ -6,11 +6,11 @@ author: "Zoya Malhotra"
 date: 2026-05-23
 publishedTime: "03:25 GST"
 watchLine: "Watch which of the 24 PPP projects move first and how quickly roads, schools and public assets reach delivery."
-image: "https://images.pexels.com/photos/26608372/pexels-photo-26608372.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A clear blue sky over a modern cityscape featuring skyscrapers and visible moon."
+image: "https://images.pexels.com/photos/27585025/pexels-photo-27585025.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Impressive Frankfurt skyline showcasing modern skyscrapers and the riverfront at sunset."
 tags: ["Real Estate", "Abu Dhabi", "Infrastructure", "PPP", "Urban Development"]
 draft: false
-pexelsId: "26608372"
+pexelsId: "27585025"
 ---
 
 Real estate is not only about apartments.

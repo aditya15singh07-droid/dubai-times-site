@@ -6,11 +6,11 @@ author: "Dev Khanna"
 date: 2026-05-23
 publishedTime: "15:48 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/7693706/pexels-photo-7693706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Business professionals reviewing analytics on a tablet during a meeting."
+image: "https://images.pexels.com/photos/26834970/pexels-photo-26834970.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A diverse team of professionals collaborating around a laptop in a modern office setting."
 tags: ["Business","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "7693706"
+pexelsId: "26834970"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why malaysia maharani freeport asia rising energy hub explai deserves a closer read across the Middle East today.
 

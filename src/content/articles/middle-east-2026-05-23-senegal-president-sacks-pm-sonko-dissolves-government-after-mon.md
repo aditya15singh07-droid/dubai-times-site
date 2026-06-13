@@ -6,11 +6,11 @@ author: "Dev Khanna"
 date: 2026-05-23
 publishedTime: "13:00 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/30980144/pexels-photo-30980144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "City skyline featuring modern skyscrapers under a clear blue sky."
+image: "https://images.pexels.com/photos/10517352/pexels-photo-10517352.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Stunning nighttime view of the Jakarta skyline featuring illuminated skyscrapers and a serene urban atmosphere."
 tags: ["Middle East","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "30980144"
+pexelsId: "10517352"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why senegal president sacks pm sonko dissolves government deserves a closer read across the Middle East today.
 

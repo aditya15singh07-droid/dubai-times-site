@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-23
 publishedTime: "02:10 GST"
 watchLine: "Watch whether strong attendance turns into year-round buying, repeat visitors and wider support for UAE-based artists."
-image: "https://images.pexels.com/photos/761543/pexels-photo-761543.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Dynamic concert scene with an energetic crowd at night in a London stadium."
+image: "https://images.pexels.com/photos/2990835/pexels-photo-2990835.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Energetic night concert with a lively crowd enjoying a vibrant live performance under bright stage lights."
 tags: ["Entertainment", "Dubai", "Art Dubai", "Culture", "Creative Economy"]
 draft: false
-pexelsId: "761543"
+pexelsId: "2990835"
 ---
 
 The most revealing detail about Art Dubai this year was not the guest list.

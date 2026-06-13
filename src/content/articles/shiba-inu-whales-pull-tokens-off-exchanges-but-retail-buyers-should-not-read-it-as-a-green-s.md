@@ -4,11 +4,11 @@ description: "Nearly 490 billion SHIB tokens have moved off exchanges, raising h
 category: "Crypto"
 author: "Myra D'Souza"
 date: 2026-05-29
-image: "https://images.pexels.com/photos/7267602/pexels-photo-7267602.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A seamless pattern of various cryptocurrency coins in gold and silver tones."
+image: "https://images.pexels.com/photos/6772103/pexels-photo-6772103.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A laptop showing stock market graphs with a smartphone calculator, euro bills, coins, and trading strategies paper."
 tags: ["Shiba Inu", "SHIB", "Crypto", "Meme Coins", "Whales", "Retail Investors", "Dubai Crypto", "UAE Investors"]
 draft: false
-pexelsId: "7267602"
+pexelsId: "6772103"
 ---
 
 A big crypto wallet moving coins can look dramatic on a screen. For small investors, it can also be dangerously easy to misunderstand.

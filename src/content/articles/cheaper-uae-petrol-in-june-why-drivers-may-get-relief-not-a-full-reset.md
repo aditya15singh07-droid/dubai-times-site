@@ -4,11 +4,11 @@ description: "UAE petrol prices may ease in June after crude fell in May, but Gu
 category: "Business"
 author: "Mira Sethi"
 date: 2026-05-31
-image: "https://images.pexels.com/photos/7693692/pexels-photo-7693692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Business professionals engaging in a collaborative meeting with charts and documents."
+image: "https://images.pexels.com/photos/9068394/pexels-photo-9068394.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Three office workers in grey suits focusing on tasks in a professional setting."
 tags: ["UAE petrol prices", "Dubai fuel prices", "June fuel price UAE", "Brent crude", "Strait of Hormuz", "Indian expats UAE", "Gulf economy", "oil prices"]
 draft: false
-pexelsId: "7693692"
+pexelsId: "9068394"
 ---
 
 For thousands of Indian families in Dubai, Abu Dhabi and Sharjah, petrol is not just a market story.

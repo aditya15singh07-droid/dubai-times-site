@@ -6,11 +6,11 @@ author: "Myra D Souza"
 date: 2026-05-17
 publishedTime: "21:50 GST"
 watchLine: "Watch whether the Milan dialogues turn into investment deals, company expansions and clearer UAE-Europe business corridors."
-image: "https://images.pexels.com/photos/17477516/pexels-photo-17477516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Panama City skyline under clear blue sky, viewed from waterfront showing iconic skyscrapers."
+image: "https://images.pexels.com/photos/36858661/pexels-photo-36858661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "High-rise buildings of Frankfurt against a clear blue sky, showcasing modern architecture."
 tags: ["Real Estate", "Dubai Time"]
 draft: false
-pexelsId: "17477516"
+pexelsId: "36858661"
 ---
 
 Investment summits can sound like polite rooms full of large words.

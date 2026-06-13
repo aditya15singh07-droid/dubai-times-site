@@ -6,11 +6,11 @@ author: "Tara Khanna"
 date: 2026-05-22
 publishedTime: "12:24 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/7993894/pexels-photo-7993894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A diverse group of professionals working together in an office meeting room."
+image: "https://images.pexels.com/photos/6950186/pexels-photo-6950186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Confident woman speaker at podium with EU flag, delivering a speech indoors."
 tags: ["International", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "7993894"
+pexelsId: "6950186"
 ---
 
 International news reaches the UAE faster than many people expect. It arrives through markets, flights, trade lanes and boardroom decisions.

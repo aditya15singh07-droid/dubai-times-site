@@ -4,11 +4,11 @@ description: "The UAE economy grew 6.2 percent in 2025 to Dh1.9 trillion, powere
 category: "Business"
 author: "Tara Khanna"
 date: 2026-05-31
-image: "https://images.pexels.com/photos/9068367/pexels-photo-9068367.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Business office with diverse employees in gray suits working at desks in an indoor setting."
+image: "https://images.pexels.com/photos/12885859/pexels-photo-12885859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Three colleagues engage in a vibrant business meeting in a modern office setting."
 tags: ["UAE economy", "Dubai business", "Non-oil GDP", "UAE jobs", "Real estate", "Gulf economy", "Indian expats", "Abu Dhabi", "Trade", "Finance"]
 draft: false
-pexelsId: "9068367"
+pexelsId: "12885859"
 ---
 
 For many Indian families in the UAE, the economy is not an abstract number.

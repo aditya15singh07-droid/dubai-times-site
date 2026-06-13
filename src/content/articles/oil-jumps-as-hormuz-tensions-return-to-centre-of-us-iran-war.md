@@ -4,11 +4,11 @@ description: "Oil prices rose sharply after fresh US strikes on Iranian targets 
 category: "International"
 author: "Samaira Qureshi"
 date: 2026-05-29
-image: "https://images.pexels.com/photos/6950018/pexels-photo-6950018.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Business leaders signing a significant agreement in a conference room setting."
+image: "https://images.pexels.com/photos/6949993/pexels-photo-6949993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Corporate handshake between diverse businessmen representing EU and US flags, symbolizing partnership and collaboration."
 tags: ["Oil Prices", "Strait of Hormuz", "US Iran War", "Dubai Business", "Asian Markets", "Gold", "Bitcoin", "Middle East"]
 draft: false
-pexelsId: "6950018"
+pexelsId: "6949993"
 ---
 
 For anyone in Dubai, Mumbai or Kochi watching fuel prices, this is not distant war news.

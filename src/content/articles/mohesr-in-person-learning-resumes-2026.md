@@ -5,11 +5,11 @@ category: "Middle East"
 author: "Anika Menon"
 date: 2026-05-18
 watchLine: "Watch whether universities settle quickly into normal academic calendars and whether practical courses recover lost momentum."
-image: "https://images.pexels.com/photos/27740534/pexels-photo-27740534.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Explore the majestic Hong Kong skyline with its iconic skyscrapers and vibrant harbor."
+image: "https://images.pexels.com/photos/14295949/pexels-photo-14295949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A breathtaking view of a modern city skyline with towering skyscrapers under a cloudy sky."
 tags: ["Middle East", "Dubai Time"]
 draft: false
-pexelsId: "27740534"
+pexelsId: "14295949"
 ---
 
 Students can adapt to online classes faster than institutions sometimes admit.

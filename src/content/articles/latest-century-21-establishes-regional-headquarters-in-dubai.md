@@ -6,11 +6,11 @@ author: "Myra D Souza"
 date: 2026-05-19
 publishedTime: "19:12 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/35422113/pexels-photo-35422113.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Explore the modern skyline of Changsha, China, showcasing tall skyscrapers and urban architecture in a clear daylight view."
+image: "https://images.pexels.com/photos/26827879/pexels-photo-26827879.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Beautiful cityscape of Chicago's skyline across Lake Michigan under a dramatic sky."
 tags: ["Middle East", "Dubai Time"]
 draft: false
-pexelsId: "35422113"
+pexelsId: "26827879"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

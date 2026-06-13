@@ -6,11 +6,11 @@ author: "Reyan Shah"
 date: 2026-05-23
 publishedTime: "11:20 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/28709874/pexels-photo-28709874.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Cityscape featuring a modern skyline with tall reflective skyscrapers and a riverbank."
+image: "https://images.pexels.com/photos/33847223/pexels-photo-33847223.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Vibrant skyscrapers in Singapore's Marina Bay with colorful flowers foreground."
 tags: ["Real Estate","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "28709874"
+pexelsId: "33847223"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why why abu dhabi is leading in the middle deserves a closer read across the Middle East today.
 

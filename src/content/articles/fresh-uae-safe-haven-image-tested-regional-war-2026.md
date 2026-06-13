@@ -6,9 +6,9 @@ author: "Tara Khanna"
 date: 2026-05-21
 publishedTime: "14:36 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://images.pexels.com/photos/4854674/pexels-photo-4854674.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Participants wearing face masks attending a business presentation in an indoor conference room."
-pexelsId: "4854674"
+image: "https://images.pexels.com/photos/34789956/pexels-photo-34789956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Empty futuristic conference room in Berlin ICC with circular seating and high-tech design."
+pexelsId: "34789956"
 tags: ["International", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---

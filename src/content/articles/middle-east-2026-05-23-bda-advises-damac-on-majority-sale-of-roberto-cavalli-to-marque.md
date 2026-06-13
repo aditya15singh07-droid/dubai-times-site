@@ -6,11 +6,11 @@ author: "Kabir Sethi"
 date: 2026-05-23
 publishedTime: "11:00 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/1227807/pexels-photo-1227807.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A stunning low-angle view of London's skyscrapers at sunset with warm lighting."
+image: "https://images.pexels.com/photos/35671085/pexels-photo-35671085.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Monochrome cityscape of Hong Kong's skyline with waterfront view during the day."
 tags: ["Real Estate","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "1227807"
+pexelsId: "35671085"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why bda advises damac on majority sale of roberto deserves a closer read across the Middle East today.
 

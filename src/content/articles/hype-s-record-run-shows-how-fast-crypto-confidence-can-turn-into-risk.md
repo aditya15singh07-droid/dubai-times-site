@@ -4,11 +4,11 @@ description: "Hyperliquid’s HYPE token has surged to record levels as trading-
 category: "Crypto"
 author: "Armaan Gill"
 date: 2026-05-26
-image: "https://images.pexels.com/photos/6771293/pexels-photo-6771293.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Close-up of Bitcoin coins on an investment guide paper."
+image: "https://images.pexels.com/photos/11070638/pexels-photo-11070638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Gold Bitcoin coin with blurred financial chart in background, representing cryptocurrency trading."
 tags: ["HYPE", "Hyperliquid", "Crypto", "DeFi", "Perpetual Futures", "Digital Assets", "Indian Investors", "UAE Crypto"]
 draft: false
-pexelsId: "6771293"
+pexelsId: "11070638"
 ---
 
 A token that was worth less than a cup of coffee last year is now making serious noise in crypto circles.

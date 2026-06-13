@@ -6,11 +6,11 @@ author: "Tara Khanna"
 date: 2026-05-23
 publishedTime: "04:40 GST"
 watchLine: "Watch whether the resolution leads to concrete reporting mechanisms on health-system disruption and essential supply access."
-image: "https://images.pexels.com/photos/6950017/pexels-photo-6950017.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Business professionals shaking hands in conference room with flags signifying international agreement."
+image: "https://images.pexels.com/photos/6950143/pexels-photo-6950143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Panelists at an EU conference discussing law and diplomacy."
 tags: ["International", "UAE", "WHO", "Public Health", "Global Supply Chains"]
 draft: false
-pexelsId: "6950017"
+pexelsId: "6950143"
 ---
 
 Wars are often discussed through maps, missiles and diplomacy.

@@ -6,11 +6,11 @@ author: "Aarav Mehta"
 date: 2026-05-23
 publishedTime: "10:08 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/7267598/pexels-photo-7267598.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Floating Bitcoin and Ethereum coins with a market trend chart in the background symbolizing digital finance."
+image: "https://images.pexels.com/photos/8369688/pexels-photo-8369688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Bitcoin coin in a green pot surrounded by crypto coins on a wooden table."
 tags: ["Crypto","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "7267598"
+pexelsId: "8369688"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the gulf crypto trust test deserves a closer read across the Middle East today.
 

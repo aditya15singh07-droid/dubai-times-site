@@ -4,11 +4,11 @@ description: "Joaquin Niemann caught Talor Gooch for the lead at LIV Golf Korea 
 category: "Sport"
 author: "Naina Batra"
 date: 2026-05-31
-image: "https://images.pexels.com/photos/9405210/pexels-photo-9405210.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A soccer player takes a decisive penalty kick aiming to score against the goalkeeper."
+image: "https://images.pexels.com/photos/29811411/pexels-photo-29811411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A soccer team gathers in a huddle for motivation before a match, fostering teamwork and unity."
 tags: ["LIV Golf", "Joaquin Niemann", "Talor Gooch", "Busan", "Golf", "South Korea", "Dustin Johnson", "Bryson DeChambeau", "Cameron Smith", "Scott Vincent"]
 draft: false
-pexelsId: "9405210"
+pexelsId: "29811411"
 ---
 
 Some tournament Saturdays feel like a slow argument with the golf course. Joaquin Niemann turned this one into a statement.

@@ -6,11 +6,11 @@ author: "Anika Menon"
 date: 2026-05-23
 publishedTime: "04:25 GST"
 watchLine: "Watch whether safe-evacuation efforts move quickly and whether shipping lines continue using the IMO-recognised route."
-image: "https://images.pexels.com/photos/18340309/pexels-photo-18340309.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Aerial view of Singapore's urban skyline with modern architecture amidst greenery."
+image: "https://images.pexels.com/photos/28350363/pexels-photo-28350363.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Explore the towering skyscrapers of Dubai Marina reflecting beautifully on the water."
 tags: ["Middle East", "UAE", "Shipping", "Strait of Hormuz", "Trade"]
 draft: false
-pexelsId: "18340309"
+pexelsId: "28350363"
 ---
 
 Most people think of the Strait of Hormuz only when oil prices jump.

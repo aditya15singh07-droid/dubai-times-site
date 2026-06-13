@@ -5,11 +5,11 @@ category: "International"
 author: "Reyansh Suri"
 date: 2026-05-18
 watchLine: "Watch whether the full six-bridge package meaningfully eases peak-hour pressure around Sheikh Zayed Road and Al Mustaqbal Street."
-image: "https://images.pexels.com/photos/34086087/pexels-photo-34086087.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Multicultural team collaborating in a vibrant, modern office space with plants and neon light decor."
+image: "https://images.pexels.com/photos/14676984/pexels-photo-14676984.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "International flags waving against a clear blue sky in Doha, Qatar, symbolizing unity and diversity."
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "34086087"
+pexelsId: "14676984"
 ---
 
 In Dubai, two saved minutes are never just two minutes.

@@ -6,9 +6,9 @@ author: "Tara Khanna"
 date: 2026-05-21
 publishedTime: "13:53 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/11682403/pexels-photo-11682403.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Empty European Parliament auditorium in Brussels, Belgium."
-pexelsId: "11682403"
+image: "https://images.pexels.com/photos/22481608/pexels-photo-22481608.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A bustling promenade at Istanbul harbor filled with people walking and a ship docked nearby."
+pexelsId: "22481608"
 tags: ["International", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

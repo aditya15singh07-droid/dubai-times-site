@@ -6,11 +6,11 @@ author: "Rian Kapoor"
 date: 2026-05-17
 publishedTime: "21:35 GST"
 watchLine: "Watch whether Nuwat Dubai turns family support from event activity into regular, trusted community help."
-image: "https://images.pexels.com/photos/20627327/pexels-photo-20627327.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Stunning view of iconic Chicago skyscrapers under a cloudy sky."
+image: "https://images.pexels.com/photos/7706394/pexels-photo-7706394.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Upward view of sleek modern skyscrapers under a clear sky, showcasing architectural elegance in Warsaw."
 tags: ["Real Estate", "Dubai Time"]
 draft: false
-pexelsId: "20627327"
+pexelsId: "7706394"
 ---
 
 Cities love talking about growth. Families know whether that growth feels liveable.

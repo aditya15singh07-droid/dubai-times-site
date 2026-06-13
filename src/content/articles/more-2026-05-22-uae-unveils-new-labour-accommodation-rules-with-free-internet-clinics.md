@@ -6,11 +6,11 @@ author: "Ishaan Vora"
 date: 2026-05-22
 publishedTime: "15:36 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/6129119/pexels-photo-6129119.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A doctor in a white lab coat checks his wristwatch in a hospital hallway, conveying professionalism."
+image: "https://images.pexels.com/photos/6129231/pexels-photo-6129231.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Close-up of a healthcare worker wearing a mask and stethoscope, seated indoors."
 tags: ["Health", "Latest", "Dubai Time", "UAE"]
 draft: false
-pexelsId: "6129119"
+pexelsId: "6129231"
 ---
 
 Health stories become important when they leave the conference room and enter a clinic, a pharmacy or a family WhatsApp group.

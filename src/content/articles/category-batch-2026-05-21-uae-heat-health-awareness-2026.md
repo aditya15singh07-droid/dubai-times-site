@@ -6,9 +6,9 @@ author: "Ishaan Vora"
 date: 2026-05-21
 publishedTime: "13:56 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/4989144/pexels-photo-4989144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Side profile of a doctor in a medical gown holding a folder with a stethoscope around the neck."
-pexelsId: "4989144"
+image: "https://images.pexels.com/photos/4989132/pexels-photo-4989132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A focused doctor takes notes on a clipboard while wearing a medical gown and stethoscope."
+pexelsId: "4989132"
 tags: ["Health", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

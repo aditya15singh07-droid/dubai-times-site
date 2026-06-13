@@ -4,11 +4,11 @@ description: "Iran expect a decision this week on US visas for their World Cup s
 category: "Sport"
 author: "Aarav Mehta"
 date: 2026-05-30
-image: "https://images.pexels.com/photos/29811411/pexels-photo-29811411.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A soccer team gathers in a huddle for motivation before a match, fostering teamwork and unity."
+image: "https://images.pexels.com/photos/3361471/pexels-photo-3361471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Energetic soccer game with players on a grassy field in India, showcasing teamwork and sportsmanship."
 tags: ["Iran", "FIFA World Cup 2026", "Football", "US Visas", "Mexico", "Los Angeles", "Seattle", "Middle East Sport"]
 draft: false
-pexelsId: "29811411"
+pexelsId: "3361471"
 ---
 
 A footballer can train for years for one summer. Then a visa stamp can decide whether he reaches the pitch.

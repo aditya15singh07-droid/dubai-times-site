@@ -4,11 +4,11 @@ description: "Virat Kohli hit an unbeaten 75 and sealed Royal Challengers Bengal
 category: "Sport"
 author: "Vihaan Rao"
 date: 2026-06-01
-image: "https://images.pexels.com/photos/29920213/pexels-photo-29920213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Action shot of soccer players competing on a lush green field outdoors."
+image: "https://images.pexels.com/photos/9367717/pexels-photo-9367717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "An amateur soccer player in yellow jersey kicks a ball on a grassy field during the day."
 tags: ["Virat Kohli", "IPL 2026", "Royal Challengers Bengaluru", "Gujarat Titans", "Cricket", "Indian Premier League", "Ahmedabad"]
 draft: false
-pexelsId: "29920213"
+pexelsId: "9367717"
 ---
 
 Some cricket moments do not need a long explanation. A full stadium, a familiar name on its feet, and Virat Kohli sending the ball over the rope to finish a final.

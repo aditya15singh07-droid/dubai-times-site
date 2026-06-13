@@ -5,11 +5,11 @@ category: "International"
 author: "Ishaan Vora"
 date: 2026-05-17
 watchLine: "Watch future official language for signs that cooperation remains formal, public-facing and carefully bounded."
-image: "https://images.pexels.com/photos/30110942/pexels-photo-30110942.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A row of international flags waving under a clear blue sky in Paris, France."
+image: "https://images.pexels.com/photos/26560423/pexels-photo-26560423.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A row of international flags on flagpoles symbolizing global unity and diplomacy."
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "30110942"
+pexelsId: "26560423"
 ---
 
 Diplomacy often lives in careful wording. One denial, one phrase, one official line can do a lot of work.

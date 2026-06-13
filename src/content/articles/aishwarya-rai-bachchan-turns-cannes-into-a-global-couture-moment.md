@@ -4,11 +4,11 @@ description: "Aishwarya Rai Bachchan made three high-impact appearances at the 7
 category: "Entertainment"
 author: "Zoya Malhotra"
 date: 2026-05-25
-image: "https://images.pexels.com/photos/22604116/pexels-photo-22604116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Lively audience with raised arms and cheerful expressions at an outdoor music concert at night."
+image: "https://images.pexels.com/photos/30497160/pexels-photo-30497160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Energetic crowd enjoying a live concert under bright stage lights in Guwahati, India."
 tags: ["Aishwarya Rai Bachchan", "Cannes Film Festival", "Bollywood", "Indian Fashion", "Red Carpet", "Luxury Fashion", "Entertainment"]
 draft: false
-pexelsId: "22604116"
+pexelsId: "30497160"
 ---
 
 Aishwarya Rai Bachchan did not need the full Cannes fortnight to own the conversation.

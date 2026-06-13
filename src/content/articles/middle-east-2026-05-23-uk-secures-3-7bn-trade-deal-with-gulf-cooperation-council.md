@@ -6,11 +6,11 @@ author: "Arjun Malhotra"
 date: 2026-05-23
 publishedTime: "10:56 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/7433851/pexels-photo-7433851.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Colleagues discussing documents in a corporate office meeting."
+image: "https://images.pexels.com/photos/8123789/pexels-photo-8123789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Elderly professionals collaborate in a meeting, discussing documents on a wooden table."
 tags: ["Business","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "7433851"
+pexelsId: "8123789"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the gulf trade opening deserves a closer read across the Middle East today.
 

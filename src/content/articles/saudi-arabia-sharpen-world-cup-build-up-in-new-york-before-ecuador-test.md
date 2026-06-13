@@ -4,11 +4,11 @@ description: "Saudi Arabia trained in New York before a friendly against Ecuador
 category: "Sport"
 author: "Naina Batra"
 date: 2026-05-30
-image: "https://images.pexels.com/photos/3361471/pexels-photo-3361471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Energetic soccer game with players on a grassy field in India, showcasing teamwork and sportsmanship."
+image: "https://images.pexels.com/photos/13241581/pexels-photo-13241581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Dynamic soccer match showcasing skillful plays on a sunny day in Mendoza, Argentina."
 tags: ["Saudi Arabia", "Football", "FIFA World Cup 2026", "Ecuador", "Gulf Sport", "Middle East Football"]
 draft: false
-pexelsId: "3361471"
+pexelsId: "13241581"
 ---
 
 A World Cup campaign often begins far from the stadium lights.

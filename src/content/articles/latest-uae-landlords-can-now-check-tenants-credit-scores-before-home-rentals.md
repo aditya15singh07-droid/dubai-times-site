@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-19
 publishedTime: "15:12 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/36756966/pexels-photo-36756966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A stunning view of modern skyscrapers at twilight with reflective glass surfaces."
+image: "https://images.pexels.com/photos/17477516/pexels-photo-17477516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Panama City skyline under clear blue sky, viewed from waterfront showing iconic skyscrapers."
 tags: ["Real Estate", "Dubai Time"]
 draft: false
-pexelsId: "36756966"
+pexelsId: "17477516"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

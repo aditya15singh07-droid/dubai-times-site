@@ -6,9 +6,9 @@ author: "Ishaan Vora"
 date: 2026-05-21
 publishedTime: "14:39 GST"
 watchLine: "Watch the next official update, market response and public impact."
-image: "https://images.pexels.com/photos/4173250/pexels-photo-4173250.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Smiling ethnic female doctor in medical uniform with stethoscope and notebook talking on smartphone while standing in glass hospital corridor"
-pexelsId: "4173250"
+image: "https://images.pexels.com/photos/8413402/pexels-photo-8413402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Female doctor in a lab coat with stethoscope, pondering while looking out a window."
+pexelsId: "8413402"
 tags: ["Health", "Fresh News", "Dubai Time", "UAE"]
 draft: false
 ---

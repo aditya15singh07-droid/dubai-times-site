@@ -4,11 +4,11 @@ description: "Hyperliquid is attracting institutional attention as its decentral
 category: "Crypto"
 author: "Rian Kapoor"
 date: 2026-05-31
-image: "https://images.pexels.com/photos/6771613/pexels-photo-6771613.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Close-up of Bitcoin coins on investment document promoting cryptocurrencies."
+image: "https://images.pexels.com/photos/6770611/pexels-photo-6770611.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Close-up of a computer screen displaying cryptocurrency market trends and data."
 tags: ["Hyperliquid", "DeFi", "Crypto", "HYPE token", "Perpetual futures", "Blockchain", "Dubai crypto", "UAE investors", "Digital assets"]
 draft: false
-pexelsId: "6771613"
+pexelsId: "6770611"
 ---
 
 For many crypto traders, the dream is simple: trade like a professional, keep control of your coins, and avoid the risks of a centralised exchange.

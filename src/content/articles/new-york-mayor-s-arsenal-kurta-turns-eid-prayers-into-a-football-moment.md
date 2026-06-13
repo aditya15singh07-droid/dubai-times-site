@@ -4,11 +4,11 @@ description: "New York City Mayor Zohran Mamdani wore an Arsenal-themed kurta fo
 category: "Sport"
 author: "Mira Sethi"
 date: 2026-05-29
-image: "https://images.pexels.com/photos/28829501/pexels-photo-28829501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Exciting soccer match captured during day at a modern stadium."
+image: "https://images.pexels.com/photos/26546641/pexels-photo-26546641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Boys playing youth soccer on a sunny day, wearing uniforms on a green field."
 tags: ["Arsenal", "Eid Al-Adha", "Zohran Mamdani", "New York", "Premier League", "FIFA World Cup", "Football"]
 draft: false
-pexelsId: "28829501"
+pexelsId: "26546641"
 ---
 
 A football shirt can say plenty. A kurta at Eid prayers can say even more.

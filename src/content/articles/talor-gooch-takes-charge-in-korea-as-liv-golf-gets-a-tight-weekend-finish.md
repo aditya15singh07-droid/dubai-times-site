@@ -4,11 +4,11 @@ description: "Talor Gooch shot a 7-under 63 in Busan to lead LIV Golf Korea by o
 category: "Sport"
 author: "Samaira Qureshi"
 date: 2026-05-30
-image: "https://images.pexels.com/photos/12917757/pexels-photo-12917757.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Action-packed soccer game with players in motion on a sunlit field, showcasing competitive spirit."
+image: "https://images.pexels.com/photos/28829501/pexels-photo-28829501.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Exciting soccer match captured during day at a modern stadium."
 tags: ["Talor Gooch", "LIV Golf Korea", "Bryson DeChambeau", "Busan", "Golf", "Cameron Smith", "Joaquin Niemann", "Sergio Garcia", "Sport"]
 draft: false
-pexelsId: "12917757"
+pexelsId: "28829501"
 ---
 
 Talor Gooch did not arrive in Korea looking like a man in complete command of his game. By Friday evening in Busan, he looked like the man everyone else had to chase.

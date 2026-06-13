@@ -5,11 +5,11 @@ category: "Business"
 author: "Kabir Anand"
 date: 2026-05-17
 watchLine: "Watch whether offtake agreements and industrial funds become factories, jobs, supply contracts and exportable products."
-image: "https://images.pexels.com/photos/5668523/pexels-photo-5668523.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Concentrated coworkers gathering at table with gadgets and documents during meeting and discussing details of business project"
+image: "https://images.pexels.com/photos/5673475/pexels-photo-5673475.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Crop anonymous multiethnic coworkers in elegant outfit shaking hands at table with tablet and documents in office"
 tags: ["Business", "Dubai Time"]
 draft: false
-pexelsId: "5668523"
+pexelsId: "5673475"
 ---
 
 Industrial policy becomes real only when machines run and people get hired.

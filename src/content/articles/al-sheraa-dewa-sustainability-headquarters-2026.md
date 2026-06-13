@@ -6,11 +6,11 @@ author: "Samaira Qureshi"
 date: 2026-05-17
 publishedTime: "19:25 GST"
 watchLine: "Watch whether Al Shera'a becomes a practical benchmark for future public buildings, not only a landmark launch."
-image: "https://images.pexels.com/photos/5711027/pexels-photo-5711027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A diverse group of adults participate in a support group meeting indoors."
+image: "https://images.pexels.com/photos/34010173/pexels-photo-34010173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A diverse group of young adults in business attire taking a selfie with a cityscape background."
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "5711027"
+pexelsId: "34010173"
 ---
 
 A government office usually does not make people stop and look twice.

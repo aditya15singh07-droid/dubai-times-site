@@ -6,11 +6,11 @@ author: "Naina Batra"
 date: 2026-05-19
 publishedTime: "15:55 GST"
 watchLine: "Watch the official follow-up, public response and practical impact."
-image: "https://images.pexels.com/photos/5686086/pexels-photo-5686086.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Multicultural team discusses business strategy in a modern office setting."
+image: "https://images.pexels.com/photos/5711027/pexels-photo-5711027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A diverse group of adults participate in a support group meeting indoors."
 tags: ["International", "Dubai Time"]
 draft: false
-pexelsId: "5686086"
+pexelsId: "5711027"
 ---
 
 The headline sounds like one more update in a fast news cycle. It is more useful to read it as a signal.

@@ -6,9 +6,9 @@ author: "Tara Khanna"
 date: 2026-05-21
 publishedTime: "13:50 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/6950186/pexels-photo-6950186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Confident woman speaker at podium with EU flag, delivering a speech indoors."
-pexelsId: "6950186"
+image: "https://images.pexels.com/photos/5686111/pexels-photo-5686111.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Diverse team engaged in a collaborative meeting in a modern office setting, sharing ideas and working together."
+pexelsId: "5686111"
 tags: ["International", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

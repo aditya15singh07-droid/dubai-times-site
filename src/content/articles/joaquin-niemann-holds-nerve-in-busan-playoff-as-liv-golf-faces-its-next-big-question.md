@@ -4,10 +4,11 @@ description: "Joaquin Niemann beat Talor Gooch in a playoff to win LIV Golf Kore
 category: "Sport"
 author: "Naina Batra"
 date: 2026-06-01
-image: "https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=1400&q=80"
-imageAlt: "Joaquin Niemann Holds Nerve In Busan Playoff As LIV Golf Faces Its Next Big Question"
+image: "https://images.pexels.com/photos/20254633/pexels-photo-20254633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Energetic football match with players in orange and white, vibrant stadium backdrop."
 tags: ["Joaquin Niemann", "LIV Golf Korea", "Talor Gooch", "Bryson DeChambeau", "Golf", "Busan", "Saudi PIF", "Sport Business"]
 draft: false
+pexelsId: "20254633"
 ---
 
 Some wins are built over four rounds. Some are decided in one racing heartbeat.

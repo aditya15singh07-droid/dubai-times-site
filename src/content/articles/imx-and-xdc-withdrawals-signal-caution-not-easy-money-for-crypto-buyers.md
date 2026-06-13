@@ -4,11 +4,11 @@ description: "Large one-day withdrawals of IMX and XDC from exchanges have caugh
 category: "Crypto"
 author: "Devika Shah"
 date: 2026-05-28
-image: "https://images.pexels.com/photos/8370391/pexels-photo-8370391.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Digital currency coins on a paper chart, showcasing financial growth insights."
+image: "https://images.pexels.com/photos/8358144/pexels-photo-8358144.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Smartphone displaying cryptocurrency market data alongside blockchain concept elements."
 tags: ["IMX", "XDC", "Crypto", "Altcoins", "Blockchain Gaming", "Tokenisation", "Digital Assets", "Exchange Withdrawals", "Indian Investors", "UAE Crypto"]
 draft: false
-pexelsId: "8370391"
+pexelsId: "8358144"
 ---
 
 A crypto token leaving an exchange can look like a small technical detail. For traders, it can feel like a clue.

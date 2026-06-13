@@ -4,11 +4,11 @@ description: "Two footballers and a betting agent have been jailed in Hong Kong 
 category: "Sport"
 author: "Vihaan Rao"
 date: 2026-05-31
-image: "https://images.pexels.com/photos/12783685/pexels-photo-12783685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Amateur soccer players compete on an urban field in Venezuela, showcasing teamwork and athleticism."
+image: "https://images.pexels.com/photos/32266319/pexels-photo-32266319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Energetic soccer match with young athletes in action on a bright and sunny day outdoors."
 tags: ["Hong Kong football", "match-fixing", "Asian football", "sports betting", "football integrity", "Gulf sport", "illegal gambling"]
 draft: false
-pexelsId: "12783685"
+pexelsId: "32266319"
 ---
 
 A football match can survive a bad referee call, a missed penalty, even a poor pitch. It cannot survive doubt.

@@ -6,11 +6,11 @@ author: "Samaira Qureshi"
 date: 2026-05-17
 publishedTime: "14:20 GST"
 watchLine: "Track peak-hour travel times and whether Deira, Dubai Islands and Port Rashid market the connectivity gain."
-image: "https://images.pexels.com/photos/14295949/pexels-photo-14295949.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A breathtaking view of a modern city skyline with towering skyscrapers under a cloudy sky."
+image: "https://images.pexels.com/photos/15057881/pexels-photo-15057881.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Captivating view of New York City skyscrapers under a bright blue sky, highlighting modern architecture."
 tags: ["Middle East", "Dubai Time"]
 draft: false
-pexelsId: "14295949"
+pexelsId: "15057881"
 ---
 
 A tunnel changes more than traffic. It changes how people feel about a district.

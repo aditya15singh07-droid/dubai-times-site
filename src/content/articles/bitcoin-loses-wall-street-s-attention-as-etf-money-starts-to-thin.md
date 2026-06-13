@@ -4,11 +4,11 @@ description: "Bitcoin, ether, XRP and dogecoin are lagging even as US stocks ral
 category: "Crypto"
 author: "Kabir Anand"
 date: 2026-05-31
-image: "https://images.pexels.com/photos/6771242/pexels-photo-6771242.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Close-up of a laptop displaying stock market graphs with a paper on investing in cryptocurrency, indoors."
+image: "https://images.pexels.com/photos/7267602/pexels-photo-7267602.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A seamless pattern of various cryptocurrency coins in gold and silver tones."
 tags: ["Bitcoin", "Crypto", "ETF", "Ether", "Wall Street", "Dogecoin", "XRP", "Gulf Investors"]
 draft: false
-pexelsId: "6771242"
+pexelsId: "7267602"
 ---
 
 The strange thing about this crypto moment is not that prices are weak. It is that they are weak while Wall Street is smiling.

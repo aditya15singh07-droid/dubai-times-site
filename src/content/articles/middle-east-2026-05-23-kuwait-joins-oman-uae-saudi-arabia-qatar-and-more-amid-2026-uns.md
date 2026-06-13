@@ -6,11 +6,11 @@ author: "Dev Khanna"
 date: 2026-05-23
 publishedTime: "09:00 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/3945233/pexels-photo-3945233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Explore the vibrant Chengdu skyline at night showcasing urban architecture and city lights."
+image: "https://images.pexels.com/photos/17071355/pexels-photo-17071355.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Silhouetted skyscrapers create a dramatic sunset skyline in a modern cityscape."
 tags: ["Middle East","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "3945233"
+pexelsId: "17071355"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why kuwait joins oman uae saudi arabia qatar deserves a closer read across the Middle East today.
 

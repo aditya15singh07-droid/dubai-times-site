@@ -4,11 +4,11 @@ description: "A Kurdish-language AI-generated song has become a global social me
 category: "Entertainment"
 author: "Samaira Qureshi"
 date: 2026-05-25
-image: "https://images.pexels.com/photos/36675302/pexels-photo-36675302.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A dynamic concert scene with a large crowd enjoying vibrant stage lighting and a lively atmosphere."
+image: "https://images.pexels.com/photos/22604116/pexels-photo-22604116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Lively audience with raised arms and cheerful expressions at an outdoor music concert at night."
 tags: ["AI music", "Kurdish culture", "TikTok", "Instagram", "Global entertainment", "Digital culture"]
 draft: false
-pexelsId: "36675302"
+pexelsId: "22604116"
 ---
 
 A love song in Kurdish is suddenly everywhere online. Not from a stadium concert. Not from a famous pop star. From artificial intelligence.

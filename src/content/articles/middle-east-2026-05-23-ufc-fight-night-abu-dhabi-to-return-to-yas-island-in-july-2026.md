@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-23
 publishedTime: "12:40 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/9535727/pexels-photo-9535727.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Intense soccer match with players in action on a sunny day outdoors."
+image: "https://images.pexels.com/photos/28887311/pexels-photo-28887311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Youth soccer match on a sunny day, players engaged in action on green grass field."
 tags: ["Sport","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "9535727"
+pexelsId: "28887311"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why the gulf sports calendar deserves a closer read across the Middle East today.
 

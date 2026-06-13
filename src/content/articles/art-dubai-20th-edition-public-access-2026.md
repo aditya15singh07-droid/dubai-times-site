@@ -5,11 +5,11 @@ category: "Entertainment"
 author: "Zoya Malhotra"
 date: 2026-05-18
 watchLine: "Watch whether free access widens local participation and whether Dubai converts cultural prestige into repeat public engagement."
-image: "https://images.pexels.com/photos/22555264/pexels-photo-22555264.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A packed indoor concert with audience lights creating a stunning visual display."
+image: "https://images.pexels.com/photos/12265693/pexels-photo-12265693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Energetic live music performance with crowd cheering under dramatic lighting."
 tags: ["Entertainment", "Dubai Time"]
 draft: false
-pexelsId: "22555264"
+pexelsId: "12265693"
 ---
 
 Art fairs often have a reputation problem.

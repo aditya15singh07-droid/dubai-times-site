@@ -5,11 +5,11 @@ category: "Middle East"
 author: "Myra D Souza"
 date: 2026-05-18
 watchLine: "Watch whether the Digital Twin project starts changing flood planning, maintenance cycles and waterfront development decisions."
-image: "https://images.pexels.com/photos/36024141/pexels-photo-36024141.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Breathtaking view of Hong Kong skyscrapers silhouetted against a vibrant twilight sky."
+image: "https://images.pexels.com/photos/38079320/pexels-photo-38079320.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Monochrome view of modern skyscrapers in Rotterdam, Netherlands."
 tags: ["Middle East", "Dubai Time"]
 draft: false
-pexelsId: "36024141"
+pexelsId: "38079320"
 ---
 
 Most people notice city technology only when it is visible.

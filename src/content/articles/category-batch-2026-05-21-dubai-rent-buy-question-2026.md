@@ -6,9 +6,9 @@ author: "Zoya Malhotra"
 date: 2026-05-21
 publishedTime: "13:50 GST"
 watchLine: "Watch how residents, businesses and public systems respond over the next few weeks."
-image: "https://images.pexels.com/photos/11248213/pexels-photo-11248213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Stunning black and white New York City skyline featuring skyscrapers and urban architecture."
-pexelsId: "11248213"
+image: "https://images.pexels.com/photos/12343402/pexels-photo-12343402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Scenic Singapore city skyline at dusk featuring modern skyscrapers and urban architecture."
+pexelsId: "12343402"
 tags: ["Real Estate", "Dubai Time", "UAE", "2026"]
 draft: false
 ---

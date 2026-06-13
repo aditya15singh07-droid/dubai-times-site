@@ -4,11 +4,11 @@ description: "Dubai and Abu Dhabi office rents rose sharply in Q1 2026 as compan
 category: "Real Estate"
 author: "Samaira Qureshi"
 date: 2026-05-26
-image: "https://images.pexels.com/photos/15480506/pexels-photo-15480506.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Dazzling night view of Singapore's illuminated skyline reflecting on water, showcasing modern skyscrapers."
+image: "https://images.pexels.com/photos/18341554/pexels-photo-18341554.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Stunning view of Dubai's skyline at twilight featuring the iconic Burj Khalifa."
 tags: ["UAE real estate", "Dubai office rents", "Abu Dhabi property", "Commercial real estate", "Retail leasing", "Gulf business", "Indian investors"]
 draft: false
-pexelsId: "15480506"
+pexelsId: "18341554"
 ---
 
 A good office address in Dubai is starting to feel like a business advantage again.

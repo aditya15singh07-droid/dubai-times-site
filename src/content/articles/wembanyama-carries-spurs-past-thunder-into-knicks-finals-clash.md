@@ -4,11 +4,11 @@ description: "San Antonio beat defending champions Oklahoma City 111-103 in Game
 category: "Sport"
 author: "Kian Oberoi"
 date: 2026-06-01
-image: "https://images.pexels.com/photos/9367717/pexels-photo-9367717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "An amateur soccer player in yellow jersey kicks a ball on a grassy field during the day."
+image: "https://images.pexels.com/photos/12783685/pexels-photo-12783685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Amateur soccer players compete on an urban field in Venezuela, showcasing teamwork and athleticism."
 tags: ["NBA", "San Antonio Spurs", "Victor Wembanyama", "New York Knicks", "Oklahoma City Thunder", "Basketball", "Sport"]
 draft: false
-pexelsId: "9367717"
+pexelsId: "12783685"
 ---
 
 Victor Wembanyama smiled like a man who had just moved the league’s future closer to the present.

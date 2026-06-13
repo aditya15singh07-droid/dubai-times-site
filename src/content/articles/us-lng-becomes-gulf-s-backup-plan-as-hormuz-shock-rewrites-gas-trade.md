@@ -4,11 +4,11 @@ description: "Gulf energy investors are deepening bets on US LNG as the Strait o
 category: "International"
 author: "Kian Oberoi"
 date: 2026-05-28
-image: "https://images.pexels.com/photos/3184306/pexels-photo-3184306.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Overhead view of colleagues in a work meeting using laptops and tablets, emphasizing teamwork and technology."
+image: "https://images.pexels.com/photos/15965251/pexels-photo-15965251.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A vibrant collection of international flags in a cityscape setting, symbolizing global unity."
 tags: ["LNG", "Strait of Hormuz", "Gulf Energy", "US Energy", "QatarEnergy", "UAE", "Asian Markets", "Gas Prices"]
 draft: false
-pexelsId: "3184306"
+pexelsId: "15965251"
 ---
 
 For years, Gulf energy giants treated US gas projects as smart diversification. Now, those bets look like insurance.

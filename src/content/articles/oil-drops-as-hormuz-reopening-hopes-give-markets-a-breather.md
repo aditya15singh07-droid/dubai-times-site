@@ -4,11 +4,11 @@ description: "Oil prices fell sharply after reports of a possible US-Iran framew
 category: "International"
 author: "Rian Kapoor"
 date: 2026-05-28
-image: "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Diverse team collaborating in a meeting, showcasing teamwork and cooperation in a modern workplace."
+image: "https://images.pexels.com/photos/3184338/pexels-photo-3184338.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A diverse team of professionals having a meeting in a modern office setting, discussing business strategies."
 tags: ["Oil Prices", "Strait Of Hormuz", "Iran", "United States", "UAE", "Energy Markets", "Global Economy", "India", "Shipping", "Inflation"]
 draft: false
-pexelsId: "3184291"
+pexelsId: "3184338"
 ---
 
 A fall in oil prices sounds like market news. For Indian families, UAE workers, airlines and small traders, it can quickly become kitchen-table news.

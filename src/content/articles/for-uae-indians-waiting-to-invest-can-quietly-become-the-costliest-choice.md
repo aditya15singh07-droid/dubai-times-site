@@ -4,11 +4,11 @@ description: "Market fear often makes investors wait for calmer days. For UAE-ba
 category: "Business"
 author: "Anika Menon"
 date: 2026-05-28
-image: "https://images.pexels.com/photos/12885859/pexels-photo-12885859.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Three colleagues engage in a vibrant business meeting in a modern office setting."
+image: "https://images.pexels.com/photos/13801642/pexels-photo-13801642.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Two business professionals engage in lively conversation on an urban street, sharing insights."
 tags: ["UAE expats", "Indian investors", "personal finance", "retirement planning", "Dubai business", "investing", "inflation", "wealth planning"]
 draft: false
-pexelsId: "12885859"
+pexelsId: "13801642"
 ---
 
 The most expensive financial mistake often does not look dramatic at first.

@@ -4,11 +4,11 @@ description: "Paris Saint-Germain’s Champions League triumph over Arsenal spar
 category: "Sport"
 author: "Ishaan Vora"
 date: 2026-06-01
-image: "https://images.pexels.com/photos/32108866/pexels-photo-32108866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Players in blue and red compete intensely on a football field in France, capturing the spirit of the game."
+image: "https://images.pexels.com/photos/10031866/pexels-photo-10031866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Youth soccer player in green jersey on football field during match."
 tags: ["PSG", "Champions League", "Paris", "Arsenal", "France", "Football", "Sport", "Travel"]
 draft: false
-pexelsId: "32108866"
+pexelsId: "10031866"
 ---
 
 A football victory should end with songs, flags and strangers hugging in the street. In Paris, PSG’s biggest night ended with that joy, but also with sirens, smoke, injuries and hundreds of arrests.

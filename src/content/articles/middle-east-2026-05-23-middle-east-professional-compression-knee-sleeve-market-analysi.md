@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-23
 publishedTime: "14:40 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/6129444/pexels-photo-6129444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Doctor discusses health records with a patient in a clinical setting."
+image: "https://images.pexels.com/photos/6129049/pexels-photo-6129049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A male doctor wearing a face mask reviews an X-ray in a hospital room, focusing on patient diagnosis."
 tags: ["Health","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "6129444"
+pexelsId: "6129049"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why middle east professional compression knee sleeve market deserves a closer read across the Middle East today.
 

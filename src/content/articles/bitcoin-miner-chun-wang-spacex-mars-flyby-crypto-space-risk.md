@@ -4,11 +4,11 @@ description: "Crypto entrepreneur Chun Wang has been named for SpaceX’s planne
 category: "Crypto"
 author: "Zoya Malhotra"
 date: 2026-05-23
-image: "https://images.pexels.com/photos/5980599/pexels-photo-5980599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Close-up image of Bitcoin coins stacked on a laptop keyboard, symbolizing digital currency and blockchain technology."
+image: "https://images.pexels.com/photos/8919569/pexels-photo-8919569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Close-up of gold bitcoins on a laptop keyboard symbolizing digital currency and technology."
 tags: ["Bitcoin", "SpaceX", "Mars", "Chun Wang", "F2Pool", "Crypto", "Private Spaceflight", "Starship", "UAE Investors", "Gulf Business"]
 draft: false
-pexelsId: "5980599"
+pexelsId: "8919569"
 ---
 
 A Bitcoin fortune is now being aimed at Mars. That sounds like science fiction, but it also says something very real about today’s money.

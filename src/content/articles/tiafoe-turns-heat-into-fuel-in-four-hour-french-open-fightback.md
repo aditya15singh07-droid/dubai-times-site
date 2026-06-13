@@ -4,11 +4,11 @@ description: "Frances Tiafoe fought back from two sets down to beat Jaime Faria 
 category: "Sport"
 author: "Devika Shah"
 date: 2026-06-01
-image: "https://images.pexels.com/photos/20254633/pexels-photo-20254633.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Energetic football match with players in orange and white, vibrant stadium backdrop."
+image: "https://images.pexels.com/photos/27394486/pexels-photo-27394486.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Amateur soccer players in yellow uniforms and referee on the field after a match."
 tags: ["French Open", "Frances Tiafoe", "Tennis", "Grand Slam", "Sport"]
 draft: false
-pexelsId: "20254633"
+pexelsId: "27394486"
 ---
 
 At two sets down on clay, most tennis matches start feeling like a slow closing door.

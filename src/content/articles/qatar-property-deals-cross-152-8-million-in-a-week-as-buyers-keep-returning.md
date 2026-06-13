@@ -4,11 +4,11 @@ description: "Qatar recorded more than QAR558.8 million in property transactions
 category: "Real Estate"
 author: "Naina Batra"
 date: 2026-05-26
-image: "https://images.pexels.com/photos/15255744/pexels-photo-15255744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Silhouetted skyscrapers set against a vibrant sunset, depicting modern cityscape."
+image: "https://images.pexels.com/photos/7241063/pexels-photo-7241063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Elevated view of Hong Kong's modern skyscrapers and Victoria Harbor."
 tags: ["Qatar real estate", "Doha property", "Gulf property market", "Real estate investment", "Lusail", "The Pearl Island"]
 draft: false
-pexelsId: "15255744"
+pexelsId: "7241063"
 ---
 
 For families watching Gulf property prices from India, Qatar’s latest real estate numbers tell a simple story. Buyers are still turning up, and they are not only chasing luxury addresses.

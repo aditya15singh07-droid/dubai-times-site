@@ -6,11 +6,11 @@ author: "Ishaan Roy"
 date: 2026-05-23
 publishedTime: "15:44 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/8369829/pexels-photo-8369829.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Smartphone showing bitcoin price with a physical coin and text representing cryptocurrency investment."
+image: "https://images.pexels.com/photos/5980599/pexels-photo-5980599.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Close-up image of Bitcoin coins stacked on a laptop keyboard, symbolizing digital currency and blockchain technology."
 tags: ["Crypto","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "8369829"
+pexelsId: "5980599"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why kraken's dubai expansion deserves a closer read across the Middle East today.
 

@@ -4,11 +4,11 @@ description: "Paris Saint-Germain retained the Champions League after beating Ar
 category: "Sport"
 author: "Tara Khanna"
 date: 2026-06-01
-image: "https://images.pexels.com/photos/32266316/pexels-photo-32266316.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "Captured intense moment during a soccer match under clear skies."
+image: "https://images.pexels.com/photos/18799030/pexels-photo-18799030.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "A dynamic moment captured in a soccer match with players showcasing skills on a vibrant green field."
 tags: ["PSG", "Champions League", "Arsenal", "Paris", "Football", "European Football", "Sport", "France"]
 draft: false
-pexelsId: "32266316"
+pexelsId: "18799030"
 ---
 
 Paris should have woken up with only one story on its mind: football joy.

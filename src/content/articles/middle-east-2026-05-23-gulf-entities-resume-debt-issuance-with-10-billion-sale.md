@@ -6,11 +6,11 @@ author: "Vihaan Rao"
 date: 2026-05-23
 publishedTime: "10:28 GST"
 watchLine: "Watch the official follow-up, market reaction and everyday impact."
-image: "https://images.pexels.com/photos/7691697/pexels-photo-7691697.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-imageAlt: "A diverse group of professionals in a business meeting shaking hands and discussing financial charts."
+image: "https://images.pexels.com/photos/5668515/pexels-photo-5668515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "Diverse coworkers in formal wear sitting in workspace and shaking hands after successful business plan"
 tags: ["Business","Latest","Dubai Time","Middle East"]
 draft: false
-pexelsId: "7691697"
+pexelsId: "5668515"
 ---
 A headline can look distant until it reaches a family budget, a travel plan, a hospital queue or a small business counter. That is why gulf entities resume debt issuance with 10 billion deserves a closer read across the Middle East today.
 
